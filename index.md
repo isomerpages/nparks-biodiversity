@@ -10,7 +10,7 @@ sections:
       title: Festival of Biodiversity (25 & 26 Sept 21)
       background: /images/herobanner1.jpg
       button: View All Programmes
-      url: /festival-programmes/
+      url: /festival-programmes/activities
       key_highlights:
         - title: Activities
           description: ""
