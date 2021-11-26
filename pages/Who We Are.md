@@ -11,7 +11,8 @@ If you are interested to discover ways that you can contribute to conserving and
 
 Festival of Biodiversity kicks off this year on the 22 and 23 May at the Forest Discovery Centre @ OCBC Arboretum with various exciting booths and activities for you to take part in. For those who would wish to engage in the festivities from home, do check out some of the online activities to learn more on our natural heritage! Come join us and celebrate our Biodiversity this May!
 
-Date: 22 to 23 May 2021
+Date: **22 to 23 May 2021**
 
-Location: 5 Gallop Road, Singapore 258960. View location in [Google Map](https://www.google.com/maps/place/Forest+Discovery+Centre+@+OCBC+Arboretum+(Atbara)/@1.3137585,103.8106831,15z/data=!4m5!3m4!1s0x0:0xfc83a51f6bea3f9e!8m2!3d1.3137549!4d103.8107195).
+Location: **5 Gallop Road, Singapore 258960**. View location in [Google Map](https://www.google.com/maps/place/Forest+Discovery+Centre+@+OCBC+Arboretum+(Atbara)/@1.3137585,103.8106831,15z/data=!4m5!3m4!1s0x0:0xfc83a51f6bea3f9e!8m2!3d1.3137549!4d103.8107195).
+
 ![Alt text for image on Isomer site](/images/2021FOBLocation.png)
