@@ -1,5 +1,5 @@
 collections:
-  collection:
+  festival-programmes:
     output: true
     order:
       - Activities.md
