@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Festival of Biodiversity
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -32,3 +32,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
