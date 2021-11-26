@@ -3,6 +3,8 @@ title: Who We Are
 permalink: /page
 description: ""
 ---
+![Alt text for image on Isomer site](/images/herobanner.png)
+
 The Festival of Biodiversity is an annual event organised by the National Parks Board in collaboration with the Biodiversity Roundtable to celebrate Singapore's biodiversity. The Festival aims to create awareness and foster a sense of appreciation for our natural heritage.
 
 Since its initiation in 2012, the Festival has garnered the support of many biodiversity-related interest groups and Non-Governmental Organisations (NGOs). These groups play a crucial role in creating awareness about our island’s biodiversity and enthuse the public in being part of the various conservation efforts.
