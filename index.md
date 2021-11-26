@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Festival of Biodiversity
       background: /images/herobanner1.jpg
-      button: View All Events
+      button: View All Programmes
       url: /festival-programmes/
       key_highlights:
         - title: Activities
