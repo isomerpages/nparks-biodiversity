@@ -10,17 +10,17 @@ sections:
       title: Festival of Biodiversity
       background: /images/herobanner1.jpg
       button: View All Events
-      url: /contact-us/
+      url: /festival-programmes/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Activities
+          description: ""
+          url: /festival-programmes/activities
+        - title: Booths
+          description: ""
+          url: /festival-programmes/booths
+        - title: Workshops
+          description: ""
+          url: /festival-programmes/workshops
   - infobar:
       title: Infobar title
       subtitle: Subtitle
