@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Activities.md
-      - page.md
+      - Booths.md
