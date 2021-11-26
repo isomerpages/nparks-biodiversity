@@ -2,6 +2,6 @@ collections:
   festival-programmes:
     output: true
     order:
-      - Workshops.md
       - Activities.md
       - Booths.md
+      - Workshops.md
