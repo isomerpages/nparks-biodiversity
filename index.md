@@ -7,7 +7,7 @@ permalink: /
 notification: 2021 Festival of Bioversity is happening from 1 May to 31st May!
 sections:
   - hero:
-      title: Festival of Biodiversity (25 & 26 Sept 21)
+      title: "Festival of Biodiversity "
       background: /images/herobanner1.jpg
       button: View All Programmes
       url: /festival-programmes/activities
@@ -21,6 +21,7 @@ sections:
         - title: Workshops
           description: ""
           url: /festival-programmes/workshops
+      subtitle: 25 & 26 Sept 2021
   - infobar:
       title: Infobar title
       subtitle: Subtitle
