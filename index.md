@@ -4,13 +4,12 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 2021 Festival of Bioversity is happening from 1 May to 31st May!
 sections:
   - hero:
       title: Festival of Biodiversity
-      subtitle: Hero subtitle
       background: /images/herobanner.png
-      button: Contact Us
+      button: Events
       url: /contact-us/
       key_highlights:
         - title: Highlight A
