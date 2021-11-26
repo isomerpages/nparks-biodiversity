@@ -2,4 +2,5 @@ collections:
   collection:
     output: true
     order:
+      - Activities.md
       - page.md
