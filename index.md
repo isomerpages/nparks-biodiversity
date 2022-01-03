@@ -26,6 +26,8 @@ sections:
       title: Booths and Activities
       subtitle: Discover
       alt: Image alt text
+      url: /festival-programmes/activities
+      button: Explore
   - resources:
       title: Past Festivals
       subtitle: Check out
