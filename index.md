@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: Booths and Activities
       subtitle: Discover
-      alt: Image alt text
+      alt: Explore Booths and Activities
       url: /festival-programmes/activities
       button: Explore
       image: /images/exploreFobActivities.png
