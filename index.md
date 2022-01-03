@@ -22,12 +22,10 @@ sections:
           description: ""
           url: /festival-programmes/workshops
       subtitle: 25 & 26 Sept 2021
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Booths and Activities
+      subtitle: Discover
+      alt: Image alt text
   - resources:
       title: Past Festivals
       subtitle: Check out
