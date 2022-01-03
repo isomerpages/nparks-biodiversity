@@ -28,7 +28,7 @@ sections:
       alt: Explore Booths and Activities
       url: /festival-programmes/activities
       button: Explore
-      image: /images/exploreFobActivities.png
+      image: /images/exploreFobActivities_cropped.png
       description: Enjoy some quality time with your family while learning about our
         local biodiversity using materials you can find around your home.
   - resources:
