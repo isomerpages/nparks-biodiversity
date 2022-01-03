@@ -29,8 +29,8 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: Past Festivals
+      subtitle: Check out
       button: View More
   - infopic:
       url: https://www.nparks.gov.sg
