@@ -23,12 +23,14 @@ sections:
           url: /festival-programmes/workshops
       subtitle: 25 & 26 Sept 2021
   - infopic:
-      title: Booths and Activities
+      title: Stay Home Activities
       subtitle: Discover
       alt: Explore Booths and Activities
       url: /festival-programmes/activities
       button: Explore
       image: /images/exploreFobActivities.png
+      description: Enjoy some quality time with your family while learning about our
+        local biodiversity using materials you can find around your home.
   - resources:
       title: Past Festivals
       subtitle: Check out
