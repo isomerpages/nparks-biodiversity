@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Festival of Biodiversity
-description: Brief site description here
+description: Celebrating Singapore's Biodiversity
 image: /images/isomer-logo.svg
 permalink: /
 notification: 2021 Festival of Bioversity is happening from 1 May to 31st May!
@@ -33,3 +33,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
