@@ -4,7 +4,7 @@ title: Festival of Biodiversity
 description: Celebrating Singapore's Biodiversity
 image: /images/isomer-logo.svg
 permalink: /
-notification: 2021 Festival of Bioversity is happening from 1 May to 31st May!
+notification: ACRES have extended their showcase period until 26 Sept 21!
 sections:
   - hero:
       title: "Festival of Biodiversity "
@@ -33,4 +33,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
