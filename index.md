@@ -34,9 +34,12 @@ sections:
       button: View More
   - infopic:
       url: https://www.nparks.gov.sg
-      image: /images/nparkslogo.png
+      image: /images/exploreNParks.png
       alt: Image alt text
-      subtitle: Explore our other parks
-      title: National Parks
-      button: Check what's happening!
+      subtitle: Explore our parks
+      title: National  Parks Board
+      button: find out more
+      description: National Parks Board (NParks) of Singapore is the lead agency for
+        greenery, biodiversity conservation, and wildlife and animal health,
+        welfare and management.
 ---
