@@ -2,15 +2,15 @@ title: Festival of Biodiversity
 url: ""
 favicon: /images/favicon.ico
 colors:
-  primary-color: "#144d29"
+  primary-color: "#215732"
   secondary-color: "#ffcd00"
   media-colors:
     - title: media-color-one
-      color: "#43b02a"
+      color: "#7a9a01"
     - title: media-color-two
-      color: "#417505"
+      color: "#ff9e1b"
     - title: media-color-three
-      color: "#00838f"
+      color: "#ddcba4"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
