@@ -12,9 +12,9 @@ colors:
     - title: media-color-three
       color: "#ddcba4"
     - title: media-color-four
-      color: "#00838f"
+      color: "#ef3340"
     - title: media-color-five
-      color: "#00838f"
+      color: "#af272f"
 resources_name: resource
 description: Celebrating Singapore's Biodiversity
 permalink: none
