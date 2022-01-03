@@ -28,6 +28,7 @@ sections:
       alt: Image alt text
       url: /festival-programmes/activities
       button: Explore
+      image: /images/exploreFobActivities.png
   - resources:
       title: Past Festivals
       subtitle: Check out
