@@ -32,4 +32,9 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      description: View our Other Websites
+      url: https://www.nparks.gov.sg
+      image: /images/nparkslogo.png
+      alt: Image alt text
 ---
