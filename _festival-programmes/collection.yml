@@ -2,7 +2,6 @@ collections:
   festival-programmes:
     output: true
     order:
-      - Test images.md
       - Activities.md
       - Booths.md
       - Workshops.md
