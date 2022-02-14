@@ -18,7 +18,7 @@ sections:
         - title: Booths
           description: ""
           url: /festival-programmes/booths
-        - title: Workshops
+        - title: Webinar
           description: ""
           url: /festival-programmes/workshops
       subtitle: 25 & 26 Sept 2021
