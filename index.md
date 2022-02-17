@@ -4,24 +4,24 @@ title: Festival of Biodiversity
 description: Celebrating Singapore's Biodiversity
 image: /images/isomer-logo.svg
 permalink: /
-notification: ACRES have extended their showcase period until 26 Sept 21!
+notification: ""
 sections:
   - hero:
       title: "Festival of Biodiversity "
       background: /images/herobanner1.jpg
       button: About the Festival
-      url: /festival-programmes/activities
+      url: /about-the-festival
       key_highlights:
-        - title: Online Events
+        - title: Activities
           description: ""
           url: /festival-programmes/activities
         - title: Booths
           description: ""
           url: /festival-programmes/booths
-        - title: Webinar
+        - title: Online Events
           description: ""
-          url: /festival-programmes/workshops
-      subtitle: 25 & 26 Sept 2021
+          url: /festival-programmes/online-events
+      subtitle: 21 & 22 May 2022
   - infopic:
       title: Stay Home Activities
       subtitle: Discover
