@@ -1,11 +1,11 @@
 logo: /images/nparksfoblogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Who We Are
-    url: /page/
+  - title: About the festival
+    url: /about-the-festival/
   - title: Festival Programmes
     collection: festival-programmes
+  - title: Contact us
+    url: /contact-us/
   - title: Stay Home Activities
     url: /permalink
   - title: Gallery
