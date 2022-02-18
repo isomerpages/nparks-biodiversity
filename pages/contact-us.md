@@ -9,7 +9,7 @@ locations:
       - Singapore Botanic Gardens
       - Singapore 259569
     operating_hours: []
-    maps_link: ""
+    maps_link: https://goo.gl/maps/Vrw5TkjUoSTyb6bAA
     title: NParks Headquarters
 contacts:
   - content:
@@ -17,9 +17,4 @@ contacts:
       - email: CIN@NParks.gov.sg
       - other: ""
     title: For Festival inquiries
-  - content:
-      - phone: ""
-      - email: ""
-      - other: "http://www.nparks.gov.sg/feedback "
-    title: For General  Feedback
 ---
