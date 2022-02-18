@@ -10,29 +10,22 @@ Subtitle: Fun for the whole family!
 Description: For those who love more hands-on activities, do check out these cute crafts for both parents and children. These crafts are a great way to introduce your kids to local biodiversity in a fun and engaging way, so download and print out our unique colouring sheets and fun crafts for a fun family activity!
 Table:
 
+
+| Craft             | Media |
+| -------- -----| -------- | 
+| Text    | Insert Media![](/images/ACRES%20image.jpg)|   
+
+
 Craft and Description
 Media (Images or Downloadables)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Tours
-*a*
+##### ***Experience our local biodiversity up close***
 
 Take a tour through one of our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene.
-Table:
 
-Date
-Event
-How to Register
+
+| Date |   Event      |     How to Register        |
+| -------- | -------- |  |
+| Text     | Text     | Text     |
+|Test|Test|Test|
