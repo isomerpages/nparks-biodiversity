@@ -2,6 +2,6 @@ collections:
   festival-programmes:
     output: true
     order:
-      - Online Events.md
-      - Booths.md
       - Activities.md
+      - Booths.md
+      - Online Events.md
