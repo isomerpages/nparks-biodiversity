@@ -3,8 +3,6 @@ title: Online Events
 permalink: /festival-programmes/online-events
 description: ""
 ---
-
-
 # **Webinars**
 
 NParks Spotlight – Understanding Our Local Biodiversity
