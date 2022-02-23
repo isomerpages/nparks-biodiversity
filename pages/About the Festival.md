@@ -14,6 +14,6 @@ This event celebrates Singapore's natural heritage and in doing so, we hope to b
 
 Date: **21 & 22 May 2022**
 
-Location: **5 Gallop Road, Singapore 258960**. View location in [Google Map](https://www.google.com/maps/place/Forest+Discovery+Centre+@+OCBC+Arboretum+(Atbara)/@1.3137585,103.8106831,15z/data=!4m5!3m4!1s0x0:0xfc83a51f6bea3f9e!8m2!3d1.3137549!4d103.8107195).
+Location: **5 Gallop Road, Singapore 258960**. View location in [Google Maps](https://www.google.com/maps/place/Forest+Discovery+Centre+@+OCBC+Arboretum+(Atbara)/@1.3137585,103.8106831,15z/data=!4m5!3m4!1s0x0:0xfc83a51f6bea3f9e!8m2!3d1.3137549!4d103.8107195).
 
 ![Alt text for image on Isomer site](/images/2021FOBLocation.png)
