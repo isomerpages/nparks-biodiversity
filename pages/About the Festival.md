@@ -16,4 +16,4 @@ Date: **21 & 22 May 2022**
 
 Location: **1 Cluny Rd, Singapore 259569**. View location in [Google Maps](https://goo.gl/maps/XU3Lzd968B6MY57M6).
 
-![Alt text for image on Isomer site](/images/2021FOBLocation.png)
+![Alt text for image on Isomer site](/images/2022FOBLocation.png)
