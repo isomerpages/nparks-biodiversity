@@ -18,7 +18,7 @@ For those who love more hands-on activities, do check out these cute crafts for 
 
 
 
-# Tours
+# Guided Walks
 ##### ***Experience our local biodiversity up close***
 
 Take a tour through one of our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene.
