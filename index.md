@@ -21,7 +21,8 @@ sections:
         - title: Online Events
           description: ""
           url: /festival-programmes/online-events
-      subtitle: 21 & 22 May 2022
+      subtitle: 21 & 22 May 2022 | 9am - 6pm    | Botany Centre, Singapore Botanic
+        Gardens
   - infopic:
       title: Stay Home Activities
       subtitle: Discover
