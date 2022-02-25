@@ -13,7 +13,7 @@ This event celebrates Singapore's natural heritage and in doing so, we hope to b
 
 
 Date: **21 & 22 May 2022**
-
+Venue: **Singapore Botanic Garden, Botany Centre**
 Location: **1 Cluny Rd, Singapore 259569**. View location in [Google Maps](https://goo.gl/maps/XU3Lzd968B6MY57M6).
 
-![Alt text for image on Isomer site](/images/2022FOBLocation.png)
+[Map of Botany Centre](/images/2022FOBLocation.png)
