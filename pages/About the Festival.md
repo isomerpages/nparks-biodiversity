@@ -12,8 +12,8 @@ Since its initiation, the Festival has garnered the support of many biodiversity
 This event celebrates Singapore's natural heritage and in doing so, we hope to bring about greater awareness of the biodiversity that Singapore has. Visitors can look forward to a range of online and on site activities for all ages at this year's Festival. 
 
 
-Date: **21 & 22 May 2022**
-Venue: **Singapore Botanic Garden, Botany Centre**
+Date: **21 & 22 May 2022**\
+Venue: **Singapore Botanic Garden, Botany Centre**\
 Location: **1 Cluny Rd, Singapore 259569**. View location in [Google Maps](https://goo.gl/maps/XU3Lzd968B6MY57M6).
 
 ![Map of Botany Centre](/images/2022FOBLocation.png)
