@@ -3,7 +3,7 @@ title: About the Festival
 permalink: /about-the-festival
 description: ""
 ---
-![Alt text for image on Isomer site](/images/fob.png)
+![Alt text for image on Isomer site](/images/FOBlogo.png)
 
 The Festival of Biodiversity is an annual event organised by the National Parks Board in collaboration with the Biodiversity Roundtable. Initiated in 2012, the Festival aims to create awareness and foster a sense of appreciation for our natural heritage.
 
