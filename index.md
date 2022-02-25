@@ -32,10 +32,6 @@ sections:
       image: /images/exploreFobActivities_cropped.png
       description: Enjoy some quality time with your family while learning about our
         local biodiversity using materials you can find around your home.
-  - resources:
-      title: Past Festivals
-      subtitle: Check out
-      button: View More
   - infopic:
       url: https://www.nparks.gov.sg
       image: /images/exploreNParks.png
