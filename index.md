@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: "Festival of Biodiversity "
-      background: /images/NParks_Background.jpg
+      background: /images/NParks_Background1.jpg
       button: About the Festival
       url: /about-the-festival
       key_highlights:
