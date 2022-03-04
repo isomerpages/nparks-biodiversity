@@ -26,10 +26,6 @@ For those who love more hands-on activities, do check out these cute crafts for 
 
 
 
-| Craft             | Media |
+| Worksheet             | Description |
 | -------- -----| -------- | 
-| Text    | Insert Media![](/images/ACRES%20image.jpg)|   
-
-
-
-
+|  Insert Media![](/images/ACRES%20image.jpg)   |Text |
