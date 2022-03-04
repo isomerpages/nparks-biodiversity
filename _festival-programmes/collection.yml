@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Activities/.keep
-      - Activities.md
       - Booths.md
       - Online Events.md
