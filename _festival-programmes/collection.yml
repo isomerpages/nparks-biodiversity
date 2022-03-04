@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Activities/.keep
-      - Activities/Activities.md
+      - Activities/Walks and Tours.md
       - Activities/Crafts.md
       - Online Events.md
