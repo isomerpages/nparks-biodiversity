@@ -4,8 +4,6 @@ permalink: /festival-programmes/walks-and-tours
 description: ""
 third_nav_title: Activities
 ---
-
-
 There are many engaging activities by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. Please check back regularly for more updates.
 
 --------------------------------------------
@@ -19,13 +17,3 @@ Take a tour through one of our many national parks for an engaging experience wi
 |Test|Test|Test|
 
 
-
------------------------------------
-# **Crafts**
-For those who love more hands-on activities, do check out these cute crafts for both parents and children. These crafts are a great way to introduce your kids to local biodiversity in a fun and engaging way, so download and print out our unique colouring sheets and fun crafts for a fun family activity!
-
-
-
-| Worksheet             | Description |
-| -------- -----| -------- | 
-|  Insert Media![](/images/ACRES%20image.jpg)   |Text |
