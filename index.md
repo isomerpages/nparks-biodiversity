@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Activities
           description: ""
-          url: /festival-programmes/activities
+          url: /festival-programmes/activities/walks-and-tours
         - title: Booths
           description: ""
           url: /festival-programmes/booths
