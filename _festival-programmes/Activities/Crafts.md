@@ -9,6 +9,8 @@ For those who love more hands-on activities, do check out these cute crafts for 
 
 
 
-| Worksheet             | Description |
+| Activity        | Downloadable PDF |
 | -------- -----| -------- | 
-|  [](/files/Crafts/Egg%20Carton%20Ants%20new.pdf) |Text |
+|Make an **Egg carton ant** family using recycled materials! | [Egg Carton Ants instructions](/files/Crafts/Egg%20Carton%20Ants%20new.pdf)|
+|
+
