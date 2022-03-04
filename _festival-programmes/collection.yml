@@ -4,5 +4,4 @@ collections:
     order:
       - Activities/Activities.md
       - Activities/.keep
-      - Booths.md
       - Online Events.md
