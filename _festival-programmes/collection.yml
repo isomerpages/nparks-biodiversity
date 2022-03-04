@@ -2,9 +2,9 @@ collections:
   festival-programmes:
     output: true
     order:
-      - Online Events/Past Webinars.md
-      - Online Events/Current Webinars.md
       - Online Events/.keep
+      - Online Events/Current Webinars.md
+      - Online Events/Past Webinars.md
       - Activities/.keep
       - Activities/Walks and Tours.md
       - Activities/Crafts.md
