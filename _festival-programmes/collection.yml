@@ -2,7 +2,6 @@ collections:
   festival-programmes:
     output: true
     order:
-      - Activities/Activities.md
       - Activities/.keep
       - Activities/Walks and Tours.md
       - Activities/Crafts.md
