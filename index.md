@@ -14,13 +14,13 @@ sections:
       key_highlights:
         - title: Activities
           description: ""
-          url: /festival-programmes/activities/walks-and-tours
+          url: /festival-programmes/walks-and-tours
         - title: Booths
           description: ""
           url: /festival-programmes/booths
         - title: Online Events
           description: ""
-          url: /festival-programmes/online-events
+          url: festival-programmes/current-webinars
       subtitle: 21 & 22 May 2022 |  Botany Centre, Singapore Botanic Gardens
   - infopic:
       title: Stay Home Activities
@@ -43,9 +43,11 @@ sections:
         welfare and management.
   - infopic:
       title: Find us here!
-      subtitle: NParks Headquarters
-      description: 1 Cluny Road Singapore Botanic Gardens Singapore 259569
+      subtitle: Contact us
+      description: NParks Headquarters, 1 Cluny Road, Singapore Botanic Gardens,
+        Singapore 259569
       button: Contact us
       alt: Image alt text
       url: /Contact
+      image: /images/SBG10_047alt.jpg
 ---
