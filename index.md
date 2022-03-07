@@ -41,4 +41,10 @@ sections:
       description: National Parks Board (NParks) of Singapore is the lead agency for
         greenery, biodiversity conservation, and wildlife and animal health,
         welfare and management.
+  - infopic:
+      title: Contact Us
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
