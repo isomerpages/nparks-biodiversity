@@ -20,17 +20,6 @@ Take a tour through one of our many national parks for an engaging experience wi
 |23 Apr 2022 10:00AM - 11:00AM|**Race Against Time - Science behind a Botanic Garden Tour** Find out about our scientific work behind the Singapore Botanic Garden in this 45-minute session. |In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/race-against-time-tour) for more information.|
 
 #### May 2022
-|  |         |     How to Register        |
-| -------- | -------- |  |
-|07 May 2022 09:00AM - 10:00AM|**Healing Garden Tour**  Join us for a tour through the Healing Garden, where we  showcase over 400 varieties of plants used medicinally. Spread over 2.5 hectares, this garden is designed as a tranquil retreat with medical plants traditionally used in Southeast Asia as the main focus.|In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/5/healing-garden-tour) for more information.
-||. |
-|||
-||    | 
-| ||
-|| |
-|||
-| ||
-|| |
 
 
 
