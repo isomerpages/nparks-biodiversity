@@ -36,7 +36,7 @@ sections:
       image: /images/exploreNParks.png
       alt: Image alt text
       subtitle: Explore our parks
-      title: National  Parks Board
+      title: National Parks Board
       button: find out more
       description: National Parks Board (NParks) of Singapore is the lead agency for
         greenery, biodiversity conservation, and wildlife and animal health,
