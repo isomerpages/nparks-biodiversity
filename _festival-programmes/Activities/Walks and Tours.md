@@ -32,4 +32,18 @@ Take a tour through one of our many national parks for an engaging experience wi
 |28 May 2022 09:00AM - 10:00AM |**Heritage Tour** A great introduction to the history of the Singapore Botanic Gardens in a 1-hour walking tour of Heritage Trail. Learn about the moments that lead to the boom of the rubber industry and how orchids are intertwined with Singapore.|In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/5/heritage-tour) for more information.
 |28 May 2022 10:00AM - 11:00AM|**Race Against Time - Science behind a Botanic Garden Tour** Find out about our scientific work behind the Singapore Botanic Garden in this 45-minute session. |In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/5/race-against-time-tour) for more information.
 
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+
+
+
 #### June 2022
