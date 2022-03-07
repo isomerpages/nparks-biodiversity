@@ -26,7 +26,7 @@ sections:
       title: Stay Home Activities
       subtitle: Discover
       alt: Explore Booths and Activities
-      url: /festival-programmes/crafts
+      url: festival-programmes/activities/crafts
       button: Explore
       image: /images/exploreFobActivities_cropped.png
       description: Enjoy some quality time with your family while learning about our
