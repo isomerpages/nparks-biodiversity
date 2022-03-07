@@ -47,7 +47,7 @@ sections:
       description: NParks Headquarters, 1 Cluny Road, Singapore Botanic Gardens,
         Singapore 259569
       button: Contact us
-      alt: Image alt text
+      alt: NParks Headquarters
       url: /Contact
       image: /images/SBG10_047alt.jpg
 ---
