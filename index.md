@@ -47,5 +47,5 @@ sections:
       description: 1 Cluny Road Singapore Botanic Gardens Singapore 259569
       button: Contact us
       alt: Image alt text
-      url: /ContactUs
+      url: /ContactUs/
 ---
