@@ -4,7 +4,6 @@ permalink: /festival-programmes/activities/walks-and-tours
 description: ""
 third_nav_title: Activities
 ---
-
 # **Walks and Tours**
 Take a tour through one of our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene. Please check back regularly for more updates.
 
@@ -12,7 +11,7 @@ Take a tour through one of our many national parks for an engaging experience wi
 
 | Date |   Event      |     How to Register        |
 | -------- | -------- |  |
-| 09 Apr 2022 09:00AM - 10:00AM    | **Learning Forest Tour** Attend our complimentary tour of The Learning Forest as we showcase its flora and fauna.    | In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/learning-forest-tour-2nd-sat) for more information. 
+| 09 Apr 2022 09:00am - 10:00am    | **Learning Forest Tour** Attend our complimentary tour of The Learning Forest as we showcase its flora and fauna.    | In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/learning-forest-tour-2nd-sat) for more information. 
 |09 Apr 2022 09:00AM - 16:00AM|**Rain Forest Tour**   Visit our 6-hectare original rain forest right here in the city centre of Singapore.|In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/rain-forest-tour) for more information.
 |16 Apr 2022 09:00AM - 10:30AM|**Tour of Gallop Extension** Join us for a guided walk through the Gallop Extension of the Singapore Botanic Gardens. Visit the OCBC Arboretum and a section of the Mingxin Foundation Rambler’s Ridge. |In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/gallop-tour-3rd-sat) for more information.
 |16 Apr 2022 09:00AM - 16:00PM|**Orchid Garden Tour** Spend an hour with our volunteer guides as they introduce how orchids are the largest flowering group of plants in the world. Visit the collection of hybrids and species that in collection of the National Orchid Garden.|In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/orchid-garden-tour) for more information.
