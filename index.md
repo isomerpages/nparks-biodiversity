@@ -14,13 +14,13 @@ sections:
       key_highlights:
         - title: Activities
           description: ""
-          url: /festival-programmes/activities/walks-and-tours
+          url: /festival-programmes/activities/
         - title: Booths
           description: ""
           url: /festival-programmes/booths
         - title: Online Events
           description: ""
-          url: festival-programmes/current-webinars
+          url: festival-programmes/online-events
       subtitle: 21 & 22 May 2022 |  Botany Centre, Singapore Botanic Gardens
   - infopic:
       title: Stay Home Activities
