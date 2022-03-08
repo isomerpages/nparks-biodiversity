@@ -2,6 +2,7 @@ collections:
   festival-programmes:
     output: true
     order:
+      - Activities/Example Title.md
       - Activities/.keep
       - Activities/Walks and Tours.md
       - Activities/Crafts.md
