@@ -2,7 +2,6 @@ collections:
   festival-programmes:
     output: true
     order:
-      - test page.md
       - Activities.md
       - Activities/Example Title.md
       - Activities/.keep
