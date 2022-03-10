@@ -34,7 +34,7 @@ sections:
   - infopic:
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes
       image: /images/COVER_Intertidal Watch.jpg
-      alt: Image alt text
+      alt: CIN
       subtitle: be a citizen scientist
       title: Citizen Science Programmes
       button: Find out more
