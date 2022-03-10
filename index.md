@@ -42,7 +42,7 @@ sections:
         greenery, biodiversity conservation, and wildlife and animal health,
         welfare and management.
   - infopic:
-      title: Find us here!
+      title: Biodiversity Week for Schools
       subtitle: Contact us
       description: NParks Headquarters, 1 Cluny Road, Singapore Botanic Gardens,
         Singapore 259569
