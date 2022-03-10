@@ -10,3 +10,4 @@ There are many engaging activities by NParks and our partners to encourage the c
 ##### [Walks and Tours](https://nparks-biodiversity-staging.netlify.app/festival-programmes/activities/walks-and-tours)
 Take a tour through one of our many national parks for an engaging experience with our local biodiversity.
 ##### [Crafts](https://nparks-biodiversity-staging.netlify.app/festival-programmes/activities/crafts)
+For those who love more hands-on activities, do check out these cute crafts for both parents and children.
