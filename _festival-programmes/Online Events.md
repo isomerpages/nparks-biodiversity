@@ -8,6 +8,4 @@ The Festival of Biodiversity this year features many Online Events, through a wi
 ### Navigate To:
 
 ##### [Current Webinars](https://nparks-biodiversity-staging.netlify.app/festival-programmes/Online-events/current-webinars)
-![](/images/Crafts/eggcartonant.png)
 ##### [Past Webinars](https://nparks-biodiversity-staging.netlify.app/festival-programmes/Online-events/past-webinars)
-![](/images/Crafts/eggcartonant.png)
