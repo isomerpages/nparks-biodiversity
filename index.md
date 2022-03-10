@@ -49,4 +49,5 @@ sections:
       button: Learn more
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/biodiversity-week-for-schools
       image: /images/Green Wave.jpg
+      alt: Green Wave
 ---
