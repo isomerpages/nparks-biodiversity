@@ -32,22 +32,21 @@ sections:
       description: Enjoy some quality time with your family while learning about our
         local biodiversity using materials you can find around your home.
   - infopic:
-      url: https://www.nparks.gov.sg
-      image: /images/exploreNParks.png
+      url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes
+      image: /images/COVER_Intertidal Watch.jpg
       alt: Image alt text
-      subtitle: Explore our parks
+      subtitle: be a citizen scientist
       title: Citizen Science Programmes
-      button: find out more
-      description: National Parks Board (NParks) of Singapore is the lead agency for
-        greenery, biodiversity conservation, and wildlife and animal health,
-        welfare and management.
+      button: Find out more
+      description: Find out more about these programmes, or register your interest to
+        become a citizen scientist today!
   - infopic:
       title: Biodiversity Week for Schools
-      subtitle: Contact us
-      description: NParks Headquarters, 1 Cluny Road, Singapore Botanic Gardens,
-        Singapore 259569
-      button: Contact us
-      alt: NParks Headquarters
-      url: /Contact
-      image: /images/SBG10_047alt.jpg
+      subtitle: what are our schools up to?
+      description: 22 May marks the International Day for Biological Diversity. To
+        commemorate this, NParks has organised Biodiversity Week for Schools,
+        from 16-22 may 2022.
+      button: Learn more
+      url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/biodiversity-week-for-schools
+      image: /images/Green Wave.jpg
 ---
