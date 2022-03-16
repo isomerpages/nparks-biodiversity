@@ -32,7 +32,7 @@ sections:
       url: festival-programmes/activities/walks-and-tours
       button: Explore
       image: /images/exploreNParks.png
-      description: Enjoy some outdoors quality time with your family while learning
+      description: Enjoy some quality time outdoors with your family while learning
         about our local biodiversity on our guided walks and tours.
   - infopic:
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes
