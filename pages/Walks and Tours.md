@@ -3,9 +3,7 @@ title: Walks and Tours
 permalink: /festival-programmes/Activities/walks-and-tours
 description: ""
 ---
-
-
-# **Walks and Tours**
+# **Outdoor Activities**
 Take a tour through one of our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene. Please check back regularly for more updates.
 
 #### April 2022
