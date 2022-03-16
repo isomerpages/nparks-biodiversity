@@ -23,14 +23,14 @@ sections:
           url: festival-programmes/online-events
       subtitle: 21 & 22 May 2022 |  Botany Centre, Singapore Botanic Gardens
   - infopic:
-      title: Stay Home Activities
+      title: Walks and Tours
       subtitle: Discover
       alt: Explore Booths and Activities
-      url: festival-programmes/activities/crafts
+      url: festival-programmes/activities/walks-and-tours
       button: Explore
-      image: /images/exploreFobActivities_cropped.png
-      description: Enjoy some quality time with your family while learning about our
-        local biodiversity using materials you can find around your home.
+      image: /images/exploreNParks.png
+      description: Enjoy some outdoors quality time with your family while learning
+        about our local biodiversity on our guided walks and tours.
   - infopic:
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes
       image: /images/COVER_Intertidal Watch.jpg
