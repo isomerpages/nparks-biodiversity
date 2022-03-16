@@ -2,6 +2,7 @@ collections:
   festival-programmes:
     output: true
     order:
+      - Children's Programmes.md
       - Activities.md
       - Booths.md
       - Online Events.md
