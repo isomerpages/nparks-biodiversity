@@ -5,6 +5,8 @@ description: ""
 ---
 # **Online Activities**
 
+Join us for a fun-filled, educational, session online with your children, where we will regale you with the tales of our wondrous biodiversity and how to protect it.
+
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
 | 23 Apr 2022 (Saturday) 10:00     | **Operation No Release: Home is Best** Pets are for life but what happens when the novelty of owning a pet wears off and caring for them becomes difficult? Children will be brought on a virtual journey to uncover the fate of poor animals that gets released into the wild. They will also take home important tips on how to be a responsible pet owner and what they can do to ensure the safety of all animals.    | Click [here](https://form.gov.sg/614190e036562a0012def0fb) to register. Register to be part of the Zoom session (limited slots).     | 
