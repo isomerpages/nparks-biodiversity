@@ -3,10 +3,10 @@ title: Outdoor Activities
 permalink: /festival-programmes/Activities
 description: ""
 ---
-# Outdoor Activities
+
 There are many engaging activities by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. You can better understand our City in Nature through  **Walks and Tours** led by experienced guides, or through **Workshops** that provide experiences you do not want to miss! Please check back regularly for more updates. 
 
-### **Workshops**
+# **Workshops**
 
 Learn more about how to care for our City in Nature and its flora and fauna through these workshops.
 
@@ -18,7 +18,7 @@ Learn more about how to care for our City in Nature and its flora and fauna thro
 
 
 
-### **Walks and Tours**
+# **Walks and Tours**
 Head out into our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene, through various tours and activities. Please check back regularly for more updates.
 
 #### April 2022
