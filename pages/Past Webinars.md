@@ -22,11 +22,3 @@ Learn more about what NParks has done to make Singapore a City in Nature with vi
 |**Revealing our Roots: Trees of Singapore**| Get to know more about the Trees of Singapore in this beautiful 8-part series! Learn more about existing conservation efforts through recounts by NParks staff and community leaders, and learn about the trees around Singapore through virtual tours through different habitats!|Click [here](https://go.gov.sg/revealingrootsplaylist) to watch this on the [NParksSG YouTube](https://www.youtube.com/nparkssg) channel.
 
 
-
-# **Storytelling Sessions**
-
-
-| Date | Event | How to Register |
-| -------- | -------- | -------- |
-| 25 Sep 2021 2pm to 3pm     | **Storytelling: Roly Poly Pangolin by Anna Dewdney.** Listen in to the adventures of Roly Poly the shy pangolin who rolled out of his ball to discover that the world isn’t such a scary place. Immerse yourself in rhyme and rhythm specially narrated by Moonbeam Award author and storyteller, Wei Teng. Suitable for ages between 5 to 7 years old. This online activity is brought to you by NParks Bukit Timah Nature Reserve Branch.     | Click [here](https://go.gov.sg/cnfob) to register. Register to be part of the Zoom session (limited slots).     | 
-26 Sep 2021 2pm to 3pm | **The ABCs of Bukit Timah Nature Reserve.** The forest is an amazing place to find all the letters in the alphabets. Let’s go on an adventure to uncover the hidden ABCs and learn about the amazing biodiversity in Singapore’s rainforest! This virtual workshop comprises of storytelling, craftwork and mini quizzes to spur children’s interest and love for nature. Suitable for ages between 5 to 7 years old. This online activity is brought to you by NParks Bukit Timah Nature Reserve Branch. | Click [here](https://go.gov.sg/cnfob) to register. Register to be part of the Zoom session (limited slots).     |
