@@ -3,9 +3,8 @@ title: Outdoor Activities
 permalink: /festival-programmes/Activities
 description: ""
 ---
-
-# Activities
-There are many engaging activities by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. You can better understand our City in Nature through  **Outdoor Activities** led by experienced guides, or through **Workshops** that provide experiences you do not want to miss! Please check back regularly for more updates. 
+# Outdoor Activities
+There are many engaging activities by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. You can better understand our City in Nature through  **Walks and Tours** led by experienced guides, or through **Workshops** that provide experiences you do not want to miss! Please check back regularly for more updates. 
 
 ### **Workshops**
 
@@ -19,7 +18,7 @@ Learn more about how to care for our City in Nature and its flora and fauna thro
 
 
 
-### **Outdoor Activities**
+### **Walks and Tours**
 Head out into our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene, through various tours and activities. Please check back regularly for more updates.
 
 #### April 2022
@@ -71,4 +70,3 @@ Head out into our many national parks for an engaging experience with our local 
 | 18 Jun 2022  09:30am - 11:30am   | **Rustic Reflection Tour** Join us on a walk to rediscover Pulau Ubin’s kampung heritage and journey through the island’s cultural, economic and natural history. On this 2.5 km walk, you will discover important historical landmarks, wildlife habitats and restored buildings that have defined life on the island. | Registration opens in May 2022. Look out for updates  [here](https://www.nparks.gov.sg/activities/events-and-workshops).     |
 | 19 Jun 2022  08:00am - 10:00am   | **Chek Jawa Wetland Tour** Join us for a tour to discover and learn about Chek Jawa's six ecosystems and the diverse array of animals that inhabits these unique habitats. | Registration opens in May 2022. Look out for updates  [here](https://www.nparks.gov.sg/activities/events-and-workshops).     |
 | 20 Jun 2022  09:00am - 11:00am   | **Chek Jawa Wetland Tour** Join us for a tour to discover and learn about Chek Jawa's six ecosystems and the diverse array of animals that inhabits these unique habitats. | Registration opens in May 2022. Look out for updates  [here](https://www.nparks.gov.sg/activities/events-and-workshops).     |
-
