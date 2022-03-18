@@ -3,7 +3,7 @@ title: Children's Programmes
 permalink: /festival-programmes/childrens-programmes
 description: ""
 ---
-# **Online Activities**
+# **Children's Online Activities**
 
 Join us for a fun-filled, educational, session online with your children, where we will regale you with the tales of our wondrous biodiversity and how to protect it.
 
