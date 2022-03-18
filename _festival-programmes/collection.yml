@@ -2,7 +2,7 @@ collections:
   festival-programmes:
     output: true
     order:
-      - Activities.md
+      - Outdoor Activities.md
       - Booths.md
       - Online Events.md
       - Children's Programmes.md
