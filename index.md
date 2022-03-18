@@ -23,24 +23,33 @@ sections:
           url: festival-programmes/online-events
         - title: Children's programmes
           description: ""
-          url: ""
+          url: /festival-programmes/childrens-programmes
       subtitle: 21 & 22 May 2022 |  Botany Centre, Singapore Botanic Gardens
   - infopic:
-      title: Walks and Tours
+      title: Activities
       subtitle: Discover
       alt: Explore Booths and Activities
-      url: festival-programmes/activities/walks-and-tours
+      url: festival-programmes/activities/
       button: Explore
       image: /images/exploreNParks.png
       description: Enjoy some quality time outdoors with your family while learning
-        about our local biodiversity on our guided walks and tours.
+        about our local biodiversity.
+  - infopic:
+      title: Children's Programmes
+      subtitle: Education
+      description: Join us online with your children to learn about native
+        biodiversity, or enjoy some stay-home bonding with our craft activities!
+      button: Find out more
+      url: /festival-programmes/childrens-programmes
+      image: /images/exploreFobActivities.png
+      alt: Image alt text
   - infopic:
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes
       image: /images/COVER_Intertidal Watch.jpg
       alt: CIN
       subtitle: be a citizen scientist
       title: Citizen Science Programmes
-      button: Find out more
+      button: Join us now
       description: Find out more about these programmes, or register your interest to
         become a citizen scientist today!
   - infopic:
