@@ -3,10 +3,12 @@ title: Children's Programmes
 permalink: /festival-programmes/childrens-programmes
 description: ""
 ---
-
 # **Online Activities**
 
-
+| Date | Event | How to Register |
+| -------- | -------- | -------- |
+| 25 Sep 2021 2pm to 3pm     | **Storytelling: Roly Poly Pangolin by Anna Dewdney.** Listen in to the adventures of Roly Poly the shy pangolin who rolled out of his ball to discover that the world isn’t such a scary place. Immerse yourself in rhyme and rhythm specially narrated by Moonbeam Award author and storyteller, Wei Teng. Suitable for ages between 5 to 7 years old. This online activity is brought to you by NParks Bukit Timah Nature Reserve Branch.     | Click [here](https://go.gov.sg/cnfob) to register. Register to be part of the Zoom session (limited slots).     | 
+26 Sep 2021 2pm to 3pm | **The ABCs of Bukit Timah Nature Reserve.** The forest is an amazing place to find all the letters in the alphabets. Let’s go on an adventure to uncover the hidden ABCs and learn about the amazing biodiversity in Singapore’s rainforest! This virtual workshop comprises of storytelling, craftwork and mini quizzes to spur children’s interest and love for nature. Suitable for ages between 5 to 7 years old. This online activity is brought to you by NParks Bukit Timah Nature Reserve Branch. | Click [here](https://go.gov.sg/cnfob) to register. Register to be part of the Zoom session (limited slots).     |
 
 # **Crafts**
 For those who love more hands-on activities, do check out these cute crafts for both parents and children. These crafts are a great way to introduce your kids to local biodiversity in a fun and engaging way, so download and print out our unique colouring sheets and fun crafts for a fun family activity!
