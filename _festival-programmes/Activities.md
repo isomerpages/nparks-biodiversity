@@ -59,6 +59,8 @@ Head out into our many national parks for an engaging experience with our local 
 
 
 #### June 2022
+
+
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
 | 01 Jun 2022     | **Butterfly Survey**  With one last push, the butterfly escapes from it cocoon. Fluttering its brightly coloured wings, the butterfly takes flight for the first time. Join us in our monthly organised survey to monitor the species diversity of butterflies on the island. | Registration opens in May 2022. Please register via  [Volunteer.gov.sg](Volunteer.gov.sg) for more information.     |
@@ -68,3 +70,4 @@ Head out into our many national parks for an engaging experience with our local 
 | 18 Jun 2022  09:30am - 11:30am   | **Rustic Reflection Tour** Join us on a walk to rediscover Pulau Ubin’s kampung heritage and journey through the island’s cultural, economic and natural history. On this 2.5 km walk, you will discover important historical landmarks, wildlife habitats and restored buildings that have defined life on the island. | Registration opens in May 2022. Look out for updates  [here](https://www.nparks.gov.sg/activities/events-and-workshops).     |
 | 19 Jun 2022  08:00am - 10:00am   | **Chek Jawa Wetland Tour** Join us for a tour to discover and learn about Chek Jawa's six ecosystems and the diverse array of animals that inhabits these unique habitats. | Registration opens in May 2022. Look out for updates  [here](https://www.nparks.gov.sg/activities/events-and-workshops).     |
 | 20 Jun 2022  09:00am - 11:00am   | **Chek Jawa Wetland Tour** Join us for a tour to discover and learn about Chek Jawa's six ecosystems and the diverse array of animals that inhabits these unique habitats. | Registration opens in May 2022. Look out for updates  [here](https://www.nparks.gov.sg/activities/events-and-workshops).     |
+
