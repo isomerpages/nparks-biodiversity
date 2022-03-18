@@ -26,7 +26,7 @@ sections:
           url: /festival-programmes/childrens-programmes
       subtitle: 21 & 22 May 2022 |  Botany Centre, Singapore Botanic Gardens
   - infopic:
-      title: Activities
+      title: Outdoor Activities
       subtitle: Discover
       alt: Explore Booths and Activities
       url: festival-programmes/activities/
