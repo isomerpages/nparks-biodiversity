@@ -17,7 +17,8 @@ Take a tour through one of our many national parks for an engaging experience wi
 |23 Apr 2022 09:00am - 10:00am|**Learning Forest Tour** Attend our complimentary tour of The Learning Forest as we showcase its flora and fauna.    | In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/learning-forest-tour-4th-sat) for more information.
 |23 Apr 2022 09:00am - 10:00am|**Heritage Tour** A great introduction to the history of the Singapore Botanic Gardens in a 1-hour walking tour of Heritage Trail. Learn about the moments that lead to the boom of the rubber industry and how orchids are intertwined with Singapore.|In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/heritage-tour) for more information.
 |23 Apr 2022 10:00am - 11:00am|**Race Against Time - Science behind a Botanic Garden Tour** Find out about our scientific work behind the Singapore Botanic Garden in this 45-minute session. |In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/race-against-time-tour) for more information.|
-|24 Apr 2022 09:00am - 10:00am|**Croc & Friends – Guided Walk Edition Tour.**  2 sessions, 10pax each|In-person Session. (Session 1) please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/croc-and-friends-session1) (Session 2)Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/croc-and-friends-session2)
+|24 Apr 2022 09:00am - 10:00am|**Croc & Friends – Guided Walk Edition Tour.**  2 sessions, 10pax each|In-person Session. (Session 1) please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/croc-and-friends-session1) (Session 2)Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/croc-and-friends-session2) | 
+
 
 #### May 2022
 
