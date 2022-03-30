@@ -10,7 +10,7 @@ FoB is glad to have a lineup of booths by many esteemed nature organisations in 
 
 
 
-| NParks Booths |  |
+| **NParks Booths** |  |
 | -------- | -------- | 
 | ![](/images/Logos/NParks%20Logo%20new%20tagline_colour.png)  |  **[NParks - Community in Nature (Schools)](https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative)**. | 
 |![](/images/Logos/NParks%20Logo%20new%20tagline_colour.png)| **[NParks - Youth Stewards for Nature.](https://www.nparks.gov.sg/learning/youthsgnature/youth-stewards-for-nature)**|
@@ -18,7 +18,7 @@ FoB is glad to have a lineup of booths by many esteemed nature organisations in 
 |![](/images/Logos/NParks%20Logo%20new%20tagline_colour.png)|**[ NParks - Conservation Division Outreach.](https://www.nparks.gov.sg/biodiversity/our-national-plan-for-conservation)** |
 
 
-| Non-NParks| | 
+| **Non-NParks**| | 
 | -------- | -------- |
 | ![](/images/acres.jpeg)|**[Acres.](https://acres.org.sg/)** | 
 |![](/images/Logos/cicada.jpg)|**[Cicada Tree Eco-Place.](https://cicadatree.org.sg/)** | 
