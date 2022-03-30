@@ -20,5 +20,7 @@ Nparks Booths
 
 | Non-NParks| | 
 | -------- | -------- |
-| ![](/images/Logos/ACRES%20image.jpg)    | **[ACRES](https://acres.org.sg/)**. An animal protection organisation, driven by our concern for animals. We adopt research projects on the use of animals in various fields. | 
-|![](/images/Logos/cicada.jpg)| 
+| ![](/images/acres.jpeg)|**[Acres.](https://acres.org.sg/)** An animal protection organisation, driven by our concern for animals. We adopt research projects on the use of animals in various fields. | 
+|![](/images/Logos/cicada.jpg)|**[Cicada Tree Eco-Place.](https://cicadatree.org.sg/)** Posters featuring flora and fauna of Pang Sua Woodland along Rail Corridor, a Community Biodiversity Survey by volunteeers and results published in nature conservation book by Cicada Tree Eco-Place and Nature Society (Singapore). This initiative is in support of Friends of Rail Corridor.| 
+|![](/images/Logos/hsslogo.jpg)| **[Herpetological Society of Singapore](https://herpsocsg.com/)**. Society of Singapore is a volunteer-run group of herpetology enthusiasts. We are passionate about the conservation, appreciation, and study of reptiles and amphibians in Singapore and Southeast Asia.|
+|![](/images/Logos/janegoodall.jpg)
