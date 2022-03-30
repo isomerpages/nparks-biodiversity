@@ -32,4 +32,3 @@ FoB is glad to have a lineup of booths by many esteemed nature organisations in 
 |![](/images/Logos/swag.png)| **[Singapore Wildcat Action Group (SWAG)](https://www.swagcat.org/)**.|
 |![](/images/Logos/syvb-logo.png)| **[Singapore Youth Voices for Biodiversity (SYVB)](https://sgyouthvoicesbiod.wordpress.com/).**|
 |![](/images/Logos/wwfsg.jpg)|**[World Wide Fund for Nature (WWF)](https://www.worldwildlife.org/).**|
-|
