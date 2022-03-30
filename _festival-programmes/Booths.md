@@ -18,8 +18,7 @@ Nparks Booths
 |![](/images/Logos/NParks%20Logo%20new%20tagline_colour.png)|**[ NParks - Conservation Division Outreach.](https://www.nparks.gov.sg/biodiversity/our-national-plan-for-conservation)** Get to know Singapore's thriving biodiversity, go out and explore! Learn how you can play a part in biodiversity conservation through our volunteering opportunities.|
 
 
-| Non-NParks| Column 2 | 
+| Non-NParks| | 
 | -------- | -------- |
 | ![](/images/Logos/ACRES%20image.jpg)    | **[ACRES](https://acres.org.sg/)**. An animal protection organisation, driven by our concern for animals. We adopt research projects on the use of animals in various fields. | 
-|![](/images/Logos/cicada.jpg)
-
+|![](/images/Logos/cicada.jpg)| 
