@@ -26,4 +26,5 @@ Nparks Booths
 |![](/images/Logos/janegoodall.jpg)| **[Jane Goodall Institute (Singapore)](https://janegoodall.org.sg/)**. Showcases its various partnerships and programmes in the form of an interactive photobooth concept. The booth will take inspiration from the set of our storytelling programmes we conduct on [Facebook](https://www.facebook.com/JaneGoodallSingapore/).|
 |![](/images/Logos/LeeKongChianMuseum.png)| **[Lee Kong Chian Natural History Museum (LKCNHM).](https://lkcnhm.nus.edu.sg/)** The Lee Kong Chian Natural History Museum (LKCNHM) strives to be a leader in Southeast Asian biodiversity – in research, education and outreach. We aim to nurture public interest in biodiversity and associated environmental issues. |
 |![](/images/Logos/mandai-nature.jpg)| **[Mandai Nature](https://www.mandainature.org/en/home.html)**. A non-profit entity, is dedicated to protecting threatened species, nurturing healthy ecosystems and creating vibrant communities where wildlife and people can thrive and co-exist, in Singapore and Southeast Asia.|
-|
+|![](/images/Logos/toddycat.jpg)| **[NUS Toddycats & ICCs](https://toddycats.wordpress.com/)**. NUS Toddycats! are volunteers with the Lee Kong Chian Natural History Museum and aim to expose, develop, enthuse and apply individuals to programmes in conservation, education and research. |
+
