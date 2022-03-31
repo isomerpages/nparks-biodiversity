@@ -7,7 +7,7 @@ There are many engaging activities by NParks and our partners to encourage the c
 
 # **Opportunities and Workshops**
 
-Learn more about how to care for our City in Nature and its flora and fauna through these workshops.
+Learn more about how to care for our City in Nature and its flora and fauna through these opportunities and workshops.
 
 
 | Date | Workshop | How to Register |
