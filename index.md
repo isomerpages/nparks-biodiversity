@@ -40,7 +40,7 @@ sections:
       description: Join us online with your children to learn about native
         biodiversity, or enjoy some stay-home bonding with our craft activities!
       button: Find out more
-      url: /festival-programmes/childrens-programmes
+      url: /festival-programmes/family-programmes
       image: /images/exploreFobActivities.png
       alt: Image alt text
   - infopic:
