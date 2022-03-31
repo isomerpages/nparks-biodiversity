@@ -5,12 +5,11 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/FOBlogo.png)
 
-The Festival of Biodiversity is an annual event organised by the National Parks Board in collaboration with the Biodiversity Roundtable. Initiated in 2012, the Festival aims to create awareness and foster a sense of appreciation for our natural heritage.
+The Festival of Biodiversity is an annual event which aims to create awareness and foster a sense of appreciation for our natural heritage. Through this event, we hope to bring about greater awareness of the biodiversity that Singapore has. Visitors can look forward to a range of online and on site activities for all ages at this year's Festival. 
 
-Since its initiation, the Festival has garnered the support of many biodiversity-related interest groups and Non-Governmental Organisations (NGOs). These groups play a crucial role in creating awareness about our island’s biodiversity and in promoting various conservation efforts.
+Initiated in 2012, the Festival of Biodiversity is organised by the National Parks Board in collaboration with the Biodiversity Roundtable. The Biodiversity Roundtable is an initiative which includes more than 20 non-governmental organisations involved in local biodiversity issues, and NParks.
 
-This event celebrates Singapore's natural heritage and in doing so, we hope to bring about greater awareness of the biodiversity that Singapore has. Visitors can look forward to a range of online and on site activities for all ages at this year's Festival. 
-
+Since its initiation, the Festival has garnered the support of many biodiversity-related interest groups and Non-Governmental Organisations (NGOs). These groups play a crucial role in creating awareness about our island’s biodiversity and in nurturing our City in Nature vision.
 
 Date: **21 & 22 May 2022**\
 Time: **9am - 6pm**\
