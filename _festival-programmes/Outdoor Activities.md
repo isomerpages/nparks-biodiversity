@@ -5,13 +5,15 @@ description: ""
 ---
 There are many engaging activities by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. You can better understand our City in Nature through  **Walks and Tours** led by experienced guides, or through **Workshops** that provide experiences you do not want to miss! Please check back regularly for more updates. 
 
-# **Workshops**
+# **Opportunities and Workshops**
 
 Learn more about how to care for our City in Nature and its flora and fauna through these workshops.
 
 
 | Date | Workshop | How to Register |
 | -------- | -------- | -------- |
+|14 May 2022 4.00pm - 6.00pm| **Sapling Protection Action (SPA) at Kranji Coastal Nature Park** Conducted within the Sungei Buloh Wetlands Reserve. This will include removing competing vegetation, topping up soil and/or leaf litter around the stem base, installing stakes to help the saplings stand straight while they strengthens their trunks, and replacing tree labels, where necessary.| Registration. Please click [here](https://www.eventbrite.sg/e/sapling-protection-action-spa-at-kranji-coastal-nature-park-may-2022-registration-302360296787) for more information.|
+|28 May 2022 4.00pm - 6.00pm| **Sapling Protection Action (SPA) at Kranji Coastal Nature Park** Conducted within the Sungei Buloh Wetlands Reserve. This will include removing competing vegetation, topping up soil and/or leaf litter around the stem base, installing stakes to help the saplings stand straight while they strengthens their trunks, and replacing tree labels, where necessary.| Registration. Please click [here](https://www.eventbrite.sg/e/sapling-protection-action-spa-at-kranji-coastal-nature-park-may-2022-registration-302360296787) for more information.
 | 18 Jun 2022 8.30am – 1.30pm     | **Discovering Ubin Living Lab with Leave No Trace™**. Join us in our L.N.T. awareness workshop at Ubin Living Lab to learn about how you can make better decisions in the outdoor world which we all enjoy. Leave No Trace™ (L.N.T.) is a set of 7 internationally recognised outdoor ethics principles. You will find out more about ways and gain low-impact outdoor skills to prevent user-induced impacts caused by irresponsible recreations.    | 	Registration opens on 7 May 2022, 12pm. Sign up [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/discovering-ubin-living-lab-with-leave-no-trace-(18-june-2022)).     |
 
 
