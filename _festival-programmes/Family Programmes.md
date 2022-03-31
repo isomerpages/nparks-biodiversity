@@ -5,7 +5,7 @@ description: ""
 ---
 # **Online Activities**
 
-Join us for a fun-filled, educational, session online with your children, where we will regale you with the tales of our wondrous biodiversity and how to protect it.
+Join us for a fun-filled, educational, session online with your family, where we will regale you with the tales of our wondrous biodiversity and how to protect it.
 
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
