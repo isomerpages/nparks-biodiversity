@@ -21,9 +21,9 @@ sections:
         - title: Online Events
           description: ""
           url: festival-programmes/online-events
-        - title: Children's programmes
+        - title: Family programmes
           description: ""
-          url: /festival-programmes/childrens-programmes
+          url: /festival-programmes/family-programmes
       subtitle: 21 & 22 May 2022 |  Botany Centre, Singapore Botanic Gardens
   - infopic:
       title: Outdoor Activities
