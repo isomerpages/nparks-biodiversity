@@ -37,8 +37,8 @@ sections:
   - infopic:
       title: Family Programmes
       subtitle: Education
-      description: Join us online with your children to learn about native
-        biodiversity, or enjoy some stay-home bonding with our craft activities!
+      description: Join us online with your family to learn about native biodiversity,
+        or enjoy some stay-home bonding with our craft activities!
       button: Find out more
       url: /festival-programmes/family-programmes
       image: /images/exploreFobActivities.png
@@ -50,8 +50,9 @@ sections:
       subtitle: be a citizen scientist
       title: Citizen Science Programmes
       button: Join us now
-      description: Find out more about these programmes, or register your interest to
-        become a citizen scientist today!
+      description: Citizen science refers to the participation of the community in
+        organised research endeavours. Register your interest to become a
+        citizen scientist today!
   - infopic:
       title: Biodiversity Week for Schools
       subtitle: what are our schools up to?
