@@ -56,9 +56,9 @@ sections:
   - infopic:
       title: Biodiversity Week for Schools
       subtitle: what are our schools up to?
-      description: 22 May marks the International Day for Biological Diversity. To
-        commemorate this, NParks has organised Biodiversity Week for Schools,
-        from 16 - 22 May 2022.
+      description: This week of events commemorates the International Day for
+        Biological Diversity. Students can participate in exciting activities
+        from 16 to 22 May 2022.
       button: Learn more
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/biodiversity-week-for-schools
       image: /images/Green Wave.jpg
