@@ -35,7 +35,7 @@ sections:
       description: Enjoy some quality time outdoors with your family while learning
         about our local biodiversity.
   - infopic:
-      title: Children's Programmes
+      title: Family Programmes
       subtitle: Education
       description: Join us online with your children to learn about native
         biodiversity, or enjoy some stay-home bonding with our craft activities!
