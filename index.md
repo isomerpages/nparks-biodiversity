@@ -41,7 +41,7 @@ sections:
         or enjoy some stay-home bonding with our craft activities!
       button: Find out more
       url: /festival-programmes/family-programmes
-      image: /images/exploreFobActivities.png
+      image: /images/nparks photo family.jpeg
       alt: Image alt text
   - infopic:
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes
