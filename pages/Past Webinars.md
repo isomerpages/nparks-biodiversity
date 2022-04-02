@@ -3,10 +3,7 @@ title: Past Webinars
 permalink: /festival-programmes/Online-events/past-webinars
 description: ""
 ---
-
-
-
-Learn more about what NParks has done to make Singapore a City in Nature with videos of previously conducted Webinars.
+Learn more about our City in Nature and Singapore’s biodiversity with videos of previously conducted webinars.
 
 
 
