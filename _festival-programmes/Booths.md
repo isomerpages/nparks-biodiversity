@@ -13,6 +13,5 @@ The Festival of Biodiversity is glad to have a lineup of booths by many esteemed
 |![](/images/acres.jpeg) | **[Acres](https://acres.org.sg/).** An animal protection organisation, driven by our concern for animals. Strongly believe in promoting community involvement in addressing animal protection issues and in building partnerships with all related bodies to improve animal welfare. |
 ||**[Cicada Tree Eco-Place](https://cicadatree.org.sg/)**. Advocates for the protection of our precious natural heritage and seeks to educate the youth and communities about eco-living to combat global warming.|
 |![](/images/Logos/hsslogo.jpg)| **[Herpetological Society of Singapore](https://herpsocsg.com/)**. Passionate about the conservation, appreciation, and study of reptiles and amphibians in Singapore and Southeast Asia.|
-|
-
-
+|![](/images/Logos/janegoodall.jpg)| **[Jane Goodall Institute (Singapore)](https://janegoodall.org.sg/)**. A global nonprofit focused on inspiring individual action to  improve the understanding,welfare and conservation of the environment, its wildlife and to safeguard the planet we all share.|
+|![](/images/Logos/LeeKongChianMuseum.png)| The Lee Kong Chian Natural History Museum (LKYCNHM) strives to be a leader in Southeast Asian Biodiversity - 
