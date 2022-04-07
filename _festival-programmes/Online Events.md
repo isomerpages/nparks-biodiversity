@@ -8,6 +8,6 @@ The Festival of Biodiversity this year features many online events, through a wi
 ### Navigate To:
 
 ##### [Upcoming Webinars](https://nparks-biodiversity-staging.netlify.app/festival-programmes/Online-events/upcoming-webinars)
-Get to know the biodiversity of our City in Nature, with NParks Spotlight and our City in Nature webinars.
+Get to know the biodiversity of Singapore, with NParks Spotlight and our City in Nature webinars.
 ##### [Past Webinars](https://nparks-biodiversity-staging.netlify.app/festival-programmes/Online-events/past-webinars)
 Learn more about our City in Nature and Singapore’s biodiversity with videos of previously conducted webinars.
