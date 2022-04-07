@@ -3,7 +3,7 @@ title: Online Events
 permalink: /festival-programmes/Online-events
 description: ""
 ---
-The Festival of Biodiversity this year features many Online Events, through a wide variety of **Upcoming Webinars**. The Festival of Biodiversity also has a deep catalog of **Past Webinars** for viewing of biodiversity content on demand!
+The Festival of Biodiversity this year features many online events, through a wide variety of **Upcoming Webinars**. The Festival of Biodiversity also has a deep catalog of **Past Webinars** for viewing of biodiversity content on demand!
 
 ### Navigate To:
 
