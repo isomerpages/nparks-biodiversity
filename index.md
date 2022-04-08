@@ -1,36 +1,66 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Festival of Biodiversity
+description: Celebrating Singapore's Biodiversity
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: "Festival of Biodiversity "
+      background: /images/NParks_Background1.jpg
+      button: About the Festival
+      url: /about-the-festival
+      key_highlights:
+        - title: Activities
+          description: ""
+          url: /festival-programmes/activities/
+        - title: Booths
+          description: ""
+          url: /festival-programmes/booths
+        - title: Online Events
+          description: ""
+          url: festival-programmes/online-events
+        - title: Family programmes
+          description: ""
+          url: /festival-programmes/family-programmes
+      subtitle: 21 & 22 May 2022 |  Botany Centre, Singapore Botanic Gardens
+  - infopic:
+      title: Outdoor Activities
+      subtitle: Discover
+      alt: Explore Booths and Activities
+      url: festival-programmes/activities/
+      button: Explore
+      image: /images/exploreNParks.png
+      description: Enjoy some quality time outdoors with your family while learning
+        about our local biodiversity.
+  - infopic:
+      title: Family Programmes
+      subtitle: Education
+      description: Join us online with your family to learn about native biodiversity,
+        or enjoy some stay-home bonding with our craft activities!
+      button: Find out more
+      url: /festival-programmes/family-programmes
+      image: /images/nparks photo family.jpeg
+      alt: Image alt text
+  - infopic:
+      url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes
+      image: /images/COVER_Intertidal Watch.jpg
+      alt: CIN
+      subtitle: be a citizen scientist
+      title: Citizen Science Programmes
+      button: Join us now
+      description: Citizen science refers to the participation of the community in
+        organised research endeavours. Register your interest to become a
+        citizen scientist today!
+  - infopic:
+      title: Biodiversity Week for Schools
+      subtitle: what are our schools up to?
+      description: This week of events commemorates the International Day for
+        Biological Diversity. Students can participate in exciting activities
+        from 16 to 22 May 2022.
+      button: Learn more
+      url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/biodiversity-week-for-schools
+      image: /images/Green Wave.jpg
+      alt: Green Wave
 ---
-

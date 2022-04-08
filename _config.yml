@@ -1,41 +1,46 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Festival of Biodiversity
+url: ""
+favicon: /images/favicon.ico
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#215732"
+  secondary-color: "#ffcd00"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#7a9a01"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#ff9e1b"
     - title: media-color-three
-      color: '#00838f'
+      color: "#ddcba4"
     - title: media-color-four
-      color: '#00838f'
+      color: "#ef3340"
     - title: media-color-five
-      color: '#00838f'
+      color: "#af272f"
 resources_name: resource
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+description: Celebrating Singapore's Biodiversity
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -47,3 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://nparks-biodiversity-staging.netlify.app
 prod: https://nparks-biodiversity-prod.netlify.app
+is_government: true
+facebook-pixel: ""
+google_analytics: UA-215832833-1
+shareicon: /images/nparkslogo.png

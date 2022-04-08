@@ -1,0 +1,8 @@
+collections:
+  festival-programmes:
+    output: true
+    order:
+      - Outdoor Activities.md
+      - Booths.md
+      - Online Events.md
+      - Family Programmes.md
