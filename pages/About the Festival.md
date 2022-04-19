@@ -13,7 +13,7 @@ Since its initiation, the Festival has garnered the support of many biodiversity
 
 Date: **21 & 22 May 2022**\
 Time: **9am - 6pm**\
-Venue: **Singapore Botanic Garden, Botany Centre**\
+Venue: **Singapore Botanic Gardens, Botany Centre**\
 Location: **1 Cluny Rd, Singapore 259569**. View location in [Google Maps](https://goo.gl/maps/XU3Lzd968B6MY57M6).
 
 ![Map of Botany Centre](/images/2022FOBLocation.png)
