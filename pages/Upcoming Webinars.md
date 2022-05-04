@@ -11,7 +11,8 @@ Get to know the biodiversity of Singapore, with NParks Spotlight and our OneMill
 
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
-| 28 May 2022 (Saturday) 10am to 11am  | **Green Up at Kranji Secondary School - Empowering our Designers.** Join us for this webinar featuring speakers from Kranji Secondary School, Ms Sandy Pan and Ms May Ng, to find out how their Green Ambassadors designed their very own biodiversity trails to raise awareness on local flora and fauna within the community.  | Click [here](https://safe.menlosecurity.com/https://form.gov.sg/#!/6262594a8a621f00127384e3) to register and click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/5/green-up-at-kranji-sec---empowering-our-designers) to find more.    |
+| 22 May 2022 (Sunday) 3pm to 4pm | **NParks Spotlight: Exploring Singapore’s Shores.** Join us for a talk by Iffah Iesa titled Where the wild things are: marine edition and a talk by Loh Kok Sheng titled Are you “shore”? #Didyouknow that there is much to discover in Singapore’s wild waters and shores which support a wide range of marine life. Find out more about our island’s rich biodiversity and exciting marine habitats in this special Festival of Biodiversity edition of NParks Spotlight! | click here
+|28 May 2022 (Saturday) 10am to 11am  | **Green Up at Kranji Secondary School - Empowering our Designers.** Join us for this webinar featuring speakers from Kranji Secondary School, Ms Sandy Pan and Ms May Ng, to find out how their Green Ambassadors designed their very own biodiversity trails to raise awareness on local flora and fauna within the community.  | Click [here](https://safe.menlosecurity.com/https://form.gov.sg/#!/6262594a8a621f00127384e3) to register and click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/5/green-up-at-kranji-sec---empowering-our-designers) to find more.    |
 
 
 
