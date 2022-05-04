@@ -22,14 +22,6 @@ Learn more about how to care for our City in Nature and its flora and fauna thro
 # **Walks and Tours**
 Head out into our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene, through various tours and activities. Please check back regularly for more updates.
 
-#### April 2022
-
-| Date |   Event      |     How to Register        |
-| -------- | -------- |  |
-|23 Apr 2022 09:00am - 10:00am|**Learning Forest Tour.** Attend our complimentary tour of The Learning Forest as we showcase its flora and fauna.    | In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/learning-forest-tour-4th-sat) for more information.
-|23 Apr 2022 09:00am - 10:00am|**Heritage Tour.** A great introduction to the history of the Singapore Botanic Gardens in a 1-hour walking tour of Heritage Trail. Learn about the moments that lead to the boom of the rubber industry and how orchids are intertwined with Singapore.|In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/heritage-tour) for more information.
-|23 Apr 2022 10:00am - 11:00am|**Race Against Time - Science behind a Botanic Garden Tour.** Find out about our scientific work behind the Singapore Botanic Garden in this 45-minute session. |In-person Registration. Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/race-against-time-tour) for more information.|
-|24 Apr 2022 11:30am - 12:15pm & 12:30pm  -  1:15pm | **Croc & Friends – Guided Walk Edition.** Go on a 45-minute guided walk with our volunteer, Bernard, to learn fascinating information about the crocodiles and their friends – such as their characteristics and behaviour, and observe them as they go about their daily business. |Sign up [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/croc-and-friends-session1) for Session 1 and [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/4/croc-and-friends-session2) for Session 2.
 
 #### May 2022
 
