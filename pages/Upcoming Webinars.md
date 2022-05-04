@@ -5,7 +5,15 @@ description: ""
 ---
 Get to know the biodiversity of Singapore, with NParks Spotlight and our OneMillionTrees webinars. NParks and our partners in the biodiversity community will share about the fascinating lives of Singapore’s flora and fauna, and what YOU can do to protect them. Register to be part of the Zoom session (limited slots) or stream the talk on the [NParksSG YouTube channel](https://www.youtube.com/nparkssg).
 
-#### **Stay tuned for our upcoming talks!**
+#### **Stay tuned for our upcoming webinars!**
+
+### **Nparks Spotlight**
+
+| Date | Event | How to Register |
+| -------- | -------- | -------- |
+| 21 May 2022 (Saturday) 10am to 11am  | **Green Up at Kranji Secondary School - Empowering our Designers.** Join us for this webinar featuring speakers from Kranji Secondary School, Ms Sandy Pan and Ms May Ng, to find out how their Green Ambassadors designed their very own biodiversity trails to raise awareness on local flora and fauna within the community.  | Click [here](https://safe.menlosecurity.com/https://form.gov.sg/#!/6262594a8a621f00127384e3) to register and find more information.    |
+
+
 
 ### **OneMillionTrees**
 
