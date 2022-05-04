@@ -5,10 +5,6 @@ description: ""
 ---
 Get to know the biodiversity of Singapore, with NParks Spotlight and our OneMillionTrees webinars. NParks and our partners in the biodiversity community will share about the fascinating lives of Singapore’s flora and fauna, and what YOU can do to protect them. Register to be part of the Zoom session (limited slots) or stream the talk on the [NParksSG YouTube channel](https://www.youtube.com/nparkssg).
 
-#### **Stay tuned for our upcoming webinars!**
-
-### **Nparks Spotlight**
-
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
 | 22 May 2022 (Sunday) 3pm to 4pm | **NParks Spotlight: Exploring Singapore’s Shores.** Join us for a talk by Iffah Iesa titled Where the wild things are: marine edition and a talk by Loh Kok Sheng titled Are you “shore”? #Didyouknow that there is much to discover in Singapore’s wild waters and shores which support a wide range of marine life. Find out more about our island’s rich biodiversity and exciting marine habitats in this special Festival of Biodiversity edition of NParks Spotlight! | click here
