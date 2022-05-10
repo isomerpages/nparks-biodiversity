@@ -25,3 +25,10 @@ The Festival of Biodiversity is glad to have a lineup of booths by many esteemed
 |![](/images/Logos/swag.png)| **[Singapore Wildcat Action Group](https://www.swagcat.org/).** Formed in 2019, SWAG is a registered non-profit run entirely by volunteers. We are passionate about the conservation of wildcats around the world like tigers, cheetahs, clouded leopards, and the leopard cat. We believe in taking meaningful action to achieve our mission: to build a network of supporters for wildcat conservation, and raise funds to save the critically endangered Malayan Tiger.|
 |![](/images/Logos/syvb-logo.png)| **Singapore Youth Voices for Biodiversity.** Learn about how YOUth can contribute to biodiversity conservation in Singapore. Know what SYVB and many other environmental groups have been doing in Singapore and globally for biodiversity.
 |![](/images/Logos/wwfsg.jpg)| **[WWF SG](https://www.wwf.sg/).** Worldwide there is a growing demand for wild animals and products made from them. Animals in particular are used as food, medicine, pets and for display as fashion or cultural items. The Illegal wildlife trade has become the second largest direct threat to the world’s most threatened species after habitat loss. In Southeast Asia alone, there has been a dramatic decline in the populations of many species with high commercial value, many of which are now rare, endangered or locally extinct such as the Tiger, Sumatran and Javan Rhinoceros, Asian Elephant and pangolins. Come join WWF in its fight to save threatened species and learn about what you can do to stop the trade!
+| |Blangah Rise Primary School|
+||Commonwealth Secondary School|
+||Far Eastern Kindergarten|
+||Kranji Secondary School|
+||Westwood Primary School|
+||Si Ling Primary School|
+||Woodgrove Primary School|
