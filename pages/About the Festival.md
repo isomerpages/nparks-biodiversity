@@ -16,4 +16,5 @@ Time: **9am - 6pm**\
 Venue: **Singapore Botanic Gardens, Botany Centre**\
 Location: **1 Cluny Rd, Singapore 259569**. View location in [Google Maps](https://goo.gl/maps/XU3Lzd968B6MY57M6).
 
-![Map of Botany Centre](/images/2022FOBLocation.png)
+![Map of Botany Centre]
+(![](/images/2021FOBLocation.png)
