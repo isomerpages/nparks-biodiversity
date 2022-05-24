@@ -27,6 +27,7 @@ Join us for a fun-filled, educational session online with your family where we w
 |12 Jun 2022 (Sunday)  2.00pm to 3.00pm | **The ABCs of Bukit Timah Nature Reserve.** The forest is an amazing place to find all the letters in the alphabets. Let’s go on an adventure to uncover the hidden ABCs and learn about the amazing biodiversity in Singapore’s rainforest! This virtual workshop comprises of storytelling, craftwork and mini quizzes to spur children’s interest and love for nature. Suitable for ages between 5 to 7 years old. This online activity is brought to you by NParks Bukit Timah Nature Reserve Branch. | Click [here](https://form.gov.sg/614190e036562a0012def0fb) to register. Register to be part of the Zoom session (limited slots).     |
 
 
+
 # **Crafts**
 For those who love more hands-on activities, do check out these cute crafts for both parents and children. These crafts are a great way to introduce your kids to local biodiversity in a fun and engaging way, so download and print out our unique colouring sheets and fun crafts for a fun family activity!
 
