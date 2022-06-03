@@ -3,17 +3,6 @@ title: Family Programmes
 permalink: /festival-programmes/family-programmes
 description: ""
 ---
-# **FoB Workshops**
-
-
-| Date | Event | How to Register |
-| -------- | -------- | -------- |
-|21 May 2022 (Saturday) 2.00pm to 2.40pm or 2.45pm to 3.25pm| **Playtime series with Sam & Ben.** The ‘Playtime with Sam and Ben’ workshop is designed to educate participants about the animals in Dairy Farm Nature Park and the distinct calls that they produce. In conjunction with the Biodiversity Week for Schools 2022, this workshop is also meant to communicate the importance of nature conservation to participants. The workshop consists of an animated video and an activity book.| Please click [here](https://form.gov.sg/#!/62565d9b4445f90012ff38a7) to register.|
-| 21 May 2022 (Sunday) 4.00pm to 5.30pm   |  **The Green Dragonflies and Their Swampy Friends by Blangah Rise Primary School.** Join our teachers and students as they read to you the adventures of The Green Dragonflies and Their Swampy Friends! Learn more about how climate change affects the environment, and what all of us can do to save it. Bring home your very own self-made dragonfly when you join our Art and Craft activity after the storytelling session. | Please click [here](https://form.gov.sg/#!/62565d9b4445f90012ff38a7) to register.|
-|22 May 2022 (Sunday) 2.00pm to 3.30pm| **Marine Bingo and DIY Sea Star by BiogirlMJ.** Join Biogirl MJ from Just Keep Thinking for a fun-filled, hands-on workshop session to learn all about our marine biodiversity! Put your knowledge to the test with an exciting game of OCEAN BINGO, then create your own marine ANIMAL CLAY ART with colourful air dry clay. This will be an educational and entertaining workshop session where participants will get to appreciate and nurture the love for the wildlife around us.| Please click [here](https://form.gov.sg/#!/62565d9b4445f90012ff38a7) to register.|
-|22 May 2022 (Sunday) 4.00pm to 5.30pm| **The Green Dragonflies and Their Swampy Friends by Blangah Rise Primary School.** Join our teachers and students as they read to you the adventures of The Green Dragonflies and Their Swampy Friends! Learn more about how climate change affects the environment, and what all of us can do to save it. Bring home your very own self-made dragonfly when you join our Art and Craft activity after the storytelling session.| Please click [here](https://form.gov.sg/#!/62565d9b4445f90012ff38a7) to register.|
-
-
 
 
 # **Online Activities**
@@ -22,7 +11,6 @@ Join us for a fun-filled, educational session online with your family where we w
 
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
-|21 May 2022 (Saturday) 2.00pm to 3.00pm | **The ABCs of Bukit Timah Nature Reserve.** The forest is an amazing place to find all the letters in the alphabets. Let’s go on an adventure to uncover the hidden ABCs and learn about the amazing biodiversity in Singapore’s rainforest! This virtual workshop comprises of storytelling, craftwork and mini quizzes to spur children’s interest and love for nature. Suitable for ages between 5 to 7 years old. This online activity is brought to you by NParks Bukit Timah Nature Reserve Branch. | Click [here](https://form.gov.sg/614190e036562a0012def0fb) to register. Register to be part of the Zoom session (limited slots). |
 | 11 Jun 2022 (Saturday)  2.00pm to 3.00pm     | **Storytelling: Roly Poly Pangolin by Anna Dewdney.** Listen in to the adventures of Roly Poly the shy pangolin who rolled out of his ball to discover that the world isn’t such a scary place. Immerse yourself in rhyme and rhythm specially narrated by Moonbeam Award author and storyteller, Wei Teng. Suitable for ages between 5 to 7 years old. This online activity is brought to you by NParks Bukit Timah Nature Reserve Branch.  | Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/cn_pangolin-storytelling-11-june) Register to be part of the Zoom session (limited slots).     | 
 |12 Jun 2022 (Sunday)  2.00pm to 3.00pm | **The ABCs of Bukit Timah Nature Reserve.** The forest is an amazing place to find all the letters in the alphabets. Let’s go on an adventure to uncover the hidden ABCs and learn about the amazing biodiversity in Singapore’s rainforest! This virtual workshop comprises of storytelling, craftwork and mini quizzes to spur children’s interest and love for nature. Suitable for ages between 5 to 7 years old. This online activity is brought to you by NParks Bukit Timah Nature Reserve Branch. | Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/cn_the-abcs-of-bukit-timah-nature-reserve_12june) to register. Register to be part of the Zoom session (limited slots).     |
 |23 Jun 2022 (Thursday) 9.30am to 10.30am| **Coco and Friends.** A programme by National Parks Board and HSBC Singapore aiming to promote more understanding and awareness of some of our native biodiversity found in our forests.| Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/cn_coco-and-friends-23-june-2022) to register and for more information. Do note that this is a paid walk.|
