@@ -2,4 +2,5 @@ collections:
   testfolder:
     output: true
     order:
+      - test.md
       - Test.md
