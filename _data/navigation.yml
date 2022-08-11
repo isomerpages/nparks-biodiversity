@@ -10,3 +10,5 @@ links:
     url: /contact/
   - title: "testing "
     url: /test1
+  - title: For Fun
+    collection: testfolder
