@@ -24,7 +24,7 @@ sections:
         - title: Family programmes
           description: ""
           url: /festival-programmes/family-programmes
-      subtitle: 21 & 22 May 2022 |  Botany Centre, Singapore Botanic Gardens
+      subtitle: 27 & 28 May 2023 |  Heartbeat@Bedok
   - infopic:
       title: Outdoor Activities
       subtitle: Discover
