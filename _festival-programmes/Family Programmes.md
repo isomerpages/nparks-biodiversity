@@ -30,3 +30,4 @@ Let your crayons take a walk on the wild side with our **Connect the dots colour
 
 **Spot the Difference**!
 [Spot the Difference](/files/Spot%20the%20Difference_Facilitation%20Notes.pdf)
+![Rainforest Template](/images/IMG_70A615B231E8-1.jpeg)
