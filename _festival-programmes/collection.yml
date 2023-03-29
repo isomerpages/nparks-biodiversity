@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Festival Workshops.md
-      - Booths.md
+      - Festival Booths.md
       - Online Events.md
       - Family Programmes.md
