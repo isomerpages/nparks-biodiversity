@@ -26,7 +26,7 @@ sections:
           url: /festival-programmes/family-programmes
       subtitle: 27 & 28 May 2023 |  Heartbeat@Bedok
   - infopic:
-      title: Outdoor Activities
+      title: Festival Booths
       subtitle: Discover
       alt: Explore Booths and Activities
       url: festival-programmes/activities/
@@ -35,7 +35,7 @@ sections:
       description: Enjoy some quality time outdoors with your family while learning
         about our local biodiversity.
   - infopic:
-      title: Family Programmes
+      title: Festival Workshops
       subtitle: Education
       description: Join us online with your family to learn about native biodiversity,
         or enjoy some stay-home bonding with our craft activities!
