@@ -3,28 +3,25 @@ title: Festival Workshops
 permalink: /festival-workshops/festivalworkshops/
 description: ""
 ---
-
-
-
 There are many engaging activities by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. You can better understand our City in Nature through  **Walks and Tours** led by experienced guides, or through **Activities and Workshops** that provide experiences you do not want to miss! Please check back regularly for more updates. 
 
-# **Activities and Workshops**
+# **Programmes, Activities and Workshops**
 
 Learn more about how to care for our City in Nature and its flora and fauna through these opportunities and workshops.
 
 
 | Date | Workshop | How to Register |
 | -------- | -------- | -------- |
-|05 Jun 2022 9.00am - 11.00am| **Croc & Friends at Main Bridge.** Learn all about the Estuarine Crocodiles and their neighbours at Sungei Buloh’ Main Bridge. Drop by to have a chat with our volunteer, Bernard, anytime within the 2 hour period that he is there.| Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/5-june-2022-croc-,-a-,-friends-at-main-bridge) for more information.
-| 11 Jun 2022 4.00pm - 6.00pm| **Soil Prep + Tree Planting.** Soil preparations and tree-planting to enhance the habitat at Kranji Coastal Nature Park (Sungei Buloh Wetlands Reserve).| Please click [here](https://www.eventbrite.sg/e/soil-prep-tree-planting-kranji-coastal-nature-park-june-2022-tickets-326892603577) to register.|
-| 18 Jun 2022 8.30am – 1.30pm     | **Discovering Ubin Living Lab with Leave No Trace™**. Join us in our L.N.T. awareness workshop at Ubin Living Lab to learn about how you can make better decisions in the outdoor world which we all enjoy. Leave No Trace™ (L.N.T.) is a set of 7 internationally recognised outdoor ethics principles. You will find out more about ways and gain low-impact outdoor skills to prevent user-induced impacts caused by irresponsible recreations.    | 	Registration opens on 7 May 2022, 12pm. Sign up [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/discovering-ubin-living-lab-with-leave-no-trace-(18-june-2022)).     |
-| 25 Jun 2022 4.00pm - 6.00pm| **Soil Prep + Tree Planting.** Soil preparations and tree-planting to enhance the habitat at Kranji Coastal Nature Park (Sungei Buloh Wetlands Reserve).| Please click [here](https://www.eventbrite.sg/e/soil-prep-tree-planting-kranji-coastal-nature-park-june-2022-tickets-326892603577) to register.|
+|27th May 2023 12:30pm - 2:30pm| **I Think I can Fly!** Flying seeds and fruits are common features in our tropical forest. They have different features that aid the trees to desperse their seeds over long distances. In this hands-on workshop, we will look at some of the different mechanisms that plants have deployed to spread their seeds as far away from their parent tree as possible. We will be using paper origami to make winged fruits to investigate how well they fly. Come fly away with us!| Please click here for more information.
+| 27th May 2023 12:30pm - 2:30pm| **The ABCs of our Forests & Wetlands** Singapore’s forests, mangroves and coastal habitats are amazing places to find letters in the alphabets. Upon stepping foot into our outreach space, children will go on an adventure to uncover the hidden ABCs and learn about the amazing biodiversity in Bukit Timah Nature Reserve, Pulau Ubin and Sungei Buloh Wetland Reserve! This workshop activity space comprises of craftwork, and mini quizzes to spur children’s interest and love for nature.| Please click here to register.|
+| 27th May 2023 2:30pm - 4:30pm| **Wildlife Warriors**. Join us for a fun Snake and Ladder activity while still learning about our native biodiversity along the way!    | 	Please click here to register   |
+| 27th May 2023 4:30pm - 6:30pm| **Rainbow Fabric Fun!** Join us for a craft activity that teaches basic upcycling skills to make your own native wildlife bracelet  | Please click here to register.|
+| 28th May 2023 10:30pm - 12:30pm| **Make it Match** Join us to learn more about Singapore's native animals through a modified version of a fun matching game.| Please click here to register.|
+| 28th May 2023 2:30pm - 4:30pm| **Hide N Seek!** Join us to learn more about Singapore's native animals through a unique game of shadow hide and seek! |Please click here to register.|
 
 
 
-
-
-# **Walks and Tours**
+# **Community Programmes and Activities**
 Head out into our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene, through various tours and activities. Please check back regularly for more updates.
 
 
@@ -33,7 +30,7 @@ Head out into our many national parks for an engaging experience with our local 
 
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
-| 01 Jun 2022     | **Butterfly Survey.**  With one last push, the butterfly escapes from it cocoon. Fluttering its brightly coloured wings, the butterfly takes flight for the first time. Join us in our monthly organised survey to monitor the species diversity of butterflies on the island. | Registration opens in May 2022. Please register via  [Volunteer.gov.sg](Volunteer.gov.sg) for more information. |
+|  1 Apr 2023 and 6 May 2023 | **Walk With Your Neighbours @ Chestnut Nature Park!**  By residents, for residents! Friends of Chestnut Nature Park present to you a free nature walk guided by your neighbours. Come learn about the plants and animals (some endangered!) that share our neighbourhoods and green spaces, and share stories about the history of the area. Bring your family and friends down to meet neighbours — and if you're lucky, you may even get to meet a mousedeer or two! | Click [here](https://www.eventbrite.sg/o/friends-of-chestnut-nature-park-20094180493) for registration. |
 | 04 Jun 2022 09:30AM - 11:00AM| **What’s in my Mangrove?** Join us for a guided walk of this unique mangrove wetlands located at the border of freshwater (river) and salt water (sea). Singapore used to have large areas of mangroves, but lost most of them to coastal development. Few mangroves are left in Singapore, one of which is at Sungei Buloh Wetland Reserve.| Registration opens in 27 May 2022, 8am. Look out for updates and more information [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/4-june-whats-in-my-mangrove).|
 | 11 Jun 2022  08:00am - 13:00pm   | **Colouring the Coasts of Chek Jawa.** Explore Chek Jawa, a hidden gem located at the eastern end of Pulau Ubin. Come close to an abundance of biodiversity at Chek Jawa’s unique  coastal habitats. Take on a guided nature trail featuring the coastal boardwalk and House No. 1. Conclude your coastal experience in our art-making session painting your memories on framed canvas together with your family and friends! | Registration opens on 30 April 2022, 12pm. Sign up [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/colouring-the-coasts-of-chek-jawa----11-june-2022).     |
 | 11 June 2022 09:30AM - 11:00AM| **What's in my water?** Join us for an interesting morning walk getting to know the creatures and plants that lives in and around the water edges of Sungei Buloh.| Registration opens in 03 June 2022, 8am. Look out for updates and more information [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/11-june-whats-in-my-water).
