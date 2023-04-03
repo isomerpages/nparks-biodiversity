@@ -22,7 +22,7 @@ For those who love more hands-on activities, do check out these cute crafts for 
 
 | Activity        | Downloadable PDF |
 | -------- -----| -------- | 
-|Make an **Egg Carton Ant** family using recycled materials! |![](/images/Crafts/eggcartonant.png) [Egg Carton Ants instructions](/files/Crafts/Egg%20Carton%20Ants%20new.pdf)|
+|Make **The Most Egg-cellent Gift** with your family using recycled materials! |![](/images/Crafts/eggcartonant.png) [Egg Carton Ants instructions](/files/Crafts/Egg%20Carton%20Ants%20new.pdf)|
 |Get messy **Fingerprint Painting** our local biodiversity with your kids!|![](/images/Crafts/fingerprintpaint.png)[Fingerprint Painting](/files/Crafts/Fingerprint%20painting.pdf)|
 Search high and low for the hidden animals to colour in our **Spot and Colour** worksheet!|![](/images/Crafts/spotandcolour.png)[Spot and colour worksheet](/files/Crafts/Spot%20and%20colour%20me.pdf)|
 Let your creative juices flow with our **Stencil Stamping** activity!|[Stencil stamping activity sheet](/files/Crafts/Stencil%20stamping%20activity.pdf)|
