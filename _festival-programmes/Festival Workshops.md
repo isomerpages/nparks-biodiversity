@@ -3,7 +3,8 @@ title: Festival Workshops
 permalink: /festival-workshops/festivalworkshops/
 description: ""
 ---
-There are many engaging programmes, activities and workshops by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. You can better understand our City in Nature through **Activities and Workshops** that provide experiences you do not want to miss! Please check back regularly for more updates. 
+There will be many engaging programmes, activities and workshops by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. Through these, you can better understand our City in Nature and local biodiversity! Please check back regularly for more updates as you do not want to miss! 
+
 
 # **Programmes, Activities and Workshops**
 
