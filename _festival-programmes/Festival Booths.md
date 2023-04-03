@@ -11,7 +11,7 @@ The Festival of Biodiversity is glad to have a lineup of booths by many esteemed
 | ||  |
 | -------- | -------- | -------- |
 |![](/images/acres.jpeg) | **[ACRES](https://acres.org.sg/).** Promoting kindness to animals, our fellow sentient beings, in our biophilic city in nature.|
-|![](/images/bookatree.jpeg) | **Book A Tree.** Text
+|![](/images/bookatree.jpeg) | **Book A Tree.** In support of NParks' OneMillionTrees movement, all proceeds from the sale of "God's Own Design- A Photographic Journey Through Nature" book will be donated to Garden City Fund's Plant-A-Tree Programme. Booth is to generate fund for Garden City fund through sales of "God's Own Design- a photographic journey through nature".
 |![](/images/cicada%20tree%20eco-place.jpg)| **[Cicada Tree Eco-Place](https://herpsocsg.com/)**. |
 |![](/images/friends%20of%20marine%20park.png)| **[Friends of Marine Park](https://herpsocsg.com/)**. |
 |![](/images/Logos/hsslogo.jpg)| **[Herpetological Society of Singapore](https://herpsocsg.com/)**. HSS will have a manned booth with several specially preserved reptile specimens. We will also bring 2-3 posters featuring native herpetofauna and the project(s) we are doing. The booth will also have stickers we plan to sell at the event.|
