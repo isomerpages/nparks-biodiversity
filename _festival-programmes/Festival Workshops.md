@@ -3,10 +3,10 @@ title: Festival Workshops
 permalink: /festival-workshops/festivalworkshops/
 description: ""
 ---
-There will be many engaging programmes, activities and workshops by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. Through these, you can better understand our City in Nature and local biodiversity! Please check back regularly for more updates as you do not want to miss! 
+There will be many engaging activities and workshops by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. Through these, you can better understand our City in Nature and local biodiversity! Please check back regularly for more updates as you do not want to miss! 
 
 
-# **Programmes, Activities and Workshops**
+# **Activities and Workshops**
 
 Learn more about how to care for our City in Nature and its flora and fauna through these opportunities and workshops.
 
@@ -19,5 +19,3 @@ Learn more about how to care for our City in Nature and its flora and fauna thro
 | 27th May 2023 4:30pm - 6:30pm| **Rainbow Fabric Fun!** Join us for a craft activity that teaches basic upcycling skills to make your own native wildlife bracelet  | Please click here to register.|
 | 28th May 2023 10:30pm - 12:30pm| **Make it Match** Join us to learn more about Singapore's native animals through a modified version of a fun matching game.| Please click here to register.|
 | 28th May 2023 2:30pm - 4:30pm| **Hide N Seek!** Join us to learn more about Singapore's native animals through a unique game of shadow hide and seek! |Please click here to register.|
-
-
