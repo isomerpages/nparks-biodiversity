@@ -3,7 +3,7 @@ title: Community Programmes and Activities
 permalink: /community-programmes-activities/community/
 description: ""
 ---
-The Festival of Biodiversity this year features many online events, through a wide variety of **Upcoming Webinars**. The Festival of Biodiversity also has a deep catalog of **Past Webinars** for viewing of biodiversity content on demand!
+The Festival of Biodiversity this year features many exciting events, through a wide variety of **Upcoming Webinars and Walks**. The Festival of Biodiversity also has a deep catalog of **Past Webinars** for viewing of biodiversity content on demand!
 
 # **Community Programmes and Activities**
 Head out into our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene, through various tours and activities. Please check back regularly for more updates.
