@@ -3,8 +3,7 @@ title: Stay Home Activities
 permalink: /stay-home-activities/stayhome/
 description: ""
 ---
-
-# **Online Activities**
+# **Activity Sheets**
 
 Join us for a fun-filled, educational session online with your family where we will regale you with the tales of our wondrous biodiversity and how to protect it.
 
@@ -16,7 +15,7 @@ Join us for a fun-filled, educational session online with your family where we w
 
 
 
-# **Crafts**
+# **Craft Activities**
 For those who love more hands-on activities, do check out these cute crafts for both parents and children. These crafts are a great way to introduce your kids to local biodiversity in a fun and engaging way, so download and print out our unique colouring sheets and fun crafts for a fun family activity!
 
 
