@@ -9,14 +9,19 @@ The Festival of Biodiversity this year features many online events, through a wi
 Head out into our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene, through various tours and activities. Please check back regularly for more updates.
 
 
-#### June 2022
+#### April and May 2023
 
 
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
 |  1 Apr 2023 and 6 May 2023 | **Walk With Your Neighbours @ Chestnut Nature Park!**  By residents, for residents! Friends of Chestnut Nature Park present to you a free nature walk guided by your neighbours. Come learn about the plants and animals (some endangered!) that share our neighbourhoods and green spaces, and share stories about the history of the area. Bring your family and friends down to meet neighbours — and if you're lucky, you may even get to meet a mousedeer or two! | Click [here](https://www.eventbrite.sg/o/friends-of-chestnut-nature-park-20094180493) for registration. |
-| 04 Jun 2022 09:30AM - 11:00AM| **What’s in my Mangrove?** Join us for a guided walk of this unique mangrove wetlands located at the border of freshwater (river) and salt water (sea). Singapore used to have large areas of mangroves, but lost most of them to coastal development. Few mangroves are left in Singapore, one of which is at Sungei Buloh Wetland Reserve.| Registration opens in 27 May 2022, 8am. Look out for updates and more information [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/4-june-whats-in-my-mangrove).|
-| 11 Jun 2022  08:00am - 13:00pm   | **Colouring the Coasts of Chek Jawa.** Explore Chek Jawa, a hidden gem located at the eastern end of Pulau Ubin. Come close to an abundance of biodiversity at Chek Jawa’s unique  coastal habitats. Take on a guided nature trail featuring the coastal boardwalk and House No. 1. Conclude your coastal experience in our art-making session painting your memories on framed canvas together with your family and friends! | Registration opens on 30 April 2022, 12pm. Sign up [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/colouring-the-coasts-of-chek-jawa----11-june-2022).     |
+#### June 2023
+
+
+| Date | Event | How to Register |
+| -------- | -------- | -------- |
+| 03 Jun 2023 04:00PM over zoom| **The Critically Endangered Malayan Tiger** The Malayan tiger is a unique species that had once lived in Singapore. Locally extirpated since 1930, the Malayan tiger now lives in precariously low numbers in Peninsular Malaysia. Since 2015, people living in Singapore have made their way to Pahang for Citizen Action for Tigers (CAT Walk Plus) — a project to protect tigers and restore critical habitat for wildlife. Come learn more about CAT Walk Plus and how you can be part of the efforts to save the Malayan tiger from extinction.| |
+| 3 Jun 2023 12.30PM to 1.30PM   | **Storytelling: The Adventures of Little Tiger and Bird** We will read two or three books from SWAG’s Little Tiger series of books. The stories are about the travels made by good friends, Little Tiger and Bird, who always seem to meet with an adventure where they meet and rescue a little wildcat! The stories show values of friendship, empathy and compassion. |    |
 | 11 June 2022 09:30AM - 11:00AM| **What's in my water?** Join us for an interesting morning walk getting to know the creatures and plants that lives in and around the water edges of Sungei Buloh.| Registration opens in 03 June 2022, 8am. Look out for updates and more information [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/11-june-whats-in-my-water).
 | 18 Jun 2022  08:00am - 10:00am   | **Chek Jawa Wetland Tour.** Join us for a tour to discover and learn about Chek Jawa's six ecosystems and the diverse array of animals that inhabits these unique habitats. | Registration opens in May 2022. Sign up [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/chek-jawa-wetlands-tour-18-june-2022).     |
 |18 Jun 2022 09:30AM - 11:00AM| **What’s in my Mud?** Join us for an interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh.| Registration opens in 10 June 2022, 8am. Look out for updates and more information [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/18-june-whats-in-my-mud).
