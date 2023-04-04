@@ -27,7 +27,7 @@ Head out into our many national parks for an engaging experience with our local 
 
 
 ##### Habitat Enhancement Event
-Habitat Enhancement event is to plant trees and contribute to enhancing an area in the park for our wildlife. The results of the Nationwide BioBlitz will be crucial in facilitating habitat enhancement works and conservation efforts for Singapore's biodiversity.
+Habitat Enhancement event is to plant trees and contribute to enhancing an area in the park for our wildlife. The results of the Nationwide BioBlitz will be crucial in facilitating habitat enhancement works and conservation efforts for Singapore's biodiversity. Click [here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/upcoming-activities) to register
 
 
 
