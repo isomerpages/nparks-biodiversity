@@ -7,9 +7,9 @@ description: ""
 
 Join us for a fun-filled, educational session online with your family where we will regale you with the tales of our wondrous biodiversity and how to protect it.
 
-| Date | Event | How to Register |
-| -------- | -------- | -------- |
-| 11 Jun 2022 (Saturday)  2.00pm to 3.00pm     | **Storytelling: Roly Poly Pangolin by Anna Dewdney.** Listen in to the adventures of Roly Poly the shy pangolin who rolled out of his ball to discover that the world isn’t such a scary place. Immerse yourself in rhyme and rhythm specially narrated by Moonbeam Award author and storyteller, Wei Teng. Suitable for ages between 5 to 7 years old. This online activity is brought to you by NParks Bukit Timah Nature Reserve Branch.  | Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/cn_pangolin-storytelling-11-june) Register to be part of the Zoom session (limited slots).     | 
+| Activity | Activity  |
+| -------- | -------- | 
+| **Spot the Difference** Learn more about our biodiversity in our local coastal and terrestrial environments by identifying the features that are absent in the downloadable activity sheet.     |  | Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/cn_pangolin-storytelling-11-june) Register to be part of the Zoom session (limited slots).     | 
 |12 Jun 2022 (Sunday)  2.00pm to 3.00pm | **The ABCs of Bukit Timah Nature Reserve.** The forest is an amazing place to find all the letters in the alphabets. Let’s go on an adventure to uncover the hidden ABCs and learn about the amazing biodiversity in Singapore’s rainforest! This virtual workshop comprises of storytelling, craftwork and mini quizzes to spur children’s interest and love for nature. Suitable for ages between 5 to 7 years old. This online activity is brought to you by NParks Bukit Timah Nature Reserve Branch. | Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/cn_the-abcs-of-bukit-timah-nature-reserve_12june) to register. Register to be part of the Zoom session (limited slots).     |
 |23 Jun 2022 (Thursday) 9.30am to 10.30am| **Coco and Friends.** A programme by National Parks Board and HSBC Singapore aiming to promote more understanding and awareness of some of our native biodiversity found in our forests.| Please click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/6/cn_coco-and-friends-23-june-2022) to register and for more information. Do note that this is a paid walk.|
 
