@@ -11,7 +11,7 @@ These fun-filled activity sheets are a great way to introduce your kids to local
 | -------- | -------- | 
 | **Spot the Difference** Learn more about our local coastal and terrestial biodiversity by identifying their distinct features that are absent!     |  ![](/images/spot%20the%20difference.png)    | 
 |**Unscramble Me!** Unscramble the letters to reveal the name of a native species! |    ![](/images/unscramble%20me.png) |
-|**Doodle** Get your creative juices flowing and turn this doodle into a native animal! | ![](/images/doodle.png)|
+|**Doodle** Get your creative juices flowing and turn the doodles into native animals! | ![](/images/doodle.png)|
 
 
 
