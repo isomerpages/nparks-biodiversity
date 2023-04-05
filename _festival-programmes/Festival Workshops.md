@@ -11,8 +11,8 @@ There will be many engaging activities and workshops by NParks and our partners 
 Learn more about how to care for our City in Nature and its flora and fauna through these opportunities and workshops.
 
 
-| Date | Workshop | How to Register |
-| -------- | -------- | -------- |
+| Date | Workshop | 
+| -------- | -------- | 
 |27th May 2023 12:30pm - 2:30pm| **I Think I can Fly!** Flying seeds and fruits are common features in our tropical forest. They have different features that aid the trees to desperse their seeds over long distances. In this hands-on workshop, we will look at some of the different mechanisms that plants have deployed to spread their seeds as far away from their parent tree as possible. We will be using paper origami to make winged fruits to investigate how well they fly. Come fly away with us!| Please click here for more information.
 | 27th May 2023 12:30pm - 2:30pm| **The ABCs of our Forests & Wetlands** Singapore’s forests, mangroves and coastal habitats are amazing places to find letters in the alphabets. Upon stepping foot into our outreach space, children will go on an adventure to uncover the hidden ABCs and learn about the amazing biodiversity in Bukit Timah Nature Reserve, Pulau Ubin and Sungei Buloh Wetland Reserve! This workshop activity space comprises of craftwork, and mini quizzes to spur children’s interest and love for nature.| Please click here to register.|
 | 27th May 2023 2:30pm - 4:30pm| **Wildlife Warriors**. Join us for a fun Snake and Ladder activity while still learning about our native biodiversity along the way!    | 	Please click here to register   |
