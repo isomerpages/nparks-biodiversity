@@ -5,7 +5,6 @@ description: ""
 ---
 There will be many engaging activities and workshops by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. Through these, you can better understand our City in Nature and local biodiversity! Please check back regularly for more updates as you do not want to miss! 
 
-
 # **Activities and Workshops**
 
 Learn more about how to care for our City in Nature and its flora and fauna through these opportunities and workshops.
