@@ -19,4 +19,5 @@ Learn more about how to care for our City in Nature and its flora and fauna thro
 | 27th May 2023 2:30pm - 4:30pm| **Rainbow Fabric Fun!** Join us for a craft activity that teaches basic upcycling skills to make your own native wildlife bracelet  
 | 27th May 2023 4:30pm - 6:30pm| **Wildlife Classrooms: Forest Adventure with Biogirl MJ!** Join Biogirl MJ on a forest adventure as we learn more about our native, terrestrial wildlife that lives amongst us! There will be stories, games, and a DIY badge session where you can create your own badge to bring home!
 | 28th May 2023 10:30pm - 12:30pm| **Make it Match** Join us to learn more about Singapore's native animals through a modified version of a fun matching game.| Please click here to register.|
-| 28th May 2023 2:30pm - 4:30pm| **Hide N Seek!** Join us to learn more about Singapore's native animals through a unique game of shadow hide and seek! |Please click here to register.|
+| 28th May 2023 2:30pm - 4:30pm| **Wildlife Origami with WWF-Singapore** Learn how to fold some of the world's most amazing animals with us! Join us and we will teach you how to fold origami of animals you can find in Singapore’s land and waters.|
+| 28th May 2023 4:30pm - 6:30pm| **Hide N Seek!** Join us to learn more about Singapore's native animals through a unique game of shadow hide and seek! |Please click here to register.|
