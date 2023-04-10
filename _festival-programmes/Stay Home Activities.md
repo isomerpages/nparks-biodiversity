@@ -27,6 +27,3 @@ For those who love more hands-on activities, do check out these cute crafts for 
 Let your creative juices flow with our **Animal Bookmark** activity!|[Stencil stamping activity sheet](/files/Crafts/Stencil%20stamping%20activity.pdf)|
 Let your crayons take a walk on the wild side with our **Bee Activity**! |![](/images/Crafts/crocodile.png)[Saltwater Crocodile](/files/Crafts/worksheet%20-%20saltwater%20croc.pdf)![](/images/Crafts/mousedeer.png)[Lesser Mousedeer](/files/Crafts/worksheet%20-%20lesser%20mousedeer.pdf) ![](/images/Crafts/tarantula.png)[     Blue Tarantula](/files/Crafts/worksheet%20-%20blue%20tarantula.pdf)![](/images/Crafts/owl.png)[Buffy Fish Owl](/files/Crafts/worksheet%20-%20buffy%20fish%20owl.pdf)|
 
-**Spot the Difference**!
-[Spot the Difference](/files/Spot%20the%20Difference_Facilitation%20Notes.pdf)
-![Rainforest Template](/images/IMG_70A615B231E8-1.jpeg)
