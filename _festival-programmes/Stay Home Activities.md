@@ -22,7 +22,7 @@ For those who love more hands-on activities, do check out these cute crafts for 
 
 | Activity        | Downloadable PDF |
 | -------------| -------- | 
-|Make **The Most Egg-cellent Gift** with your family using recycled egg cartons! |![](/images/Crafts/eggcartonant.png) [Egg Carton Ants instructions](/files/Crafts/Egg%20Carton%20Ants%20new.pdf)|
-|Get messy by getting hands-on and create your own **Paper Mache Fish**!|![](/images/Crafts/fingerprintpaint.png)[Fingerprint Painting](/files/Crafts/Spot%20and%20colour%20me.pdf)|
-Let your creative juices flow with our **Animal Bookmark** activity!|[Stencil stamping activity sheet](/files/Crafts/Stencil%20stamping%20activity.pdf)|
-Let your crayons take a walk on the wild side with our **Bee Activity**! |![](/images/Crafts/crocodile.png)[Saltwater Crocodile](/files/Crafts/worksheet%20-%20saltwater%20croc.pdf)![](/images/Crafts/mousedeer.png)[Lesser Mousedeer](/files/Crafts/worksheet%20-%20lesser%20mousedeer.pdf) ![](/images/Crafts/tarantula.png)[     Blue Tarantula](/files/Crafts/worksheet%20-%20blue%20tarantula.pdf)![](/images/Crafts/owl.png)[Buffy Fish Owl](/files/Crafts/worksheet%20-%20buffy%20fish%20owl.pdf)|
+|Make **The Most Egg-cellent Gift** with your family using recycled egg cartons! | [The Most Egg-cellent Gift instructions]|
+|Get messy by getting hands-on and create your own **Paper Mache Fish**!|[Paper Mache Fish instructions]|
+Let your creative juices flow with our **Animal Bookmark** activity!|[Animal Bookmark instructions]|
+Let your crayons take a walk on the wild side with our **Bee Activity**! |[Bee Activity]|
