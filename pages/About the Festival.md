@@ -5,7 +5,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/FOBlogo.png)
 
-The Festival of Biodiversity is an annual event which aims to create awareness and foster a sense of appreciation for our natural heritage. Visitors were presented with a range of online and on site activities for all ages at [2023's Festival](https://youtu.be/bLUUpXIV3vY).
+The Festival of Biodiversity is an annual event which aims to create awareness and foster a sense of appreciation for our natural heritage. Visitors were presented with a range of online and on site activities for all ages at 2023's Festival.
 
 Initiated in 2012, the Festival of Biodiversity is organised by the National Parks Board in collaboration with the Biodiversity Roundtable. The Biodiversity Roundtable is an initiative which includes more than 20 non-governmental organisations involved in local biodiversity issues, and NParks.
 
