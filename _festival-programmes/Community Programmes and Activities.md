@@ -8,8 +8,9 @@ The Festival of Biodiversity this year features many exciting events, through a 
 # **Community Programmes and Activities**
 Head out into our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity scene, through various tours and activities. Please check back regularly for more updates.
 
+#### NParks Nationwide Bioblitz by NParks
 
-#### April and May 2023
+Nationwide BioBlitz 2023 will be held from **22 April to 14 May 2023, from 7am to 12pm** in various parks and gardens across Singapore. Between 22 April and 14 May, participants may visit parks of their choice on any day to identify and count as many animals as they can find. Click [here](https://form.gov.sg/63f48b142146c40012906d58) to register.
 
 
 | Date | Event | How to Register |
