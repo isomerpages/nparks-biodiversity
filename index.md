@@ -33,7 +33,7 @@ sections:
       button: Explore
       image: /images/exploreNParks.png
       description: Enjoy a fun-filled day with your family at our booths by NParks and
-        other partners.
+        other nature organisations.
   - infopic:
       title: Festival Workshops
       subtitle: Education
