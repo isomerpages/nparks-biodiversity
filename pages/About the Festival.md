@@ -12,7 +12,7 @@ Initiated in 2012, the Festival of Biodiversity is organised by the National Par
 Since its initiation, the Festival has garnered the support of many biodiversity-related interest groups and Non-Governmental Organisations (NGOs). These groups play a crucial role in creating awareness about our island’s biodiversity and in nurturing our City in Nature vision.
 
 Date: **27 & 28 May 2023**\
-Time: **9am - 6pm**\
+Time: **10am - 8pm**\
 Venue: **Heartbeat @ Bedok**\
 Location: **1 Cluny Rd, Singapore 259569**. View location in [Google Maps](https://goo.gl/maps/XU3Lzd968B6MY57M6).
 
