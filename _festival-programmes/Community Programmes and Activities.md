@@ -12,10 +12,10 @@ Head out into our many national parks for an engaging experience with our local 
 
 Nationwide BioBlitz 2023 will be held from **22 April to 14 May 2023, from 7am to 12pm** in various parks and gardens across Singapore. Between 22 April and 14 May, participants may visit parks of their choice on any day to identify and count as many animals as they can find. Click [here](https://form.gov.sg/63f48b142146c40012906d58) to register.
 
-
+#### Other Activities
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
-|  1 Apr 2023 and 6 May 2023 | **Walk With Your Neighbours @ Chestnut Nature Park! by Friends of Chestnut Nature Park (FoCNP)**  By residents, for residents! Friends of Chestnut Nature Park present to you a free nature walk guided by your neighbours. Come learn about the plants and animals (some endangered!) that share our neighbourhoods and green spaces, and share stories about the history of the area. Bring your family and friends down to meet neighbours — and if you're lucky, you may even get to meet a mousedeer or two! | Click [here](https://www.eventbrite.sg/o/friends-of-chestnut-nature-park-20094180493) for registration. |
+| 6 May 2023 | **Walk With Your Neighbours @ Chestnut Nature Park! by Friends of Chestnut Nature Park (FoCNP)**  By residents, for residents! Friends of Chestnut Nature Park present to you a free nature walk guided by your neighbours. Come learn about the plants and animals (some endangered!) that share our neighbourhoods and green spaces, and share stories about the history of the area. Bring your family and friends down to meet neighbours — and if you're lucky, you may even get to meet a mousedeer or two! | Click [here](https://www.eventbrite.sg/o/friends-of-chestnut-nature-park-20094180493) for registration. |
 |  22 April to 14 May 2023, from 7AM to 12PM | **NParks Nationwide Bioblitz by NParks**  Nationwide BioBlitz 2023 will be held in various parks and gardens across Singapore. Participants may visit parks of their choice on any day to identify and count as many animals as they can find.| Click [here](https://form.gov.sg/63f48b142146c40012906d58) to register.|
 #### June 2023
 
