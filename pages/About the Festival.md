@@ -16,5 +16,5 @@ Time: **10am - 8pm**\
 Venue: **Heartbeat @ Bedok**\
 Location: **1 Cluny Rd, Singapore 259569**. View location in [Google Maps](https://goo.gl/maps/XU3Lzd968B6MY57M6).
 
-![Map of Botany Centre]
-(![](/images/2021FOBLocation.png)
+**Map of Heartbeat@Bedok**
+![](/images/2021FOBLocation.png)
