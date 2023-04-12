@@ -32,8 +32,7 @@ sections:
       url: festival-programmes/activities/
       button: Explore
       image: /images/exploreNParks.png
-      description: Enjoy some quality time outdoors with your family while learning
-        about our local biodiversity.
+      description: Enjoy a fun-filled day with your family at our booths.
   - infopic:
       title: Festival Workshops
       subtitle: Education
