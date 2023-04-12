@@ -23,11 +23,6 @@ Nationwide BioBlitz 2023 will be held from **22 April to 14 May 2023, from 7am t
 
 
 
-##### Habitat Enhancement Event
-Habitat Enhancement event is to plant trees and contribute to enhancing an area in the park for our wildlife. The results of the Nationwide BioBlitz will be crucial in facilitating habitat enhancement works and conservation efforts for Singapore's biodiversity. Click [here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/upcoming-activities) to register
-
-
-
 ##### [Upcoming talks and Webinars](https://fob.nparks.gov.sg/festival-programmes/Online-events/upcoming-webinars)
 Get to know the biodiversity of Singapore, with NParks Spotlight.
 ##### [Past Webinars](https://fob.nparks.gov.sg/festival-programmes/Online-events/past-webinars)
