@@ -37,8 +37,8 @@ sections:
   - infopic:
       title: Festival Workshops
       subtitle: Education
-      description: Join us online with your family to learn about native biodiversity,
-        or enjoy some stay-home bonding with our craft activities!
+      description: Join us with your family to learn about native biodiversity, or
+        enjoy some stay-home bonding with our craft activities!
       button: Find out more
       url: /festival-programmes/family-programmes
       image: /images/nparks photo family.jpeg
