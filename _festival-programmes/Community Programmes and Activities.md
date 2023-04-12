@@ -38,7 +38,7 @@ Habitat Enhancement event is to plant trees and contribute to enhancing an area 
 
 
 
-##### [Upcoming Webinars](https://fob.nparks.gov.sg/festival-programmes/Online-events/upcoming-webinars)
+##### [Upcoming talks and Webinars](https://fob.nparks.gov.sg/festival-programmes/Online-events/upcoming-webinars)
 Get to know the biodiversity of Singapore, with NParks Spotlight.
 ##### [Past Webinars](https://fob.nparks.gov.sg/festival-programmes/Online-events/past-webinars)
 Learn more about our City in Nature and Singapore’s biodiversity with videos of previously conducted webinars.
