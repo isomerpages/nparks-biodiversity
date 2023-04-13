@@ -19,7 +19,6 @@ Head out into our many national parks for an engaging experience with our local 
 | -------- | -------- | -------- |
 |22 April to 14 May 2023, from 7am to 12pm | **Habitat Enhancement Event** Habitat Enhancement event is to plant trees and contribute to enhancing an area in the park for our wildlife. The results of the Nationwide BioBlitz will be crucial in facilitating habitat enhancement works and conservation efforts for Singapore's biodiversity.|Click [here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/upcoming-activities) to visit the website. More details about this event will be put up at a later date.|
 
-| | **dd** | |
 
 
 #### Other Activities
