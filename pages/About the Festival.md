@@ -17,4 +17,4 @@ Venue: **Heartbeat @ Bedok**\
 Location: **11 Bedok North Street 1, Singapore 469662**. View location in [Google Maps](https://www.google.com/maps/place/Heartbeat+@+Bedok/@1.3257348,103.9290209,17.14z/data=!4m6!3m5!1s0x31da23af0ff5ff4f:0x4faf028d140f8d42!8m2!3d1.3269753!4d103.9321493!16s%2Fg%2F11shcwrg7k).
 
 **Map of Heartbeat@Bedok**
-![](/images/2021FOBLocation.png)
+![](/images/map%20of%20heartbeat@bedok.png)
