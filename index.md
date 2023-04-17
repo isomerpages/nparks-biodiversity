@@ -58,7 +58,7 @@ sections:
       subtitle: what are our schools up to?
       description: This week of events commemorates the International Day for
         Biological Diversity. Students can participate in exciting activities
-        from 16 to 22 May 2022.
+        from 19 to 26 May 2023.
       button: Learn more
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/biodiversity-week-for-schools
       image: /images/Green Wave.jpg
