@@ -12,12 +12,12 @@ sections:
       button: About the Festival
       url: /about-the-festival
       key_highlights:
-        - title: Activities
-          description: ""
-          url: /festival-programmes/activities/
         - title: Booths
           description: ""
           url: /festival-booths/festivalbooths/
+        - title: Activities
+          description: ""
+          url: /festival-programmes/activities/
         - title: Online Events
           description: ""
           url: festival-programmes/online-events
