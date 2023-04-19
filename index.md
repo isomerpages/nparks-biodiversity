@@ -22,7 +22,7 @@ sections:
           description: ""
           url: /community-programmes-activities/community/
         - title: "Stay Home Activities "
-          description: Key Highlight description
+          description: ""
           url: /festival-programmes/activities/crafts/
       subtitle: 27 & 28 May 2023 |  Heartbeat@Bedok
   - infopic:
