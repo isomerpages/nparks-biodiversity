@@ -33,7 +33,7 @@ Head out into our many national parks for an engaging experience with our local 
 | Session 1: 29 Apr 2023 08:00AM - 09:00AM Session 2: 29 Apr 2023 08:15AM - 09:15AM | Biodiversity Tour (April Sessions) Come on down to Jurong Lake Gardens and learn about the rich biodiversity that you can find here! | Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/4/biodiversity-tour-at-jlg-(29-apr-session-1)) to register for Session 1. Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/4/biodiversity-tour-at-jlg-(29-apr-session-2)) to register for Session 2.
 | 29 Apr 2023 09:30AM - 11:00AM | **What's in my mangrove?** Join us for a guided walk of one of the few mangrove wetlands in Singapore located at Sungei Buloh Wetland Reserve. | Registration for this walk opens on 21 April 2023 (Friday) at 08:00 AM.
 | 10 May 2023 08:00AM - 10:00AM | **Chek Jawa Wetlands Tour**. Join us for a tour to discover and learn about Chek Jawa's six ecosystems and the diverse array of animals that inhabit these unique habitats.| Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/5/chek-jawa-wetlands-tour-10-may-2023) for registration.
-
+| Session 1: 27 May 2023 08:00AM - 09:00AM Session 2: 27 May 2023 08:15AM - 09:15AM | Biodiversity Tour (May Sessions) Come on down to Jurong Lake Gardens and learn about the rich biodiversity that you can find here! | Registration will open soon.
 
 
 
