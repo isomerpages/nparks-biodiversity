@@ -20,7 +20,7 @@ sections:
           url: /festival-workshops/festivalworkshops/
         - title: Community Programmes and Activities
           description: ""
-          url: festival-programmes/online-events
+          url: /community-programmes-activities/community/
         - title: Stay Home Activities
           description: ""
           url: /festival-programmes/family-programmes
