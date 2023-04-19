@@ -17,10 +17,11 @@ Head out into our many national parks for an engaging experience with our local 
 ##### Habitat Enhancement Event
 
 | Date | Event | How to Register |
-| -------- | ------------------ | -------- |
+| -------- | -------- | -------- |
 | More details about this event will be put up at a later date.  | **Habitat Enhancement Event** Habitat Enhancement event is to plant trees and contribute to enhancing an area in the park for our wildlife. The results of the Nationwide BioBlitz will be crucial in facilitating habitat enhancement works and conservation efforts for Singapore's biodiversity.| Click [here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/upcoming-activities) to visit the website. |
 
 #### Other Activities 
+
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
 | 15 March to 17 Sept 2023 ; Guided Tours on 22 Apr, 13 May, 8 July 2023  | **[Tropical Forest Sceneries: Singapore & Beyond by NParks and Singapore Botanic Gardens (SBG)](https://www.nparks.gov.sg/activities/events-and-workshops/2023/3/sbg-tropical-forest-sceneries-2023)** Come join us for the tropical Forest Sceneries: Singapore & Beyond at Level 1, Botanical Art Gallery (Gallop Extension). This exhibition will provide you with a visual and immersive experience through the changing forest sceneries in Singapore and its vicinity. There will be a vast range of artefacts, from paintings and photographs to carpological displays, which will take you back in time to scenes of verdant abundance and grandeur, of deforestation and devastation, and finally, of reforestation and restoration.| Free for public to attend. |
