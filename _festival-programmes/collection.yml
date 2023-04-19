@@ -2,7 +2,6 @@ collections:
   festival-programmes:
     output: true
     order:
-      - test.md
       - Festival Booths.md
       - Festival Workshops.md
       - Community Programmes and Activities.md
