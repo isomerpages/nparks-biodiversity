@@ -4,7 +4,9 @@ permalink: /festival-programmes/activities/crafts/
 description: ""
 ---
 # **Crafts**
-For those who love more hands-on activities, do check out these cute crafts for both parents and children. These crafts are a great way to introduce your kids to local biodiversity in a fun and engaging way, so download and print out our unique colouring sheets and fun crafts for a fun family activity!
+For those who love more hands-on activities, do check out these cute crafts from FoB 2022 for both parents and children. These crafts are a great way to introduce your kids to local biodiversity in a fun and engaging way, so download and print out our unique colouring sheets and fun crafts for a fun family activity! 
+
+Do keep a lookout for the upcoming craft activities which will be released closer to FoB 2023! 
 
 
 
