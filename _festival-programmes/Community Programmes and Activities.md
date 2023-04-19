@@ -37,6 +37,7 @@ Head out into our many national parks for an engaging experience with our local 
 | 13 May 2023 09:30AM - 11:00AM | **What's in my mud?** Join us and learn all about the Estuarine Crocodiles that bask in the Reserve with our volunteer Bernard, who has a keen interest in our reptilian friends at Sungei Buloh Wetland Reserve! Do bring along your binoculars, scope or a camera with a good zoom if you have them. | Free admission for all.
 | 13 May 2023 11:30AM - 13:00PM | **Croc and Friends at Main Bridge.** Join us for an interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh Wetland Reserve. Kindly note that the walk will be cancelled if it rains.| Registration opens on 5 May 2023 (Friday) at 08:00AM.
 | 20 May 2023 09:00AM - 10:00AM | **GDO Bees and Butterflies Trail Tour.** Journey with us as we explore the relationship between these pollinators and plants in the garden and their significance at Singapore Hortpark. | Registration will open soon.
+| 3 June 2023 12.30 PM - 1.30 PM, over zoom | **Burning Bright: The Critically Endangered Malayan Tiger | Green Market.** We will read two or three books from SWAG’s Little Tiger series of books at Choa Chu Kang Library. The stories are about the travels made by good friends, Little Tiger and Bird, who always seem to meet with an adventure where they meet and rescue a little wildcat! The stories show values of friendship, empathy and compassion.| Click [here](http://swagcat.org/) for registration.
 
 
 
