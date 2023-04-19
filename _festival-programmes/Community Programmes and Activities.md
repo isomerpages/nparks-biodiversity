@@ -14,7 +14,7 @@ Head out into our many national parks for an engaging experience with our local 
 | -------- | -------- | -------- |
 | 22 April to 14 May 2023, from 7am to 12pm  | **Nationwide BioBlitz 2023** Nationwide BioBlitz 2023 will be held in various parks and gardens across Singapore. Between 22 April and 14 May, participants may visit parks of their choice on any day to identify and count as many animals as they can find | Click [here](https://form.gov.sg/63f48b142146c40012906d58) to register.|
 
-##### Habitat Enhancement 
+#### Habitat Enhancement 
 
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
