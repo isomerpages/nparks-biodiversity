@@ -35,7 +35,7 @@ Head out into our many national parks for an engaging experience with our local 
 | 10 May 2023 08:00AM - 10:00AM | **Chek Jawa Wetlands Tour**. Join us for a tour to discover and learn about Chek Jawa's six ecosystems and the diverse array of animals that inhabit these unique habitats.| Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/5/chek-jawa-wetlands-tour-10-may-2023) for registration.
 | Session 1: 27 May 2023 08:00AM - 09:00AM Session 2: 27 May 2023 08:15AM - 09:15AM | Biodiversity Tour (May Sessions) Come on down to Jurong Lake Gardens and learn about the rich biodiversity that you can find here! | Registration will open soon.
 | 13 May 2023 09:30AM - 11:00AM | **What's in my mud?** Join us and learn all about the Estuarine Crocodiles that bask in the Reserve with our volunteer Bernard, who has a keen interest in our reptilian friends at Sungei Buloh Wetland Reserve! Do bring along your binoculars, scope or a camera with a good zoom if you have them. | Free admission for all.
-
+| 13 May 2023 11:30AM - 13:00PM | **Croc and Friends at Main Bridge.** Join us for an interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh Wetland Reserve. Kindly note that the walk will be cancelled if it rains.| Registration opens on 5 May 2023 (Friday) at 08:00AM.
 
 
 
