@@ -17,7 +17,7 @@ sections:
           url: /festival-programmes/activities/
         - title: Booths
           description: ""
-          url: /festival-programmes/booths
+          url: /festival-booths/festivalbooths/
         - title: Online Events
           description: ""
           url: festival-programmes/online-events
