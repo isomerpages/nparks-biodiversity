@@ -12,16 +12,16 @@ sections:
       button: About the Festival
       url: /about-the-festival
       key_highlights:
-        - title: Booths
+        - title: Festival Booths
           description: ""
           url: /festival-booths/festivalbooths/
-        - title: Activities
+        - title: Festival Workshops
           description: ""
           url: /festival-programmes/activities/
-        - title: Online Events
+        - title: Community Programmes and Activities
           description: ""
           url: festival-programmes/online-events
-        - title: Family programmes
+        - title: Stay Home Activities
           description: ""
           url: /festival-programmes/family-programmes
       subtitle: 27 & 28 May 2023 |  Heartbeat@Bedok
