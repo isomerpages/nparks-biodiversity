@@ -23,7 +23,7 @@ sections:
           url: /community-programmes-activities/community/
         - title: Stay Home Activities
           description: ""
-          url: /festival-programmes/family-programmes
+          url: /stay-home-activities/stayhome/
       subtitle: 27 & 28 May 2023 |  Heartbeat@Bedok
   - infopic:
       title: Festival Booths
