@@ -40,7 +40,7 @@ sections:
       description: Join us with your family to learn about native biodiversity, or
         enjoy some stay-home bonding with our craft activities!
       button: Find out more
-      url: /festival-programmes/family-programmes
+      url: /festival-workshops/festivalworkshops/
       image: /images/nparks photo family.jpeg
       alt: Image alt text
   - infopic:
