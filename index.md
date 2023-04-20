@@ -29,7 +29,7 @@ sections:
       title: Festival Booths
       subtitle: Discover
       alt: Explore Booths and Activities
-      url: festival-programmes/activities/
+      url: /festival-booths/festivalbooths/
       button: Explore
       image: /images/exploreNParks.png
       description: Enjoy a fun-filled day with your family at our booths by NParks and
