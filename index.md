@@ -12,35 +12,35 @@ sections:
       button: About the Festival
       url: /about-the-festival
       key_highlights:
-        - title: Activities
+        - title: Festival Booths
           description: ""
-          url: /festival-programmes/activities/
-        - title: Booths
+          url: /festival-booths/festivalbooths/
+        - title: Festival Workshops
           description: ""
-          url: /festival-programmes/booths
-        - title: Online Events
+          url: /festival-workshops/festivalworkshops/
+        - title: Community Programmes and Activities
           description: ""
-          url: festival-programmes/online-events
-        - title: Family programmes
+          url: /community-programmes-activities/community/
+        - title: "Stay Home Activities "
           description: ""
-          url: /festival-programmes/family-programmes
-      subtitle: 21 & 22 May 2022 |  Botany Centre, Singapore Botanic Gardens
+          url: /festival-programmes/activities/crafts/
+      subtitle: 27 & 28 May 2023 |  Heartbeat@Bedok
   - infopic:
-      title: Outdoor Activities
+      title: Festival Booths
       subtitle: Discover
       alt: Explore Booths and Activities
-      url: festival-programmes/activities/
+      url: /festival-booths/festivalbooths/
       button: Explore
       image: /images/exploreNParks.png
-      description: Enjoy some quality time outdoors with your family while learning
-        about our local biodiversity.
+      description: Enjoy a fun-filled day with your family at our booths by NParks and
+        other nature organisations.
   - infopic:
-      title: Family Programmes
+      title: Festival Workshops
       subtitle: Education
-      description: Join us online with your family to learn about native biodiversity,
-        or enjoy some stay-home bonding with our craft activities!
+      description: Join us with your family to learn about native biodiversity, or
+        enjoy some stay-home bonding with our craft activities!
       button: Find out more
-      url: /festival-programmes/family-programmes
+      url: /festival-workshops/festivalworkshops/
       image: /images/nparks photo family.jpeg
       alt: Image alt text
   - infopic:
@@ -58,7 +58,7 @@ sections:
       subtitle: what are our schools up to?
       description: This week of events commemorates the International Day for
         Biological Diversity. Students can participate in exciting activities
-        from 16 to 22 May 2022.
+        from 19 to 26 May 2023.
       button: Learn more
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/biodiversity-week-for-schools
       image: /images/Green Wave.jpg
