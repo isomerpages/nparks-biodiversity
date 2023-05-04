@@ -3,9 +3,9 @@ title: Festival Booths
 permalink: /festival-booths/festivalbooths/
 description: ""
 ---
+The Festival of Biodiversity is glad to have a lineup of booths by many esteemed nature organisations in Singapore joining NParks to take you through our local wildlife conservation efforts. Pop down for a fun day out with your family, complete with freebies, games, and more!
 
 # **Booth partners**
-The Festival of Biodiversity is glad to have a lineup of booths by many esteemed nature organisations in Singapore joining NParks to take you through our local wildlife conservation efforts. Pop down for a fun day out with your family, complete with freebies, games, and more!
 
 
 | ||  |
