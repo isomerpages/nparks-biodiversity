@@ -10,7 +10,7 @@ Head on out to various programmes and activities by NParks and our partners for 
 
 | Date | Event | How to Register |
 | -------- | -------- | -------- |
-| More details about this event will be put up at a later date.  | **Habitat Enhancement** Habitat Enhancement event is to plant trees and contribute to enhancing an area in the park for our wildlife. The results of the Nationwide BioBlitz will be crucial in facilitating habitat enhancement works and conservation efforts for Singapore's biodiversity.| Click [here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/upcoming-activities) to visit the website. |
+| More details about this event will be put up at a later date.  | **Habitat Enhancement by NParks.** Habitat Enhancement event is to plant trees and contribute to enhancing an area in the park for our wildlife. The results of the Nationwide BioBlitz will be crucial in facilitating habitat enhancement works and conservation efforts for Singapore's biodiversity.| Click [here](https://www.nparks.gov.sg/treessg/one-million-trees-movement/upcoming-activities) to visit the website. |
 
 #### Other Activities 
 
