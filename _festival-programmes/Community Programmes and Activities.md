@@ -3,7 +3,6 @@ title: Community Programmes and Activities
 permalink: /community-programmes-activities/community/
 description: ""
 ---
-
 # **Community Programmes and Activities**
 Head out into our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity. Do keep a regular lookout for more updates.
 
@@ -38,8 +37,3 @@ Head out into our many national parks for an engaging experience with our local 
 | 15 Jun 2023 09:00AM - 13:00PM  | **Incredible Insects (A Biodiversity Workshop).** Join us to learn about the essential ecological roles of insects in the environment and the importance of conserving our native biodiversity at Singapore Botanic Gardens, Gallop Extension. Discover the amazing diversity of insects found in Singapore such as stick insects, beetles, bees, butterflies and even cicadas! | Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/6/incredible-insects-15-june) for registration.|
 | 17 June 2023 to 7 July 2023  | **Cyber Spotter Programme 2.0 June 2023.** Cyber Spotter Programme 2.0 is a citizen science initiative that empowers individuals to play their part in supporting the Coalition to End Illegal Wildlife Trafficking Online by helping to detect and report illegal online listings. Each Cyber Spotter Programme round spans 4 weeks, volunteers will be trained to identify and report illegal wildlife trade online. There will be various engagements through the weekly group activities, live sessions and quizzes to provide a holistic experience. | Click [here](https://cyberspotter.wwf.sg/) for registration.|
 | Session 1: 24 June 2023 08:00AM - 09:00AM; Session 2: 24 June 2023 08:15AM - 09:15AM  | **[Biodiversity Tour (June Sessions)](https://www.nparks.gov.sg/activities/events-and-workshops/2023/6/biodiversity-tour-at-jlg-(24-june-session-1))** Come on down to Jurong Lake Gardens and learn about the rich biodiversity that you can find here! | Registration will open soon.|
-
-##### [Upcoming talks and Webinars](https://fob.nparks.gov.sg/festival-programmes/Online-events/upcoming-webinars)
-Get to know the biodiversity of Singapore, with NParks Spotlight.
-##### [Past Webinars](https://fob.nparks.gov.sg/festival-programmes/Online-events/past-webinars)
-Learn more about our City in Nature and Singapore’s biodiversity with videos of previously conducted webinars.
