@@ -15,7 +15,7 @@ sections:
         - title: Festival Booths
           description: ""
           url: /festival-booths/festivalbooths/
-        - title: Festival Workshops and Talks
+        - title: Festival Talks and Workshops
           description: ""
           url: /festival-workshops/festivalworkshops/
         - title: Community Programmes and Activities
