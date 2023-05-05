@@ -14,6 +14,7 @@ Learn more about how to care for our City in Nature and its flora and fauna thro
 | 27 May 2023 03:00PM-04:00PM  | **Rebuilding Our Reefs: Creating Underwater Cities For Singapore's Marine Life by SAM Shu Qin.** Take a deep dive into Singapore's sea with our speaker as she shares her journey in transforming the seabed into vibrant habitats for corals and marine life. Join the talk physically at Heartbeat@Bedok (Limited slots!) or join us online via Zoom.| Click [here](https://go.gov.sg/nparksspotlight-27May) to register. |
 | 28 May 2023 10:00AM-11:00AM  | **Discovering Singapore Spider Diversity by Joseph K H Koh.** Singapore spiders have evolved a plethora of body structures and behavioural patterns to avoid being eaten up by predators. Come learn about the camouflage, mimicry, deception, and concealment, and the uncanny parallels between the defence strategies of spiders and of armed forces. Join the talk physically at Heartbeat@Bedok (Limited slots!) or join us online via Zoom. |Click [here](https://go.gov.sg/nparksspotlight-28May) to register. |
 
+Learn more about our City in Nature and Singapore’s biodiversity with videos of previously conducted webinars.
 # **Activities and Workshops**
 
 Learn more about how to care for our City in Nature and its flora and fauna through these opportunities and workshops.
