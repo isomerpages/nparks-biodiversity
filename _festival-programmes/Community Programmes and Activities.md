@@ -4,7 +4,7 @@ permalink: /community-programmes-activities/community/
 description: ""
 ---
 # **Community Programmes and Activities**
-Head out into our many national parks for an engaging experience with our local biodiversity. Our experienced guides will take you through our parks to teach you about our vast and fascinating biodiversity. Do keep a regular lookout for more updates.
+Head on out to various programmes and activities by NParks and our partners for a variety of engaging experiences learning about Singapore’s natural heritage, ranging from guided walks in our parks and gardens, participating in citizen science programme and much more. Do keep a regular lookout for more updates.
 
 #### Habitat Enhancement 
 
