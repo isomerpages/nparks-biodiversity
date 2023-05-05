@@ -1,9 +1,21 @@
 ---
-title: Festival Workshops
+title: Festival Talks and Workshops
 permalink: /festival-workshops/festivalworkshops/
 description: ""
 ---
-There will be many engaging activities and workshops by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. Through these, you can better understand our City in Nature and local biodiversity! Please check back regularly for more updates as you do not want to miss out! 
+There will be many engaging talks, activities and workshops by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. Through these, you can better understand our City in Nature and local biodiversity! Please check back regularly for more updates as you do not want to miss out! 
+# **NParks Spotlight Series**
+
+Come join us as our guest speakers from various stakeholders of the nature community share fascinating insights about Singapore's rich natural heritage.
+
+
+| Date | Event | How to Register |
+| -------- | -------- | -------- |
+| 27 May 2023 03:00PM-04:00PM  | **Rebuilding Our Reefs: Creating Underwater Cities For Singapore's Marine Life by SAM Shu Qin.** Take a deep dive into Singapore's sea with our speaker as she shares her journey in transforming the seabed into vibrant habitats for corals and marine life. Join the talk physically at Heartbeat@Bedok (limited slots!) or join us online via Zoom.| Click [here](https://go.gov.sg/nparksspotlight-27May) to register. |
+| 28 May 2023 10:00AM-11:00AM  | **Discovering Singapore Spider Diversity by Joseph K H Koh.** Singapore spiders have evolved a plethora of body structures and behavioural patterns to avoid being eaten up by predators. Come learn about the camouflage, mimicry, deception, and concealment, and the uncanny parallels between the defence strategies of spiders and of armed forces. Join the talk physically at Heartbeat@Bedok (limited slots!) or join us online via Zoom. |Click [here](https://go.gov.sg/nparksspotlight-28May) to register. |
+
+##### [Past Webinars ](https://www.youtube.com/playlist?list=PL1_Eb2Fa0jUdJYSx_OSRUEHj9b8V9_Z0G)
+Learn more about our City in Nature and Singapore’s biodiversity with videos of previously conducted webinars.
 
 # **Activities and Workshops**
 

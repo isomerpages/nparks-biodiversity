@@ -15,7 +15,7 @@ sections:
         - title: Festival Booths
           description: ""
           url: /festival-booths/festivalbooths/
-        - title: Festival Workshops
+        - title: Festival Talks and Workshops
           description: ""
           url: /festival-workshops/festivalworkshops/
         - title: Community Programmes and Activities
@@ -35,7 +35,7 @@ sections:
       description: Enjoy a fun-filled day with your family at our booths by NParks and
         other nature organisations.
   - infopic:
-      title: Festival Workshops
+      title: Festival Talks and Workshops
       subtitle: Education
       description: Join us with your family to learn about native biodiversity, or
         enjoy some stay-home bonding with our craft activities!
