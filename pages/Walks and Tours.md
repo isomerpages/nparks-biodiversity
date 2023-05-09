@@ -1,6 +1,6 @@
 ---
 title: Walks and Tours
-permalink: /festival-programmes/Activities/walks-and-tours
+permalink: /festival-programmes/activities/walks-and-tours/
 description: ""
 ---
 # **Outdoor Activities**
