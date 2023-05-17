@@ -22,7 +22,7 @@ For those who love more hands-on activities, do check out these cute crafts for 
 
 | Activity        | Downloadable PDF |
 | -------------| -------- | 
-|Make **The Most Egg-cellent Gift** with your family using recycled egg cartons! | ![](/images/the%20most%20excellent%20gift.png)[The Most Egg-cellent Gift instructions]|
+|Make **The Most Egg-cellent Gift** with your family using recycled egg cartons! **Click [here](https://drive.google.com/file/d/1nSBkiHyD5xjd4Q057mT35gsl6hzVpM0U/view?usp=share_link) for the video tutorial.**| ![](/images/the%20most%20excellent%20gift.png)[The Most Egg-cellent Gift instructions]|
 |Get messy by getting hands-on and create your own **Paper Mache Fish**!|[Paper Mache Fish instructions]|
 Let your creative juices flow with our **Animal Bookmark** activity!| ![](/images/bat%20hawk%20animal%20bookmark.png) Bat Hawk Animal Bookmark ![](/images/oriental%20whip%20snake%20animal%20bookmark.png)Oriental Whip Snake Animal Bookmark ![](/images/white-collared%20kingfisher%20animal%20bookmark.png) White-collared Kingfisher [Animal Bookmark instructions]|
 Let your crayons and paint brushes take a walk on the wild side with our **Bee Activity**! |![](/images/bee%20activity.png)[Bee Activity]|
