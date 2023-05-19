@@ -1,6 +1,6 @@
 ---
 title: Stay Home Activities
-permalink: /stay-home-activities/stayhome/
+permalink: /festival-programmes/stayhome/
 description: ""
 ---
 # **Activity Sheets**
@@ -9,9 +9,9 @@ These fun-filled activity sheets are a great way to introduce your kids to local
 
 | Activity | Downloadable PDF  |
 | -------- | -------- | 
-| **Spot the Difference** Learn more about our local coastal and terrestial biodiversity by identifying their distinct features that are absent!     |  ![](/images/spot%20the%20difference.png)    | 
-|**Unscramble Me!** Unscramble the letters to reveal the name of a native species! |    ![](/images/unscramble%20me.png) |
-|**Doodle** Get your creative juices flowing and turn the doodles into native animals! | ![](/images/doodle.png)Common Flameback Doodle Sample Activity Template  ![](/images/pangolin%20doodle%20activity.png) Sunda Pangolin Doodle Sample Activity Template ![](/images/frog%20doodle%20activity.png) Green Paddy Frog Doodle Sample Activity Template|
+| **Spot the Difference** Learn more about our local coastal and terrestial biodiversity by identifying their distinct features that are absent!     |  [[Facilitation Notes](https://go.gov.sg/spotthedifference-facil) ;  [Activity Sheet](https://go.gov.sg/spotthedifferencetemplate)and [Answer Sheet](https://go.gov.sg/spot-the-difference-answersheet)] ![](/images/spot%20the%20diff%20(coastal).png)Spot the Difference (Coastal Activity Template)![](/images/spot%20the%20diff%20(rainforest).png)Spot the Difference ( Rainforest Activity Template)| 
+|**Unscramble Me!** Unscramble the letters to reveal the name of a native species! | [[Facilitation Notes](https://go.gov.sg/unscrambleme-facil) ;  [Activity Sheet](https://go.gov.sg/unscramblemetemplate) and [Answer Sheet](https://go.gov.sg/unscramble-me-answersheet)]![](/images/unscramble%20me%20(easy).png)Unscramble Me (Easy Version)![](/images/umscramble%20me%20advanced.png)Unscramble Me (Advanced Version)|
+|**Doodle** Get your creative juices flowing and turn the doodles into native animals! | [[Facilitation Notes](https://go.gov.sg/doodle-facil) ;  [Activity Sheet](https://go.gov.sg/doodleactivitytemplate) and [Answer Sheet](https://go.gov.sg/doodle-answersheet)]![](/images/doodle%20-%20common%20flameback.png)Common Flameback Doodle Sample Activity Template ![](/images/doodle%20-%20sunda%20pangolin.png)Sunda Pangolin Doodle Sample Activity Template ![](/images/doodle%20-%20green%20paddy%20frog.png)Green Paddy Frog Doodle Sample Activity Template|
 
 
 
@@ -22,7 +22,7 @@ For those who love more hands-on activities, do check out these cute crafts for 
 
 | Activity        | Downloadable PDF |
 | -------------| -------- | 
-|Make **The Most Egg-cellent Gift** with your family using recycled egg cartons! | ![](/images/the%20most%20excellent%20gift.png)[The Most Egg-cellent Gift instructions]|
-|Get messy by getting hands-on and create your own **Paper Mache Fish**!|[Paper Mache Fish instructions]|
-Let your creative juices flow with our **Animal Bookmark** activity!| ![](/images/bat%20hawk%20animal%20bookmark.png) Bat Hawk Animal Bookmark ![](/images/oriental%20whip%20snake%20animal%20bookmark.png)Oriental Whip Snake Animal Bookmark ![](/images/white-collared%20kingfisher%20animal%20bookmark.png) White-collared Kingfisher [Animal Bookmark instructions]|
-Let your crayons take a walk on the wild side with our **Bee Activity**! |![](/images/bee%20activity.png)[Bee Activity]|
+|Make **The Most Egg-cellent Gift** with your family using recycled egg cartons! **Click [here](https://drive.google.com/file/d/1nSBkiHyD5xjd4Q057mT35gsl6hzVpM0U/view?usp=share_link) for the video tutorial.**| [[Facilitation Notes](https://go.gov.sg/themosteggcellentgift-facil)]  ![](/images/the%20most%20excellent%20gift.png)|
+|Get messy by getting hands-on and create your own **Paper Mache Fish**! **Click [here](https://drive.google.com/file/d/13IMVOCKoOYEIUfuAhzWHbLt08KHkAwRE/view?usp=share_link) for the video tutorial.**|[[Facilitation Notes](https://go.gov.sg/papermachefish-facilnotes)]![](/images/paper%20mache%20fish.png)Paper Mache Fish |
+Let your creative juices flow with our **Animal Bookmark** activity! **Click [here](https://drive.google.com/file/d/1xjsDQZszzvZ8wQpxQXFtNYr9HiWkR16i/view?usp=share_link) for the video tutorial.**| [[Facilitation Notes](https://go.gov.sg/animalbookmark-facilnotes)]![](/images/bat%20hawk%20animal%20bookmark.png) Bat Hawk Animal Bookmark ![](/images/oriental%20whip%20snake%20animal%20bookmark.png)Oriental Whip Snake Animal Bookmark ![](/images/white-collared%20kingfisher%20animal%20bookmark.png) White-collared Kingfisher|
+Let your crayons and paint brushes take a walk on the wild side with our **Bee Activity**! **Click [here ](https://drive.google.com/file/d/1Xgqunko4CLCQY9RN7QW8k-uhLyd4Xs_P/view?usp=share_link) for the video tutorial.**|[[Facilitation Notes ; [Activity Template](https://go.gov.sg/beeactivitytemplate) ; [Activity Sample](https://go.gov.sg/beefamilyactivitysample)](https://go.gov.sg/createyourbeefamily-facilnotes)]![](/images/bee%20activity.png)Create your own Bee Family Activity|

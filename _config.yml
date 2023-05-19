@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nparks-biodiversity-staging.netlify.app
-prod: https://nparks-biodiversity-prod.netlify.app
+staging: https://staging.d3q8o5cjo2ku7w.amplifyapp.com/
+prod: https://master.d3q8o5cjo2ku7w.amplifyapp.com/
 is_government: true
 facebook-pixel: ""
 google_analytics: UA-227117063-1

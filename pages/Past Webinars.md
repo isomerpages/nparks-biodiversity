@@ -1,6 +1,6 @@
 ---
 title: Past Webinars
-permalink: /festival-programmes/Online-events/past-webinars
+permalink: /festival-programmes/online-events/past-webinars/
 description: ""
 ---
 Learn more about our City in Nature and Singapore’s biodiversity with videos of previously conducted webinars.

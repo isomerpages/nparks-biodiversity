@@ -1,6 +1,6 @@
 ---
 title: Pages of Images with Links
-permalink: /pageofimageswithlinks
+permalink: /pageofimageswithlinks/
 date: 2022-01-12
 layout: post
 description: ""
