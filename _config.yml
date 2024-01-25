@@ -1,0 +1,58 @@
+title: Festival of Biodiversity
+url: ""
+favicon: /images/favicon.ico
+colors:
+  primary-color: "#215732"
+  secondary-color: "#ffcd00"
+  media-colors:
+    - title: media-color-one
+      color: "#7a9a01"
+    - title: media-color-two
+      color: "#ff9e1b"
+    - title: media-color-three
+      color: "#ddcba4"
+    - title: media-color-four
+      color: "#ef3340"
+    - title: media-color-five
+      color: "#af272f"
+resources_name: resource
+description: Celebrating Singapore's Biodiversity
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d3q8o5cjo2ku7w.amplifyapp.com/
+prod: https://master.d3q8o5cjo2ku7w.amplifyapp.com/
+is_government: true
+facebook-pixel: ""
+google_analytics: UA-227117063-1
+shareicon: /images/nparkslogo.png

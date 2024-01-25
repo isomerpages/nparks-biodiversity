@@ -1,0 +1,8 @@
+collections:
+  festival-programmes:
+    output: true
+    order:
+      - Festival Booths.md
+      - Festival Talks and Workshops.md
+      - Community Programmes and Activities.md
+      - Stay Home Activities.md
