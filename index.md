@@ -24,7 +24,7 @@ sections:
         - title: Stay Home Activities
           description: ""
           url: /festival-programmes/stayhome/
-      subtitle: 25 & 26 May 2023 |  One Punggol
+      subtitle: 25 & 26 May 2024 |  One Punggol
   - infopic:
       title: Festival Booths
       subtitle: Discover
