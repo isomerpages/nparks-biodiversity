@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Festival of Biodiversity
-      background: /images/NParks_Background1.jpg
+      background: /images/coney_island.jpg
       button: About the Festival
       url: /about-the-festival
       key_highlights:
@@ -24,7 +24,7 @@ sections:
         - title: Stay Home Activities
           description: ""
           url: /festival-programmes/stayhome/
-      subtitle: 27 & 28 May 2023 |  Heartbeat@Bedok
+      subtitle: 25 & 26 May 2023 |  One Punggol
   - infopic:
       title: Festival Booths
       subtitle: Discover
@@ -58,7 +58,7 @@ sections:
       subtitle: what are our schools up to?
       description: This week of events commemorates the International Day for
         Biological Diversity. Students can participate in exciting activities
-        from 19 to 26 May 2023.
+        from 17 to 26 May 2024.
       button: Learn more
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/biodiversity-week-for-schools
       image: /images/Green Wave.jpg
