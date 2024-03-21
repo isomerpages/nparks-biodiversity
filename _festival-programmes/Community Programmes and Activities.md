@@ -2,7 +2,7 @@
 title: Community Programmes and Activities
 permalink: /community-programmes-activities/community/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1><strong>Community Programmes and Activities</strong></h1>
 <p>Head on out to participate in various programmes and activities by NParks
