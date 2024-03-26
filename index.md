@@ -8,7 +8,7 @@ notification: "Photo credits: Jo Chua"
 sections:
   - hero:
       title: Festival of Biodiversity
-      background: /images/WhatsApp_Image_2024_03_21_at_3_04_01_PM.jpg
+      background: /images/IMG_20240304_WA0012_1_.jpg
       button: About the Festival
       url: /about-the-festival
       key_highlights:
