@@ -148,7 +148,7 @@ wildcats!</p>
 <p>1215pm-2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong> ConservaClay </strong>with WWF-Singapore</p>
+<p><strong>ConservaClay </strong>with WWF-Singapore</p>
 <p></p>
 <p>A hands-on clay crafting experience designed to ignite your passion for
 wildlife. Discover the art of simple sculpting as we delve into the fascinating
