@@ -20,5 +20,5 @@ Location: **1 Punggol Drive, Singapore 828629**. View location in [Google Maps](
 **Map of One Punggol**
 ![](/images/One_Punggol.png)
 
-![](/images/IMG_20240304_WA0012_1_.jpg)
+![](/images/1000020155.jpg)
 (Sunrise Bridge at Punggol Waterway Park. Photo credits: Jo Chua)
