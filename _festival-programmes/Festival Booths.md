@@ -242,41 +242,9 @@ Malaysia and the surrounding region.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NParks - CN Division.</strong> Singapore Heritage Trees are beautiful
-mature trees, with interesting botanical, social, historical or cultural
-stories. There are more than 260 Heritage Trees across our island and they
-contribute to Singapore's sense of identity, and history, helping us to
-stay rooted to the place we call home. Visit us to learn more about these
-important green landmarks of our natural heritage at the 'Heritage Trees
-of Singapore; booth!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/NParks%20Logo%20new%20tagline_colour.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative" rel="noopener noreferrer nofollow" target="_blank">NParks - Community in Nature (Schools)</a></strong>.
-The Community in Nature (CIN) school programmes seek to engage Singapore
-schools to conserve our natural heritage. Come visit the CIN Schools booth
-to learn more about how students can play a part in local biodiversity
-conservation. Click <a href="https://go.gov.sg/cinboothfob" rel="noopener noreferrer nofollow" target="_blank">here</a> to view the booth schedules
-for the CIN schools!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/NParks%20Logo%20new%20tagline_colour.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nparks.gov.sg/about-us" rel="noopener noreferrer nofollow" target="_blank">NParks - Conservation Division</a></strong>.
-Bukit Timah Nature Reserve, Sungei Buloh and Pulau Ubin will feature the
-different natural habitats and the rich diversity of flora and fauna to
-audiences of all ages.</p>
+<p><strong>NParks - Conservation Division.</strong> Visit this conservation
+booth which showcases our natural heritage found in our Nature Reserves
+and Nature Parks.</p>
 </td>
 </tr>
 <tr>
@@ -330,15 +298,13 @@ in Singapore. Visit our Otter Working Group booth to find out more.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.ourwildneighbours.sg/" rel="noopener noreferrer nofollow" target="_blank">Our Wild Neighbours (OWN) Initiative</a></strong>.
-OWN, a country-wide outreach programme to promote coexistence with Singapore's
-native wildlife, was initiated by the Urban Wildlife Group (UWG) and supported
-by Mandai Nature. In collaboration with other local partners, OWN seeks
-to engage and educate the public on human-wildlife coexistence, as well
-as to empower people with the right knowledge on what they can do should
-they encounter a wild animal such as the long-tailed macaques and the otters.
-Drop by to learn more about our native wildlife and get practical tips
-to coexist with our wild neighbours.</p>
+<p><strong><a href="https://www.ourwildneighbours.sg/" rel="noopener noreferrer nofollow" target="_blank">Our Wild Neighbours (OWN) Initiative</a></strong> is
+a nationwide outreach programme promoting human-wildlife coexistence in
+Singapore. Supported by Mandai Nature and in partnership with local nature
+groups, OWN seeks to educate and empower the public to live harmoniously
+with our wildlife. Ever wonder how you can minimise the occurrence of bats
+roosting in your attic or discourage macaques from visiting your estate?
+Visit our booth to find out more!</p>
 </td>
 </tr>
 <tr>
@@ -348,28 +314,30 @@ to coexist with our wild neighbours.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.onepa.gov.sg/about-us/passion-wave" rel="noopener noreferrer nofollow" target="_blank">PAssion Wave</a></strong>.
-PAssion Wave's Project Blue Wave - An initiative to bring Singaporeans
-together to build a sense of ownership towards our environment through
-education on marine biodiversity and environment conservation. PAssion
-Wave will be narrating the dangers of trash that marine lives face daily
-with the help of their mascots, Bobby the Hawksbill Turtle and Ottie, the
-Smooth Coated Otter. Together, they will call-out for action to reduce
-plastic waste.</p>
+<p><strong><a href="https://www.onepa.gov.sg/about-us/passion-wave" rel="noopener noreferrer nofollow" target="_blank">PAssion Wave. </a></strong>Ride
+on Project Blue Wave to conserve our wildlife and their waterways.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pcf%20sparkletots%20preschool%20@%20paya%20lebar%20blk%2023%20(kn).jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.pcf.org.sg/sparkletots/our-preschools/" rel="noopener noreferrer nofollow" target="_blank">PCF Sparkletots Preschool @ Paya Lebar Blk 23 (KN)</a></strong>.
-Our booth will be showcasing children's effort and learning journey on
-Biodiversity. Additionally, there will be a mini game for you to participate
-at the booth. So come down and join us for a fun learning experience! Catch
-us at the CIN Schools Booth on 27 May 2023 from 4:00PM to 6:00PM!</p>
+<p><strong>Raffles' Banded Langur Working Group</strong> was established in
+2016 with partners in both countries to carry out research, education outreach
+and conservation activities. The Raffles' Banded Langur (Presbytis femoralis)
+is a critically endangered monkey found only in Singapore and southern
+Peninsular Malaysia.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Post Limited</strong>
+</p>
+<p>Details coming soon!</p>
 </td>
 </tr>
 <tr>
@@ -379,12 +347,11 @@ us at the CIN Schools Booth on 27 May 2023 from 4:00PM to 6:00PM!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.swagcat.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Wildcat Action Group (SWAG)</a></strong>.
-SWAG promotes wildcats, like leopard cats and tigers and takes actions
-to conserve them. We are volunteer-run! Booth highlights: come learn about
-wildcats and what you can do to make a difference for them. Wildcat cat-themed
-items on sale for conservation! Freebies too! Children, come get a fun
-wildcat tattoo at our booth!</p>
+<p><strong><a href="https://www.swagcat.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Wildcat Action Group (SWAG)</a></strong> promotes
+wildcats, like leopard cats and tigers and takes actions to conserve them.
+We are volunteer-run! Booth highlights: come learn about wildcats and what
+you can do to make a difference for them. Children, come get a fun wildcat
+tattoo at our booth!</p>
 </td>
 </tr>
 <tr>
@@ -398,21 +365,9 @@ wildcat tattoo at our booth!</p>
 As the Singapore Chapter of the Global Youth Biodiversity Network, official
 youth representatives at the United Nations' Convention on Biological Diversity,
 SYVB works extensively on local and international biodiversity policy and
-stakeholder engagement. Come down to learn more about some of our initiatives,
-and how YOUth can contribute to conservation in the region.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tkps%20logo%20(colour).png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.telokkuraupri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Telok Kurau Primary School</a></strong>.
-We will be showcasing our Butterfly Garden and outreach programmes at the
-booth. So drop by and join us at Telok Kurau Primary School booth! Catch
-us at the CIN Schools Booth on 27 May 2023 from 12:00PM to 2:00PM!</p>
+stakeholder engagement. Come down to learn more about some of our ongoing
+projects, our policy documents, and how YOUth can contribute to conservation
+in the region.</p>
 </td>
 </tr>
 <tr>
@@ -422,24 +377,10 @@ us at the CIN Schools Booth on 27 May 2023 from 12:00PM to 2:00PM!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">World Wide Fund for Nature Singapore (WWF-Singapore)</a></strong>.
-WWF-Singapore will showcase an overview of supported research projects
-that use technology, touching on topics of marine conservation and illegal
-wildlife trade. Our booth would also have interactive elements, specimens
-and product replicas.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rfxp-logo-inline-black_300.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.xprize.org/" rel="noopener noreferrer nofollow" target="_blank">XPRIZE</a></strong>.
-The $10 Million XPRIZE Rainforest is a five-year competition sponsored
-by the Alana Foundation to enhance shared understanding of tropical rainforest
-ecosystems.</p>
+<p><strong><a href="https://www.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">World Wide Fund for Nature Singapore (WWF-Singapore)</a></strong> will
+showcase topics on coral restoration, wetland conservation, public walks,
+invasive species. Discover Marine Conservation, Outdoor Programmes, Eco-Schools,
+WWF Explores. Engage with us!</p>
 </td>
 </tr>
 </tbody>
