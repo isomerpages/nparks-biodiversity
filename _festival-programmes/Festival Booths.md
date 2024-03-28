@@ -86,6 +86,19 @@ Details coming soon!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Earth In Focus. </strong>Using visual arts, we hope to use this
+to showcase Singapore's landscapes and its native wildlife. Photos and
+video footage will be mainly from Jayaprakash Bojan, an award-winning photographer
+and filmmaker. We hope that through these images it will spark conversations
+about conservation. The booth will also be a platform for our festival's
+call for submission for aspiring emerging filmmakers and photographers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/earthlink%20ntu%20logo.png">
 </div>
@@ -99,49 +112,13 @@ by Earthlink NTU at our booth!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pa%20reduced.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>[East Coast GRC - East Coast Green Ambassadors Programme]</strong>.
-Born from an idea by residents during one of the initial rounds of East
-Coast Conversations, the&nbsp;<strong>East Coast Green Ambassadors Programme was started in Q1 of Year 2021</strong>.
-Part of the 3rd&nbsp;Prong of the East Coast Sustainability and Green Plan,
-the programme is in line with one of the East Coast Plan Green Pillar’s
-key objectives of&nbsp;<strong>creating platforms to educate residents on environmental issues and encouraging them to take actions towards a Greener East Coast.</strong> Come
-find out more about what we are doing at East Coast GRC booth!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pa%20reduced.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>[East Coast GRC - East Coast Coastal Walks]</strong>. The East
-Coast has a wealth of marine biodiversity. Come explore the wealth of wildlife
-captured through the lens of our East Coast residents on our Coastal Nature
-walks!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fomp%20logo.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.linkedin.com/company/fmp-community/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Friends of Marine Park (FMP)</a></strong>.
-The FMP community is a dynamic network of stakeholders from civil society,
-business, academia and public service. The network encourages community
-members to collaborate for the long-term survival of life in our seas.
-It is built on trusting relationships that enable resource users to get
-involved in the planning, development, and management of the Sisters’ Islands
-Marine Park. We also facilitates activities that are mutually beneficial
-to the community and to the success of the nation’s first marine park.
-Visit our booth to find out more!</p>
+<p><strong>Entomological Network of Singapore. </strong>Insects perform a
+vital role in Singapore’s biodiversity, yet they are shunned. Here at ENSING
+(Entomological Society Singapore) we hope to showcase some of our insect
+variety and ways of life, and the threats they face.</p>
 </td>
 </tr>
 <tr>
@@ -152,10 +129,8 @@ Visit our booth to find out more!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank">Herpetological Society of Singapore (HSS)</a></strong>.
-Come visit the HSS booth where we will showcase several specially preserved
-reptile specimens. There will be 2-3 posters featuring native herpetofauna
-and project(s) we are working on. The booth will also have stickers for
-sale at the event.</p>
+Come visit the HSS booth where we will showcase several wet and dry herpetofauna
+specimens alongside our posters and merchandise.</p>
 </td>
 </tr>
 <tr>
@@ -167,10 +142,12 @@ sale at the event.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://janegoodall.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jane Goodall Institute (Singapore) (JGIS)</a></strong>.
 JGIS is a charity organisation promoting educational and conservation activities
-so that people live in harmony with nature. At the booth, participants
-can experience a VR walk through our nature reserve with an oculus. We
-will also have a storytelling and reading corner to bring to life the mysterious
-and fascinating stories of our wildlife.</p>
+so that people live in harmony with nature. Our vision is to promote a
+healthy planet where people make compassionate choices to live sustainably
+and in harmony with each other, the environment, and animals. JGIS creates
+meaningful and purposeful journeys empowering individuals and communities
+to act and contribute positive social impact to LIFE – nature, wildlife,
+and mankind.</p>
 </td>
 </tr>
 <tr>
@@ -180,27 +157,13 @@ and fascinating stories of our wildlife.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://lkcnhm.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Natural History Museum </a>.</strong> The
+<p><strong><a href="https://lkcnhm.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Natural History Museum</a>.</strong> The
 Lee Kong Chian Natural History Museum is Singapore’s only natural history
 museum, and a leading institution in Southeast Asian biodiversity research,
 education, and outreach. As safe-keepers of Singapore’s natural heritage,
 we seek to share knowledge with the public. Join us at our booth to check
-out local specimens and find out about the research work we do to support
-biodiversity research in Singapore and in the region.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lepak%20in%20sg%20.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.instagram.com/lepakinsg/?hl=en" rel="noopener noreferrer nofollow" target="_blank">LepakInSG</a>.</strong> LepakInSG
-runs a calendar of environmental events and does advocacy on a range of
-issues, including Land Use Planning in Singapore. Visit our booth to test
-your environmental knowledge, and learn more about Environmental Impact
-Assessments in Singapore!</p>
+out local and regional specimens and find out about the research work we
+do to support biodiversity research in Singapore and in the region.</p>
 </td>
 </tr>
 <tr>
@@ -211,30 +174,21 @@ Assessments in Singapore!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.mandainature.org/en/home.html" rel="noopener noreferrer nofollow" target="_blank">Mandai Nature</a></strong>.
-Discover the incredible wildlife that call Singapore home, including globally
-threatened species like the Raffles’ Banded Langur and Sunda Pangolin,
-or the unique looking Chrisangi Leaf Insect. Learn about the collaborative
-efforts undertaken by Mandai Nature and Mandai Wildlife Group to strengthen
-conservation action for species in Mandai precinct and around Singapore.
-Join us at our booth and be a part of the journey to safeguard Singapore’s
-natural heritage.</p>
+Learn about how Mandai Nature is working with our partners to drive the
+conservation of threatened wildlife in Southeast Asia. Find out about how
+we are protecting Singapore’s native biodiversity in the Mandai Wildlife
+Reserve, suppporting Singapore’s national efforts to become a City in Nature
+and working with partners on the ground to protect some of Southeast Asia’s
+most threatened and neglected species.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mee%20toh%20school.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.meetoh.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Mee Toh School</a></strong>.
-Our Inter-disciplinary Project Work and Values-in-Action curriculum engages
-Primary 2 students in learning about the biodiversity around them through
-eco-trails. They will share what they have found about the existing biodiversity
-in school with their peers at the booth. Additionally, Nature Lovers’ Club
-students meet on a weekly basis to learn about local biodiversity and spread
-awareness on local biodiversity. Catch us at the CIN Schools Booth on 27
-May 2023 from 2:00PM to 4:00PM!</p>
+<p><strong>National Library Board </strong>will showcase sustainability programmes
+and curated content here at our booth.</p>
 </td>
 </tr>
 <tr>
@@ -244,12 +198,9 @@ May 2023 from 2:00PM to 4:00PM!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a></strong>.
-This will be a booth on awesome fungi! What they are and how important
-they are to the natural world and to our existence. We will showcase posters,
-displays of fungi models, some live specimens and preserved specimens.
-The book "A guide to Macrofungi of Singapore" will be displayed and available
-for purchase at our booth. The price to be advised.</p>
+<p><strong><a href="https://nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a></strong> will
+display plants and fungi specimens at our booth to help people overcome
+plant and fungi blindness.</p>
 </td>
 </tr>
 <tr>
@@ -271,32 +222,6 @@ to our booth to find out how you can contribute!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/NParks%20Logo%20new%20tagline_colour.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.facebook.com/NatureKakis/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Network</a>.</strong> The
-Nature Kakis Network is a new touchpoint centred at the heart of local
-communities that will make City in Nature-related initiatives more accessible
-for members of the public to participate in. It will provide more opportunities
-for the wider community to become stewards of nature by bringing together
-passionate like-minded individuals to share and exchange ideas with others
-in the wider community on how to conserve and steward our natural heritage.There
-is currently a network of eight established Chapters islandwide, comprising&nbsp;the
-following constituencies&nbsp;- Boon Lay, Bukit Gombak, Marymount, Moulmein-Cairnhill,
-Nee Soon South, Pasir Ris, Punggol and Taman Jurong. NParks works with
-the various Chapters to increase their capabilities and know-how, allowing
-them to spearhead and self-run initiatives targeted at their respective
-communities. Established Chapters can also receive seed funding by NParks’
-charity and IPC, the Garden City Fund, to help them kickstart City in Nature
-initiatives and galvanise their community around nature. If you are interested
-to find out more or kickstart your own Nature Kakis in your constituency,
-drop by our booth! <em>Corporations and individuals can make tax deductible donations to the Garden City Fund, NParks’ registered charity and IPC, to support our City in Nature vision&nbsp; and connect people with our natural heritage.&nbsp; For more information please visit&nbsp;<a href="http://www.gardencityfund.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.gardencityfund.gov.sg</a></em>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/nsslogo.jpg">
 </div>
 </td>
@@ -304,7 +229,7 @@ drop by our booth! <em>Corporations and individuals can make tax deductible dona
 <p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society (Singapore)</a>.</strong> Singapore
 is home to a wide array of biodiversity from the very tiny to the majestic.
 Visit our booth to find out more about them and how you can be involved
-and help conserve our natural environment. Nature Society (Singapore) is
+and help conserve our natural environment. Nature Society Singapore is
 a non-government, non-profit organisation dedicated to the appreciation,
 conservation, study and enjoyment of the natural heritage in Singapore,
 Malaysia and the surrounding region.</p>
@@ -317,13 +242,13 @@ Malaysia and the surrounding region.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees" rel="noopener noreferrer nofollow" target="_blank">NParks - Heritage Trees &amp; Roads</a>.</strong> Singapore
-Heritage Trees are beautiful mature trees, with interesting botanical,
-social, historical or cultural stories. There are more than 260 Heritage
-Trees across our island and they contribute to Singapore's sense of identity,
-and history, helping us to stay rooted to the place we call home. Visit
-us to learn more about these important green landmarks of our natural heritage
-at the 'Heritage Trees of Singapore; booth!</p>
+<p><strong>NParks - CN Division.</strong> Singapore Heritage Trees are beautiful
+mature trees, with interesting botanical, social, historical or cultural
+stories. There are more than 260 Heritage Trees across our island and they
+contribute to Singapore's sense of identity, and history, helping us to
+stay rooted to the place we call home. Visit us to learn more about these
+important green landmarks of our natural heritage at the 'Heritage Trees
+of Singapore; booth!</p>
 </td>
 </tr>
 <tr>
