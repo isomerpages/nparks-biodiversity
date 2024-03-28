@@ -27,7 +27,7 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <p>2 March 2024 to 30 June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>OWN Travelling Roadshow 2024 (Library Tour).</strong>
+<p><strong>OWN Travelling Roadshow 2024 (Library Tour)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OWN_Travelling_Roadshow___FOB_Cross_Publicity.jpg">
@@ -40,8 +40,38 @@ learn how we can foster a harmonious relationship with our wild neighbours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="www.ourwildneighbours.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-visit the website. Click <a href="www.instagram.com/ourwildneighbours" rel="noopener noreferrer nofollow" target="_blank">here</a> to visit the Instagram
-page.</p>
+visit the website.</p>
+<p>Click <a href="www.instagram.com/ourwildneighbours" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+visit the Instagram page.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Programme Round Duration: 6 April 2024 - 26 April 2024</p>
+<p></p>
+<p>Training Date: 6 April 2024 (9 AM - 12 PM)</p>
+<p></p>
+<p>Live Session: 17 April 2024 (7:30 PM - 9 PM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Cyber Spotter Programme 2.0 April 2024</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSV_KV_2024JAN_Main_3334x1564.png">
+</div>
+<p>Cyber Spotter Programme 2.0 is a key citizen scientist component of the
+Coalition to End Wildlife Trafficking Online. Empowering people to be part
+of the solution by helping to detect and report illegal online listings.
+Selected volunteers will undergo training to identify prohibited wildlife
+products online and report any suspicious content to WWF. WWF will review
+the listings and work with the participating members of the Coalition to
+End Wildlife Trafficking Online to take further actions.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://cyberspotter.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view website for more information.</p>
+<p>Click <a href="https://ujdqi6q2l7r.typeform.com/to/vygMEDc9" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +79,7 @@ page.</p>
 <p>6 April 2024 (8:30–10:30 AM) and 4 May 2024 (8:30–10:30 AM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Walk With Your Neighbours @ Chestnut Nature Park.</strong>
+<p><strong>Walk With Your Neighbours @ Chestnut Nature Park</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/B443A381_80DA_488F_B9D7_4BE036244270.jpg">
@@ -61,9 +91,11 @@ bring your family and friends down to explore the Park, and perhaps even
 spot some of our local wildlife!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Free for public to attend. Click <a href="https://www.eventbrite.sg/o/friends-of-chestnut-nature-park-20094180493" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register on Eventbrite. Click <a href="https://www.facebook.com/friendsofchestnut/" rel="noopener noreferrer nofollow" target="_blank">here</a> to visit the
-Facebook page.</p>
+<p>Free for public to attend.</p>
+<p>Click <a href="https://www.eventbrite.sg/o/friends-of-chestnut-nature-park-20094180493" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register on Eventbrite.</p>
+<p>Click <a href="https://www.facebook.com/friendsofchestnut/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+visit the Facebook page.</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +103,7 @@ Facebook page.</p>
 <p>25 May 2024 and 26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Book a Tree: Preserving Nature Through Photography.</strong>
+<p><strong>Book a Tree: Preserving Nature Through Photography</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6876.jpg">
