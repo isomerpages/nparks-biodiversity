@@ -92,21 +92,6 @@ Details coming soon!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/earth_in_focus.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Earth In Focus. </strong>Using visual arts, we hope to use this
-to showcase Singapore's landscapes and its native wildlife. Photos and
-video footage will be mainly from Jayaprakash Bojan, an award-winning photographer
-and filmmaker. We hope that through these images it will spark conversations
-about conservation. The booth will also be a platform for our festival's
-call for submission for aspiring emerging filmmakers and photographers.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/earthlink%20ntu%20logo.png">
 </div>
 </td>
