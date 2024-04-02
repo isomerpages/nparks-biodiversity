@@ -198,9 +198,7 @@ register.</p>
 <p>Join Mr. Kevin Cheong from Pick A Plant to discover the top five essential
 Tillandsia varieties that flourish in Singapore's climate, and uncover
 the techniques for nurturing these exquisite air plants.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Seats are limited, so sign up early to secure your spot!</p>
 </td>
 <td rowspan="1" colspan="1">
