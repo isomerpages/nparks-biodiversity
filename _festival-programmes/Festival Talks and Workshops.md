@@ -12,54 +12,9 @@ for more updates as you do not want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage.</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>How to Register</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 May 2023 03:00PM-04:00PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Rebuilding Our Reefs: Creating Underwater Cities For Singapore's Marine Life by SAM Shu Qin.</strong> Take
-a deep dive into Singapore's sea with our speaker as she shares her journey
-in transforming the seabed into vibrant habitats for corals and marine
-life. Join the talk physically at Heartbeat@Bedok (limited slots!) or join
-us online via Zoom.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/nparksspotlight-27May" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 May 2023 10:00AM-11:00AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Discovering Singapore Spider Diversity by Joseph K H Koh.</strong> Singapore
-spiders have evolved a plethora of body structures and behavioural patterns
-to avoid being eaten up by predators. Come learn about the camouflage,
-mimicry, deception, and concealment, and the uncanny parallels between
-the defence strategies of spiders and of armed forces. Join the talk physically
-at Heartbeat@Bedok (limited slots!) or join us online via Zoom.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/nparksspotlight-28May" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p>Coming soon!</p>
+<p></p>
 <h5><a href="https://www.youtube.com/playlist?list=PL1_Eb2Fa0jUdJYSx_OSRUEHj9b8V9_Z0G" rel="noopener noreferrer nofollow" target="_blank">Past Webinars</a></h5>
 <p>Learn more about our City in Nature and Singapore’s biodiversity with
 videos of previously conducted webinars.</p>
