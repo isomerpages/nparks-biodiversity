@@ -377,17 +377,6 @@ would be donated to the Garden City Fund’s Plant-A-Tree Programme.</p>
 learn more about the history of Book a Tree.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
