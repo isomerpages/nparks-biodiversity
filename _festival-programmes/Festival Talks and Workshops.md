@@ -2,39 +2,80 @@
 title: Festival Talks and Workshops
 permalink: /festival-workshops/festivalworkshops/
 description: ""
+variant: tiptap
 ---
-There will be many engaging talks, activities and workshops by NParks and our partners to encourage the community to discover and learn more about our nature in Singapore. Through these, you can better understand our City in Nature and local biodiversity! Please check back regularly for more updates as you do not want to miss out! 
-# **NParks Spotlight Series**
-
-Come join us as our guest speakers from various stakeholders of the nature community share fascinating insights about Singapore's rich natural heritage.
-
-
-| Date | Event | How to Register |
-| -------- | -------- | -------- |
-| 27 May 2023 03:00PM-04:00PM  | **Rebuilding Our Reefs: Creating Underwater Cities For Singapore's Marine Life by SAM Shu Qin.** Take a deep dive into Singapore's sea with our speaker as she shares her journey in transforming the seabed into vibrant habitats for corals and marine life. Join the talk physically at Heartbeat@Bedok (limited slots!) or join us online via Zoom.| Click [here](https://go.gov.sg/nparksspotlight-27May) to register. |
-| 28 May 2023 10:00AM-11:00AM  | **Discovering Singapore Spider Diversity by Joseph K H Koh.** Singapore spiders have evolved a plethora of body structures and behavioural patterns to avoid being eaten up by predators. Come learn about the camouflage, mimicry, deception, and concealment, and the uncanny parallels between the defence strategies of spiders and of armed forces. Join the talk physically at Heartbeat@Bedok (limited slots!) or join us online via Zoom. |Click [here](https://go.gov.sg/nparksspotlight-28May) to register. |
-
-##### [Past Webinars ](https://www.youtube.com/playlist?list=PL1_Eb2Fa0jUdJYSx_OSRUEHj9b8V9_Z0G)
-Learn more about our City in Nature and Singapore’s biodiversity with videos of previously conducted webinars.
-
-# **Activities and Workshops**
-
-Learn more about how to care for our City in Nature and its flora and fauna through these opportunities and workshops.
-
-
-| Date | Workshop | 
-| -------- | -------- | 
-|27th May 2023 12:30pm - 2:30pm| **I Think I can Fly! by [Nature Society (Singapore)](https://www.nss.org.sg/)**. Flying seeds and fruits are common features in our tropical forest. They have different features that aid the trees to desperse their seeds over long distances. In this hands-on workshop, we will look at some of the different mechanisms that plants have deployed to spread their seeds as far away from their parent tree as possible. We will be using paper origami to make winged fruits to investigate how well they fly. Come fly away with us!| 
-| 27th May 2023 12:30pm - 2:30pm| **The ABCs of our Forests & Wetlands by [NParks](https://www.nparks.gov.sg/)**. Singapore’s forests, mangroves and coastal habitats are amazing places to find letters in the alphabets. Upon stepping foot into our outreach space, children will go on an adventure to uncover the hidden ABCs and learn about the amazing biodiversity in Bukit Timah Nature Reserve, Pulau Ubin and Sungei Buloh Wetland Reserve! This workshop activity space comprises of craftwork, and mini quizzes to spur children’s interest and love for nature.| 
-| 27th May 2023 2:30pm - 4:30pm| **Kokedama Workshop by [Qihua Primary School](https://www.qihuapri.moe.edu.sg/)**. Do you like planting but you do not have space for potted plant? Join us for the kokedama workshop to learn how you can keep plant that do not need alot of space. What is Kokedama? Kokedama is a ball of soil, covered with moss, on which an ornamental plant grows. It is a type of Japanese bonsai that is continually growing in popularity due to its unique and minimalist appearance. Also known as ‘moss ball’ and ‘string garden’, kokedama is a variant of bonsai cultivation, where plant roots are wrapped with soil and moss. It can be suspended using string, or left to sit on a piece of pottery, to be admired.|
-| 27th May 2023 2:30pm - 4:30pm| **Happy Sunbird by [Nobleland Arts N Learning Place @ Waterway](https://nobleland.sg/)**. The vibrant Crimson Sunbird is often found in our garden and forest habitat, such as Singapore Botanic Gardens and Central Catchment Nature Reserve. They are an important pollinator in the ecosystem. This workshop will create awareness of the Crimson Sunbird, a native bird of Singapore, through crafts using a variety of art materials and the integration of recycled products. The craftwork will allow participants to express their creativity through an engaging and joyful learning experience.|
-| 27th May 2023 4:30pm - 6:30pm| **Wildlife Warriors by [NParks](https://www.nparks.gov.sg/)**. Join us for a fun Snake and Ladder activity and learn about Singapore's native biodiversity along the way!   | 	
-| 27th May 2023 4:30pm - 6:30pm| **Wildlife Classrooms: Forest Adventure with Biogirl MJ! by [Just Keep Thinking](https://www.facebook.com/JustKeepThinkingsg/)**. Join Biogirl MJ on a forest adventure as we learn more about our native, terrestrial wildlife that lives amongst us! There will be stories, games, and a DIY badge session where you can create your own badge to bring home!  
-| 28th May 2023 10:30am - 12:30pm| **Coexisting in habitats! by [Project Co.hab](https://instagram.com/projectco.hab?igshid=YmMyMTA2M2Y=)**. Through some colouring and cut-and-paste activities, learn more about where our wildlife friends can be commonly found amongst us and learn how to coexist with them!| 
-| 28th May 2023 10:30am - 12:30pm| **Otter Paper Roll Craft by [Nobleland Arts N Learning Place @ Punggol](https://nobleland.sg/)**. The Smooth-coated Otters are commonly found in Singapore's mangroves, mudflats, and coastal areas. In recent years, there have been an increase in otter sightings in urban spaces like Marina Bay, Bishan, and Singapore Botanic Gardens. The simple paper roll craft engages children’s motor skills through activities like colouring, cutting and pasting. During the process, children can also learn more about this native species and how to co-exist with them in our City in Nature.| 
-| 28th May 2023 12:30pm - 2:30pm| **Full of Fruits by [Cherie Hearts @ Charlton Pte. Ltd.](https://www.cheriehearts.com.sg/about-us/)** Children from Cherie Hearts @ Charlton visit Surin Park monthly to get in touch with nature and feel the beauty and magic of nature. In the workshop, we use materials such as used paper cups, dry branches, dry leaves, and plasticine to create an artwork representing the fruiting trees at Surin Park. We will provide guidance and help for children so that they can fully experience happiness and success in the creative process.|
-| 28th May 2023 12:30pm - 2:30pm| **Butterfly Chromatography by [Greenwood Primary School](https://www.greenwoodpri.moe.edu.sg/).** Did you know that butterflies are an indicator of the effects of global change? And how? Come and find out why butterflies are important to the environment at our workshop. Our Eco-ambassadors will also be sharing fun facts about our common butterflies. You will also be able to create your own chromatography art and explore the best ink spread design for your butterfly wings with us at our booth. We look forward to having you here with us!|
-| 28th May 2023 2:30pm - 4:30pm| **Love Our Leopard Cats! by [Singapore Wildcat Action Group (SWAG)](https://www.swagcat.org/)**. Join SWAG to hear stories of leopard cats, tigers and leopards! Have fun colouring wildcats, and having your face painted as one of our beloved wildcats! Bring your old tee-shirt, and give it a new look—our volunteers will help you up cycle your old tee with wildcat prints!|
-| 28th May 2023 2:30pm - 4:30pm| **Wildlife Origami with [WWF-Singapore](https://www.wwf.sg/)**. Learn how to fold some of the world's most amazing animals with us! Join us and we will teach you how to fold origami of animals you can find in Singapore’s land and waters.|
-| 28th May 2023 4:30pm - 6:30pm| **ARTcyle with plastic bottles and straws by [Geylang Methodist School (Primary)](https://www.geylangmethodistpri.moe.edu.sg/)** Join Geylang Methodist School (Primary) students at the craft workshop to upcycle plastic bottles into a bird-themed zipper case for stationery, while learning about the commonly seen bird species in Singapore, such as Olive-backed Sunbird, Pink-necked Green Pigeon, Collared Kingfisher, and White-bellied Sea Eagle and the Barn Owl!|
-| 28th May 2023 4:30pm - 6:30pm| **Origami Crab and Crab Bookmark by [Yuvabharathi International School.](https://www.yuvabharathi.sg/)** Crabs form an important part of mangrove and coastal ecosystem, they feed on leaf litter and other organic matter and play an important role in recycling of nutrients. Their digging behaviour results in changes of surface topography, distribution of particle size and degree of aeration in both ecosystems. Come join us for an activity to create an origami crab bookmark and learn more about crabs in our ecosystem!|
+<p>There will be many engaging talks, activities and workshops by NParks
+and our partners to encourage the community to discover and learn more
+about our nature in Singapore. Through these, you can better understand
+our City in Nature and local biodiversity! Please check back regularly
+for more updates as you do not want to miss out!</p>
+<h1><strong>NParks Spotlight Series</strong></h1>
+<p>Come join us as our guest speakers from various stakeholders of the nature
+community share fascinating insights about Singapore's rich natural&nbsp;heritage.</p>
+<p></p>
+<p>Coming soon!</p>
+<h5><a href="https://www.youtube.com/playlist?list=PL1_Eb2Fa0jUdJYSx_OSRUEHj9b8V9_Z0G" rel="noopener noreferrer nofollow" target="_blank">Past Webinars</a></h5>
+<p>Learn more about our City in Nature and Singapore’s biodiversity with
+videos of previously conducted webinars.</p>
+<h1><strong>Activities and Workshops</strong></h1>
+<p>Learn more about how to care for our City in Nature and its flora and
+fauna through these opportunities and workshops.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Workshop</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>26 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1015am-12pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Love Our Wildcats! </strong>by Singapore Wildcat Action Group
+(SWAG)</p>
+<p></p>
+<p>Join SWAG to hear stories of leopard cats, tigers and leopards! Have fun
+colouring wildcats, and having your face painted as one of our beloved
+wildcats!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1215pm-2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ConservaClay </strong>with WWF-Singapore</p>
+<p></p>
+<p>A hands-on clay crafting experience designed to ignite your passion for
+wildlife. Discover the art of simple sculpting as we delve into the fascinating
+world of animals and plants, crafting clay creatures and learn about local
+species in an artistic way. Our instructors will guide you through the
+process, sharing insights into each species and the conservation efforts
+essential to their survival. Join us for a fun-filled session of eco-artistry,
+where creativity meets conservation!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>215pm-4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Marine Biodiversity Workshop</strong> with Just Keep Thinking</p>
+<p></p>
+<p>Learn about our native wildlife hidden in our marine shores, and how we
+can better appreciate them. End off with a badge-making session!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
