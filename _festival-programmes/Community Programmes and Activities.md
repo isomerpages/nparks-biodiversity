@@ -16,7 +16,6 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <details class="isomer-details">
 <summary>March</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -83,7 +82,6 @@ visit the website for more information.</p>
 <details class="isomer-details">
 <summary>April</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -305,7 +303,6 @@ visit the website for more information.</p>
 <details class="isomer-details">
 <summary>May</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table>
 <tbody>
 <tr>
