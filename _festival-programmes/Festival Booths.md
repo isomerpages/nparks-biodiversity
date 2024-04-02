@@ -91,7 +91,9 @@ Details coming soon!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/earth_in_focus.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Earth In Focus. </strong>Using visual arts, we hope to use this
