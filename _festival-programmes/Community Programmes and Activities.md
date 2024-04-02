@@ -12,15 +12,10 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <p></p>
 <p>Click to view activity lineup of each month.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>April</summary>
+<summary><strong>April</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table>
 <tbody>
@@ -238,8 +233,11 @@ visit the website for more information.</p>
 </table>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>May</summary>
+<summary><strong>May</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table>
 <tbody>
@@ -314,16 +312,18 @@ would be donated to the Garden City Fund’s Plant-A-Tree Programme.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://www.linkedin.com/pulse/sowing-seeds-success-50-reflection-book-a-tree-journey-bhavesh-shukla-irdmc/?trackingId=9vbfWR4oRnerfElpfW7S%2FQ%3D%3D" rel="noopener noreferrer nofollow" target="_blank">here</a>to
-learn more about the history of Book a Tree.</p>
+learn more about the history of Book a Tree</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>June</summary>
+<summary><strong>June</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table>
 <tbody>
