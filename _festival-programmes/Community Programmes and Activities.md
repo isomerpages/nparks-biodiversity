@@ -128,7 +128,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 April 2024 (8.30am – 10.30 am)</p>
+<p>6 April 2024 (8.30am – 10.30 am) and 4 May 2024 (8.30am – 10.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Walk With Your Neighbours @ Chestnut Nature Park</strong>
@@ -321,7 +321,7 @@ visit the website for more information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 May 2024 (8.30am – 10.30am)</p>
+<p>6 April 2024 (8.30am – 10.30 am) and 4 May 2024 (8.30am – 10.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Walk With Your Neighbours @ Chestnut Nature Park</strong>
