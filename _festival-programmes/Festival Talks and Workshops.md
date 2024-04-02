@@ -14,7 +14,6 @@ for more updates as you do not want to miss out!</p>
 community share fascinating insights about Singapore's rich natural&nbsp;heritage.</p>
 <p></p>
 <p>Coming soon!</p>
-<p></p>
 <h5><a href="https://www.youtube.com/playlist?list=PL1_Eb2Fa0jUdJYSx_OSRUEHj9b8V9_Z0G" rel="noopener noreferrer nofollow" target="_blank">Past Webinars</a></h5>
 <p>Learn more about our City in Nature and Singapore’s biodiversity with
 videos of previously conducted webinars.</p>
