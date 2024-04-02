@@ -16,7 +16,7 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <details class="isomer-details">
 <summary>March</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -83,7 +83,7 @@ visit the website for more information.</p>
 <details class="isomer-details">
 <summary>April</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -305,7 +305,7 @@ visit the website for more information.</p>
 <details class="isomer-details">
 <summary>May</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -416,18 +416,6 @@ learn more about the history of Book a Tree.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>22 June 2024 (9am - 11am)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -443,66 +431,6 @@ Walk and the Singing Forest.</p>
 <p>Registration opens on 1 May, 12.00am</p>
 <p></p>
 <p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/FWSR2024/13_Fun-Walk-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
 </tr>
