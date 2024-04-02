@@ -36,54 +36,6 @@ fauna through these opportunities and workshops.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>25 May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1215pm-2pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa </strong>with Nature
-Society Singapore and Dunman Secondary School</p>
-<p></p>
-<p>The workshop is designed to captivate and educate children aged 5 to 12,
-revolving around the delightful narrative of "No Worms for Dinner." Dunman
-Secondary School students will bring the book to life through storytelling.
-Following the narrative journey, participants will be invited to consolidate
-their newfound knowledge through a thoughtfully constructed quiz in a fun
-and interactive manner. To further enrich this experience, the workshop
-will include a hands-on coloring activity, carefully curated to spotlight
-key characters from the book. This aims to reinforce the children's connection
-with the story, enhancing their understanding and appreciation of the narrative's
-nuances. Through this multifaceted approach, the workshop aims to foster
-a love for reading, stimulate imaginative thinking, and cultivate artistic
-skills among its youthful participants.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>215pm-4pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>All about sharks! </strong>with The Dorsal Effect</p>
-<p></p>
-<p>This workshop is for children to learn more about sharks in an interactive
-way through quizzes and hands on activities. Learn more about how you can
-take action for sharks and the ocean with The Dorsal Effect.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>415pm-6pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Marine-themed crafts for Kids </strong>with Friends of Marine
-Park</p>
-<p></p>
-<p>Details coming soon!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
 <p>26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,18 +75,6 @@ where creativity meets conservation!</p>
 <p></p>
 <p>Learn about our native wildlife hidden in our marine shores, and how we
 can better appreciate them. End off with a badge-making session!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>415pm-6pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Playtime with Rey and Kingsley</strong> with NParks, National Biodiversity
-Centre</p>
-<p></p>
-<p>Workshop to feature 2024's Playtime Series: Rey and Kingsley's Mangrove
-Adventure!</p>
 </td>
 </tr>
 </tbody>
