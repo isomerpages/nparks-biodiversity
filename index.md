@@ -4,7 +4,7 @@ title: Festival of Biodiversity
 description: Celebrating Singapore's Biodiversity
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Photo credits: Jo Chua"
+notification: ""
 sections:
   - hero:
       title: Festival of Biodiversity
