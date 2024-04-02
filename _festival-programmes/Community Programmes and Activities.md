@@ -209,6 +209,47 @@ and was even transformed into a fort in the 1860s.&nbsp;</p>
 register.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 April 2024 (10am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Apr 2024 GDO Nature Walk - Orchid Garden Tour.</strong>
+</p>
+<p>Indulge in the enchanting world of orchids with our short and sweet Orchid
+Garden Tour! Let the friendly volunteer guides, from The Orchid Society
+of South East Asia (OSSEA), take you on a journey through stunning displays
+of vibrant colours and sweet fragrances. Sign up now to discover the beauty
+of orchids!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration will open at 10 am on 5 Apr 2024 and will close either 3
+days before the event or when fully registered. Successful registrants
+will receive a confirmation email 3 days before the tour. You will be placed
+on our waiting list if the programme is full.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/GDO24_16/352_Apr-2024-GDO-Nature-Walk-Orchid-Garden-Tour" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 April 2024 (10am - 11.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fort Canning Galleries Guided Tour.</strong>
+</p>
+<p>Join us on a guided tour of the Fort Canning Heritage Gallery, which traces
+the rich history of the hill and showcases the rare artefacts found here.
+This tour will also take you to the Spice Gallery, which looks at the history
+of spices and spice traders in Singapore, and is nestled in Singapore's
+most diverse spice garden.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/FCP_GT1/347_Fort-Canning-Galleries-Guided-Tour" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
