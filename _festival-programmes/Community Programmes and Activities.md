@@ -274,6 +274,30 @@ most diverse spice garden.</p>
 register.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 April 2024 (10am - 10.45am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Race Against Time - Science Behind a Botanic Garden Tour.</strong>
+</p>
+<p>This session introduces the research facilities at the Singapore Botanic
+Gardens such as the Library of Botany &amp; Horticulture, Orchid &amp;
+Micro-propagation laboratory and the Herbarium.</p>
+<p>Highlights of&nbsp; this 45-minute tour includes a visit to the Herbarium
+which stores physical records of reference plant materials, some dating
+as far back as 1790.&nbsp; In addition, learn about our hybridization programme
+for orchids, a process introduced back in 1930’s by the then Director,
+R.E Holttum.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration required 15-min prior at the Tanglin Visitor Services Desk.
+Limited slots on a first-come-first-served basis. For ages 9 and above.</p>
+<p></p>
+<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/rat-tour-apr-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+visit the website for more information.</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
