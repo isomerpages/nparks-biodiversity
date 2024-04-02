@@ -128,7 +128,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 April 2024 (8.30am – 10.30 am) and 4 May 2024 (8.30am – 10.30am)</p>
+<p>6 April 2024 (8.30am – 10.30 am)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Walk With Your Neighbours @ Chestnut Nature Park</strong>
@@ -318,6 +318,30 @@ visit the website for more information.</p>
 <th rowspan="1" colspan="1">
 <p>How to Register</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 May 2024 (8.30am – 10.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Walk With Your Neighbours @ Chestnut Nature Park</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B443A381_80DA_488F_B9D7_4BE036244270.jpg">
+</div>
+<p>Come join us in the morning for a nature walk hosted by residents, for
+residents! Learn about Chestnut Nature Park's flora and fauna, and hear
+about the area's history. Our guided walk is suitable for all ages, so
+bring your family and friends down to explore the Park, and perhaps even
+spot some of our local wildlife!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free for public to attend.</p>
+<p>Click <a href="https://www.eventbrite.sg/o/friends-of-chestnut-nature-park-20094180493" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register on Eventbrite.</p>
+<p>Click <a href="https://www.facebook.com/friendsofchestnut/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+visit the Facebook page.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
