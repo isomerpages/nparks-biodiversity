@@ -14,69 +14,9 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>March</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>How to Register</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 March 2024 to 30 June 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>OWN Travelling Roadshow 2024 (Library Tour)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OWN_Travelling_Roadshow___FOB_Cross_Publicity.jpg">
-</div>
-<p>The OWN Initiative is an islandwide outreach programme promoting human-wildlife
-coexistence in Singapore. The campaign will be touring around several libraries
-till June, to engage the public through storytelling, hands-on activities
-and expert talks by our partnering groups. Join the roving roadshow and
-learn how we can foster a harmonious relationship with our wild neighbours.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="www.ourwildneighbours.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-visit the website.</p>
-<p>Click <a href="www.instagram.com/ourwildneighbours" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-visit the Instagram page.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 March 2024 - 1 September 2024 (9am - 6pm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ethnobotany and Diversity of Figs.</strong>
-</p>
 <p></p>
-<p>This exhibition showcases the diversity and ethnobotany of figs, with
-a particular focus on the species native to Singapore and Southeast Asia.
-Many fig species can be observed in the Singapore Botanic Gardens, such
-as in the Rain Forest, the Jacob Ballas Children’s Garden, Eco-Garden and
-at various other locations.</p>
-<p></p>
-<p>Closed on the last Wednesday of every month.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/exhibition_ethnobotany-and-diversity-of-figs-mar-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-visit the website for more information.</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 <details class="isomer-details">
