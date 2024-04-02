@@ -16,6 +16,7 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <details class="isomer-details">
 <summary>March</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table>
 <tbody>
 <tr>
@@ -50,6 +51,29 @@ learn how we can foster a harmonious relationship with our wild neighbours.</p>
 visit the website.</p>
 <p>Click <a href="www.instagram.com/ourwildneighbours" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 visit the Instagram page.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 March 2024 - 1 September 2024 (9am - 6pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ethnobotany and Diversity of Figs.</strong>
+</p>
+<p></p>
+<p>This exhibition showcases the diversity and ethnobotany of figs, with
+a particular focus on the species native to Singapore and Southeast Asia.
+Many fig species can be observed in the Singapore Botanic Gardens, such
+as in the Rain Forest, the Jacob Ballas Children’s Garden, Eco-Garden and
+at various other locations.</p>
+<p></p>
+<p>Closed on the last Wednesday of every month.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/exhibition_ethnobotany-and-diversity-of-figs-mar-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+visit the website for more information.</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -273,6 +297,24 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18 May 2024 (7.30am - 9.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bird Watching along The Southern Ridges.</strong>
+</p>
+<p>Join us for a bird watching tour at The Southern Ridges, where up to 43
+species of birds have been spotted so far. This tour will take you through
+the Forest Walk and the Singing Forest in search of these beautiful birds.
+Do bring along a pair of binoculars or a camera with a zoom function for
+a better experience.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>25 May 2024 and 26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,7 +374,28 @@ learn more about the history of Book a Tree.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 June 2024 (9am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fun Walk along The Southern Ridges.</strong>
+</p>
+<p>Take your family on a leisure stroll through The Southern Ridges, a soothing
+sanctuary of greenery that is not only steeped in history but also home
+to some of Singapore's most exciting flora and fauna. Highlights of the
+tour included the Henderson Waves, Sembcorp Forest of the Giants, Forest
+Walk and the Singing Forest.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration opens on 1 May, 12.00am</p>
 <p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/FWSR2024/13_Fun-Walk-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +406,56 @@ learn more about the history of Book a Tree.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 </tbody>
