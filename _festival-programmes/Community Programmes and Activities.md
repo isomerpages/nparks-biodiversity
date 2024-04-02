@@ -9,6 +9,13 @@ variant: tiptap
 and our partners to learn more about Singapore's natural heritage, ranging
 from guided walks in our parks and gardens, participating in citizen science
 programme and much more. Do keep a regular lookout for more updates.</p>
+<p></p>
+<p>Click to view activity lineup of each month.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>March</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table>
 <tbody>
 <tr>
@@ -44,6 +51,26 @@ visit the website.</p>
 <p>Click <a href="www.instagram.com/ourwildneighbours" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 visit the Instagram page.</p>
 </td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>April</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>How to Register</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -98,6 +125,27 @@ register on Eventbrite.</p>
 visit the Facebook page.</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>May</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>How to Register</p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>25 May 2024 and 26 May 2024</p>
@@ -112,8 +160,19 @@ visit the Facebook page.</p>
 1 million trees around Singapore to further enhance its status as a garden
 city. The movement is supported by the sales of the book “God’s Own Design
 - A Photographic Journey Through Nature”. All proceeds from the book sales
-would be donated to the Garden City Fund’s Plant-A-Tree Programme. Click
-<a href="https://www.linkedin.com/pulse/sowing-seeds-success-50-reflection-book-a-tree-journey-bhavesh-shukla-irdmc/?trackingId=9vbfWR4oRnerfElpfW7S%2FQ%3D%3D" rel="noopener noreferrer nofollow" target="_blank">here</a>to learn more about the history of Book a Tree.</p>
+would be donated to the Garden City Fund’s Plant-A-Tree Programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.linkedin.com/pulse/sowing-seeds-success-50-reflection-book-a-tree-journey-bhavesh-shukla-irdmc/?trackingId=9vbfWR4oRnerfElpfW7S%2FQ%3D%3D" rel="noopener noreferrer nofollow" target="_blank">here</a>to
+learn more about the history of Book a Tree.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -121,4 +180,50 @@ would be donated to the Garden City Fund’s Plant-A-Tree Programme. Click
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>June</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>How to Register</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
