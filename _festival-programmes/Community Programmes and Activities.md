@@ -59,6 +59,7 @@ visit the Instagram page.</p>
 <details class="isomer-details">
 <summary>April</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table>
 <tbody>
 <tr>
@@ -103,7 +104,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 April 2024 (8:30–10:30 AM) and 4 May 2024 (8:30–10:30 AM)</p>
+<p>6 April 2024 (8.30am – 10.30 am) and 4 May 2024 (8.30am – 10.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Walk With Your Neighbours @ Chestnut Nature Park</strong>
@@ -123,6 +124,89 @@ spot some of our local wildlife!</p>
 register on Eventbrite.</p>
 <p>Click <a href="https://www.facebook.com/friendsofchestnut/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 visit the Facebook page.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 April 2024 (9:30am - 11.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Heritage on the Hill Guided Tour.</strong>
+</p>
+<p>Did you know that the history of Fort Canning dates to the 14th century?
+Check out the ancient artefacts from the hill, and join us on a journey
+that highlights the changing faces of Fort Canning, from the ancient 14th
+century to the colonial 19th century and beyond!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/FCP_HT1/336_Heritage-on-the-Hill-Guided-Tour" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 April 2024 (9am - 10.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Apr 2024 GDO Nature Walk - Therapeutic Horticulture Experience.</strong>
+</p>
+<p>Have you gone on a therapeutic garden tour? Join us and explore the restorative
+benefits of therapeutic horticulture in our green spaces. This experience
+is for anyone who needs a moment of peace and tranquility. Led by trained
+guides, it is crafted to promote low-intensity exercise, stimulate memory,
+encourage positive social interactions, and foster mindfulness.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration will open at 10am on 5 Apr 2024, and will close either 3
+days before the event or when fully registered. Successful registrants
+will receive a confirmation email 3 days before the tour. You will be placed
+on our waiting list if the programme is full.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/GDO24_17/353_Apr-2024-GDO-Nature-Walk-Therapeutic-Horticulture-Experience" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 April 2024 (9am - 10.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Apr 2024 GDO Gardening Series - Best Air Plants for a Modern Gardener.</strong>
+</p>
+<p>Join Mr. Kevin Cheong from Pick A Plant to discover the top five essential
+Tillandsia varieties that flourish in Singapore's climate, and uncover
+the techniques for nurturing these exquisite air plants.</p>
+<p>
+<br>
+</p>
+<p>Seats are limited, so sign up early to secure your spot!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration will open at 10am on 5 Apr 2024, and will close either 3
+days before the event or when fully registered. Successful registrants
+will receive a confirmation email 3 days before the talk. You will be placed
+on our waiting list if the programme is full.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/GDO24_18/363_Apr-2024-GDO-Gardening-Series-Best-Air-Plants-for-a-Modern-Gardener" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 April 2024 (9am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Trees of the Fort Guided Tour.</strong>
+</p>
+<p>The Trees of the Fort guided tour takes you to beautiful trees at Fort
+Canning Park amidst a backdrop of lush greenery and rich history. Fort
+Canning Hill, on which the park sits, once housed a Malay Kingdom in the
+14th century. It was also the place of residence for several governors
+and was even transformed into a fort in the 1860s.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/FCP_TF1/344_Trees-of-the-Fort-Guided-Tour" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 </tbody>
