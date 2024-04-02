@@ -22,7 +22,7 @@ your family, complete with freebies, games, and more!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/acres.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/acres.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,9 @@ animals and live in harmony with wildlife in our city in nature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BES_drongo.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://envstudies.nus.edu.sg/bes-drongos/" rel="noopener noreferrer nofollow" target="_blank">BES Drongos</a></strong> is
@@ -48,7 +50,9 @@ activities we have done so far!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/birdsoc_sg.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong>.
@@ -61,7 +65,7 @@ how you can meaningfully contribute to research and conservation!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/book%20a%20tree%20logo%202.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Book_a_tree.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,7 +117,9 @@ by Earthlink NTU at our booth!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entomological_Network_ofSingapore.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore</a>. </strong>Insects
@@ -185,7 +191,9 @@ most threatened and neglected species.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nlb.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National Library Board </strong>will showcase sustainability programmes
@@ -223,7 +231,7 @@ to our booth to find out how you can contribute!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/nsslogo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSS.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -321,7 +329,9 @@ on Project Blue Wave to conserve our wildlife and their waterways.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/raffles_banded_langur_wg.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.nss.org.sg/project.aspx?id=46" rel="noopener noreferrer nofollow" target="_blank">Raffles' Banded Langur Working Group</a></strong> was
@@ -333,7 +343,9 @@ and southern Peninsular Malaysia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SINGPOST.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Post Limited</strong>
