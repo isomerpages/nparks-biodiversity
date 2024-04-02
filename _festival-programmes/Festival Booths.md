@@ -40,9 +40,10 @@ animals and live in harmony with wildlife in our city in nature.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>BES Drongos</strong> is a nature guiding group that holds guided
-walks on Petai Trail at MacRitchie Reservoir Park. Visit our booth to learn
-more about what we do and what activities we have done so far!</p>
+<p><strong><a href="https://envstudies.nus.edu.sg/bes-drongos/" rel="noopener noreferrer nofollow" target="_blank">BES Drongos</a></strong> is
+a nature guiding group that holds guided walks on Petai Trail at MacRitchie
+Reservoir Park. Visit our booth to learn more about what we do and what
+activities we have done so far!</p>
 </td>
 </tr>
 <tr>
@@ -50,11 +51,11 @@ more about what we do and what activities we have done so far!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bird Society of Singapore</strong>. Here at the Bird Society of
-Singapore, we promote a transparent, science-based approach in our efforts
-to expand local and regional knowledge on birds. Head down to our booth
-to learn more about our science, our resources and how you can meaningfully
-contribute to research and conservation!</p>
+<p><strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong>.
+Here at the Bird Society of Singapore, we promote a transparent, science-based
+approach in our efforts to expand local and regional knowledge on birds.
+Head down to our booth to learn more about our science, our resources and
+how you can meaningfully contribute to research and conservation!</p>
 </td>
 </tr>
 <tr>
@@ -115,10 +116,10 @@ by Earthlink NTU at our booth!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Entomological Network of Singapore. </strong>Insects perform a
-vital role in Singapore’s biodiversity, yet they are shunned. Here at ENSING
-(Entomological Society Singapore) we hope to showcase some of our insect
-variety and ways of life, and the threats they face.</p>
+<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore</a>. </strong>Insects
+perform a vital role in Singapore’s biodiversity, yet they are shunned.
+Here at ENSING (Entomological Society Singapore) we hope to showcase some
+of our insect variety and ways of life, and the threats they face.</p>
 </td>
 </tr>
 <tr>
@@ -323,11 +324,11 @@ on Project Blue Wave to conserve our wildlife and their waterways.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Raffles' Banded Langur Working Group</strong> was established in
-2016 with partners in both countries to carry out research, education outreach
-and conservation activities. The Raffles' Banded Langur (Presbytis femoralis)
-is a critically endangered monkey found only in Singapore and southern
-Peninsular Malaysia.</p>
+<p><strong><a href="https://www.nss.org.sg/project.aspx?id=46" rel="noopener noreferrer nofollow" target="_blank">Raffles' Banded Langur Working Group</a></strong> was
+established in 2016 with partners in both countries to carry out research,
+education outreach and conservation activities. The Raffles' Banded Langur
+(Presbytis femoralis) is a critically endangered monkey found only in Singapore
+and southern Peninsular Malaysia.</p>
 </td>
 </tr>
 <tr>
