@@ -30,8 +30,8 @@ your family, complete with freebies, games, and more!</p>
 a local charity that operates a 24 hour wildlife rescue hotline, carries
 out rehabilitation, repatriation, animal crime investigation, education,
 outreach and advocacy, in order to create a caring and responsible society
-where animals are treated with compassion and respect.
-<br>Come to our booth to find out how you can act more compassionately towards
+where animals are treated with compassion and respect.</p>
+<p>Come to our booth to find out how you can act more compassionately towards
 animals and live in harmony with wildlife in our city in nature.</p>
 </td>
 </tr>
@@ -42,24 +42,10 @@ animals and live in harmony with wildlife in our city in nature.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://envstudies.nus.edu.sg/bes-drongos/" rel="noopener noreferrer nofollow" target="_blank">BES Drongos</a></strong> is
-a nature guiding group that holds guided walks on Petai Trail at MacRitchie
-Reservoir Park. Visit our booth to learn more about what we do and what
-activities we have done so far!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/birdsoc_sg.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong>.
-Here at the Bird Society of Singapore, we promote a transparent, science-based
-approach in our efforts to expand local and regional knowledge on birds.
-Head down to our booth to learn more about our science, our resources and
-how you can meaningfully contribute to research and conservation!</p>
+<p><strong><a href="https://envstudies.nus.edu.sg/bes-drongos/" rel="noopener noreferrer nofollow" target="_blank">BES Drongos</a></strong>.
+Booth will include TV display of video and slides presentation and comprise
+of posters displayed sharing more of what BES Drongos does and the activities
+we have done so far.</p>
 </td>
 </tr>
 <tr>
@@ -109,10 +95,14 @@ by Earthlink NTU at our booth!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore</a>. </strong>Insects
-perform a vital role in Singapore’s biodiversity, yet they are shunned.
-Here at ENSING (Entomological Society Singapore) we hope to showcase some
-of our insect variety and ways of life, and the threats they face.</p>
+<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore</a>. </strong>Misunderstood
+Insects: Insects perform a vital role in Singapore’s biodiversity, yet
+they are shunned. Here at ENSING (Entomological Society Singapore) we hope
+to showcase some of our insect variety and ways of life, and the threats
+they face.</p>
+<p>- Insect specimens pinned for documentation by our members</p>
+<p>- Guided walks to Punggol Waterway Point for booth participants</p>
+<p>- Posters of research projects conducted by our members</p>
 </td>
 </tr>
 <tr>
@@ -123,8 +113,10 @@ of our insect variety and ways of life, and the threats they face.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank">Herpetological Society of Singapore (HSS)</a></strong>.
-Come visit the HSS booth where we will showcase several wet and dry herpetofauna
-specimens alongside our posters and merchandise.</p>
+The HSS booth will feature several wet and dry herpetofauna specimens alongside
+some of our posters and merchandise (stickers, pins, posters, etc.). We
+will also run a series of videos and photos on the TV screen to enhance
+our herp representation further.</p>
 </td>
 </tr>
 <tr>
@@ -135,13 +127,13 @@ specimens alongside our posters and merchandise.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://janegoodall.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jane Goodall Institute (Singapore) (JGIS)</a></strong>.
-JGIS is a charity organisation promoting educational and conservation activities
-so that people live in harmony with nature. Our vision is to promote a
-healthy planet where people make compassionate choices to live sustainably
-and in harmony with each other, the environment, and animals. JGIS creates
-meaningful and purposeful journeys empowering individuals and communities
-to act and contribute positive social impact to LIFE – nature, wildlife,
-and mankind.</p>
+Inspiring hope through action. Our vision is to promote a healthy planet
+where people make compassionate choices to live sustainably and in harmony
+with each other, the environment, and animals. JGIS creates meaningful
+and purposeful journeys empowering individuals and communities to act and
+contribute positive social impact to LIFE – nature, wildlife, and mankind
+empowering individuals and communities to act and contribute positive social
+impact to LIFE – nature, wildlife, and mankind.</p>
 </td>
 </tr>
 <tr>
