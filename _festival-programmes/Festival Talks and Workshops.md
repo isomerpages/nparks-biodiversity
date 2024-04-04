@@ -34,11 +34,36 @@ fauna through these opportunities and workshops.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>26 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.15pm - 2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa </strong>by Nature
+Society Singapore and students from Dunman Secondary School</p>
+<p></p>
+<p>The workshop is designed to captivate and educate children aged 5 to 12,
+revolving around the delightful narrative of "No Worms for Dinner." Dunman
+Secondary School students will bring the book to life through storytelling.
+Following the narrative journey, participants will be invited to consolidate
+their newfound knowledge through a thoughtfully constructed quiz in a fun
+and interactive manner. To further enrich this experience, the workshop
+will include a hands-on coloring activity, carefully curated to spotlight
+key characters from the book. This aims to reinforce the children's connection
+with the story, enhancing their understanding and appreciation of the narrative's
+nuances. Through this multifaceted approach, the workshop aims to foster
+a love for reading, stimulate imaginative thinking, and cultivate artistic
+skills among its youthful participants.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3" colspan="1">
 <p>26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1015am-12pm</p>
+<p>10.15am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Love Our Wildcats! </strong>by Singapore Wildcat Action Group
