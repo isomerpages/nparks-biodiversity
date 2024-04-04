@@ -76,7 +76,7 @@ wildcats!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1215pm-2pm</p>
+<p>12.15pm - 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ConservaClay </strong>with WWF-Singapore</p>
@@ -92,7 +92,7 @@ where creativity meets conservation!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>215pm-4pm</p>
+<p>2.15pm - 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Marine Biodiversity Workshop</strong> with Just Keep Thinking</p>
