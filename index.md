@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Festival of Biodiversity
-      background: /images/IMG_20240304_WA0012_1_.jpg
+      background: /images/IMG_20240304_WA0012_4_.jpg
       button: About the Festival
       url: /about-the-festival
       key_highlights:
@@ -25,6 +25,10 @@ sections:
           description: ""
           url: /festival-programmes/stayhome/
       subtitle: 25 & 26 May 2024 |  One Punggol
+      variant: floating
+      size: md
+      backgroundColor: gray
+      alignment: left
   - infopic:
       title: Festival Booths
       subtitle: Discover

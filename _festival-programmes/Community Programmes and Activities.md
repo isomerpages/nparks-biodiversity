@@ -61,30 +61,6 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 April 2024 (8.30am – 10.30 am) and 4 May 2024 (8.30am – 10.30am)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Walk With Your Neighbours @ Chestnut Nature Park</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B443A381_80DA_488F_B9D7_4BE036244270.jpg">
-</div>
-<p>Come join us in the morning for a nature walk hosted by residents, for
-residents! Learn about Chestnut Nature Park's flora and fauna, and hear
-about the area's history. Our guided walk is suitable for all ages, so
-bring your family and friends down to explore the Park, and perhaps even
-spot some of our local wildlife!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Free for public to attend.</p>
-<p>Click <a href="https://www.eventbrite.sg/o/friends-of-chestnut-nature-park-20094180493" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register on Eventbrite.</p>
-<p>Click <a href="https://www.facebook.com/friendsofchestnut/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-visit the Facebook page.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>13 April 2024 (9:30am - 11.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,6 +73,43 @@ century to the colonial 19th century and beyond!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/FCP_HT1/336_Heritage-on-the-Hill-Guided-Tour" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 April 2024 (1pm - 2pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>A Peek into a Civet’s Life in Urban Singapore.</strong>
+</p>
+<p>The Common Palm Civet is a nocturnal mammal that lives among us in urban
+Singapore. Ever wondered what civets eat? Are they important to the ecosystem?
+Through this talk, you will learn the ways of the civet, where they can
+be seen and the threats that they face. In addition to the knowledge on
+civets, you will also learn about other urban wildlife and what general
+etiquette to adopt to best admire and appreciate the rich biodiversity
+that we have in Singapore.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/a-peek-into-a-civets-life-in-urban-singapore-tickets-864401005677?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 April 2024 (12.30pm - 1.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Snakes Alive!</strong>
+</p>
+<p>Learn about the different species of snakes that live in Singapore. Are
+all snakes dangerous? What should you do if you are bitten by a venomous
+snake? Get your questions answered and find out how we can peacefully coexist
+with our scaley neighbours.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/snakes-alive-tickets-863390994707?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
 </tr>
@@ -229,6 +242,48 @@ Limited slots on a first-come-first-served basis. For ages 9 and above.</p>
 visit the website for more information.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 April 2024 (10.30am - 12pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Terrestrial Conservation Plan Launch Event.</strong>
+</p>
+<p>The STCP is a ground-up collaborative document that consolidates the knowledge,
+views, concerns, and recommendations of Singapore society for the conservation
+of terrestrial and freshwater ecosystems and biodiversity.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This programme is open to members of the National Library Board, Singapore.</p>
+<p>Please ensure you have your myLibrary username on hand before proceeding
+with the registration. If you do not have a myLibrary username, you can
+create one here:&nbsp;<a href="https://account.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://account.nlb.gov.sg</a>.</p>
+<p></p>
+<p>Click <a href="https://www.eventbrite.com/e/singapore-terrestrial-conservation-plan-launch-event-tickets-871580880877?aff=odcleoeventsincollection&amp;keep_tld=1" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 April 2024 (7.30pm - 10.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Breeding of Urban Farming Crops.</strong>
+</p>
+<p>Learn how genome-editing approach is being used for breeding of urban
+farming crops!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This programme is open to members of the National Library Board, Singapore.
+Please ensure you have your myLibrary username on hand before proceeding
+with the registration. If you do not have a myLibrary username, you can
+create one here:&nbsp;<a href="https://account.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://account.nlb.gov.sg/</a>
+</p>
+<p></p>
+<p>Click <a href="https://www.eventbrite.sg/e/breeding-of-urban-farming-crops-tickets-855026325757?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -254,7 +309,7 @@ visit the website for more information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 April 2024 (8.30am – 10.30 am) and 4 May 2024 (8.30am – 10.30am)</p>
+<p>4 May 2024 (8.30am – 10.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Walk With Your Neighbours @ Chestnut Nature Park</strong>
@@ -274,6 +329,90 @@ spot some of our local wildlife!</p>
 register on Eventbrite.</p>
 <p>Click <a href="https://www.facebook.com/friendsofchestnut/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 visit the Facebook page.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 May 2024 (2pm - 3pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Otters in our City.</strong>
+</p>
+<p>Ever wonder about the family of otters you meet while out on a stroll?
+Find out about our urban otters and how they are a uniquely Singapore experience!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/otters-in-our-city-tickets-877785348607?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 May 2024 (1.30pm - 2.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Snakes Alive!</strong>
+</p>
+<p>Are all snakes dangerous? What should you do if you are bitten by a venomous
+snake? Get your questions answered and find out how we can peacefully coexist
+with our scaley neighbours.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This programme&nbsp;is open to members of the National Library Board,
+Singapore. Please ensure you have your myLibrary username on hand before
+proceeding with the registration. If you do not have a myLibrary username,
+you can create one here:&nbsp;<a href="https://account.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://account.nlb.gov.sg/</a>
+</p>
+<p></p>
+<p>Click <a href="https://www.eventbrite.sg/e/snakes-alive-tickets-876465731597?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 May 2024 (7pm - 10.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Zero Waste Lifestyle: Reducing Waste and Living Sustainably.</strong>
+</p>
+<p>Is it possible to lead a life of zero waste? Find out how we can get there
+through conscious efforts and nudges to make impactful changes in our lifestyle.
+This talk explores what we can do as individuals to minimise waste generation.
+Learn how waste reduction efforts can be fun as well as beneficial to us
+as we discuss how to make the right consumer choices and carry out recycling
+and composting at home.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This programme is open to members of the National Library Board, Singapore.
+Please ensure you have your myLibrary username on hand before proceeding
+with the registration. If you do not have a myLibrary username, you can
+create one here:&nbsp;<a href="https://account.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://account.nlb.gov.sg/</a>
+</p>
+<p></p>
+<p>Click <a href="https://www.eventbrite.sg/e/zero-waste-lifestyle-reducing-waste-and-living-sustainably-down-to-earth-tickets-849239065907?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 May 2024 (2.30pm - 4.30 pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Marine Meanderings through Southeast Asia.</strong>
+</p>
+<p>Embark on a cinematic voyage that explores the historical, poetic and
+social ties surrounding marine life in a Southeast Asian context. The four
+short films each illuminate a distinct facet of the sea and its inhabitants–
+an animation of fishes and their poetic existence, a poignant documentary
+on the challenges faced by an Indonesian fisherwoman, an experimental video
+on the colonial histories lingering in the Malayan strait, and a look at
+crocodile mythologies in Sulawesi. Their narratives capture the diversity
+of human-nature relationships and the richness of marine life in our region.&nbsp;&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/marine-meanderings-through-southeast-asia-lit-for-the-planet-tickets-879261935117?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -337,6 +476,24 @@ learn more about the history of Book a Tree</p>
 <th rowspan="1" colspan="1">
 <p>How to Register</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 June 2024 (2pm - 3.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sustaining your Home Garden.</strong>
+</p>
+<p>This programme is one in a five-part series where you will learn the importance
+of urban farming as well as some key tips and tricks to build your own
+urban garden. Join NLB volunteer and avid gardener, Mr. Ong Chin Tiong
+as he takes you through the fundamentals of Urban Farming. Please register
+for each session separately.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/sustaining-your-home-garden-tickets-846619530807?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
