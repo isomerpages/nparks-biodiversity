@@ -344,7 +344,6 @@ visit the Facebook page.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Otters in our City</strong>
 </p>
-<p></p>
 <p>Ever wonder about the family of otters you meet while out on a stroll?
 Find out about our urban otters and how they are a uniquely Singapore experience!</p>
 </td>
@@ -360,7 +359,6 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Snakes Alive!</strong>
 </p>
-<p></p>
 <p>Are all snakes dangerous? What should you do if you are bitten by a venomous
 snake? Get your questions answered and find out how we can peacefully coexist
 with our scaley neighbours.</p>
@@ -378,10 +376,57 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>8 May 2024 (7pm - 10.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Zero Waste Lifestyle: Reducing Waste and Living Sustainably</strong>
+</p>
+<p>Is it possible to lead a life of zero waste? Find out how we can get there
+through conscious efforts and nudges to make impactful changes in our lifestyle.
+This talk explores what we can do as individuals to minimise waste generation.
+Learn how waste reduction efforts can be fun as well as beneficial to us
+as we discuss how to make the right consumer choices and carry out recycling
+and composting at home.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This programme is open to members of the National Library Board, Singapore.
+Please ensure you have your myLibrary username on hand before proceeding
+with the registration. If you do not have a myLibrary username, you can
+create one here:&nbsp;<a href="https://account.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://account.nlb.gov.sg/</a>
+</p>
+<p></p>
+<p>Click <a href="https://www.eventbrite.sg/e/zero-waste-lifestyle-reducing-waste-and-living-sustainably-down-to-earth-tickets-849239065907?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 May 2024 (2.30pm - 4.30 pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Marine Meanderings through Southeast Asia</strong>
+</p>
+<p>Embark on a cinematic voyage that explores the historical, poetic and
+social ties surrounding marine life in a Southeast Asian context. The four
+short films each illuminate a distinct facet of the sea and its inhabitants–
+an animation of fishes and their poetic existence, a poignant documentary
+on the challenges faced by an Indonesian fisherwoman, an experimental video
+on the colonial histories lingering in the Malayan strait, and a look at
+crocodile mythologies in Sulawesi. Their narratives capture the diversity
+of human-nature relationships and the richness of marine life in our region.&nbsp;&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/marine-meanderings-through-southeast-asia-lit-for-the-planet-tickets-879261935117?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>18 May 2024 (7.30am - 9.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bird Watching along The Southern Ridges.</strong>
+<p><strong>Bird Watching along The Southern Ridges</strong>
 </p>
 <p>Join us for a bird watching tour at The Southern Ridges, where up to 43
 species of birds have been spotted so far. This tour will take you through
@@ -437,6 +482,24 @@ learn more about the history of Book a Tree</p>
 <th rowspan="1" colspan="1">
 <p>How to Register</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 June 2024 (2pm - 3.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sustaining your Home Garden</strong>
+</p>
+<p>This programme is one in a five-part series where you will learn the importance
+of urban farming as well as some key tips and tricks to build your own
+urban garden. Join NLB volunteer and avid gardener, Mr. Ong Chin Tiong
+as he takes you through the fundamentals of Urban Farming. Please register
+for each session separately.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/sustaining-your-home-garden-tickets-846619530807?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
