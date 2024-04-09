@@ -81,9 +81,8 @@ register.</p>
 <p>13 April 2024 (1pm - 2pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A Peek into a Civet’s Life in Urban Singapore</strong>
+<p><strong>A Peek into a Civet’s Life in Urban Singapore.</strong>
 </p>
-<p></p>
 <p>The Common Palm Civet is a nocturnal mammal that lives among us in urban
 Singapore. Ever wondered what civets eat? Are they important to the ecosystem?
 Through this talk, you will learn the ways of the civet, where they can
@@ -104,7 +103,6 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Snakes Alive!</strong>
 </p>
-<p></p>
 <p>Learn about the different species of snakes that live in Singapore. Are
 all snakes dangerous? What should you do if you are bitten by a venomous
 snake? Get your questions answered and find out how we can peacefully coexist
@@ -249,7 +247,7 @@ visit the website for more information.</p>
 <p>28 April 2024 (10.30am - 12pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Terrestrial Conservation Plan Launch Event</strong>
+<p><strong>Singapore Terrestrial Conservation Plan Launch Event.</strong>
 </p>
 <p>The STCP is a ground-up collaborative document that consolidates the knowledge,
 views, concerns, and recommendations of Singapore society for the conservation
@@ -270,9 +268,8 @@ register.</p>
 <p>30 April 2024 (7.30pm - 10.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Breeding of Urban Farming Crops</strong>
+<p><strong>Breeding of Urban Farming Crops.</strong>
 </p>
-<p></p>
 <p>Learn how genome-editing approach is being used for breeding of urban
 farming crops!</p>
 </td>
@@ -339,7 +336,7 @@ visit the Facebook page.</p>
 <p>4 May 2024 (2pm - 3pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Otters in our City</strong>
+<p><strong>Otters in our City.</strong>
 </p>
 <p>Ever wonder about the family of otters you meet while out on a stroll?
 Find out about our urban otters and how they are a uniquely Singapore experience!</p>
@@ -376,7 +373,7 @@ register.</p>
 <p>8 May 2024 (7pm - 10.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Zero Waste Lifestyle: Reducing Waste and Living Sustainably</strong>
+<p><strong>Zero Waste Lifestyle: Reducing Waste and Living Sustainably.</strong>
 </p>
 <p>Is it possible to lead a life of zero waste? Find out how we can get there
 through conscious efforts and nudges to make impactful changes in our lifestyle.
@@ -401,7 +398,7 @@ register.</p>
 <p>11 May 2024 (2.30pm - 4.30 pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Marine Meanderings through Southeast Asia</strong>
+<p><strong>Marine Meanderings through Southeast Asia.</strong>
 </p>
 <p>Embark on a cinematic voyage that explores the historical, poetic and
 social ties surrounding marine life in a Southeast Asian context. The four
@@ -423,7 +420,7 @@ register.</p>
 <p>18 May 2024 (7.30am - 9.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bird Watching along The Southern Ridges</strong>
+<p><strong>Bird Watching along The Southern Ridges.</strong>
 </p>
 <p>Join us for a bird watching tour at The Southern Ridges, where up to 43
 species of birds have been spotted so far. This tour will take you through
@@ -485,7 +482,7 @@ learn more about the history of Book a Tree</p>
 <p>20 June 2024 (2pm - 3.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sustaining your Home Garden</strong>
+<p><strong>Sustaining your Home Garden.</strong>
 </p>
 <p>This programme is one in a five-part series where you will learn the importance
 of urban farming as well as some key tips and tricks to build your own
