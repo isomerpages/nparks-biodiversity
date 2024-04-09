@@ -32,17 +32,6 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Programme Round Duration: 6 April 2024 - 26 April 2024</p>
 <p></p>
 <p>Training Date: 6 April 2024 (9 AM - 12 PM)</p>
@@ -326,7 +315,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 April 2024 (8.30am – 10.30 am) and 4 May 2024 (8.30am – 10.30am)</p>
+<p>4 May 2024 (8.30am – 10.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Walk With Your Neighbours @ Chestnut Nature Park</strong>
@@ -346,6 +335,45 @@ spot some of our local wildlife!</p>
 register on Eventbrite.</p>
 <p>Click <a href="https://www.facebook.com/friendsofchestnut/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 visit the Facebook page.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 May 2024 (2pm - 3pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Otters in our City</strong>
+</p>
+<p></p>
+<p>Ever wonder about the family of otters you meet while out on a stroll?
+Find out about our urban otters and how they are a uniquely Singapore experience!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/otters-in-our-city-tickets-877785348607?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 May 2024 (1.30pm - 2.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Snakes Alive!</strong>
+</p>
+<p></p>
+<p>Are all snakes dangerous? What should you do if you are bitten by a venomous
+snake? Get your questions answered and find out how we can peacefully coexist
+with our scaley neighbours.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This programme&nbsp;is open to members of the National Library Board,
+Singapore. Please ensure you have your myLibrary username on hand before
+proceeding with the registration. If you do not have a myLibrary username,
+you can create one here:&nbsp;<a href="https://account.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://account.nlb.gov.sg/</a>
+</p>
+<p></p>
+<p>Click <a href="https://www.eventbrite.sg/e/snakes-alive-tickets-876465731597?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 <tr>
