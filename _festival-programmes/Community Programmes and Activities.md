@@ -61,30 +61,6 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 April 2024 (8.30am – 10.30 am) and 4 May 2024 (8.30am – 10.30am)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Walk With Your Neighbours @ Chestnut Nature Park</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B443A381_80DA_488F_B9D7_4BE036244270.jpg">
-</div>
-<p>Come join us in the morning for a nature walk hosted by residents, for
-residents! Learn about Chestnut Nature Park's flora and fauna, and hear
-about the area's history. Our guided walk is suitable for all ages, so
-bring your family and friends down to explore the Park, and perhaps even
-spot some of our local wildlife!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Free for public to attend.</p>
-<p>Click <a href="https://www.eventbrite.sg/o/friends-of-chestnut-nature-park-20094180493" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register on Eventbrite.</p>
-<p>Click <a href="https://www.facebook.com/friendsofchestnut/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-visit the Facebook page.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>13 April 2024 (9:30am - 11.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,6 +242,27 @@ Limited slots on a first-come-first-served basis. For ages 9 and above.</p>
 <p></p>
 <p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/rat-tour-apr-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 visit the website for more information.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 April 2024 (10.30am - 12pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Terrestrial Conservation Plan Launch Event</strong>
+</p>
+<p>The STCP is a ground-up collaborative document that consolidates the knowledge,
+views, concerns, and recommendations of Singapore society for the conservation
+of terrestrial and freshwater ecosystems and biodiversity.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This programme is open to members of the National Library Board, Singapore.</p>
+<p>Please ensure you have your myLibrary username on hand before proceeding
+with the registration. If you do not have a myLibrary username, you can
+create one here:&nbsp;<a href="https://account.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://account.nlb.gov.sg</a>.</p>
+<p></p>
+<p>Click <a href="https://www.eventbrite.com/e/singapore-terrestrial-conservation-plan-launch-event-tickets-871580880877?aff=odcleoeventsincollection&amp;keep_tld=1" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 <tr>
