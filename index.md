@@ -25,6 +25,10 @@ sections:
           description: ""
           url: /festival-programmes/stayhome/
       subtitle: 25 & 26 May 2024 |  One Punggol
+      variant: center
+      size: md
+      backgroundColor: gray
+      alignment: left
   - infopic:
       title: Festival Booths
       subtitle: Discover
