@@ -32,6 +32,17 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Programme Round Duration: 6 April 2024 - 26 April 2024</p>
 <p></p>
 <p>Training Date: 6 April 2024 (9 AM - 12 PM)</p>
@@ -97,6 +108,45 @@ century to the colonial 19th century and beyond!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/FCP_HT1/336_Heritage-on-the-Hill-Guided-Tour" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 April 2024 (1pm - 2pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>A Peek into a Civet’s Life in Urban Singapore</strong>
+</p>
+<p></p>
+<p>The Common Palm Civet is a nocturnal mammal that lives among us in urban
+Singapore. Ever wondered what civets eat? Are they important to the ecosystem?
+Through this talk, you will learn the ways of the civet, where they can
+be seen and the threats that they face. In addition to the knowledge on
+civets, you will also learn about other urban wildlife and what general
+etiquette to adopt to best admire and appreciate the rich biodiversity
+that we have in Singapore.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/a-peek-into-a-civets-life-in-urban-singapore-tickets-864401005677?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 April 2024 (12.30pm - 1.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Snakes Alive!</strong>
+</p>
+<p></p>
+<p>Learn about the different species of snakes that live in Singapore. Are
+all snakes dangerous? What should you do if you are bitten by a venomous
+snake? Get your questions answered and find out how we can peacefully coexist
+with our scaley neighbours.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/snakes-alive-tickets-863390994707?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
 </tr>
@@ -227,6 +277,28 @@ Limited slots on a first-come-first-served basis. For ages 9 and above.</p>
 <p></p>
 <p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/rat-tour-apr-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 visit the website for more information.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 April 2024 (7.30pm - 10.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Breeding of Urban Farming Crops</strong>
+</p>
+<p></p>
+<p>Learn how genome-editing approach is being used for breeding of urban
+farming crops!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This programme is open to members of the National Library Board, Singapore.
+Please ensure you have your myLibrary username on hand before proceeding
+with the registration. If you do not have a myLibrary username, you can
+create one here:&nbsp;<a href="https://account.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://account.nlb.gov.sg/</a>
+</p>
+<p></p>
+<p>Click <a href="https://www.eventbrite.sg/e/breeding-of-urban-farming-crops-tickets-855026325757?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 </tbody>
