@@ -635,6 +635,28 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18 May 2024 (9.30am - 10.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Nature Guided Walk at Rifle Range Nature Park.</strong>
+</p>
+<p>Join us for a morning walk at Rifle Range Nature Park!
+<br>&nbsp;
+<br>This 1-hour guided walk will allow participants to learn more about our
+rich biodiversity and the animal crossing features such as rope bridges
+and colugo poles. Find out how these structures enhance the ecological
+connectivity for our wildlife and the importance of Rifle Range Nature
+Park as a green buffer to protect Bukit Timah Nature Reserve.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration opens on 27 April, 12am.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/RRNP_004/302_Nature-Guided-Walk-at-Rifle-Range-Nature-Park" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>25 May 2024 and 26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
