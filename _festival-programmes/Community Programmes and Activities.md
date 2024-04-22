@@ -777,6 +777,26 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 June 2024 (9.30am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What is in my mangrove?</strong>
+</p>
+<p>Join us for a guided walk of this unique mangrove wetlands located at
+the border of freshwater (river) and salt water (sea). Singapore used to
+have large areas of mangroves, but lost most of them to coastal development.
+Few mangroves are left in Singapore, one of which is at Sungei Buloh Wetland
+Reserve.&nbsp;
+<br>&nbsp;
+<br>The walk will be cancelled if it rains.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM0006/355_What-s-in-my-Mangrove" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>8 June 2024 (9.30am - 11am)</p>
 </td>
 <td rowspan="1" colspan="1">
