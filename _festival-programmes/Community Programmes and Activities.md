@@ -205,7 +205,7 @@ register.</p>
 <p>24 April 2024 (2pm - 4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SewSustain Club.</strong> 
+<p><strong>SewSustain Club.</strong>
 </p>
 <p>SewSustain Club is a vibrant community for sewing enthusiasts passionate
 about sustainability. Beginners have the opportunity to learn basic stitches,
@@ -304,6 +304,22 @@ create one here:&nbsp;<a href="https://account.nlb.gov.sg/" rel="noopener norefe
 register.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 April 2024 (3pm - 5pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Habitat Enhancement at Lim Chu Kang Nature Park.</strong>
+</p>
+<p>Play a part in enhancing the coastal and grassland habitats of Lim Chu
+Kang Nature Park. Join us in nurturing the young saplings and removal of
+invasive species to restore the native habitats of the Nature Park.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBLCK01/297_Habitat-Enhancement-at-Lim-Chu-Kang-Nature-Park" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -314,6 +330,7 @@ register.</p>
 <summary><strong>May</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table>
 <tbody>
 <tr>
@@ -353,6 +370,42 @@ visit the Facebook page.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4 May 2024 (9.30am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What is in my Water?</strong>
+</p>
+<p>Join us for an interesting morning walk getting to know the creatures
+and plants that lives in and around the water edges of Sungei Buloh.&nbsp;
+<br>The walk will be cancelled if it rains.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration opens on 26 April, 8am.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM003/339_What-is-in-my-water" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 May 2024 (10am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Nature’s Minimalists: Air Plants.</strong>
+</p>
+<p><em>Tillandsia</em>, or air plants, are admired by plant hobbyists for
+their beautiful silver-green colour and form.&nbsp; These epiphytic plants
+have minimal maintenance requirements and do not need soil to grow. Join
+us to learn about the characteristics of air plants and their native habitats,
+as well as how to make them flourish.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/EDUA0501/286_Nature-s-Minimalists-Air-Plants" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 May 2024 (2pm - 3pm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -364,6 +417,17 @@ Find out about our urban otters and how they are a uniquely Singapore experience
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://www.eventbrite.sg/e/otters-in-our-city-tickets-877785348607?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -602,7 +666,7 @@ tour included the Henderson Waves, Sembcorp Forest of the Giants, Forest
 Walk and the Singing Forest.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration opens on 1 May, 12.00am</p>
+<p>Registration opens on 1 May, 12am.</p>
 <p></p>
 <p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/FWSR2024/13_Fun-Walk-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
