@@ -421,13 +421,37 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4 May 2024 (2.30pm - 4pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Croc and Friends at Lookout Point.</strong>
+</p>
+<p>Learn all about the Estuarine Crocodiles that bask in the Reserve with
+our volunteer Bernard, who has a keen interest in our reptilian friends!&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM008/367_Croc-and-Friends-at-Lookout-Point" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 May 2024 (10am - 11.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>St John's Island Monthly Guided Walk.</strong>
+</p>
+<p>A free 90-minute guided tour (capped at 20 participants) will be held
+on the first Sunday of every month. National Parks Board volunteers will
+introduce you to the key features along the St John’s Island Trail.
+<br>&nbsp;
+<br>This land-based trail covers a distance of 1.6km. You can purchase your
+own ferry ticket at Marina South Pier and take the 9am ferry to St John’s
+Island.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SJITRL01/20_St-John-s-Island-Monthly-Guided-Walk" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -474,6 +498,26 @@ create one here:&nbsp;<a href="https://account.nlb.gov.sg/" rel="noopener norefe
 </p>
 <p></p>
 <p>Click <a href="https://www.eventbrite.sg/e/zero-waste-lifestyle-reducing-waste-and-living-sustainably-down-to-earth-tickets-849239065907?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 May 2024 (9.30am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What is in my mangrove?</strong>
+</p>
+<p>Join us for a guided walk of this unique mangrove wetlands located at
+the border of freshwater (river) and salt water (sea). Singapore used to
+have large areas of mangroves, but lost most of them to coastal development.
+Few mangroves are left in Singapore, one of which is at Sungei Buloh Wetland
+Reserve.&nbsp;
+<br>&nbsp;
+<br>The walk will be cancelled if it rains.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM004/341_What-is-in-my-mangrove" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
 </tr>
@@ -567,6 +611,25 @@ a better experience.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BWSR2024/7_Bird-Watching-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 May 2024 (9.30am - 10.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Nature Appreciation Walk at Bukit Timah Nature Reserve.</strong>
+</p>
+<p>Experience nature in its pristine form at Bukit Timah Nature Reserve,
+which is a mere 12 km from the bustling city centre. By virtue of Singapore’s
+location on the equatorial belt, the reserve has one of the richest and
+most diverse ecological systems.&nbsp;Join us for a Guided Nature Appreciation
+Walk to find out more about the flora &amp; fauna that can be found in
+the reserve!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BTNR_002/305_Nature-Appreciation-Walk-at-Bukit-Timah-Nature-Reserve" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
 </tr>
