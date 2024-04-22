@@ -791,6 +791,8 @@ Reserve.&nbsp;
 <br>The walk will be cancelled if it rains.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Registration opens on 24 May, 8am.</p>
+<p></p>
 <p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM0006/355_What-s-in-my-Mangrove" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
