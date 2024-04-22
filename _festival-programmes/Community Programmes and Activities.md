@@ -839,6 +839,23 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>12 June 2024 (10am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Orchid Discoveries: An Introduction to Ornamental Orchids.</strong>
+</p>
+<p>Discover the unique characteristics of orchids by observing their beautiful
+flowers, graceful forms and growth habits. Get a glimpse of the various
+pots and media we use for potting orchids. Join us at Burkill Hall to learn
+more about these captivating plants.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/EDUA0302/283_Orchid-Discoveries-An-Introduction-to-Ornamental-Orchids" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>15 June 2024 (9.30am - 10.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -856,6 +873,28 @@ Park as a green buffer to protect Bukit Timah Nature Reserve.</p>
 <p>Registration opens on 25 May, 12am.</p>
 <p></p>
 <p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/RRNP_004/303_Nature-Guided-Walk-at-Rifle-Range-Nature-Park" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 June 2024 (9.30am - 10.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Heritage Guided Walk at Rail Corridor (Central).</strong>
+</p>
+<p>Join us for a morning walk at the Rail Corridor (Central)!
+<br>&nbsp;
+<br>Rediscover the history of the former railway line, and uncover interesting
+facts about the heritage landmarks such as old Bukit Timah Railway Station
+as well as the Staff Quarters. Participants can also get a chance to learn
+some of the common flora and fauna commonly spotted around the area. This
+guided tour is suitable for everyone young and old.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration opens on 25 May, 12am.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/RC_004/304_Heritage-Guided-Walk-at-Rail-Corridor-Central" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
 </tr>
