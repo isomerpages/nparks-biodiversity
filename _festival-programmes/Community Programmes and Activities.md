@@ -673,7 +673,41 @@ Reserve.&nbsp;
 <br>The walk will be cancelled if it rains.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM004/341_What-is-in-my-mangrove" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM004/342_What-is-in-my-mangrove" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 May 2024 (9am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Habitat Enhancement at Lim Chu Kang Nature Park.</strong>
+</p>
+<p>Play a part in enhancing the coastal and grassland habitats of Lim Chu
+Kang Nature Park. Join us in nurturing the young saplings and removal of
+invasive species to restore the native habitats of the Nature Park.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBLCK02/314_Habitat-Enhancement-at-Lim-Chu-Kang-Nature-Park" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 May 2024 (9.30am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What is in my Water?</strong>
+</p>
+<p>Join us for an interesting morning walk getting to know the creatures
+and plants that lives in and around the water edges of Sungei Buloh.&nbsp;
+<br>The walk will be cancelled if it rains.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration opens on 17 May, 8am.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM003/340_What-is-in-my-water" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
 </tr>
@@ -743,6 +777,24 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>8 June 2024 (9.30am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What is in my Water?</strong>
+</p>
+<p>Join us for an interesting morning walk getting to know the creatures
+and plants that lives in and around the water edges of Sungei Buloh.&nbsp;
+<br>The walk will be cancelled if it rains.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration opens on 31 May, 8am.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM0007/357_What-s-in-my-Water" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>20 June 2024 (2pm - 3.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -776,6 +828,24 @@ Walk and the Singing Forest.</p>
 <p>Registration opens on 1 May, 12am.</p>
 <p></p>
 <p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/FWSR2024/13_Fun-Walk-along-The-Southern-Ridges" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 June 2024 (9.30am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What is in my Water?</strong>
+</p>
+<p>Join us for an interesting morning walk getting to know the creatures
+and plants that lives in and around the water edges of Sungei Buloh.&nbsp;
+<br>The walk will be cancelled if it rains.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration opens on 14 June, 8am.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM0007/358_What-s-in-my-Water" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
 </tr>
