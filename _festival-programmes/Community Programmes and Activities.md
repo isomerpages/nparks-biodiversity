@@ -799,6 +799,28 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2 June 2024 (10am - 11.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>St John's Island Monthly Guided Walk.</strong>
+</p>
+<p>A free 90-minute guided tour (capped at 20 participants) will be held
+on the first Sunday of every month. National Parks Board volunteers will
+introduce you to the key features along the St John’s Island Trail.
+<br>&nbsp;
+<br>This land-based trail covers a distance of 1.6km. You can purchase your
+own ferry ticket at Marina South Pier and take the 9am ferry to St John’s
+Island.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration opens on 5 May, 10am.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SJITRL01/21_St-John-s-Island-Monthly-Guided-Walk" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>8 June 2024 (9.30am - 11am)</p>
 </td>
 <td rowspan="1" colspan="1">
