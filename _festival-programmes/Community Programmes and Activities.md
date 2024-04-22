@@ -629,6 +629,8 @@ Walk to find out more about the flora &amp; fauna that can be found in
 the reserve!</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Registration opens on 27 April, 12am.</p>
+<p></p>
 <p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/BTNR_002/305_Nature-Appreciation-Walk-at-Bukit-Timah-Nature-Reserve" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
@@ -652,6 +654,26 @@ Park as a green buffer to protect Bukit Timah Nature Reserve.</p>
 <p>Registration opens on 27 April, 12am.</p>
 <p></p>
 <p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/RRNP_004/302_Nature-Guided-Walk-at-Rifle-Range-Nature-Park" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 May 2024 (9.30am - 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What is in my mangrove?</strong>
+</p>
+<p>Join us for a guided walk of this unique mangrove wetlands located at
+the border of freshwater (river) and salt water (sea). Singapore used to
+have large areas of mangroves, but lost most of them to coastal development.
+Few mangroves are left in Singapore, one of which is at Sungei Buloh Wetland
+Reserve.&nbsp;
+<br>&nbsp;
+<br>The walk will be cancelled if it rains.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM004/341_What-is-in-my-mangrove" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
 </td>
 </tr>
