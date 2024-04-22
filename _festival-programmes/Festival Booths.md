@@ -50,13 +50,16 @@ we have done so far.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/birdsoc_sg_1.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Here at the <strong>Bird Society of Singapore,</strong> we promote a transparent,
-science-based approach in our efforts to expand local and regional knowledge
-on birds. Head down to our booth to learn more about our science, our resources
-and how you can meaningfully contribute to research and conservation!</p>
+<p>Here at the <strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong> we
+promote a transparent, science-based approach in our efforts to expand
+local and regional knowledge on birds. Head down to our booth to learn
+more about our science, our resources and how you can meaningfully contribute
+to research and conservation!</p>
 </td>
 </tr>
 <tr>
@@ -114,6 +117,14 @@ they face.</p>
 <p>- Insect specimens pinned for documentation by our members</p>
 <p>- Guided walks to Punggol Waterway Point for booth participants</p>
 <p>- Posters of research projects conducted by our members</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
