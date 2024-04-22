@@ -202,6 +202,26 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>24 April 2024 (2pm - 4.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SewSustain Club.</strong> 
+</p>
+<p>SewSustain Club is a vibrant community for sewing enthusiasts passionate
+about sustainability. Beginners have the opportunity to learn basic stitches,
+and participants are to bring their own needles, threads, scissors, and
+optional embellishments like sequins, beads, buttons, and ribbons to personalize
+their projects. The club fosters a collaborative environment without pressure,
+welcoming individuals to join in reducing textile waste and promoting eco-friendly
+fashion.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/sewsustain-club-tickets-866049676897?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>27 April 2024 (10am - 11.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -417,6 +437,59 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>11 May 2024 (1.45pm - 2.45pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Our Wild Neighbours from Pasir Ris Park.</strong>
+</p>
+<p>Sometimes great stories are hidden right in our own backyard. Learn&nbsp;about
+the lives of our wild neighbours who call Pasir Ris Park their home through
+photos and videos taken by award-winning wildlife photographer, Jayaprakash
+Bojan. Join him in this visual journey and&nbsp;gather some tips and tricks
+in photography and storytelling.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/our-wild-neighbours-from-pasir-ris-park-tickets-880139760717?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 May 2024 (1pm - 2pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wild Rescues in Singapore: What can you do to help wild animals in distress.</strong>
+</p>
+<p>Spot a grounded baby bird or a snake in your neighbourhood's coffeeshop?
+What about the sounds coming from your attic at night?</p>
+<p>Join Kalai, ACRES Wildlife Rescue Officer, to find out what you can do
+if you encounter a wild animal in distress and how you can be an advocate
+in helping our wildlife.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/wild-rescues-in-singapore-what-can-you-do-to-help-wild-animals-in-distress-tickets-881214164287?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 May 2024 (7.30pm - 8.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Insects: Studying Nature’s Tiny Organisms to Seek Sustainable Solutions.</strong>
+</p>
+<p>Insects represent a crucial component of the ecosystem and are often nature’s
+solution to pollination as well as nutrient recycling.</p>
+<p>This talk will emphasize the value of studying insects as sustainable
+solutions to environmental challenges.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/insects-studying-natures-tiny-organisms-to-seek-sustainable-solutions-tickets-881797659537?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>18 May 2024 (7.30am - 9.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -452,6 +525,26 @@ would be donated to the Garden City Fund’s Plant-A-Tree Programme.</p>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://www.linkedin.com/pulse/sowing-seeds-success-50-reflection-book-a-tree-journey-bhavesh-shukla-irdmc/?trackingId=9vbfWR4oRnerfElpfW7S%2FQ%3D%3D" rel="noopener noreferrer nofollow" target="_blank">here</a>to
 learn more about the history of Book a Tree</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 May 2024 (7pm - 8pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Rooted between Sea and Land: Mangroves in Singapore | Down to Earth</strong>
+</p>
+<p>Our garden city, dotted with urban forests and plentiful parks is also
+home to mangroves. These forests that thrives in the twilight zone between
+land and sea are our natural helpers in reversing and mitigating the impacts
+of climate change. However, these fragile habitats face the threat of development
+and rising sea levels. In this talk, learn more about the mangrove ecosystems
+in Singapore, hear about its inhabitants, and their critical role in addressing
+climate change challenges for Singapore and the region.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/rooted-between-sea-and-land-mangroves-in-singapore-down-to-earth-tickets-881715844827?aff=odcleoeventsincollection" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 </tbody>
