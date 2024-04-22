@@ -978,6 +978,30 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>22 June 2024 (9.30am - 10.30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Nature Appreciation Walk at Windsor Nature Park.</strong>
+</p>
+<p>Ideally situated at the perimeter of Central Catchment Nature Reserve,
+the 75-hectare Windsor Nature Park is the gateway to the rich biodiversity
+of the largest nature reserve in Singapore. The nature park was developed
+as a green buffer to help reduce visitorship pressures and man-made disturbances
+currently experienced by the nature reserve.
+<br>
+<br>Through this guided walk, you will gain a greater appreciation of Singapore's
+rich natural heritage and the need to protect if for future generations.
+Come join us and discover the importance of Windsor Nature Park.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration opens on 1 June, 12am.</p>
+<p></p>
+<p>Click <a href="https://beta.nparks.gov.sg/visit/events/event-detail/WNP_001/308_Nature-Appreciation-Walk-at-Windsor-Nature-Park" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>22 June 2024 (9.30am - 11am)</p>
 </td>
 <td rowspan="1" colspan="1">
