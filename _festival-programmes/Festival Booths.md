@@ -50,6 +50,17 @@ we have done so far.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Here at the <strong>Bird Society of Singapore,</strong> we promote a transparent,
+science-based approach in our efforts to expand local and regional knowledge
+on birds. Head down to our booth to learn more about our science, our resources
+and how you can meaningfully contribute to research and conservation!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Book_a_tree.jpg">
 </div>
