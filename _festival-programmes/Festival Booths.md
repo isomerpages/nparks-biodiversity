@@ -124,7 +124,15 @@ they face.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The <strong><a href="https://www.linkedin.com/company/fmp-community/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank"><u>Friends of Marine Park (FMP)</u></a></strong> community
+is a dynamic network of stakeholders from civil society, business, academia
+and public service. The network encourages community members to collaborate
+for the long-term survival of life in our seas. It is built on trusting
+relationships that enable resource users to get involved in the planning,
+development, and management of the Sisters’ Islands Marine Park. We also
+facilitates activities that are mutually beneficial to the community and
+to the success of the nation’s first marine park. Visit our booth to find
+out more!</p>
 </td>
 </tr>
 <tr>
