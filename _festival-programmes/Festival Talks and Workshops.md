@@ -35,7 +35,7 @@ fauna through these opportunities and workshops.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 May 2024</p>
+<p>25 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.15pm - 2pm</p>
@@ -81,13 +81,11 @@ wildcats!</p>
 <td rowspan="1" colspan="1">
 <p><strong>ConservaClay </strong>with WWF-Singapore</p>
 <p></p>
-<p>A hands-on clay crafting experience designed to ignite your passion for
-wildlife. Discover the art of simple sculpting as we delve into the fascinating
-world of animals and plants, crafting clay creatures and learn about local
-species in an artistic way. Our instructors will guide you through the
-process, sharing insights into each species and the conservation efforts
-essential to their survival. Join us for a fun-filled session of eco-artistry,
-where creativity meets conservation!</p>
+<p>Join WWF-Singapore for an immersive hands-on experience that ignites your
+passion for nature.&nbsp; Delve into the art of clay sculpting under the
+guidance of our skilled facilitators. Unleash your creativity as you mold
+the clay into creatures inspired by the wonders of the animal kingdom and
+lush plant life.</p>
 </td>
 </tr>
 <tr>
