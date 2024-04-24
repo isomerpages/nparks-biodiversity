@@ -32,6 +32,9 @@ fauna through these opportunities and workshops.</p>
 <th rowspan="1" colspan="1">
 <p>Workshop</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Location</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -57,6 +60,51 @@ nuances. Through this multifaceted approach, the workshop aims to foster
 a love for reading, stimulate imaginative thinking, and cultivate artistic
 skills among its youthful participants.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
@@ -73,6 +121,9 @@ skills among its youthful participants.</p>
 colouring wildcats, and having your face painted as one of our beloved
 wildcats!</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -87,6 +138,9 @@ guidance of our skilled facilitators. Unleash your creativity as you mold
 the clay into creatures inspired by the wonders of the animal kingdom and
 lush plant life.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -97,6 +151,9 @@ lush plant life.</p>
 <p></p>
 <p>Learn about our native wildlife hidden in our marine shores, and how we
 can better appreciate them. End off with a badge-making session!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
