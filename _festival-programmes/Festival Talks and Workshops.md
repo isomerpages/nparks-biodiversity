@@ -139,11 +139,14 @@ passion for nature.&nbsp; Delve into the art of clay sculpting under the
 guidance of our skilled facilitators. Unleash your creativity as you mold
 the clay into creatures inspired by the wonders of the animal kingdom and
 lush plant life.</p>
-<p></p>
 <p>But there's more to this workshop than just artistry! As you craft your
 clay creations, you'll also discover fascinating insights into local species
 and the conservation efforts needed to protect them. It's a unique opportunity
 to blend creativity with conservation and make a meaningful impact.</p>
+<p>Mark your calendars and join us at the Workshop Zone on the 26th May 2024
+to be part of the fun-filled eco-artistry session. [No registration required;
+simply drop by during the specified time to participate. Seats are limited
+and available on a first-come, first-serve basis.]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
@@ -165,4 +168,6 @@ can better appreciate them. End off with a badge-making session!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
