@@ -61,7 +61,7 @@ a love for reading, stimulate imaginative thinking, and cultivate artistic
 skills among its youthful participants.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Workshop Zone (Stage)</p>
 </td>
 </tr>
 <tr>
