@@ -598,6 +598,29 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>17 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Invasive Species Management @ Rail Corridor</strong>
+</p>
+<p></p>
+<p>Invasive plant species are a threat to our native ecosystems. They compete
+with our local flora for water, nutrients, and space, often resulting in
+a deterioration of native biodiversity. WWF-Singapore is organising monthly
+invasive species management sessions at Rail Corridor, where volunteers
+can help to remove weeds such as the Zanzibar Yam (Dioscorea sansibarensis).
+No experience is required - just come in comfortable attire and bring plenty
+of water!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click<a href="https://www.eventbrite.com/e/wwf-singapore-invasive-species-management-rail-corridor-tickets-707628484847?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"> <u>here</u></a> to
+register.</p>
+<p>Click<a href="https://ujdqi6q2l7r.typeform.com/to/kUDCYsVY" rel="noopener noreferrer nofollow" target="_blank"> <u>here</u></a> to
+register as a volunteer.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>18 May 2024 (7.30am - 9.30am)</p>
 </td>
 <td rowspan="1" colspan="1">
