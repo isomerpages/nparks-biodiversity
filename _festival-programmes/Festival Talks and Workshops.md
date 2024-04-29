@@ -105,7 +105,7 @@ action for sharks and the ocean with The Dorsal Effect.</p>
 <p>Details coming soon!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop Zone</p>
+<p>Workshop Zone (Stage)</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ colouring wildcats, and having your face painted as one of our beloved
 wildcats!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop Zone</p>
+<p>Workshop Zone (Stage)</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ the clay into creatures inspired by the wonders of the animal kingdom and
 lush plant life.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop Zone</p>
+<p>Workshop Zone (Stage)</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ lush plant life.</p>
 can better appreciate them. End off with a badge-making session!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop Zone</p>
+<p>Workshop Zone (Stage)</p>
 </td>
 </tr>
 </tbody>
