@@ -26,7 +26,7 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>25 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,9 +37,6 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>4pm - 5.30pm</p>
 </td>
@@ -146,7 +143,7 @@ are limited and available on a first-come, first-serve basis.]</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,9 +219,6 @@ can better appreciate them. End off with a badge-making session!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>4.15pm - 6pm</p>
 </td>
