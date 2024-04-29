@@ -187,7 +187,7 @@ can better appreciate them. End off with a badge-making session!</p>
 Adventure!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Workshop Zone (Stage)</p>
 </td>
 </tr>
 </tbody>
