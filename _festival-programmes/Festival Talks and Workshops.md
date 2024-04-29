@@ -63,9 +63,9 @@ existing policies in Singapore and how they can be better enhanced.</p>
 <p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa </strong>by Nature
 Society Singapore and students from Dunman Secondary School</p>
 <p></p>
-<p>The workshop is designed to captivate and educate children aged 5 to 12,
-revolving around the delightful narrative of "No Worms for Dinner." Dunman
-Secondary School students will bring the book to life through storytelling.
+<p>This workshop is designed to captivate and educate children aged 5 to
+12, revolving around the delightful narrative of "No Worms for Dinner."
+Dunman Secondary School students will bring the book to life through storytelling.
 Following the narrative journey, participants will be invited to consolidate
 their newfound knowledge through a thoughtfully constructed quiz in a fun
 and interactive manner. To further enrich this experience, the workshop
