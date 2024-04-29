@@ -51,6 +51,20 @@ we have done so far.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/birdsoc_sg_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Here at the <strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong> we
+promote a transparent, science-based approach in our efforts to expand
+local and regional knowledge on birds. Head down to our booth to learn
+more about our science, our resources and how you can meaningfully contribute
+to research and conservation!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Book_a_tree.jpg">
 </div>
 </td>
@@ -103,6 +117,22 @@ they face.</p>
 <p>- Insect specimens pinned for documentation by our members</p>
 <p>- Guided walks to Punggol Waterway Point for booth participants</p>
 <p>- Posters of research projects conducted by our members</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The <strong><a href="https://www.linkedin.com/company/fmp-community/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank"><u>Friends of Marine Park (FMP)</u></a></strong> community
+is a dynamic network of stakeholders from civil society, business, academia
+and public service. The network encourages community members to collaborate
+for the long-term survival of life in our seas. It is built on trusting
+relationships that enable resource users to get involved in the planning,
+development, and management of the Sisters’ Islands Marine Park. We also
+facilitates activities that are mutually beneficial to the community and
+to the success of the nation’s first marine park. Visit our booth to find
+out more!</p>
 </td>
 </tr>
 <tr>
@@ -221,6 +251,24 @@ and help conserve our natural environment. Nature Society Singapore is
 a non-government, non-profit organisation dedicated to the appreciation,
 conservation, study and enjoyment of the natural heritage in Singapore,
 Malaysia and the surrounding region.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nature_Kakis_Logo_Full_Colour__PNG_version___2_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The <strong>Nature Kakis Network </strong>is a touchpoint centred at the
+heart of local communities that will make City in Nature-related initiatives
+more accessible for members of the public to participate in. This initiative
+will provide more opportunities for the wider community to become stewards
+of nature by bringing together passionate like-minded individuals to share
+and exchange ideas with others in the wider community on how to conserve
+and steward our natural heritage. Come visit our booth to find out more
+about our Nature Kakis!</p>
 </td>
 </tr>
 <tr>

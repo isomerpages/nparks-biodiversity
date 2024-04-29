@@ -12,8 +12,52 @@ for more updates as you do not want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Spotlight Talk</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>25 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30pm - 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marine Talk by Friends of Marine Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4pm - 5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Kong Chian Natural History Museum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11am - 12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Talk on Bees</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p>Coming soon!</p>
 <h5><a href="https://www.youtube.com/playlist?list=PL1_Eb2Fa0jUdJYSx_OSRUEHj9b8V9_Z0G" rel="noopener noreferrer nofollow" target="_blank">Past Webinars</a></h5>
 <p>Learn more about our City in Nature and Singapore’s biodiversity with
 videos of previously conducted webinars.</p>
@@ -32,21 +76,28 @@ fauna through these opportunities and workshops.</p>
 <th rowspan="1" colspan="1">
 <p>Workshop</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Location</p>
+</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>26 May 2024</p>
+<td rowspan="3" colspan="1">
+<p>25 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.15pm - 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa </strong>by Nature
-Society Singapore and students from Dunman Secondary School</p>
+<p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM_V2.png">
+</div>
+<p>by Nature Society Singapore and students from Dunman Secondary School</p>
 <p></p>
-<p>The workshop is designed to captivate and educate children aged 5 to 12,
-revolving around the delightful narrative of "No Worms for Dinner." Dunman
-Secondary School students will bring the book to life through storytelling.
+<p>This workshop is designed to captivate and educate children aged 5 to
+12, revolving around the delightful narrative of "No Worms for Dinner."
+Dunman Secondary School students will bring the book to life through storytelling.
 Following the narrative journey, participants will be invited to consolidate
 their newfound knowledge through a thoughtfully constructed quiz in a fun
 and interactive manner. To further enrich this experience, the workshop
@@ -57,9 +108,42 @@ nuances. Through this multifaceted approach, the workshop aims to foster
 a love for reading, stimulate imaginative thinking, and cultivate artistic
 skills among its youthful participants.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Workshop Zone (Stage)</p>
+</td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>All About Sharks!</strong> by The Dorsal Effect</p>
+<p></p>
+<p>Workshop for children to learn more about sharks in an interactive way
+through quizzes and hands on activities. Learn more about how you can take
+action for sharks and the ocean with The Dorsal Effect. [No registration
+required; simply drop by during the specified time to participate. Seats
+are limited and available on a first-come, first-serve basis.]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop Zone (Stage)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.15pm - 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Marine-themed Crafts for Kids </strong>by Friends of Marine Park</p>
+<p></p>
+<p>Details coming soon!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop Zone (Stage)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
 <p>26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,6 +157,27 @@ skills among its youthful participants.</p>
 colouring wildcats, and having your face painted as one of our beloved
 wildcats!</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Workshop Zone (Stage)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.30am - 12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Workshop for Kunming-Montreal Global Biodiversity </strong>by
+Singapore Youth Voices for Biodiversity</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KMGBF_FOB_Workshop.png">
+</div>
+<p>Introduction to the Kunming-Montreal Global Biodiversit Framework, where
+we will introduce the 23 targets and encourage participants to think about
+existing policies in Singapore and how they can be better enhanced.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Function Room (Level 5)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -81,13 +186,22 @@ wildcats!</p>
 <td rowspan="1" colspan="1">
 <p><strong>ConservaClay </strong>with WWF-Singapore</p>
 <p></p>
-<p>A hands-on clay crafting experience designed to ignite your passion for
-wildlife. Discover the art of simple sculpting as we delve into the fascinating
-world of animals and plants, crafting clay creatures and learn about local
-species in an artistic way. Our instructors will guide you through the
-process, sharing insights into each species and the conservation efforts
-essential to their survival. Join us for a fun-filled session of eco-artistry,
-where creativity meets conservation!</p>
+<p>Join WWF-Singapore for an immersive hands-on experience that ignites your
+passion for nature.&nbsp; Delve into the art of clay sculpting under the
+guidance of our skilled facilitators. Unleash your creativity as you mold
+the clay into creatures inspired by the wonders of the animal kingdom and
+lush plant life.</p>
+<p>But there's more to this workshop than just artistry! As you craft your
+clay creations, you'll also discover fascinating insights into local species
+and the conservation efforts needed to protect them. It's a unique opportunity
+to blend creativity with conservation and make a meaningful impact.</p>
+<p>Mark your calendars and join us at the Workshop Zone on the 26th May 2024
+to be part of the fun-filled eco-artistry session. [No registration required;
+simply drop by during the specified time to participate. Seats are limited
+and available on a first-come, first-serve basis.]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop Zone (Stage)</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +214,25 @@ where creativity meets conservation!</p>
 <p>Learn about our native wildlife hidden in our marine shores, and how we
 can better appreciate them. End off with a badge-making session!</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Workshop Zone (Stage)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.15pm - 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Playtime with Rey and Kingsley </strong>by NParks, NBC/BIO</p>
+<p>Workshop to feature 2024's Playtime Series: Rey and Kingsley's Mangrove
+Adventure!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop Zone (Stage)</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
