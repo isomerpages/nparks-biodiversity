@@ -897,7 +897,9 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Green Market: The Sea-Cret Edition</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GM_KV_Landscape_230417.jpg">
+</div>
 <p>Green Market is NLB’s annual event that celebrates sustainable living
 and connects the community to green groups and initiatives they can support.
 This year’s theme, <em>The Sea-cret Edition</em>, dives deep to explore
