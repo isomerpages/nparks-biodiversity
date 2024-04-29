@@ -226,7 +226,7 @@ can better appreciate them. End off with a badge-making session!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4.15pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Playtime with Rey and Kingsley </strong>by NParks, NBC/BIO</p>
