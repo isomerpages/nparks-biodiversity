@@ -892,6 +892,34 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>8 and 9 June 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Green Market: The Sea-Cret Edition</strong>
+</p>
+<p></p>
+<p>Green Market is NLB’s annual event that celebrates sustainable living
+and connects the community to green groups and initiatives they can support.
+This year’s theme, <em>The Sea-cret Edition</em>, dives deep to explore
+the wonders of the sea and embrace our interconnections with it, urging
+understanding and action to safeguard its fragile beauty.</p>
+<p>From 8-9 June 2024, come have a whale of a time at Central Public Library.
+Get hooked on the ocean with our lineup of family-fun programmes, booths,
+storytellings, digital activities and more, brought to you in collaboration
+with local blue partners.</p>
+<p>Can’t make the date? Join us instead from 25 May for our Green Market
+Challenge and other leadup programmes at selected libraries, and “wet”
+your appetite for all things marine.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://bit.ly/nlbgreenmarket2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+explore our collection of Green Market programmes.</p>
+<p>Click <a href="https://go.gov.sg/green-market" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about Green Market.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12 June 2024 (10am - 11am)</p>
 </td>
 <td rowspan="1" colspan="1">
