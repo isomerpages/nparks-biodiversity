@@ -37,9 +37,25 @@ fauna through these opportunities and workshops.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>25 May 2024</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>10.30am - 12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Workshop for Kunming-Montreal Global Biodiversity </strong>by
+Singapore Youth Voices for Biodiversity</p>
+<p></p>
+<p>Introduction to the Kunming-Montreal Global Biodiversit Framework, where
+we will introduce the 23 targets and encourage participants to think about
+existing policies in Singapore and how they can be better enhanced.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Function Room (Level 5)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>12.15pm - 2pm</p>
 </td>
