@@ -44,7 +44,7 @@ fauna through these opportunities and workshops.</p>
 <p>12.15pm - 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa </strong>
+<p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM_V2.png">
@@ -172,6 +172,22 @@ can better appreciate them. End off with a badge-making session!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Playtime with Rey and Kingsley </strong>by NParks, NBC/BIO</p>
+<p>Workshop to feature 2024's Playtime Series: Rey and Kingsley's Mangrove
+Adventure!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
