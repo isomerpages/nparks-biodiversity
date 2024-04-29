@@ -44,8 +44,12 @@ fauna through these opportunities and workshops.</p>
 <p>12.15pm - 2pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa </strong>by Nature
-Society Singapore and students from Dunman Secondary School</p>
+<p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa </strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM_V2.png">
+</div>
+<p>by Nature Society Singapore and students from Dunman Secondary School</p>
 <p></p>
 <p>This workshop is designed to captivate and educate children aged 5 to
 12, revolving around the delightful narrative of "No Worms for Dinner."
@@ -120,7 +124,9 @@ wildcats!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Workshop for Kunming-Montreal Global Biodiversity </strong>by
 Singapore Youth Voices for Biodiversity</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KMGBF_FOB_Workshop.png">
+</div>
 <p>Introduction to the Kunming-Montreal Global Biodiversit Framework, where
 we will introduce the 23 targets and encourage participants to think about
 existing policies in Singapore and how they can be better enhanced.</p>
