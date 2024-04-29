@@ -73,7 +73,9 @@ skills among its youthful participants.</p>
 <p></p>
 <p>Workshop for children to learn more about sharks in an interactive way
 through quizzes and hands on activities. Learn more about how you can take
-action for sharks and the ocean with The Dorsal Effect.</p>
+action for sharks and the ocean with The Dorsal Effect. [No registration
+required; simply drop by during the specified time to participate. Seats
+are limited and available on a first-come, first-serve basis.]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
