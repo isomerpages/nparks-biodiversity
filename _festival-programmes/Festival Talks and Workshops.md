@@ -37,7 +37,7 @@ fauna through these opportunities and workshops.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>25 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,44 +66,30 @@ skills among its youthful participants.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2.15pm - 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>All About Sharks!</strong> by The Dorsal Effect</p>
 <p></p>
+<p>Workshop for children to learn more about sharks in an interactive way
+through quizzes and hands on activities. Learn more about how you can take
+action for sharks and the ocean with The Dorsal Effect.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Workshop Zone (Stage)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4.15pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Marine-themed Crafts for Kids </strong>by Friends of Marine Park</p>
 <p></p>
+<p>Details coming soon!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Workshop Zone</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +108,7 @@ colouring wildcats, and having your face painted as one of our beloved
 wildcats!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Workshop Zone</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +125,7 @@ the clay into creatures inspired by the wonders of the animal kingdom and
 lush plant life.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Workshop Zone</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +139,7 @@ lush plant life.</p>
 can better appreciate them. End off with a badge-making session!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Workshop Zone</p>
 </td>
 </tr>
 </tbody>
