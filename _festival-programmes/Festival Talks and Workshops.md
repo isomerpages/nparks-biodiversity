@@ -12,8 +12,55 @@ for more updates as you do not want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Spotlight Talk</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30pm - 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marine Talk by Friends of Marine Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Coming soon!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4pm - 5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Kong Chian Natural History Museum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11am - 12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Talk on Bees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h5><a href="https://www.youtube.com/playlist?list=PL1_Eb2Fa0jUdJYSx_OSRUEHj9b8V9_Z0G" rel="noopener noreferrer nofollow" target="_blank">Past Webinars</a></h5>
 <p>Learn more about our City in Nature and Singapore’s biodiversity with
 videos of previously conducted webinars.</p>
