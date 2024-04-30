@@ -36,10 +36,13 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <p>1.30pm - 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marine Talk by Friends of Marine Park</p>
+<p><strong>Marine Talk for Kids</strong>
+</p>
+<p>Friends of Marine Park</p>
+<p>Details coming soon!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Details coming soon!</p>
 </td>
 </tr>
 <tr>
@@ -74,10 +77,18 @@ programmes.&nbsp;</p>
 <p>11am - 12.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Talk on Bees</p>
+<p><strong>Discovering the Bees of Singapore</strong>
+</p>
+<p>From magnificent carpenters to minuscule ground-dwellers, Singapore hosts
+an impressive array of bee species that inhabit our parks, forests, mangroves,
+and urban gardens. Despite their crucial role as pollinators, bees are
+frequently misunderstood or overlooked. Join us as we unveil the fascinating
+diversity of these beneficial insects, and learn how you can actively contribute
+to expanding our understanding of them!</p>
+<p>Speaker: Zestin Soh (NParks)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NLB Programme room (Level 5)</p>
 </td>
 </tr>
 </tbody>
