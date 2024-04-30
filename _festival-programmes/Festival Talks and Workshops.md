@@ -38,7 +38,6 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <td rowspan="1" colspan="1">
 <p><strong>Marine Talk for Kids</strong>
 </p>
-<p>Friends of Marine Park</p>
 <p>Details coming soon!</p>
 </td>
 <td rowspan="1" colspan="1">
