@@ -24,6 +24,9 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <th rowspan="1" colspan="1">
 <p>Spotlight Talk</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Location</p>
+</th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
@@ -35,13 +38,32 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <td rowspan="1" colspan="1">
 <p>Marine Talk by Friends of Marine Park</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4pm - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Kong Chian Natural History Museum</p>
+<p><strong>Perspectives from LKCNHM: Archiving our Historical Biodiversity</strong>
+</p>
+<p>The Lee Kong Chian Natural History Museum is Singapore’s only natural
+history museum, and a leading institution in Southeast Asian biodiversity
+research, education, and outreach. Located at the National University of
+Singapore, over a million biological specimens, artefacts, field notes,
+drawings, and photographs from Southeast Asia are housed in our iconic
+rock-shaped building. As safe-keepers of Singapore’s natural heritage,
+we not only seek to share knowledge with the public, but also recognise
+the value of our collections among the scientific community and support
+biodiversity research in Singapore and in the region. This talk will share
+about LKCNHM’s role in archiving our historical biodiversity, specific
+to a wild Punggol in the past and present and our ongoing digitisation
+programmes.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NLB Programme Room (Level 5)</p>
 </td>
 </tr>
 <tr>
@@ -53,6 +75,9 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk on Bees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
