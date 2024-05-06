@@ -105,8 +105,9 @@ videos of previously conducted webinars.</p>
 <h1><strong>Activities and Workshops</strong></h1>
 <p>Learn more about how to care for our City in Nature and its flora and
 fauna through these opportunities and workshops.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -125,6 +126,9 @@ fauna through these opportunities and workshops.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -158,6 +162,9 @@ skills among its youthful participants.</p>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -168,12 +175,15 @@ skills among its youthful participants.</p>
 <p></p>
 <p>Workshop for children to learn more about sharks in an interactive way
 through quizzes and hands on activities. Learn more about how you can take
-action for sharks and the ocean with The Dorsal Effect. [No registration
-required; simply drop by during the specified time to participate. Seats
-are limited and available on a first-come, first-serve basis.]</p>
+action for sharks and the ocean with The Dorsal Effect.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[No registration required; simply drop by during the specified time to
+participate. Seats are limited and available on a first-come, first-serve
+basis.]</p>
 </td>
 </tr>
 <tr>
@@ -187,6 +197,9 @@ are limited and available on a first-come, first-serve basis.]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -207,6 +220,9 @@ wildcats!</p>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -225,12 +241,15 @@ clay creations, you'll also discover fascinating insights into local species
 and the conservation efforts needed to protect them. It's a unique opportunity
 to blend creativity with conservation and make a meaningful impact.</p>
 <p>Mark your calendars and join us at the Workshop Zone on the 26th May 2024
-to be part of the fun-filled eco-artistry session. [No registration required;
-simply drop by during the specified time to participate. Seats are limited
-and available on a first-come, first-serve basis.]</p>
+to be part of the fun-filled eco-artistry session.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[No registration required; simply drop by during the specified time to
+participate. Seats are limited and available on a first-come, first-serve
+basis.]</p>
 </td>
 </tr>
 <tr>
@@ -252,6 +271,10 @@ blend of knowledge, creativity, and fun!</p>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/fingerprinting-our-marine-wildlife-tickets-896766371357?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -265,6 +288,9 @@ can better appreciate them. End off with a badge-making session!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
