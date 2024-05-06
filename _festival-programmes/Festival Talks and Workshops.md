@@ -268,7 +268,7 @@ the wonders of our underwater friends here! This event promises an engaging
 blend of knowledge, creativity, and fun!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Workshop Zone (Stage)</p>
 </td>
 </tr>
 <tr>
