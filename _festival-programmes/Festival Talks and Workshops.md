@@ -202,7 +202,9 @@ basis.</p>
 <p>Workshop Zone (Stage)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No registration required; simply drop by during the specified time to
+participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
 </td>
 </tr>
 <tr>
@@ -224,7 +226,9 @@ wildcats!</p>
 <p>Workshop Zone (Stage)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No registration required; simply drop by during the specified time to
+participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
 </td>
 </tr>
 <tr>
@@ -293,7 +297,9 @@ can better appreciate them. End off with a badge-making session!</p>
 <p>Workshop Zone (Stage)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No registration required; simply drop by during the specified time to
+participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
 </td>
 </tr>
 </tbody>
@@ -308,6 +314,23 @@ can better appreciate them. End off with a badge-making session!</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Workshop</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Registration</p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>26 May 2024</p>
