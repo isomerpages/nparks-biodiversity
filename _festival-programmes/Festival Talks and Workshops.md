@@ -181,9 +181,9 @@ action for sharks and the ocean with The Dorsal Effect.</p>
 <p>Workshop Zone (Stage)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[No registration required; simply drop by during the specified time to
+<p>No registration required; simply drop by during the specified time to
 participate. Seats are limited and available on a first-come, first-serve
-basis.]</p>
+basis.</p>
 </td>
 </tr>
 <tr>
@@ -247,9 +247,9 @@ to be part of the fun-filled eco-artistry session.</p>
 <p>Workshop Zone (Stage)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[No registration required; simply drop by during the specified time to
+<p>No registration required; simply drop by during the specified time to
 participate. Seats are limited and available on a first-come, first-serve
-basis.]</p>
+basis.</p>
 </td>
 </tr>
 <tr>
