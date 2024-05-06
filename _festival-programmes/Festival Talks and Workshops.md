@@ -299,8 +299,9 @@ can better appreciate them. End off with a badge-making session!</p>
 </tbody>
 </table>
 <h4>Open Door Sessions</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -326,6 +327,11 @@ existing policies in Singapore and how they can be better enhanced.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Function Room (Level 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOx6keFlw8G0fm1VhGfu8-AftqIuezRfnFbXAsLwuIHwh8_A/viewform" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
