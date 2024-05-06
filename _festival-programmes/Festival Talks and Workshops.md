@@ -190,7 +190,7 @@ are limited and available on a first-come, first-serve basis.]</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,24 +206,6 @@ wildcats!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10.30am - 12.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Workshop for Kunming-Montreal Global Biodiversity </strong>by
-Singapore Youth Voices for Biodiversity</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KMGBF_FOB_Workshop.png">
-</div>
-<p>Introduction to the Kunming-Montreal Global Biodiversit Framework, where
-we will introduce the 23 targets and encourage participants to think about
-existing policies in Singapore and how they can be better enhanced.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Function Room (Level 5)</p>
 </td>
 </tr>
 <tr>
@@ -287,6 +269,36 @@ can better appreciate them. End off with a badge-making session!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<h4>Open Door Sessions</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30am - 12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Workshop for Kunming-Montreal Global Biodiversity </strong>by
+Singapore Youth Voices for Biodiversity</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KMGBF_FOB_Workshop.png">
+</div>
+<p>Introduction to the Kunming-Montreal Global Biodiversity Framework, where
+we will introduce the 23 targets and encourage participants to think about
+existing policies in Singapore and how they can be better enhanced.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Function Room (Level 5)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
