@@ -12,8 +12,12 @@ for more updates as you do not want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage.</p>
-<table style="minWidth: 100px">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_06_at_10_31_41_AM.jpg">
+</div>
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -33,6 +37,9 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <th rowspan="1" colspan="1">
 <p>Location</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Registration</p>
+</th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
@@ -44,6 +51,9 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <td rowspan="1" colspan="1">
 <p><strong>Marine Talk for Kids</strong>
 </p>
+<p>Details coming soon!</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Details coming soon!</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,6 +82,10 @@ programmes.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NLB Programme Room (Level 5)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
 </td>
 </tr>
 <tr>
