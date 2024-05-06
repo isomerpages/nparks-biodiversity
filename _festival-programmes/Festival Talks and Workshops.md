@@ -163,7 +163,10 @@ skills among its youthful participants.</p>
 <p>Workshop Zone (Stage)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdM6hWZMZytvB5qjcj6LO9eB9gjPtCyZI5ux4BLjuCnItgUxA/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 <p></p>
+<p>Registration closes on 17&nbsp;May 2024.</p>
 </td>
 </tr>
 <tr>
