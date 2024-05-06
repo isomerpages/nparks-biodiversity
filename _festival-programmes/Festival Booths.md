@@ -9,7 +9,11 @@ esteemed nature organisations in Singapore joining NParks to take you through
 our local wildlife conservation efforts. Pop down for a fun day out with
 your family, complete with freebies, games, and more!</p>
 <h1><strong>Booth lineup</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -85,8 +89,14 @@ Programme.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://cicadatree.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cicada Tree Eco-Place</a></strong>.
-Details coming soon!</p>
+<p><strong><a href="https://cicadatree.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cicada Tree Eco-Place</a></strong> (CTEP)
+is a non-government organization that promotes Singapore's natural and
+cultural heritage through environmental education. It reaches out to people
+of all age groups who want to know more about nature and wildlife.&nbsp;Chat
+with our volunteers and learn more about our upcoming activities. You may
+also want to try out our online quiz to test how much you know about Singapore's
+forests, and some of the current issues, and how individuals can also play
+a part in conserving nature.</p>
 </td>
 </tr>
 <tr>
