@@ -128,7 +128,7 @@ fauna through these opportunities and workshops.</p>
 <p>Location</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Registration</p>
 </th>
 </tr>
 <tr>
