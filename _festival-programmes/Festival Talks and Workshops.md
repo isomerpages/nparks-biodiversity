@@ -12,7 +12,13 @@ for more updates as you do not want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -99,7 +105,13 @@ videos of previously conducted webinars.</p>
 <h1><strong>Activities and Workshops</strong></h1>
 <p>Learn more about how to care for our City in Nature and its flora and
 fauna through these opportunities and workshops.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -178,7 +190,7 @@ are limited and available on a first-come, first-serve basis.]</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p>26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,6 +249,26 @@ and available on a first-come, first-serve basis.]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fingerprinting Our Marine Wildlife </strong>with Biogirl MJ</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JKT_Fingerprinting_Art_Workshop_Banner__for_FOB___UPDATED_.png">
+</div>
+<p>In celebration of the Festival of Biodiversity, join Biogirl MJ for an
+exciting workshop where we will dive into the world of our local marine
+biodiversity and unleash your inner artist with a fun fingerprint art session.
+From vibrant coral reefs to the endearing hermit crabs, discover and appreciate
+the wonders of our underwater friends here! This event promises an engaging
+blend of knowledge, creativity, and fun!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
