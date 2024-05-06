@@ -190,7 +190,7 @@ are limited and available on a first-come, first-serve basis.]</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="5" colspan="1">
 <p>26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -280,19 +280,6 @@ blend of knowledge, creativity, and fun!</p>
 <p></p>
 <p>Learn about our native wildlife hidden in our marine shores, and how we
 can better appreciate them. End off with a badge-making session!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Workshop Zone (Stage)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.15pm - 6pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Playtime with Rey and Kingsley </strong>by NParks, NBC/BIO</p>
-<p>Workshop to feature 2024's Playtime Series: Rey and Kingsley's Mangrove
-Adventure!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
