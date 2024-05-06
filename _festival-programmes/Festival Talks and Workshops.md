@@ -12,7 +12,17 @@ for more updates as you do not want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage.</p>
-<table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_06_at_10_31_41_AM.jpg">
+</div>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,6 +37,9 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <th rowspan="1" colspan="1">
 <p>Location</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Registration</p>
+</th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
@@ -38,6 +51,9 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <td rowspan="1" colspan="1">
 <p><strong>Marine Talk for Kids</strong>
 </p>
+<p>Details coming soon!</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Details coming soon!</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,6 +82,10 @@ programmes.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NLB Programme Room (Level 5)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +119,14 @@ videos of previously conducted webinars.</p>
 <h1><strong>Activities and Workshops</strong></h1>
 <p>Learn more about how to care for our City in Nature and its flora and
 fauna through these opportunities and workshops.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -113,6 +140,9 @@ fauna through these opportunities and workshops.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Registration</p>
 </th>
 </tr>
 <tr>
@@ -146,6 +176,12 @@ skills among its youthful participants.</p>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdM6hWZMZytvB5qjcj6LO9eB9gjPtCyZI5ux4BLjuCnItgUxA/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+<p></p>
+<p>Registration closes on 17&nbsp;May 2024.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -156,12 +192,15 @@ skills among its youthful participants.</p>
 <p></p>
 <p>Workshop for children to learn more about sharks in an interactive way
 through quizzes and hands on activities. Learn more about how you can take
-action for sharks and the ocean with The Dorsal Effect. [No registration
-required; simply drop by during the specified time to participate. Seats
-are limited and available on a first-come, first-serve basis.]</p>
+action for sharks and the ocean with The Dorsal Effect.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No registration required; simply drop by during the specified time to
+participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
 </td>
 </tr>
 <tr>
@@ -176,9 +215,14 @@ are limited and available on a first-come, first-serve basis.]</p>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>No registration required; simply drop by during the specified time to
+participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
+</td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,23 +239,10 @@ wildcats!</p>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>10.30am - 12.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Workshop for Kunming-Montreal Global Biodiversity </strong>by
-Singapore Youth Voices for Biodiversity</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KMGBF_FOB_Workshop.png">
-</div>
-<p>Introduction to the Kunming-Montreal Global Biodiversit Framework, where
-we will introduce the 23 targets and encourage participants to think about
-existing policies in Singapore and how they can be better enhanced.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Function Room (Level 5)</p>
+<p>No registration required; simply drop by during the specified time to
+participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
 </td>
 </tr>
 <tr>
@@ -231,12 +262,39 @@ clay creations, you'll also discover fascinating insights into local species
 and the conservation efforts needed to protect them. It's a unique opportunity
 to blend creativity with conservation and make a meaningful impact.</p>
 <p>Mark your calendars and join us at the Workshop Zone on the 26th May 2024
-to be part of the fun-filled eco-artistry session. [No registration required;
-simply drop by during the specified time to participate. Seats are limited
-and available on a first-come, first-serve basis.]</p>
+to be part of the fun-filled eco-artistry session.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No registration required; simply drop by during the specified time to
+participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fingerprinting Our Marine Wildlife </strong>with Biogirl MJ</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JKT_Fingerprinting_Art_Workshop_Banner__for_FOB___UPDATED_.png">
+</div>
+<p>In celebration of the Festival of Biodiversity, join Biogirl MJ for an
+exciting workshop where we will dive into the world of our local marine
+biodiversity and unleash your inner artist with a fun fingerprint art session.
+From vibrant coral reefs to the endearing hermit crabs, discover and appreciate
+the wonders of our underwater friends here! This event promises an engaging
+blend of knowledge, creativity, and fun!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop Zone (Stage)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/fingerprinting-our-marine-wildlife-tickets-896766371357?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -252,22 +310,67 @@ can better appreciate them. End off with a badge-making session!</p>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>4.15pm - 6pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Playtime with Rey and Kingsley </strong>by NParks, NBC/BIO</p>
-<p>Workshop to feature 2024's Playtime Series: Rey and Kingsley's Mangrove
-Adventure!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Workshop Zone (Stage)</p>
+<p>No registration required; simply drop by during the specified time to
+participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4>Open Door Sessions</h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Workshop</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Registration</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30am - 12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Workshop for Kunming-Montreal Global Biodiversity </strong>by
+Singapore Youth Voices for Biodiversity</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KMGBF_FOB_Workshop.png">
+</div>
+<p>Introduction to the Kunming-Montreal Global Biodiversity Framework, where
+we will introduce the 23 targets and encourage participants to think about
+existing policies in Singapore and how they can be better enhanced.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Function Room (Level 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOx6keFlw8G0fm1VhGfu8-AftqIuezRfnFbXAsLwuIHwh8_A/viewform" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
 <p></p>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
