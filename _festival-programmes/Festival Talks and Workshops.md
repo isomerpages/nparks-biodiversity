@@ -83,7 +83,7 @@ programmes.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>NLB Programme Room (Level 5)</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 register.</p>
 </td>
@@ -108,6 +108,10 @@ to expanding our understanding of them!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NLB Programme room (Level 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
 </td>
 </tr>
 </tbody>
