@@ -308,19 +308,10 @@ play your part in ensuring safe and responsible encounters with wildlife.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/NParks%20Logo%20new%20tagline_colour.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NParks - OneMillionTrees movement</a></strong>.
-The OneMillionTrees movement seeks to further restore nature into our urban
-landscape by partnering the community to plant one million more trees across
-Singapore from 2020 to 2030. Community is key to the success of the movement
-– many volunteers from all walks of life have stepped forward to play their
-part, including the Youth Stewards for Nature. Join the youths at our booth
-to learn more about the movement and how you can join in this nationwide
-effort!</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -387,7 +378,12 @@ and southern Peninsular Malaysia.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Post Limited</strong>
 </p>
-<p>Details coming soon!</p>
+<p>In conjunction with the Festival of Biodiversity 2024, Singapore Post
+Limited (SingPost) had launched a set of four stamps featuring Critically
+Endangered Flora of Singapore – Flora of lowland dipterocarp forests. Beautifully
+showcased in the stamps are the species -&nbsp;<em>Kadsura scandens,&nbsp;Artocarpus kemando,&nbsp;Piper porphyrophyllum&nbsp;</em>and<em>&nbsp;Mucuna biplicate.&nbsp;</em>These
+stamps and other nature thematic stamps will be available at the SingPost
+booth at the Festival of Biodiversity 2024.&nbsp;</p>
 </td>
 </tr>
 <tr>
