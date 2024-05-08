@@ -375,6 +375,32 @@ register.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30pm-4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop for Red Data Book by Geoff Davidson (NParks)</p>
+<p></p>
+<p>The session will describe the development of Red Data Books and Red Lists
+as well as Singapore's experiences in creating the Singapore Red Data Book
+and national Red Lists. Ever wonder how specialists decide whether a creature
+should be included in the lists? And how they go about with the assessments?
+This is the session for you. In addition, examples of some iconic Singapore
+plants and animals will illustrate some of the ways the Singapore Red Data
+Book can be used for biodiversity conservation.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Function Room (Level 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/fob2024-reddatabook" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
