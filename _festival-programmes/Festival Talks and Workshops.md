@@ -383,7 +383,8 @@ register.</p>
 <p>2.30pm-4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop for Red Data Book by Geoff Davidson (NParks)</p>
+<p>The making of the Singapore Red Data Book – a resource for all nature
+lovers by Geoff Davidson (NParks)</p>
 <p></p>
 <p>The session will describe the development of Red Data Books and Red Lists
 as well as Singapore's experiences in creating the Singapore Red Data Book
