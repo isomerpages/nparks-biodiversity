@@ -51,13 +51,20 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <td rowspan="1" colspan="1">
 <p><strong>Marine Talk for Kids</strong>
 </p>
-<p>Details coming soon!</p>
+<p>Meet the biologists, scientists, researchers and science educators of
+the marine community and hear them share about the wonderful world of marine
+life and habitats. They will be sharing on the fascinating corals and coral
+reefs, the witty octopuses and incredible giant clams, the charismatic
+sea turtles, the amazing mangroves and last but not least, the impact of
+unforgiving marine trash on our marine environment. What can we do to help
+protect our marine environment to give the marine animals healthy homes?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Details coming soon!</p>
+<p>NLB Programme Room (Level 5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Details coming soon!</p>
+<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -214,15 +221,16 @@ basis.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Marine-themed Crafts for Kids </strong>by Friends of Marine Park</p>
 <p></p>
-<p>Details coming soon!</p>
+<p>Dive into creativity at this clay-making workshop! Join us for a hands-on
+experience where you will sculpt your favourite marine animals. This workshop
+promises to be a splash of fun!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop Zone (Stage)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No registration required; simply drop by during the specified time to
-participate. Seats are limited and available on a first-come, first-serve
-basis.</p>
+<p>Click <a href="https://go.gov.sg/fob-marinecrafts" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +391,8 @@ register.</p>
 <p>2.30pm-4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop for Red Data Book by Geoff Davidson (NParks)</p>
+<p>The making of the Singapore Red Data Book – a resource for all nature
+lovers by Dr Geoff Davidson (NParks)</p>
 <p></p>
 <p>The session will describe the development of Red Data Books and Red Lists
 as well as Singapore's experiences in creating the Singapore Red Data Book
