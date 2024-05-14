@@ -12,8 +12,14 @@ for more updates as you do not want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage.</p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_06_at_10_31_41_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB__Spotlight_Poster__Long_.png">
 </div>
 <table style="minWidth: 125px">
 <colgroup>
@@ -234,7 +240,7 @@ register.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>26 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -283,6 +289,29 @@ to be part of the fun-filled eco-artistry session.</p>
 <p>No registration required; simply drop by during the specified time to
 participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1pm-2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DIY Fun with Garden Birds </strong>with NParks (Singapore Botanic
+Gardens)</p>
+<p></p>
+<p>Did you know that there are 413 species of birds found in Singapore –
+out of these nearly half are found in the Singapore Botanic Gardens! Join
+James &amp; Ratika from the Singapore Botanic Gardens as they help you
+know more about birds of our Gardens, answer your questions, and ask you
+some questions – correct answers win prizes! The best part, you get to
+make &amp; take your own bird home!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NLB Programme Room (Level 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/diy-fun-garden-birds-sbg-fob" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 <tr>
