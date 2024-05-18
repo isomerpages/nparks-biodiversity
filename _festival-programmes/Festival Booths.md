@@ -73,12 +73,12 @@ to research and conservation!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Book A Tree</strong> is a movement to support NParks in their mission
-to plant 1 million trees around Singapore to further enhance its status
-as a garden city. The movement is supported by the sales of the book “God’s
-Own Design - A Photographic Journey Through Nature”. All proceeds from
-the book sales would be donated to the Garden City Fund’s Plant-A-Tree
-Programme.</p>
+<p><a href="https://www.giving.sg/donate/campaign/book-a-tree" rel="noopener noreferrer nofollow" target="_blank">Book A Tree</a> is
+a movement to support NParks in their mission to plant 1 million trees
+around Singapore to further enhance its status as a garden city. The movement
+is supported by the sales of the book “God’s Own Design - A Photographic
+Journey Through Nature”. All proceeds from the book sales would be donated
+to the Garden City Fund’s Plant-A-Tree Programme.</p>
 </td>
 </tr>
 <tr>
