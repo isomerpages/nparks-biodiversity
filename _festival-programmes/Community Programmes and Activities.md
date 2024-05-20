@@ -17,7 +17,12 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <summary><strong>April</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -331,7 +336,12 @@ register.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Table</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -738,6 +748,25 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>25 May 2024 (10am - 4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Pet Carnival 2024</strong>
+</p>
+<p>Join Bishan East-Sin Ming Nature Kakis at their very first Pet Carnival
+2024 at Bishan East Zone 1 Green Hub! The nature kakis, their partners
+and community have joined hands and hearts in creating this event for the
+community and their pets, featuring over 20 participating partners with
+activities such as Adoption Drive, Pet Care Talk, Pet Walk, Best Dressed
+contest and more.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://form.gov.sg/6639eb369b862f4c473fb85e" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>25 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -815,7 +844,12 @@ register.</p>
 <summary><strong>June</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
