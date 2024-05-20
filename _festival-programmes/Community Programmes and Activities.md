@@ -960,6 +960,25 @@ find out more about Green Market.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>9 June 2024 (9am - 5pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Green Bazaar.</strong>
+</p>
+<p>The Green Bazaar at Bishan East Zone 1 Green Hub is back on 9 June 2024
+from 9am to 5pm! Sign up for exciting B2B Green workshops on composting,
+lotus-growing and upcycling. You may also check out the Green Marketplace
+to shop for interesting plants and gardening items. A fun &amp; free event
+not to be missed!</p>
+<p>Find us at Bishan East Zone 1 Green Hub, at Blk 112 Bishan St 12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.facebook.com/photo.php?fbid=872820891550810&amp;set=pb.100064687211584.-2207520000&amp;type=3" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12 June 2024 (10am - 11am)</p>
 </td>
 <td rowspan="1" colspan="1">
