@@ -97,6 +97,8 @@ with our volunteers and learn more about our upcoming activities. You may
 also want to try out our online quiz to test how much you know about Singapore's
 forests, and some of the current issues, and how individuals can also play
 a part in conserving nature.</p>
+<p></p>
+<p>Join us for storytelling on 25 and 26 May, 1pm and 3pm.</p>
 </td>
 </tr>
 <tr>
@@ -107,9 +109,9 @@ a part in conserving nature.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://clubs.ntu.edu.sg/earthlink/website/" rel="noopener noreferrer nofollow" target="_blank">Earthlink NTU</a></strong>.
-Located near to the Western Catchment, NTU is home to a stunning array
-of biodiversity. Come find out more about the student-led activities run
-by Earthlink NTU at our booth!</p>
+Located near to the Wetern Catchment, NTU is home to a stunning array of
+biodiversity. Come find out more about the student-led activities run by
+Earthlink NTU at our booth!</p>
 </td>
 </tr>
 <tr>
@@ -390,6 +392,8 @@ wildcats, like leopard cats and tigers and takes actions to conserve them.
 We are volunteer-run! Booth highlights: come learn about wildcats and what
 you can do to make a difference for them. Children, come get a fun wildcat
 tattoo at our booth!</p>
+<p></p>
+<p>Join us at 2pm to 3pm for mask colouring, and 4pm to 5pm for jigsaw!</p>
 </td>
 </tr>
 <tr>

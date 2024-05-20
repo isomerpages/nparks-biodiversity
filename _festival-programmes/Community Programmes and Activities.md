@@ -17,7 +17,12 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <summary><strong>April</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -331,7 +336,12 @@ register.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Table</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -738,6 +748,32 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>25 May 2024 (10am - 4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Pet Carnival 2024</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BESM_Pet_Carnival.jpg">
+</div>
+<p>Join Bishan East-Sin Ming Nature Kakis at their very first Pet Carnival
+2024 at Bishan East Zone 1 Green Hub! The nature kakis, their partners
+and community have joined hands and hearts in creating this event for the
+community and their pets, featuring over 20 participating partners with
+activities such as Adoption Drive, Pet Care Talk, Pet Walk, Best Dressed
+contest and more.</p>
+<p>Find us at Bishan East Zone 1 Green Hub, at Blk 112 Bishan St 12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://form.gov.sg/6639eb369b862f4c473fb85e" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+<p></p>
+<p>Click <a href="https://www.facebook.com/photo/?fbid=849239880580846&amp;set=a.475297494641755" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>25 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -815,7 +851,12 @@ register.</p>
 <summary><strong>June</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -918,6 +959,28 @@ your appetite for all things marine.</p>
 explore our collection of Green Market programmes.</p>
 <p>Click <a href="https://go.gov.sg/green-market" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about Green Market.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 June 2024 (9am - 5pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Green Bazaar</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BESM_Green_Bazaar.jpg">
+</div>
+<p>The Green Bazaar at Bishan East Zone 1 Green Hub is back on 9 June 2024
+from 9am to 5pm! Sign up for exciting B2B Green workshops on composting,
+lotus-growing and upcycling. You may also check out the Green Marketplace
+to shop for interesting plants and gardening items. A fun &amp; free event
+not to be missed!</p>
+<p>Find us at Bishan East Zone 1 Green Hub, at Blk 112 Bishan St 12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.facebook.com/photo.php?fbid=872820891550810&amp;set=pb.100064687211584.-2207520000&amp;type=3" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
 </td>
 </tr>
 <tr>
