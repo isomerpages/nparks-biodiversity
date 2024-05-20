@@ -753,6 +753,9 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Pet Carnival 2024</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BESM_Pet_Carnival.jpg">
+</div>
 <p>Join Bishan East-Sin Ming Nature Kakis at their very first Pet Carnival
 2024 at Bishan East Zone 1 Green Hub! The nature kakis, their partners
 and community have joined hands and hearts in creating this event for the
