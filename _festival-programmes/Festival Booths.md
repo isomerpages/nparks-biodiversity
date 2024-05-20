@@ -97,6 +97,8 @@ with our volunteers and learn more about our upcoming activities. You may
 also want to try out our online quiz to test how much you know about Singapore's
 forests, and some of the current issues, and how individuals can also play
 a part in conserving nature.</p>
+<p></p>
+<p>Join us for storytelling on 25 and 26 May, 1pm and 3pm.</p>
 </td>
 </tr>
 <tr>
