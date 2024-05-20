@@ -66,7 +66,7 @@ unforgiving marine trash on our marine environment. What can we do to help
 protect our marine environment to give the marine animals healthy homes?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NLB Programme Room (Level 5)</p>
+<p>Punggol Regional Library, Programme Room (Level 5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
