@@ -759,10 +759,14 @@ and community have joined hands and hearts in creating this event for the
 community and their pets, featuring over 20 participating partners with
 activities such as Adoption Drive, Pet Care Talk, Pet Walk, Best Dressed
 contest and more.</p>
+<p>Find us at Bishan East Zone 1 Green Hub, at Blk 112 Bishan St 12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://form.gov.sg/6639eb369b862f4c473fb85e" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
+<p></p>
+<p>Click <a href="https://www.facebook.com/photo/?fbid=849239880580846&amp;set=a.475297494641755" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
 </td>
 </tr>
 <tr>
