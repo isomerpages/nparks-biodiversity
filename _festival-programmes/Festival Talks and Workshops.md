@@ -66,7 +66,7 @@ unforgiving marine trash on our marine environment. What can we do to help
 protect our marine environment to give the marine animals healthy homes?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NLB Programme Room (Level 5)</p>
+<p>Punggol Regional Library, Programme Room (Level 5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
@@ -94,7 +94,7 @@ to a wild Punggol in the past and present and our ongoing digitisation
 programmes.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NLB Programme Room (Level 5)</p>
+<p>Punggol Regional Library, Programme Room (Level 5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
@@ -120,7 +120,7 @@ to expanding our understanding of them!</p>
 <p>Speaker: Zestin Soh (NParks)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NLB Programme room (Level 5)</p>
+<p>Punggol Regional Library, Programme Room (Level 5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
@@ -441,52 +441,4 @@ register.</p>
 </tr>
 </tbody>
 </table>
-<h4>Station Games</h4>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Animal Crossing</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">I Spy Wildlife</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">EcoBlitz</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Wild Hop!</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-</div>
 <p></p>
