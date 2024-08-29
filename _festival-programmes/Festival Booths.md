@@ -108,10 +108,10 @@ a part in conserving nature.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://clubs.ntu.edu.sg/earthlink/website/" rel="noopener noreferrer nofollow" target="_blank">Earthlink NTU</a></strong>.
-Located near to the Wetern Catchment, NTU is home to a stunning array of
-biodiversity. Come find out more about the student-led activities run by
-Earthlink NTU at our booth!</p>
+<p><strong><a href="https://blogs.ntu.edu.sg/sao-earthlinkntu/" rel="noopener nofollow" target="_blank">Earthlink NTU</a></strong>
+<a href="https://blogs.ntu.edu.sg/sao-earthlinkntu/" rel="noopener nofollow" target="_blank">.</a>Located near to the Western Catchment, NTU is home to a stunning
+array of biodiversity. Come find out more about the student-led activities
+run by Earthlink NTU at our booth!</p>
 </td>
 </tr>
 <tr>
