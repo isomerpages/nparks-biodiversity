@@ -35,13 +35,10 @@ Assessment (BIA) guidelines. President Tharman also presented awards to
 the winners of NParks’ Community in Nature Schools Award 2024, which received
 a total of 70 nominations across educational levels from preschools to
 junior colleges, up from 65 in 2022 and 44 in 2020.</p>
-<p></p>
-<p><em>President Tha</em>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2024/Screenshot_2024_08_02_172814.png">
 </div>
-<p><em>rman speaking to youth stakeholders involved in biodiversity conservation and outreach.</em>
+<p><em>President Tharman speaking to youth stakeholders involved in biodiversity conservation and outreach.</em>
 </p>
 <p>With over 20 nature groups offering fun, interactive booths, workshops,
 and spotlight talks to educate and inspire attendees about the importance
@@ -50,8 +47,9 @@ of people united by a common passion for nature and a commitment to conservation
 Volunteers from various nature groups, schools, and communities volunteered
 their time and effort, demonstrating the power of collective action in
 biodiversity conservation.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The NParks’ Conservation Division team sharing about conserving Singapore’s native flora and fauna." src="/images/ORG_DSC02087.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2024/ORG_DSC02087.jpg">
 </div>
 <p><em>The NParks’ Conservation Division team sharing about the work that goes in conserving Singapore’s native flora and fauna.</em>
 </p>
