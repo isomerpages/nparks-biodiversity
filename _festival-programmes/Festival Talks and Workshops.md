@@ -130,9 +130,10 @@ register.</p>
 </tbody>
 </table>
 <p></p>
-<h5><a href="https://www.youtube.com/playlist?list=PL1_Eb2Fa0jUdJYSx_OSRUEHj9b8V9_Z0G" rel="noopener noreferrer nofollow" target="_blank">Past Webinars</a></h5>
-<p>Learn more about our City in Nature and Singapore’s biodiversity with
-videos of previously conducted webinars.</p>
+<h4>Past Webinars</h4>
+<p>Learn more about our City in Nature and our local biodiversity with videos
+of previously conducted webinars!</p>
+<h5></h5>
 <h1><strong>Activities and Workshops</strong></h1>
 <p>Learn more about how to care for our City in Nature and its flora and
 fauna through these opportunities and workshops.</p>
