@@ -8,7 +8,7 @@ variant: tiptap
 esteemed nature organisations in Singapore joining NParks to take you through
 our local wildlife conservation efforts. Pop down for a fun day out with
 your family, complete with freebies, games, and more!</p>
-<h1><strong>Booth lineup</strong></h1>
+<h1><strong>Booth Lineup</strong></h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
