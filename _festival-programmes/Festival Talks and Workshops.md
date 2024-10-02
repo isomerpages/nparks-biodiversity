@@ -21,8 +21,44 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB__Spotlight_Poster__Long_.png">
 </div>
-<table style="minWidth: 125px">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>25 May 2024 at Punggol Regional Library, Programme Room (Level 5)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Marine Talk for Kids (1.30pm - 3pm)</strong>
+</p>
+<p>Meet the biologists, scientists, researchers and science educators of
+the marine community and hear them share about the wonderful world of marine
+life and habitats. They will be sharing on the fascinating corals and coral
+reefs, the witty octopuses and incredible giant clams, the charismatic
+sea turtles, the amazing mangroves and last but not least, the impact of
+unforgiving marine trash on our marine environment. What can we do to help
+protect our marine environment to give the marine animals healthy homes?</p>
+<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+register.</p>
+<p></p>
+<p><strong>Perspectives from LKCNHM: Archiving our Historical Biodiversity (4pm - 5.30pm)</strong>
+</p>
+<p>The Lee Kong Chian Natural History Museum is Singapore’s only natural
+history museum, and a leading institution in Southeast Asian biodiversity
+research, education, and outreach. Located at the National University of
+Singapore, over a million biological specimens, artefacts, field notes,
+drawings, and photographs from Southeast Asia are housed in our iconic
+rock-shaped building. As safe-keepers of Singapore’s natural heritage,
+we not only seek to share knowledge with the public, but also recognise
+the value of our collections among the scientific community and support
+biodiversity research in Singapore and in the region. This talk will share
+about LKCNHM’s role in archiving our historical biodiversity, specific
+to a wild Punggol in the past and present and our ongoing digitisation
+programmes.&nbsp;</p>
+<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>to
+register.</p>
+</div>
+</details>
+</div>
+<table style="minWidth: 150px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -33,6 +69,9 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <tr>
 <th rowspan="1" colspan="1">
 <p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Time</p>
@@ -50,6 +89,9 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <tr>
 <td rowspan="2" colspan="1">
 <p>25 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.30pm - 3pm</p>
@@ -74,6 +116,9 @@ register.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p>4pm - 5.30pm</p>
 </td>
@@ -104,6 +149,9 @@ register.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>26 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11am - 12.30pm</p>
