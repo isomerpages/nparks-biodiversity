@@ -35,7 +35,7 @@ sections:
       alt: NParks booth at FoB
       url: /festival-booths/festivalbooths/
       button: Explore
-      image: /images/ORG_DSC02087.jpg
+      image: /images/FoB 2024/CN_booth_cropped.jpg
       description: Enjoy a fun-filled day with your family at our booths by NParks and
         other nature organisations.
   - infopic:
