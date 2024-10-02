@@ -14,7 +14,8 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: CIN@NParks.gov.sg
+      - email: cin@nparks.gov.sg
       - other: ""
-    title: For Festival inquiries
+    title: For Festival Inquiries
+feedback: http://www.nparks.gov.sg/feedback
 ---
