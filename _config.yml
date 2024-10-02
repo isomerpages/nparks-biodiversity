@@ -1,6 +1,6 @@
 title: Festival of Biodiversity
-url: ""
-favicon: /images/favicon.ico
+url: https://fob.nparks.gov.sg
+favicon: /images/FoB_logo__no_words_.png
 colors:
   primary-color: "#215732"
   secondary-color: "#ffcd00"
@@ -56,3 +56,5 @@ is_government: true
 facebook-pixel: ""
 google_analytics: UA-227117063-1
 shareicon: /images/nparkslogo.png
+google_analytics_ga4: ""
+linkedin-insights: ""
