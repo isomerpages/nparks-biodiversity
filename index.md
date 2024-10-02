@@ -25,7 +25,7 @@ sections:
           description: ""
           url: /festival-programmes/stayhome/
       subtitle: 25 & 26 May 2024 |  One Punggol
-      variant: floating
+      variant: center
       size: md
       backgroundColor: gray
       alignment: left
