@@ -2,7 +2,7 @@
 title: Festival Talks and Workshops
 permalink: /festival-workshops/festivalworkshops/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p>There will be many engaging talks, activities and workshops by NParks
 and our partners to encourage the community to discover and learn more
@@ -21,7 +21,7 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB__Spotlight_Poster__Long_.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>25 May 2024 at Punggol Regional Library, Programme Room (Level 5)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -36,7 +36,7 @@ unforgiving marine trash on our marine environment. What can we do to help
 protect our marine environment to give the marine animals healthy homes?</p>
 <p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 register.</p>
-<p></p>
+<hr>
 <p><strong>Perspectives from LKCNHM: Archiving our Historical Biodiversity (4pm - 5.30pm)</strong>
 </p>
 <p>The Lee Kong Chian Natural History Museum is Singapore’s only natural
@@ -52,6 +52,21 @@ about LKCNHM’s role in archiving our historical biodiversity, specific
 to a wild Punggol in the past and present and our ongoing digitisation
 programmes.&nbsp;</p>
 <p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>to
+register.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>26 May 2024 at Punggol Regional Library, Programme Room (Level 5)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Discovering the Bees of Singapore (11am - 12.30pm)</strong>
+</p>
+<p>From magnificent carpenters to minuscule ground-dwellers, Singapore hosts
+an impressive array of bee species that inhabit our parks, forests, mangroves,
+and urban gardens. Despite their crucial role as pollinators, bees are
+frequently misunderstood or overlooked. Join NParks' Zestin Soh as we unveil
+the fascinating diversity of these beneficial insects, and learn how you
+can actively contribute to expanding our understanding of them!</p>
+<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 register.</p>
 </div>
 </details>
