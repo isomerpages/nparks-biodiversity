@@ -1,4 +1,5 @@
 collections:
   obsolete-pages:
     output: true
-    order: []
+    order:
+      - Past Webinars.md
