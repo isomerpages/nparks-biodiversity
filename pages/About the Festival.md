@@ -57,8 +57,9 @@ biodiversity conservation.</p>
 conservation, covering a range of topics from sharks and wildcats to oceans
 and forests, through hands-on activities such as clay-making, mask-making
 and storytelling sessions.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SWAG “Love Our Wildcats!”, brought participants on a journey about wildcats." src="/images/DSCF8185.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2024/DSCF8185.jpg">
 </div>
 <p><em>Singapore Wildcat Action Group’s workshop, “Love Our Wildcats!”, brought participants on a journey about wildcats, through storytelling, mask-making and face painting.</em>
 </p>
@@ -67,8 +68,9 @@ over 100 participants who were eager to hear from prominent figures in
 the conservation world. Speakers included renowned biologists, ecologists,
 and conservationists who shared their experiences, research findings, and
 personal stories of working in the field.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Friends of Marine Park introduced the wonderful world of marine life and habitats" src="/images/7cce8534_34ac_44f4_9842_162a3a1ca78c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2024/7cce8534_34ac_44f4_9842_162a3a1ca78c.jpg">
 </div>
 <p><em>The Friends of Marine Park introduced the wonderful world of marine life and habitats at the “Marine Talk for Kids!”.</em>
 </p>
