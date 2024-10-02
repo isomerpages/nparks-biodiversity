@@ -2,18 +2,18 @@
 title: Contact Us
 permalink: /contact/
 description: ""
+variant: tiptap
 ---
-# **Get in touch with the National Parks Board**
-
-#### NParks Headquarters
-1 Cluny Road\
-Singapore Botanic Gardens\
-Singapore 259569
-
-[Our Location](https://goo.gl/maps/EFF9uEqtTwu6ZQ2B6)
-
-#### For festival inquiries
-Contact: [CIN@NParks.gov.sg](CIN@NParks.gov.sg)
-
-#### For General inquiries & Feedback
-Contact: [http://www.nparks.gov.sg/feedback](http://www.nparks.gov.sg/feedback)
+<h1><strong>Get in touch with National Parks Board</strong></h1>
+<h4>NParks Headquarters</h4>
+<p>1 Cluny Road
+<br>Singapore Botanic Gardens
+<br>Singapore 259569</p>
+<p><a href="https://goo.gl/maps/EFF9uEqtTwu6ZQ2B6" rel="noopener noreferrer nofollow" target="_blank">Our Location</a>
+</p>
+<h4>For Festival Inquiries</h4>
+<p>Contact: <a href="mailto:cin@nparks.gov.sg" rel="noopener nofollow" target="_blank">cin@nparks.gov.sg</a>
+</p>
+<h4>For General Inquiries &amp; Feedback</h4>
+<p>Contact: <a href="http://www.nparks.gov.sg/feedback" rel="noopener noreferrer nofollow" target="_blank">http://www.nparks.gov.sg/feedback</a>
+</p>
