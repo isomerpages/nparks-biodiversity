@@ -133,7 +133,10 @@ register.</p>
 <h4>Past Webinars</h4>
 <p>Learn more about our City in Nature and our local biodiversity with videos
 of previously conducted webinars!</p>
-<h5></h5>
+<p><a href="https://go.gov.sg/nparksspotlightwebinars" rel="noopener nofollow" target="_blank">NParks Spotlight | Understanding our Local Biodiversity</a>
+</p>
+<p><a href="https://go.gov.sg/nparkscynwebinars" rel="noopener nofollow" target="_blank">City in Nature Webinar Series</a>
+</p>
 <h1><strong>Activities and Workshops</strong></h1>
 <p>Learn more about how to care for our City in Nature and its flora and
 fauna through these opportunities and workshops.</p>
