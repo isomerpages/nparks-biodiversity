@@ -58,4 +58,3 @@ procedures (including request for user data deletion),</p>
 to us in the past.</p>
 <p>Our privacy statement may change from time to time. Any updates to the
 privacy policy statement will be posted on this page.</p>
-<p></p>
