@@ -32,10 +32,10 @@ sections:
   - infopic:
       title: Festival Booths
       subtitle: Discover
-      alt: Explore Booths and Activities
+      alt: NParks booth at FoB
       url: /festival-booths/festivalbooths/
       button: Explore
-      image: /images/exploreNParks.png
+      image: /images/ORG_DSC02087.jpg
       description: Enjoy a fun-filled day with your family at our booths by NParks and
         other nature organisations.
   - infopic:
@@ -45,13 +45,13 @@ sections:
         enjoy some stay-home bonding with our craft activities!
       button: Find out more
       url: /festival-workshops/festivalworkshops/
-      image: /images/nparks photo family.jpeg
-      alt: Image alt text
+      image: /images/DSCF8185.jpg
+      alt: Storytelling workshop at FoB
   - infopic:
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes
       image: /images/COVER_Intertidal Watch.jpg
-      alt: CIN
-      subtitle: be a citizen scientist
+      alt: Volunteers at Intertidal Watch
+      subtitle: Be a citizen scientist
       title: Citizen Science Programmes
       button: Join us now
       description: Citizen science refers to the participation of the community in
@@ -59,12 +59,12 @@ sections:
         citizen scientist today!
   - infopic:
       title: Biodiversity Week for Schools
-      subtitle: what are our schools up to?
+      subtitle: What are our schools up to?
       description: This week of events commemorates the International Day for
         Biological Diversity. Students can participate in exciting activities
         from 17 to 26 May 2024.
       button: Learn more
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/biodiversity-week-for-schools
-      image: /images/Green Wave.jpg
-      alt: Green Wave
+      image: /images/BWS__Global_indian_International_School.jpg
+      alt: Students conducting a BioBlitz
 ---
