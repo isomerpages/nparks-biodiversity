@@ -2,5 +2,6 @@ collections:
   obsolete-pages:
     output: true
     order:
+      - Walks and Tours.md
       - Upcoming Webinars.md
       - Past Webinars.md
