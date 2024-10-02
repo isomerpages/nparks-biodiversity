@@ -49,7 +49,7 @@ sections:
       alt: Storytelling workshop at FoB
   - infopic:
       url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes
-      image: /images/COVER_Intertidal Watch.jpg
+      image: /images/IW_cropped.jpg
       alt: Volunteers at Intertidal Watch
       subtitle: Be a citizen scientist
       title: Citizen Science Programmes
