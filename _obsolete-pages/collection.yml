@@ -2,4 +2,5 @@ collections:
   obsolete-pages:
     output: true
     order:
+      - Upcoming Webinars.md
       - Past Webinars.md
