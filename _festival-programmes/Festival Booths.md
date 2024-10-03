@@ -173,14 +173,16 @@ a series of videos and photos of herpetofauna.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://janegoodall.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jane Goodall Institute (Singapore) (JGIS)</a></strong>.
-Inspiring hope through action. Our vision is to promote a healthy planet
-where people make compassionate choices to live sustainably and in harmony
-with each other, the environment, and animals. JGIS creates meaningful
-and purposeful journeys empowering individuals and communities to act and
-contribute positive social impact to LIFE – nature, wildlife, and mankind
-empowering individuals and communities to act and contribute positive social
-impact to LIFE – nature, wildlife, and mankind.</p>
+<p>The <strong><a href="https://janegoodall.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jane Goodall Institute (Singapore) (JGIS)</a></strong> is
+the local chapter of the organisation founded by Dr. Jane Goodall to empower
+people to make a difference for all living things. We aim to inspire hope
+through action. Our vision is to promote a healthy planet where people
+make compassionate choices to live sustainably and in harmony with each
+other, the environment, and animals. We create meaningful and purposeful
+journeys empowering individuals and communities to act and contribute positive
+social impact to LIFE – nature, wildlife, and mankind empowering individuals
+and communities to act and contribute positive social impact to LIFE –
+nature, wildlife, and mankind.</p>
 </td>
 </tr>
 <tr>
@@ -206,13 +208,13 @@ and in the region.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.mandainature.org/en/home.html" rel="noopener noreferrer nofollow" target="_blank">Mandai Nature</a></strong>.
-Learn about how Mandai Nature is working with our partners to drive the
-conservation of threatened wildlife in Southeast Asia. Find out about how
-we are protecting Singapore’s native biodiversity in the Mandai Wildlife
-Reserve, suppporting Singapore’s national efforts to become a City in Nature
-and working with partners on the ground to protect some of Southeast Asia’s
-most threatened and neglected species.</p>
+<p><strong><a href="https://www.mandainature.org/en/home.html" rel="noopener noreferrer nofollow" target="_blank">Mandai Nature</a></strong> is
+the conservation arm of&nbsp;Mandai Wildlife Group. Learn about how we
+are working with our partners to drive the conservation of threatened wildlife
+in Southeast Asia. Find out about how we are protecting Singapore’s native
+biodiversity in the Mandai Wildlife Reserve, supporting Singapore’s national
+efforts to become a City in Nature and working with partners on the ground
+to protect some of Southeast Asia’s most threatened and neglected species.</p>
 </td>
 </tr>
 <tr>
@@ -245,13 +247,13 @@ plant and fungi blindness.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://toddycats.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS Toddycats!</a></strong>.
-NUS Toddycats! are volunteers with the Lee Kong Chian Natural History Museum.
-We aim to expose, develop, enthuse and apply individuals to programmes
-in conservation, education and research. We also engage the public through
-exhibitions, nature and heritage trails, public seminars, webpages, partnerships
-and coastal cleanups! Have a passion for nature and biodiversity? Come
-to our booth to find out how you can contribute!</p>
+<p><strong><a href="https://toddycats.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS Toddycats</a></strong> are
+volunteers with the Lee Kong Chian Natural History Museum. We aim to expose,
+develop, enthuse and apply individuals to programmes in conservation, education
+and research. We also engage the public through exhibitions, nature and
+heritage trails, public seminars, webpages, partnerships and coastal cleanups!
+Have a passion for nature and biodiversity? Come to our booth to find out
+how you can contribute!</p>
 </td>
 </tr>
 <tr>
