@@ -122,7 +122,14 @@ register.</p>
 <details class="isomer-details">
 <summary>26 May 2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Love our Wildcats! by Singapore Wildcat Action Group (SWAG) (10.15am - 12pm at Workshop Zone - Stage)</strong>
+</p>
+<p>Join SWAG to hear stories of leopard cats, tigers and leopards! Have fun
+colouring wildcats, and having your face painted as one of our beloved
+wildcats!</p>
+<p>No registration is required - simply drop by during the specified time
+to participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
 </div>
 </details>
 </div>
