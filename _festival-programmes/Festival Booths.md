@@ -393,12 +393,11 @@ booth at the Festival of Biodiversity 2024.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.swagcat.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Wildcat Action Group (SWAG)</a></strong> promotes
+<p><strong><a href="https://www.swagcat.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Wildcat Action Group (SWAG)</a></strong>&nbsp;promotes
 wildcats, like leopard cats and tigers and takes actions to conserve them.
-We are volunteer-run! Booth highlights: come learn about wildcats and what
-you can do to make a difference for them. Children, come get a fun wildcat
-tattoo at our booth!</p>
-<p></p>
+We are volunteer-run! Come learn about wildcats and what you can do to
+make a difference for them. Children, come get a fun wildcat tattoo at
+our booth!</p>
 <p>Join us at 2pm to 3pm for mask colouring, and 4pm to 5pm for jigsaw!</p>
 </td>
 </tr>
