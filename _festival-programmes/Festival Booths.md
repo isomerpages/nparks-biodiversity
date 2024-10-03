@@ -408,10 +408,10 @@ our booth!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://sgyouthvoicesbiod.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Singapore Youth Voices for Biodiversity (SYVB)</a></strong>.
-As the Singapore Chapter of the Global Youth Biodiversity Network, official
-youth representatives at the United Nations' Convention on Biological Diversity,
-SYVB works extensively on local and international biodiversity policy and
+<p><strong><a href="https://sgyouthvoicesbiod.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Singapore Youth Voices for Biodiversity (SYVB)</a></strong> is
+the Singapore Chapter of the Global Youth Biodiversity Network, official
+youth representatives at the United Nations' Convention on Biological Diversity.
+We work extensively on local and international biodiversity policy and
 stakeholder engagement. Come down to learn more about some of our ongoing
 projects, our policy documents, and how YOUth can contribute to conservation
 in the region.</p>
