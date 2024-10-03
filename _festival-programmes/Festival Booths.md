@@ -63,11 +63,11 @@ what we do.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Here at the&nbsp;<strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong>,
-we promote a transparent, science-based approach in our efforts to expand
-local and regional knowledge on birds. Head down to our booth to learn
-more about our science, our resources, and how you can meaningfully contribute
-to research and conservation!</p>
+<p>The&nbsp;<strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong> promotes
+a transparent, science-based approach in our efforts to expand local and
+regional knowledge on birds. Head down to our booth to learn more about
+our science, our resources, and how you can meaningfully contribute to
+research and conservation!</p>
 </td>
 </tr>
 <tr>
@@ -111,8 +111,9 @@ a part in conserving nature.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://blogs.ntu.edu.sg/sao-earthlinkntu/" rel="noopener nofollow" target="_blank">Earthlink NTU</a></strong>
-<a href="https://blogs.ntu.edu.sg/sao-earthlinkntu/" rel="noopener nofollow" target="_blank">.</a>Located near to the Western Catchment, NTU is home to a stunning
+<p><strong><a href="https://blogs.ntu.edu.sg/sao-earthlinkntu/" rel="noopener noreferrer nofollow" target="_blank">Earthlink NTU</a></strong> is
+the largest student-led environmental club in Nanyang Technological University
+(NTU). Located near to the Western Catchment, NTU is home to a stunning
 array of biodiversity. Come find out more about the student-led activities
 run by Earthlink NTU at our booth!</p>
 </td>
@@ -124,14 +125,13 @@ run by Earthlink NTU at our booth!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore</a>. </strong>Misunderstood
-Insects: Insects perform a vital role in Singapore’s biodiversity, yet
-they are shunned. Here at ENSING (Entomological Society Singapore) we hope
-to showcase some of our insect variety and ways of life, and the threats
-they face.</p>
-<p>- Insect specimens pinned for documentation by our members</p>
-<p>- Guided walks to Punggol Waterway Point for booth participants</p>
-<p>- Posters of research projects conducted by our members</p>
+<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore</a></strong> (ENSING)
+hopes to showcase some of our insect variety and ways of life, and the
+threats they face. Insects perform a vital role in Singapore’s biodiversity,
+yet they are misunderstood and shunned. Look forward to insect specimens
+pinned for documentation by our members, guided walks to Punggol Waterway
+Point, and posters of research projects conducted by our members at our
+booth!</p>
 </td>
 </tr>
 <tr>
