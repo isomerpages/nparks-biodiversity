@@ -76,7 +76,7 @@ of previously conducted webinars!</p>
 <h1><strong>Activities and Workshops</strong></h1>
 <p>Learn more about how to care for our City in Nature and its flora and
 fauna through these opportunities and workshops.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>25 May 2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -110,6 +110,18 @@ take action for sharks and the ocean with The Dorsal Effect.</p>
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
+<p><strong>Marine-Themed Crafts for Kids by Friends of Marine Park (4.15pm - 6pm at Workshop Zone - Stage)</strong>
+</p>
+<p>Dive into creativity at this clay-making workshop! Join us for a hands-on
+experience where you will sculpt your favourite marine animals. This workshop
+promises to be a splash of fun!</p>
+<p>Click <a href="https://go.gov.sg/fob-marinecrafts" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>to
+register.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>26 May 2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
