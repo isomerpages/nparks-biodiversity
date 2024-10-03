@@ -150,6 +150,12 @@ basis.</p>
 <hr>
 <p><strong>DIY Fun with Garden Birds with NParks (Singapore Botanic Gardens) (1pm - 2pm at Punggol Regional Library, Programme Room (Level 5))</strong>
 </p>
+<p>Did you know that there are 413 species of birds found in Singapore –
+out of these nearly half are found in the Singapore Botanic Gardens! Join
+James &amp; Ratika from the Singapore Botanic Gardens as they help you
+know more about birds of our Gardens, answer your questions, and ask you
+some questions – correct answers win prizes! The best part, you get to
+make &amp; take your own bird home!</p>
 <p></p>
 </div>
 </details>
