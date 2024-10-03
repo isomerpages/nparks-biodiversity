@@ -24,10 +24,9 @@ unique activity sheets for a fun family activity!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Spot the Difference</strong> 
-</p>
-<p>Learn more about our local coastal and terrestial biodiversity by identifying
-their distinct features that are absent!</p>
+<p><strong>Spot the Difference -  </strong>Learn more about our local coastal
+and terrestial biodiversity by identifying their distinct features that
+are absent!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[<a href="https://go.gov.sg/spotthedifference-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a> ;
@@ -44,9 +43,8 @@ their distinct features that are absent!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Unscramble Me!</strong> 
-</p>
-<p>Unscramble the letters to reveal the name of a native species!</p>
+<p><strong>Unscramble Me! - </strong>Unscramble the letters to reveal the
+name of a native species!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[<a href="https://go.gov.sg/unscrambleme-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a> ;
@@ -63,9 +61,8 @@ their distinct features that are absent!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Doodle</strong> 
-</p>
-<p>Get your creative juices flowing and turn the doodles into native animals!</p>
+<p><strong>Doodle </strong>-<strong> </strong>Get your creative juices flowing
+and turn the doodles into native animals!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[<a href="https://go.gov.sg/doodle-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a> ;
