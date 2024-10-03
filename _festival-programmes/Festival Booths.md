@@ -93,12 +93,12 @@ Garden City Fund’s Plant-A-Tree Programme.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://cicadatree.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cicada Tree Eco-Place</a></strong> (CTEP)
-is a non-government organisation that promotes Singapore's natural and
-cultural heritage through environmental education. It reaches out to people
-of all age groups who want to know more about nature and wildlife.&nbsp;Chat
-with our volunteers and learn more about our upcoming activities. You may
-also want to try out our online quiz to test how much you know about Singapore's
+<p><strong><a href="https://cicadatree.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cicada Tree Eco-Place</a></strong> i
+a non-government organisation that promotes Singapore's natural and cultural
+heritage through environmental education. It reaches out to people of all
+age groups who want to know more about nature and wildlife.&nbsp;Chat with
+our volunteers and learn more about our upcoming activities. You may also
+want to try out our online quiz to test how much you know about Singapore's
 forests and some of the current issues, and how individuals can also play
 a part in conserving nature.</p>
 <p>Join us for storytelling on 25 and 26 May, 1pm and 3pm.</p>
@@ -125,13 +125,12 @@ run by Earthlink NTU at our booth!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore</a></strong> (ENSING)
-hopes to showcase some of our insect variety and ways of life, and the
-threats they face. Insects perform a vital role in Singapore’s biodiversity,
-yet they are misunderstood and shunned. Look forward to insect specimens
-pinned for documentation by our members, guided walks to Punggol Waterway
-Point, and posters of research projects conducted by our members at our
-booth!</p>
+<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore (ENSING)</a></strong> hopes
+to showcase some of our insect variety and ways of life, and the threats
+they face. Insects perform a vital role in Singapore’s biodiversity, yet
+they are misunderstood and shunned. Look forward to insect specimens pinned
+for documentation by our members, guided walks to Punggol Waterway Point,
+and posters of research projects conducted by our members at our booth</p>
 </td>
 </tr>
 <tr>
@@ -160,11 +159,11 @@ out more!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank">Herpetological Society of Singapore (HSS)</a></strong>.
-The HSS booth will feature several wet and dry herpetofauna specimens alongside
-some of our posters and merchandise (stickers, pins, posters, etc.). We
-will also run a series of videos and photos on the TV screen to enhance
-our herp representation further.</p>
+<p>The <strong><a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank">Herpetological Society of Singapore (HSS)</a></strong> is
+a group of herpetology enthusiasts based in Singapore. Our booth will feature
+several wet and dry herpetofauna specimens alongside some of our posters
+and merchandise (stickers, pins, posters, etc.). We will also be showcasing
+a series of videos and photos of herpetofauna.</p>
 </td>
 </tr>
 <tr>
