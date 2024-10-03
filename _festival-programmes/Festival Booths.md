@@ -137,6 +137,9 @@ booth!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="FOMP Logo" src="/images/Logos/fomp logo.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://www.linkedin.com/company/fmp-community/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank"><u>Friends of Marine Park (FMP)</u></a></strong> community
