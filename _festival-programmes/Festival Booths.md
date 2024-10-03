@@ -297,9 +297,8 @@ visit our booth to find out more about our Nature Kakis!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NParks - Conservation Division.</strong> Visit this conservation
-booth which showcases our natural heritage found in our Nature Reserves
-and Nature Parks.</p>
+<p><strong>NParks - Conservation Division</strong> will showcase our natural
+heritage found in our Nature Reserves and Nature Parks at our booth.</p>
 </td>
 </tr>
 <tr>
@@ -309,10 +308,10 @@ and Nature Parks.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management </a></strong>.
-NParks takes a community- and science-based approach to human-wildlife
-encounters in Singapore. Come learn more about our work and how you can
-play your part in ensuring safe and responsible encounters with wildlife.</p>
+<p><strong><a href="https://www.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> takes
+a community- and science-based approach to human-wildlife encounters in
+Singapore. Come learn more about our work and how you can play your part
+in ensuring safe and responsible encounters with wildlife.</p>
 </td>
 </tr>
 <tr>
@@ -322,11 +321,11 @@ play your part in ensuring safe and responsible encounters with wildlife.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.facebook.com/OtterWatch/posts/introducing-singapores-otter-working-group/1127515683987645/" rel="noopener noreferrer nofollow" target="_blank">Otter Working Group</a></strong>.
-The Otter Working Group is a close partnership of multiple entities including
-NParks, NUS, ACRES, PAssion Wave, PUB, Mandai Wildlife Group and members
-of the public, collectively working towards otter conservation and management
-in Singapore. Visit our Otter Working Group booth to find out more.</p>
+<p>The <strong><a href="https://www.facebook.com/OtterWatch/posts/introducing-singapores-otter-working-group/1127515683987645/" rel="noopener noreferrer nofollow" target="_blank">Otter Working Group</a></strong> is
+a close partnership of multiple entities including NParks, NUS, ACRES,
+PAssion Wave, PUB, Mandai Wildlife Group, and members of the public, collectively
+working towards otter conservation and management in Singapore. Visit our
+Otter Working Group booth to find out more.</p>
 </td>
 </tr>
 <tr>
@@ -366,8 +365,8 @@ on Project Blue Wave to conserve our wildlife and their waterways.</p>
 <p><strong><a href="https://www.nss.org.sg/project.aspx?id=46" rel="noopener noreferrer nofollow" target="_blank">Raffles' Banded Langur Working Group</a></strong> was
 established in 2016 with partners in both countries to carry out research,
 education outreach and conservation activities. The Raffles' Banded Langur
-(Presbytis femoralis) is a critically endangered monkey found only in Singapore
-and southern Peninsular Malaysia.</p>
+(<em>Presbytis femoralis</em>) is a critically endangered monkey found
+only in Singapore and southern Peninsular Malaysia.</p>
 </td>
 </tr>
 <tr>
