@@ -147,6 +147,9 @@ to be part of the fun-filled eco-artistry session.</p>
 <p>No registration is required - simply drop by during the specified time
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
+<hr>
+<p><strong>DIY Fun with Garden Birds with NParks (Singapore Botanic Gardens) (1pm - 2pm at Punggol Regional Library, Programme Room (Level 5))</strong>
+</p>
 <p></p>
 </div>
 </details>
@@ -386,4 +389,5 @@ register.</p>
 </div>
 </details>
 </div>
+<hr>
 <p></p>
