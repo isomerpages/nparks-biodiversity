@@ -379,12 +379,10 @@ only in Singapore and southern Peninsular Malaysia.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Post Limited</strong>
-</p>
-<p>In conjunction with the Festival of Biodiversity 2024, Singapore Post
-Limited (SingPost) had launched a set of four stamps featuring Critically
-Endangered Flora of Singapore – Flora of lowland dipterocarp forests. Beautifully
-showcased in the stamps are the species -&nbsp;<em>Kadsura scandens,&nbsp;Artocarpus kemando,&nbsp;Piper porphyrophyllum&nbsp;</em>and<em>&nbsp;Mucuna biplicate.&nbsp;</em>These
+<p><strong>Singapore Post Limited (SingPost)</strong> has launched a series
+of four stamps in conjunction with the Festival of Biodiversity 2024. The
+stamps feature Critically Endangered flora of Singapore – flora of lowland
+dipterocarp forests. Beautifully showcased in the stamps are the species&nbsp;<em>Kadsura scandens,&nbsp;Artocarpus kemando,&nbsp;Piper porphyrophyllum</em>,<em>&nbsp;</em>and<em>&nbsp;Mucuna biplicate.&nbsp;</em>These
 stamps and other nature thematic stamps will be available at the SingPost
 booth at the Festival of Biodiversity 2024.&nbsp;</p>
 </td>
