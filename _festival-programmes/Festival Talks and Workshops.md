@@ -11,16 +11,7 @@ our City in Nature and local biodiversity! Please check back regularly
 for more updates as you do not want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
-community share fascinating insights about Singapore's rich natural&nbsp;heritage.</p>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB__Spotlight_Poster__Long_.png">
-</div>
+community share fascinating insights about Singapore's rich natural&nbsp;heritage</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>25 May 2024 at Punggol Regional Library, Programme Room (Level 5)</summary>
@@ -71,127 +62,9 @@ register.</p>
 </div>
 </details>
 </div>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Spotlight Talk</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Location</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Registration</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>25 May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.30pm - 3pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Marine Talk for Kids</strong>
-</p>
-<p>Meet the biologists, scientists, researchers and science educators of
-the marine community and hear them share about the wonderful world of marine
-life and habitats. They will be sharing on the fascinating corals and coral
-reefs, the witty octopuses and incredible giant clams, the charismatic
-sea turtles, the amazing mangroves and last but not least, the impact of
-unforgiving marine trash on our marine environment. What can we do to help
-protect our marine environment to give the marine animals healthy homes?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Punggol Regional Library, Programme Room (Level 5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4pm - 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Perspectives from LKCNHM: Archiving our Historical Biodiversity</strong>
-</p>
-<p>The Lee Kong Chian Natural History Museum is Singapore’s only natural
-history museum, and a leading institution in Southeast Asian biodiversity
-research, education, and outreach. Located at the National University of
-Singapore, over a million biological specimens, artefacts, field notes,
-drawings, and photographs from Southeast Asia are housed in our iconic
-rock-shaped building. As safe-keepers of Singapore’s natural heritage,
-we not only seek to share knowledge with the public, but also recognise
-the value of our collections among the scientific community and support
-biodiversity research in Singapore and in the region. This talk will share
-about LKCNHM’s role in archiving our historical biodiversity, specific
-to a wild Punggol in the past and present and our ongoing digitisation
-programmes.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Punggol Regional Library, Programme Room (Level 5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11am - 12.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Discovering the Bees of Singapore</strong>
-</p>
-<p>From magnificent carpenters to minuscule ground-dwellers, Singapore hosts
-an impressive array of bee species that inhabit our parks, forests, mangroves,
-and urban gardens. Despite their crucial role as pollinators, bees are
-frequently misunderstood or overlooked. Join us as we unveil the fascinating
-diversity of these beneficial insects, and learn how you can actively contribute
-to expanding our understanding of them!</p>
-<p>Speaker: Zestin Soh (NParks)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Punggol Regional Library, Programme Room (Level 5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-register.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB__Spotlight_Poster__Long_.png">
+</div>
 <p></p>
 <h4>Past Webinars</h4>
 <p>Learn more about our City in Nature and our local biodiversity with videos
@@ -408,69 +281,24 @@ register.</p>
 </tbody>
 </table>
 <h4>Open Door Sessions</h4>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Workshop</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Location</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Registration</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10.30am - 12.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Workshop for Kunming-Montreal Global Biodiversity </strong>by
-Singapore Youth Voices for Biodiversity</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>26 May 2024 at Function Room (Level 5)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Tackling International Biodiversity Policy: Singapore and the KMGBF by Singapore Youth Voices for Biodiversity (10.30am - 12.30pm)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KMGBF_FOB_Workshop.png">
 </div>
-<p>Introduction to the Kunming-Montreal Global Biodiversity Framework, where
-we will introduce the 23 targets and encourage participants to think about
-existing policies in Singapore and how they can be better enhanced.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Function Room (Level 5)</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>The session by Singapore Youth Voices for Biodiversity (SYVB) provides
+an introduction to the Kunming-Montreal Global Framework (KMGBF). They
+will introduce its 23 targets and encourage participants to think about
+existing policies and Singapore and how they can be better enhanced.</p>
 <p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOx6keFlw8G0fm1VhGfu8-AftqIuezRfnFbXAsLwuIHwh8_A/viewform" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 register.</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30pm-4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The making of the Singapore Red Data Book – a resource for all nature
-lovers by Dr Geoff Davidson (NParks)</p>
-<p></p>
+<hr>
+<p><strong>The Making of the Singapore Red Data Book - A Resource for All Nature Lovers by Dr Geoff Davidson (NParks) (2.30pm - 4.30pm)</strong>
+</p>
 <p>The session will describe the development of Red Data Books and Red Lists
 as well as Singapore's experiences in creating the Singapore Red Data Book
 and national Red Lists. Ever wonder how specialists decide whether a creature
@@ -478,15 +306,9 @@ should be included in the lists? And how they go about with the assessments?
 This is the session for you. In addition, examples of some iconic Singapore
 plants and animals will illustrate some of the ways the Singapore Red Data
 Book can be used for biodiversity conservation.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Function Room (Level 5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/fob2024-reddatabook" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+<p>Click <a href="https://go.gov.sg/fob2024-reddatabook" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>to
 register.</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+</details>
+</div>
 <p></p>
