@@ -46,10 +46,14 @@ animals and live in harmony with wildlife in our city in nature.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://envstudies.nus.edu.sg/bes-drongos/" rel="noopener noreferrer nofollow" target="_blank">BES Drongos</a></strong>.
-Booth will include TV display of video and slides presentation and comprise
-of posters displayed sharing more of what BES Drongos does and the activities
-we have done so far.</p>
+<p><strong><a href="https://www.instagram.com/bes.drongos/" rel="noopener noreferrer nofollow" target="_blank">BES Drongos</a></strong> are
+a group of nature lovers from the Bachelor of Environmental Studies (BES)
+programme at the National University of Singapore (NUS) who have come together
+to manage guided walks open to everyone and anyone. We want to inspire
+people to appreciate the rich local biodiversity and ecological systems
+we have in Singapore through our guided walks in various nature areas.&nbsp;Our
+booth will include a video and slide presentation as well as posters sharing
+what we do.</p>
 </td>
 </tr>
 <tr>
@@ -59,10 +63,10 @@ we have done so far.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Here at the <strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong> we
-promote a transparent, science-based approach in our efforts to expand
+<p>Here at the&nbsp;<strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong>,
+we promote a transparent, science-based approach in our efforts to expand
 local and regional knowledge on birds. Head down to our booth to learn
-more about our science, our resources and how you can meaningfully contribute
+more about our science, our resources, and how you can meaningfully contribute
 to research and conservation!</p>
 </td>
 </tr>
@@ -73,12 +77,12 @@ to research and conservation!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.giving.sg/donate/campaign/book-a-tree" rel="noopener noreferrer nofollow" target="_blank">Book A Tree</a> is
-a movement to support NParks in their mission to plant 1 million trees
+<p><strong><a href="https://www.giving.sg/donate/campaign/book-a-tree" rel="noopener noreferrer nofollow" target="_blank">Book A Tree</a></strong>&nbsp;is
+a movement to support NParks in their mission to plant one million trees
 around Singapore to further enhance its status as a garden city. The movement
-is supported by the sales of the book “God’s Own Design - A Photographic
-Journey Through Nature”. All proceeds from the book sales would be donated
-to the Garden City Fund’s Plant-A-Tree Programme.</p>
+is supported by sales of the book “God’s Own Design - A Photographic Journey
+Through Nature”. All proceeds from the book sales will be donated to the
+Garden City Fund’s Plant-A-Tree Programme.</p>
 </td>
 </tr>
 <tr>
@@ -90,14 +94,13 @@ to the Garden City Fund’s Plant-A-Tree Programme.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://cicadatree.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cicada Tree Eco-Place</a></strong> (CTEP)
-is a non-government organization that promotes Singapore's natural and
+is a non-government organisation that promotes Singapore's natural and
 cultural heritage through environmental education. It reaches out to people
 of all age groups who want to know more about nature and wildlife.&nbsp;Chat
 with our volunteers and learn more about our upcoming activities. You may
 also want to try out our online quiz to test how much you know about Singapore's
-forests, and some of the current issues, and how individuals can also play
+forests and some of the current issues, and how individuals can also play
 a part in conserving nature.</p>
-<p></p>
 <p>Join us for storytelling on 25 and 26 May, 1pm and 3pm.</p>
 </td>
 </tr>
