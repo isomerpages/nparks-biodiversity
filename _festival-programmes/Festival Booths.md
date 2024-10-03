@@ -42,7 +42,7 @@ animals and live in harmony with wildlife in our city in nature.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BES_drongo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="BES Drongos" src="/images/Logos/BES_drongos.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
