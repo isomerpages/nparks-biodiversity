@@ -190,13 +190,13 @@ impact to LIFE – nature, wildlife, and mankind.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://lkcnhm.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Natural History Museum</a>.</strong> The
-Lee Kong Chian Natural History Museum is Singapore’s only natural history
-museum, and a leading institution in Southeast Asian biodiversity research,
-education, and outreach. As safe-keepers of Singapore’s natural heritage,
-we seek to share knowledge with the public. Join us at our booth to check
-out local and regional specimens and find out about the research work we
-do to support biodiversity research in Singapore and in the region.</p>
+<p>The <strong><a href="https://lkcnhm.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Natural History Museum</a></strong> is
+Singapore’s only natural history museum, and a leading institution in Southeast
+Asian biodiversity research, education, and outreach. As safe keepers of
+Singapore’s natural heritage, we seek to share knowledge with the public.
+Join us at our booth to check out local and regional specimens and find
+out about the research work we do to support biodiversity research in Singapore
+and in the region.</p>
 </td>
 </tr>
 <tr>
