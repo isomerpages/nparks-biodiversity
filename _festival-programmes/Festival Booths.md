@@ -351,8 +351,11 @@ Visit our booth to find out more!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.onepa.gov.sg/about-us/passion-wave" rel="noopener noreferrer nofollow" target="_blank">PAssion Wave. </a></strong>Ride
-on Project Blue Wave to conserve our wildlife and their waterways.</p>
+<p><strong><a href="https://www.onepa.gov.sg/about-us/passion-wave" rel="noopener noreferrer nofollow" target="_blank">Project Blue WaVe</a></strong> is
+an initiative by PA PAssion WaVe to bring Singaporeans together and build
+a sense of ownership towards our environment through education on marine
+biodiversity and environment conservation. Ride on Project Blue WaVe to
+conserve our wildlife and their waterways!</p>
 </td>
 </tr>
 <tr>
