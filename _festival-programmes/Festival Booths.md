@@ -263,13 +263,13 @@ how you can contribute!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society (Singapore)</a>.</strong> Singapore
-is home to a wide array of biodiversity from the very tiny to the majestic.
-Visit our booth to find out more about them and how you can be involved
-and help conserve our natural environment. Nature Society Singapore is
+<p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society (Singapore)</a></strong> is
 a non-government, non-profit organisation dedicated to the appreciation,
 conservation, study and enjoyment of the natural heritage in Singapore,
-Malaysia and the surrounding region.</p>
+Malaysia and the surrounding region.&nbsp;Singapore is home to a wide array
+of biodiversity from the very tiny to the majestic. Visit our booth to
+find out more about them and how you can be involved and help conserve
+our natural environment.</p>
 </td>
 </tr>
 <tr>
@@ -280,14 +280,14 @@ Malaysia and the surrounding region.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong>Nature Kakis Network </strong>is a touchpoint centred at the
-heart of local communities that will make City in Nature-related initiatives
-more accessible for members of the public to participate in. This initiative
-will provide more opportunities for the wider community to become stewards
-of nature by bringing together passionate like-minded individuals to share
-and exchange ideas with others in the wider community on how to conserve
-and steward our natural heritage. Come visit our booth to find out more
-about our Nature Kakis!</p>
+<p>The&nbsp;<strong><a href="https://naturekakis.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Network</a>&nbsp;</strong>is
+a touchpoint centred at the heart of local communities that will make City
+in Nature-related initiatives more accessible for members of the public
+to participate in. This initiative will provide more opportunities for
+the wider community to become stewards of nature by bringing together passionate
+like-minded individuals to share and exchange ideas with others in the
+wider community on how to conserve and steward our natural heritage. Come
+visit our booth to find out more about our Nature Kakis!</p>
 </td>
 </tr>
 <tr>
