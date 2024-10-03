@@ -76,6 +76,44 @@ of previously conducted webinars!</p>
 <h1><strong>Activities and Workshops</strong></h1>
 <p>Learn more about how to care for our City in Nature and its flora and
 fauna through these opportunities and workshops.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>25 May 2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa by Nature Society Singapore and Dunman Secondary School (12.15 - 2pm at Workshop Zone - Stage)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM_V2.png">
+</div>
+<p>This workshop is designed to captivate and educate children aged 5 to
+12, revolving around the delightful narrative of "No Worms for Dinner."
+Dunman Secondary School students will bring the book to life through storytelling.
+Following the narrative journey, participants will be invited to consolidate
+their newfound knowledge through a thoughtfully constructed quiz in a fun
+and interactive manner. To further enrich this experience, the workshop
+will include a hands-on coloring activity, carefully curated to spotlight
+key characters from the book. This aims to reinforce the children's connection
+with the story, enhancing their understanding and appreciation of the narrative's
+nuances. Through this multifaceted approach, the workshop aims to foster
+a love for reading, stimulate imaginative thinking, and cultivate artistic
+skills among its youthful participants.</p>
+<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdM6hWZMZytvB5qjcj6LO9eB9gjPtCyZI5ux4BLjuCnItgUxA/viewform" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+register by 17 May 2024.</p>
+<hr>
+<p><strong>All About Sharks! by The Dorsal Effect (2.15pm - 4.15pm at Workshop Zone - Stage)</strong>
+</p>
+<p>This is a workshop for children to learn more about sharks in an interactive
+way through quizzes and hands on activities. Learn more about how you can
+take action for sharks and the ocean with The Dorsal Effect.</p>
+<p>No registration is required - simply drop by during the specified time
+to participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
+<hr>
+<p></p>
+</div>
+</details>
+</div>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
