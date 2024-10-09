@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p>📍 One Punggol (1 Punggol Drive, Singapore 828629)</p>
-<p>&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6132362180533!2d103.9024637743947!3d1.408252998578465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da157f33fe053b%3A0x22c895b7626afa09!2sOne%20Punggol!5e0!3m2!1sen!2ssg!4v1728466835037!5m2!1sen!2ssg"></iframe>
+</div>
 <h4><strong>By Public Transport</strong></h4>
 <p><strong>Nearest Bus Stops</strong>
 </p>
@@ -30,8 +32,7 @@ description: ""
 Green (under the viaduct) for approximately 5 minutes.</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <h4><strong>By Private Transport</strong></h4>
 <p>Enter via <strong>Punggol Drive</strong>.</p>
 <p><strong>Parking Charges</strong>
@@ -45,4 +46,4 @@ Green (under the viaduct) for approximately 5 minutes.</p>
 <p><strong>Motorcycle:<br></strong>$0.20 per hour, cap at $0.65 per day</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
