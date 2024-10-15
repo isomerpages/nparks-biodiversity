@@ -9,7 +9,7 @@ variant: tiptap
 and our partners to learn more about Singapore's natural heritage, ranging
 from guided walks in our parks and gardens, participating in citizen science
 programme and much more. Do keep a regular lookout for more updates.</p>
-<p><em>To view the calendar better on your mobile, you can rotate your phone to landscape.</em>
+<p><em>Click on each activity to see more details.To view the calendar better on your mobile, you can rotate your phone to landscape. </em>
 </p>
 <p></p>
 <div class="iframe-wrapper">
