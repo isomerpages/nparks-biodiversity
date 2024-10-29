@@ -1,5 +1,5 @@
 collections:
-  festival-programmes:
+  festival-highlights:
     output: true
     order:
       - Festival Booths.md
