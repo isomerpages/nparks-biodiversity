@@ -24,7 +24,7 @@ sections:
         - title: Stay Home Activities
           description: ""
           url: /festival-programmes/stayhome/
-      subtitle: 25 & 26 May 2024 |  One Punggol
+      subtitle: 31 May & 1 June 2025 | Venue To Be Revealed
       variant: center
       size: md
       backgroundColor: gray
