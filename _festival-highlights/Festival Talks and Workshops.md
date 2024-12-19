@@ -156,8 +156,6 @@ James &amp; Ratika from the Singapore Botanic Gardens as they help you
 know more about birds of our Gardens, answer your questions, and ask you
 some questions – correct answers win prizes! The best part, you get to
 make &amp; take your own bird home!</p>
-<p>Click <a href="https://go.gov.sg/diy-fun-garden-birds-sbg-fob" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-register.</p>
 <hr>
 <p><strong>Fingerprinting Our Marine Wildlife with Biogirl MJ (2.15pm - 4pm at Workshop Zone - Stage)</strong>
 </p>
