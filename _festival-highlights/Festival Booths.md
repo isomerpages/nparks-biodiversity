@@ -365,7 +365,7 @@ conserve our wildlife and their waterways!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nss.org.sg/project.aspx?id=46" rel="noopener noreferrer nofollow" target="_blank">Raffles' Banded Langur Working Group</a></strong> was
+<p><strong><a href="https://www.facebook.com/RBLWG/" rel="noopener noreferrer nofollow" target="_blank">Raffles' Banded Langur Working Group</a></strong> was
 established in 2016 with partners in both countries to carry out research,
 education outreach and conservation activities. The Raffles' Banded Langur
 (<em>Presbytis femoralis</em>) is a critically endangered monkey found
