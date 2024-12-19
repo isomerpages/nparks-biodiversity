@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Crafts.md
-      - Upcoming Webinars.md
       - Past Webinars.md
