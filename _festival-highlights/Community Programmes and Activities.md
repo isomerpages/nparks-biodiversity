@@ -21,6 +21,7 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <summary><strong>April</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -266,9 +267,6 @@ R.E Holttum.</p>
 <td rowspan="1" colspan="1">
 <p>Registration required 15-min prior at the Tanglin Visitor Services Desk.
 Limited slots on a first-come-first-served basis. For ages 9 and above.</p>
-<p></p>
-<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/rat-tour-apr-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-visit the website for more information.</p>
 </td>
 </tr>
 <tr>
