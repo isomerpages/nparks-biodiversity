@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Crafts.md
-      - Walks and Tours.md
       - Upcoming Webinars.md
       - Past Webinars.md
