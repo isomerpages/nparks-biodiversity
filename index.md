@@ -62,7 +62,7 @@ sections:
       subtitle: What are our schools up to?
       description: This week of events commemorates the International Day for
         Biological Diversity. Students can participate in exciting activities
-        from 17 to 26 May 2024.
+        from 24 May to 1 June 2025.
       button: Learn more
       url: https://www.nparks.gov.sg/learn/programmes/biodiversity-week-schools
       image: /images/BWS__Global_indian_International_School.jpg
