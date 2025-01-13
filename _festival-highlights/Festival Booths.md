@@ -308,7 +308,7 @@ heritage found in our Nature Reserves and Nature Parks at our booth.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> takes
+<p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-management/wildlife-management site as well" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> takes
 a community- and science-based approach to human-wildlife encounters in
 Singapore. Come learn more about our work and how you can play your part
 in ensuring safe and responsible encounters with wildlife.</p>
