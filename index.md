@@ -48,7 +48,7 @@ sections:
       image: /images/FoB 2024/SWAG_storytelling_cropped.jpg
       alt: Storytelling workshop at FoB
   - infopic:
-      url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes
+      url: https://www.nparks.gov.sg/nature/community-in-nature#citizen-science
       image: /images/IW_cropped.jpg
       alt: Volunteers at Intertidal Watch
       subtitle: Be a citizen scientist
@@ -62,9 +62,9 @@ sections:
       subtitle: What are our schools up to?
       description: This week of events commemorates the International Day for
         Biological Diversity. Students can participate in exciting activities
-        from 17 to 26 May 2024.
+        from 24 May to 1 June 2025.
       button: Learn more
-      url: https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/biodiversity-week-for-schools
+      url: https://www.nparks.gov.sg/learn/programmes/biodiversity-week-schools
       image: /images/BWS__Global_indian_International_School.jpg
       alt: Students conducting a BioBlitz
 ---
