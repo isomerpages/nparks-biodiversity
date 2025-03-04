@@ -24,7 +24,7 @@ sections:
         - title: Stay Home Activities
           description: ""
           url: /festival-programmes/stayhome/
-      subtitle: 31 May & 1 June 2025 | Venue To Be Revealed
+      subtitle: 31 May & 1 June 2025 | National Library
       variant: center
       size: md
       backgroundColor: gray
