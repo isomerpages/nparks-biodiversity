@@ -31,4 +31,3 @@ all ages, and new collaborations with the National Library Board to curate
 special collections on nature and biodiversity.</p>
 <p><strong>Join us as we celebrate and learn more about Singapore’s rich natural heritage!</strong>
 </p>
-<p></p>
