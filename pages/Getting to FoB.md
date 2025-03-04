@@ -38,8 +38,6 @@ St. Turn right on Middle St and walk straight to reach the National Library.</p>
 <p></p>
 <h4><strong>By Private Transport</strong></h4>
 <p>Enter via <strong>Punggol Drive</strong>.</p>
-<p><strong>Parking Rates</strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
