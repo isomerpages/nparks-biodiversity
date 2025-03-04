@@ -4,28 +4,31 @@ permalink: /getting-to-fob/
 variant: tiptap
 description: ""
 ---
-<p>📍 One Punggol (1 Punggol Drive, Singapore 828629)</p>
+<p>📍 National Library (100 Victoria St, Singapore 188064)</p>
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6132362180533!2d103.9024637743947!3d1.408252998578465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da157f33fe053b%3A0x22c895b7626afa09!2sOne%20Punggol!5e0!3m2!1sen!2ssg!4v1728466835037!5m2!1sen!2ssg"></iframe>
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2371.7516857268993!2d103.85333319222872!3d1.2977177096346497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19a524aca129%3A0xf23dddaa8432afc5!2sNational%20Library%20%2F%20Lee%20Kong%20Chian%20Reference%20Library!5e0!3m2!1sen!2ssg!4v1741057358184!5m2!1sen!2ssg"></iframe>
 </div>
 <h4><strong>By Public Transport</strong></h4>
 <p><strong>Nearest Bus Stops</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>One Punggol (65489)</strong>: Services 84, 382, 382W</p>
+<p><strong>Opp Natl Lib (01029)</strong>: Services 145, 175, 197, 32, 51,
+61, 63, 63A, 7, 7A, 80, 851, 851e</p>
 </li>
 <li>
-<p><strong>Opp One Punggol (65481)</strong>: Services 84, 382, 382G</p>
+<p><strong>St. Joseph's Ch (01013)</strong>: Services 130, 133, 145, 197,
+851, 851e, 960, 960e</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Nearest MRT Station</strong>
+<p><strong>Nearest MRT Stations</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sam Kee LRT (PW1)</strong>
-</p>
+<p><strong>Bugis MRT (EW 12/DT 14):</strong> Exit the MRT and walk toward
+N Bridge Rd. Walk along N Bridge Rd for approximately 5 minutes before
+reaching the National Library.</p>
 </li>
 <li>
 <p><strong>Punggol MRT (NE17)</strong>: Exit from Exit A and walk along Punggol
