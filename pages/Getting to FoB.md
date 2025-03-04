@@ -26,27 +26,77 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Bugis MRT (EW 12/DT 14):</strong> Exit the MRT and walk toward
+<p><strong>Bugis MRT (EW 12/DT 14):</strong> Exit the MRT and head toward
 N Bridge Rd. Walk along N Bridge Rd for approximately 5 minutes before
 reaching the National Library.</p>
 </li>
 <li>
-<p><strong>Punggol MRT (NE17)</strong>: Exit from Exit A and walk along Punggol
-Green (under the viaduct) for approximately 5 minutes.</p>
+<p><strong>Bras Basah MRT (CC 2)</strong>: Exit the MRT and head toward Waterloo
+St. Turn right on Middle St and walk straight to reach the National Library.</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>By Private Transport</strong></h4>
 <p>Enter via <strong>Punggol Drive</strong>.</p>
-<p><strong>Parking Charges</strong>
+<p><strong>Parking Rates</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Car:<br></strong>4.00am – 9.59pm: $0.60 per 30 minutes
-<br>10.00pm – 3.59am: $3.20 per entry</p>
-</li>
-<li>
-<p><strong>Motorcycle:<br></strong>$0.20 per hour, cap at $0.65 per day</p>
-</li>
-</ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
+<p>Vehicle Type</p>
+</th>
+<th rowspan="1" colspan="2">
+<p><strong>Hourly Parking Rates</strong>
+</p>
+<p>(inclusive 9% GST)</p>
+<p>(effective 1 January 2025)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mon - Sat</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sun &amp; PH</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Car</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>7am - 7pm</u>
+</p>
+<p>$1.20/ 1st 30 mins</p>
+<p>$0.04 / sub min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>7am – 3.30am</u>
+</p>
+<p>$0.02 / per min</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Motorcycle</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><u>7am – 3.30am</u>
+</p>
+<p>$0.20 per hour</p>
+<p>$0.65 per day</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
