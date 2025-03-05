@@ -1248,17 +1248,38 @@ visit the e-module website.</p>
 <td rowspan="1" colspan="1">
 <p><strong>WWF Explores: Wetland Watchers @ Lim Chu Kang Nature Park</strong>
 </p>
-<p>&nbsp;Experience a day as a field biologist with WWF-Singapore’s Wetland
-Watchers at Lim Chu Kang Nature Park! Join this citizen science programme
-to observe and document biodiversity while learning to identify birds,
-dragonflies, and key field techniques. No experience needed—just bring
-your curiosity! The data collected will support conservation efforts in
-Singapore’s ecosystems. Sign up now and be part of protecting our wetlands!</p>
+<p>Experience a day as a field biologist with WWF-Singapore’s Wetland Watchers
+at Lim Chu Kang Nature Park! Join this citizen science programme to observe
+and document biodiversity while learning to identify birds, dragonflies,
+and key field techniques. No experience needed—just bring your curiosity!
+The data collected will support conservation efforts in Singapore’s ecosystems.
+Sign up now and be part of protecting our wetlands!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://www.eventbrite.sg/o/world-wide-fund-for-nature-wwf-33237300799" rel="noopener nofollow" target="_blank">here</a> to
 register.</p>
-<p>&nbsp;</p>
+<p>If the event’s last registration date has passed, follow WWF on Eventbrite
+to get notified when registration for the next round starts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second Saturday of each month: 12 April 2025, 10 May 2025, 14 June 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>WWF Explores: Natural Heritage Walks at Rifle Range Nature Park</strong>
+</p>
+<p>Join the WWF-led guided walk to learn about the rich variety of plants
+and animals found in the park. You will get a chance to spot many types
+of wildlife such as the Sunda Colugo, hear the melodious call of the Straw-headed
+Bulbul, to name a few. The tour will include visits to Gliders Boardwalk
+to view animal crossing features such as rope bridges and colugo poles,
+Waterhen hide, and the Quarry Wetland which is transformed from the former
+Sin Seng Quarry.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/o/world-wide-fund-for-nature-wwf-33237300799" rel="noopener nofollow" target="_blank">here</a> to
+register.</p>
 <p>If the event’s last registration date has passed, follow WWF on Eventbrite
 to get notified when registration for the next round starts.</p>
 </td>
