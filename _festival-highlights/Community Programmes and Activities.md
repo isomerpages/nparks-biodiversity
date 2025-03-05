@@ -1243,13 +1243,24 @@ visit the e-module website.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>First Saturday of every month: 5 April 2025, 3 May 2025, 7 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>WWF Explores: Wetland Watchers @ Lim Chu Kang Nature Park</strong>
+</p>
+<p>&nbsp;Experience a day as a field biologist with WWF-Singapore’s Wetland
+Watchers at Lim Chu Kang Nature Park! Join this citizen science programme
+to observe and document biodiversity while learning to identify birds,
+dragonflies, and key field techniques. No experience needed—just bring
+your curiosity! The data collected will support conservation efforts in
+Singapore’s ecosystems. Sign up now and be part of protecting our wetlands!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Click <a href="https://www.eventbrite.sg/o/world-wide-fund-for-nature-wwf-33237300799" rel="noopener nofollow" target="_blank">here</a> to
+register.</p>
+<p>&nbsp;</p>
+<p>If the event’s last registration date has passed, follow WWF on Eventbrite
+to get notified when registration for the next round starts.</p>
 </td>
 </tr>
 </tbody>
