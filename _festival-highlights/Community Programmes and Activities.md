@@ -58,10 +58,8 @@ they tell.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration closes on: 13 April 2025</p>
-<p>&nbsp;</p>
 <p>Click <a href="https://tinyurl.com/NSSPlantGrpWalk2" rel="noopener nofollow" target="_blank">here</a> to
 register.</p>
-<p>&nbsp;</p>
 <p>Click <a href="https://www.nss.org.sg/events/plant-walk-at-fort-canning-2/" rel="noopener nofollow" target="_blank">here</a> to
 visit the Nature Society Singapore website.</p>
 </td>
@@ -86,7 +84,6 @@ to remove them from online platforms.</p>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://cyberspotter.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view website for more information.</p>
-<p></p>
 <p>Registration for the programme can be done through the main Cyber Spotter
 Website. About 1.5 months before the next round of programme, the 'join
 us' link will be updated with the registration form. When the registration
