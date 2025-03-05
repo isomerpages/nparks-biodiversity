@@ -1196,4 +1196,65 @@ register.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Recurring or Ongoing</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>How to Register</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 February 2025 - Ongoing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Uncovering the Deep Importance of Our Oceans</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A picture of two people sailing a boat across the sea along with accompanying text." src="/images/FoB 2025/Uncovering_the_Deep_Importance_of_Our_Oceans_Photo.png">
+</div>
+<p>The Oceans E learning modules are designed to help users explore how the
+ocean influences our daily lives and the marine creatures that inhabit
+it, recognize actions that may harm ocean ecosystems, and discover ongoing
+conservation efforts to protect our seas.
+<br>This module is totally free! All you need to do is create an account and
+log in to gain access.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.wwf.sg/learn/courses/uncovering-the-deep-importance-of-our-oceans/" rel="noopener nofollow" target="_blank">here</a> to
+visit the e-module website.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
