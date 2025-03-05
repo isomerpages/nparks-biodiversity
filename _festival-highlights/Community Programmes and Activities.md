@@ -42,6 +42,33 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>19 April 2025 (8:30am - 10:30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Plant Walk&nbsp;at Fort Canning Park</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fort Canning Park gate" src="/images/FoB 2025/Plant_Walk_at_Fort_Canning_Park_Photo.jpg">
+</div>
+<p>Experience the grandeur of Fort Canning’s majestic heritage trees and
+uncover their deep ties to Singapore’s history. With 17 heritage trees,
+this rich site offers a unique glimpse into the nation’s botanical and
+cultural legacy. Join us as we explore these gentle giants and the stories
+they tell.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration closes on:</p>
+<p>13 April 2025</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://tinyurl.com/NSSPlantGrpWalk2" rel="noopener nofollow" target="_blank">here</a> to
+register.</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://www.nss.org.sg/events/plant-walk-at-fort-canning-2/" rel="noopener nofollow" target="_blank">here</a>to
+visit the Nature Society Singapore website.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Programme Round Duration: 26 April 2025 - 22 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
