@@ -42,25 +42,20 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme Round Duration: 6 April 2024 - 26 April 2024</p>
-<p></p>
-<p>Training Date: 6 April 2024 (9 AM - 12 PM)</p>
-<p></p>
-<p>Live Session: 17 April 2024 (7:30 PM - 9 PM)</p>
+<p>Programme Round Duration: 26 April 2025 - 22 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Cyber Spotter Programme 2.0 April 2024</strong>
+<p><strong>Cyber Spotter Programme 2.0 April 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSV_KV_2024JAN_Main_3334x1564.png">
 </div>
-<p>Cyber Spotter Programme 2.0 is a key citizen scientist component of the
-Coalition to End Wildlife Trafficking Online. Empowering people to be part
-of the solution by helping to detect and report illegal online listings.
-Selected volunteers will undergo training to identify prohibited wildlife
-products online and report any suspicious content to WWF. WWF will review
-the listings and work with the participating members of the Coalition to
-End Wildlife Trafficking Online to take further actions.</p>
+<p>The Cyber Spotter Programme empowers volunteers to detect and report illegal
+wildlife listings online as part of the Coalition to End Wildlife Trafficking
+Online. Running four times a year, it aims to become a volunteer-led initiative.
+Selected volunteers undergo training to identify and report prohibited
+wildlife products, which WWF reviews before working with coalition members
+to remove them from online platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://cyberspotter.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
