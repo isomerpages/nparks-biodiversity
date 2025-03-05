@@ -62,7 +62,7 @@ they tell.</p>
 <p>Click <a href="https://tinyurl.com/NSSPlantGrpWalk2" rel="noopener nofollow" target="_blank">here</a> to
 register.</p>
 <p>&nbsp;</p>
-<p>Click <a href="https://www.nss.org.sg/events/plant-walk-at-fort-canning-2/" rel="noopener nofollow" target="_blank">here </a>to
+<p>Click <a href="https://www.nss.org.sg/events/plant-walk-at-fort-canning-2/" rel="noopener nofollow" target="_blank">here</a> to
 visit the Nature Society Singapore website.</p>
 </td>
 </tr>
