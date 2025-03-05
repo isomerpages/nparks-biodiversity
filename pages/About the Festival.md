@@ -29,5 +29,9 @@ Organisations (NGOs) is committed to making this year’s festival bigger
 and better. Expect more community involvement, engaging activities for
 all ages, and new collaborations with the National Library Board to curate
 special collections on nature and biodiversity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="National Library" src="/images/FoB 2025/National_Library.jpg">
+</div>
 <p><strong>Join us as we celebrate and learn more about Singapore’s rich natural heritage!</strong>
 </p>
