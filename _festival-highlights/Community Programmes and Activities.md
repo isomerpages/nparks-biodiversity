@@ -48,7 +48,7 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <p><strong>Cyber Spotter Programme 2.0 April 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSV_KV_2024JAN_Main_3334x1564.png">
+<img style="width: 100%" height="auto" width="100%" alt="Poster of the WWF Cyber Spotter Programme 2025" src="/images/FoB 2025/Cyber_Spotter_Programme_April_2025_Round_Photo.jpg">
 </div>
 <p>The Cyber Spotter Programme empowers volunteers to detect and report illegal
 wildlife listings online as part of the Coalition to End Wildlife Trafficking
@@ -60,8 +60,13 @@ to remove them from online platforms.</p>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://cyberspotter.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view website for more information.</p>
-<p>Click <a href="https://ujdqi6q2l7r.typeform.com/to/vygMEDc9" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
+<p></p>
+<p>
+<br>Registration for the programme can be done through the main Cyber Spotter
+Website. About 1.5 months before the next round of programme, the 'join
+us' link will be updated with the registration form. When the registration
+form is not active, there will be an interest form left instead for people
+to leave their information for WWF to contact for future rounds.</p>
 </td>
 </tr>
 <tr>
