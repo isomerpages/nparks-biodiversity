@@ -13,9 +13,6 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:solid 1px #777" height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;bgcolor=%23ffffff&amp;hl=en_GB&amp;title=FoB%20Community%20Programmes%20and%20Activities&amp;src=NDMxNWNkZjM5MGQ2ZDIxNDM2NWJiMjFjYjFlNWZkNGQwNTRkYjZlNjcyZWI4ZDZlNzAwZTMyZGM3MDkwMmQ5NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23795548"></iframe>
-</div>
-<div class="iframe-wrapper">
 <iframe style="border:solid 1px #777" height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;src=ODAzM2M1YWQ3MWU2MjMzMzcxOTYxMmRmZjRmNjdlNmFlNTRiZGFiMmQyMDViYmU2MDAwNDRiY2UwODk4NTM3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%230B8043"></iframe>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
