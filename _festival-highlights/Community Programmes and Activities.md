@@ -57,13 +57,12 @@ cultural legacy. Join us as we explore these gentle giants and the stories
 they tell.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration closes on:</p>
-<p>13 April 2025</p>
+<p>Registration closes on: 13 April 2025</p>
 <p>&nbsp;</p>
 <p>Click <a href="https://tinyurl.com/NSSPlantGrpWalk2" rel="noopener nofollow" target="_blank">here</a> to
 register.</p>
 <p>&nbsp;</p>
-<p>Click <a href="https://www.nss.org.sg/events/plant-walk-at-fort-canning-2/" rel="noopener nofollow" target="_blank">here</a>to
+<p>Click <a href="https://www.nss.org.sg/events/plant-walk-at-fort-canning-2/" rel="noopener nofollow" target="_blank">here </a>to
 visit the Nature Society Singapore website.</p>
 </td>
 </tr>
@@ -88,8 +87,7 @@ to remove them from online platforms.</p>
 <p>Click <a href="https://cyberspotter.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view website for more information.</p>
 <p></p>
-<p>
-<br>Registration for the programme can be done through the main Cyber Spotter
+<p>Registration for the programme can be done through the main Cyber Spotter
 Website. About 1.5 months before the next round of programme, the 'join
 us' link will be updated with the registration form. When the registration
 form is not active, there will be an interest form left instead for people
