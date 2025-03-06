@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Festival of Biodiversity
-      background: /images/IMG_20240304_WA0012_4_.jpg
+      background: /images/FoB 2025/National_Library.jpg
       button: About the Festival
       url: /about-the-festival
       key_highlights:
@@ -24,7 +24,7 @@ sections:
         - title: Stay Home Activities
           description: ""
           url: /festival-programmes/stayhome/
-      subtitle: 31 May & 1 June 2025 | Venue To Be Revealed
+      subtitle: 31 May & 1 June 2025 | National Library
       variant: center
       size: md
       backgroundColor: gray
