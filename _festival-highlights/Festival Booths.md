@@ -180,11 +180,7 @@ the local chapter of the organisation founded by Dr. Jane Goodall to empower
 people to make a difference for all living things. We aim to inspire hope
 through action. Our vision is to promote a healthy planet where people
 make compassionate choices to live sustainably and in harmony with each
-other, the environment, and animals. We create meaningful and purposeful
-journeys empowering individuals and communities to act and contribute positive
-social impact to LIFE – nature, wildlife, and mankind empowering individuals
-and communities to act and contribute positive social impact to LIFE –
-nature, wildlife, and mankind.</p>
+other, the environment, and animals.</p>
 </td>
 </tr>
 <tr>
