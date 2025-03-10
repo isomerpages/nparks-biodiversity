@@ -30,7 +30,7 @@ and better. Expect more community involvement, engaging activities for
 all ages, and new collaborations with the National Library Board to curate
 special collections on nature and biodiversity.</p>
 <p>Date: 31 May and 1 June 2025</p>
-<p>Time:</p>
+<p>Time: 10am- 730pm</p>
 <p>Venue: National Library</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Library" src="/images/FoB 2025/National_Library.jpg">
