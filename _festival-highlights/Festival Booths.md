@@ -127,10 +127,12 @@ run by Earthlink NTU at our booth!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore (ENSING)</a></strong> hopes
 to showcase some of our insect variety and ways of life, and the threats
-they face. Insects perform a vital role in Singapore’s biodiversity, yet
-they are misunderstood and shunned. Look forward to insect specimens pinned
-for documentation by our members, guided walks to Punggol Waterway Point,
-and posters of research projects conducted by our members at our booth</p>
+they face. Different insects play different but equally important roles
+in the environment, but more often than not they are misunderstood and
+shunned. So, learn how to identify the variety of insects found in Singapore,
+not just the charismatic ones, and how they contribute to our daily lives.
+You don’t have to venture deep into the forests to find them, many can
+be spotted right in your own backyard.</p>
 </td>
 </tr>
 <tr>
@@ -268,8 +270,8 @@ a non-government, non-profit organisation dedicated to the appreciation,
 conservation, study and enjoyment of the natural heritage in Singapore,
 Malaysia and the surrounding region.&nbsp;Singapore is home to a wide array
 of biodiversity from the very tiny to the majestic. Visit our booth to
-find out more about them and how you can be involved and help conserve
-our natural environment.</p>
+find out more about them and our natural environment through a combination
+of show and tell and activities.</p>
 </td>
 </tr>
 <tr>
@@ -370,6 +372,19 @@ established in 2016 with partners in both countries to carry out research,
 education outreach and conservation activities. The Raffles' Banded Langur
 (<em>Presbytis femoralis</em>) is a critically endangered monkey found
 only in Singapore and southern Peninsular Malaysia.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Straw-headed Bulbul Working Group logo" src="/images/Logos/Straw_headed_Bulbul_Working_Group_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The <strong><a href="Straw Headed Bulbul – Nature Society Singapore" rel="noopener nofollow" target="_blank">Straw-headed Bulbul Working Group</a></strong> hopes
+to create awareness about the Straw-headed Bulbul, its plight and how everyone
+can help ensure the population continues to thrive in Singapore.</p>
 </td>
 </tr>
 <tr>
