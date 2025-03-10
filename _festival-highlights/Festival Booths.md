@@ -31,12 +31,12 @@ your family, complete with freebies, games, and more!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://acres.org.sg/" rel="noopener noreferrer nofollow" target="_blank">ACRES</a></strong> is
-a local charity that operates a 24 hour wildlife rescue hotline, carries
-out rehabilitation, repatriation, animal crime investigation, education,
-outreach and advocacy, in order to create a caring and responsible society
-where animals are treated with compassion and respect.</p>
-<p>Come to our booth to find out how you can act more compassionately towards
-animals and live in harmony with wildlife in our city in nature.</p>
+a registered Charity that aims to create a world where all animals are
+treated as fellow sentient beings. Our focus areas includes wildlife rescue
+and rehabilitation, investigating wildlife crime, promoting human-wildlife
+coexistence and community outreach. All our work is encapsulated by our
+humane education, raising awareness and equipping people to advance animal
+welfare in their own capacity!</p>
 </td>
 </tr>
 <tr>
@@ -109,11 +109,11 @@ by Cicada Tree Eco-Place.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://blogs.ntu.edu.sg/sao-earthlinkntu/" rel="noopener noreferrer nofollow" target="_blank">Earthlink NTU</a></strong> is
-the largest student-led environmental club in Nanyang Technological University
-(NTU). Located near to the Western Catchment, NTU is home to a stunning
-array of biodiversity. Come find out more about the student-led activities
-run by Earthlink NTU at our booth!</p>
+<p><strong><a href="https://blogs.ntu.edu.sg/sao-earthlinkntu/" rel="noopener noreferrer nofollow" target="_blank">Earthlink NTU</a></strong> members
+will share about the unique biodiversity of NTU's campus and the many challenges
+we face living close to a wildlife-rich area. Specimens collected from
+past human-wildlife conflict issues, such as bird strikes, will be put
+on display.</p>
 </td>
 </tr>
 <tr>
@@ -179,6 +179,22 @@ people to make a difference for all living things. We aim to inspire hope
 through action. Our vision is to promote a healthy planet where people
 make compassionate choices to live sustainably and in harmony with each
 other, the environment, and animals.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Just Keep Thinking Logo" src="/images/Logos/Just_Keep_Thinking_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The <strong><a href="https://www.instagram.com/justkeepthinkingsg/" rel="noopener nofollow" target="_blank">Just Keep Thinking</a> </strong>booth
+will showcase the Eco-Train Exhibition, a free, public-access environmental
+education initiative focused on Southeast Asia’s rainforests. Featuring
+a miniature Eco-Train model, AR rainforest experience, and showcasing wildlife
+specimens, the booth aims to raise awareness, engage stakeholders, and
+explore collaboration opportunities to expand the project’s impact.</p>
 </td>
 </tr>
 <tr>
