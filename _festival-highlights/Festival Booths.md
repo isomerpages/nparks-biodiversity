@@ -303,6 +303,23 @@ visit our booth to find out more about our Nature Kakis!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NPSS logo" src="/images/Logos/NPSS_Logo.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The <a href="https://npss.org.sg/" rel="noopener nofollow" target="_blank">Nature Photographic Society Singapore (NPSS)</a> specialises
+in taking nature photos such as Avian / Wildlife, Macro, and landscape.
+Our booth will have photo exhibits showing members works, in addition to
+logo. There will be demonstration of how to take live macro photos at the
+booth and video clips of the society’s activities. how to take responsible
+nature photos, such as not closing in to the subject especially in nesting
+situations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/NParks%20Logo%20new%20tagline_colour.png">
 </div>
