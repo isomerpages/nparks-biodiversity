@@ -93,15 +93,13 @@ Garden City Fund’s Plant-A-Tree Programme.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://cicadatree.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cicada Tree Eco-Place</a></strong> i
-a non-government organisation that promotes Singapore's natural and cultural
-heritage through environmental education. It reaches out to people of all
-age groups who want to know more about nature and wildlife.&nbsp;Chat with
-our volunteers and learn more about our upcoming activities. You may also
-want to try out our online quiz to test how much you know about Singapore's
-forests and some of the current issues, and how individuals can also play
-a part in conserving nature.</p>
-<p>Join us for storytelling on 25 and 26 May, 1pm and 3pm.</p>
+<p><strong><a href="https://cicadatree.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cicada Tree Eco-Place</a></strong> is
+an environmental education non-government organisation that promotes the
+conservation of local biodiversity, nature and culture. In conjunction
+with FoB 2025, Cicada Tree Eco-Place is publishing a children's book titled
+"Top 10 Weirdest Critters of Singapore’s Rainforest." The book is an environmental
+education resource of the "Protect Our Last Wilderness" conservation campaign
+by Cicada Tree Eco-Place.</p>
 </td>
 </tr>
 <tr>
@@ -162,10 +160,10 @@ out more!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank">Herpetological Society of Singapore (HSS)</a></strong> is
-a group of herpetology enthusiasts based in Singapore. Our booth will feature
-several wet and dry herpetofauna specimens alongside some of our posters
-and merchandise (stickers, pins, posters, etc.). We will also be showcasing
-a series of videos and photos of herpetofauna.</p>
+a group of herpetology enthusiasts based in Singapore. HSS's booth will
+have a variety of reptile specimens and posters, along with herp-themed
+figurines &amp; toys. Furthermore, we will also be selling our merchandise
+(stickers, pins, and posters) at the booth.</p>
 </td>
 </tr>
 <tr>
@@ -191,12 +189,12 @@ other, the environment, and animals.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://lkcnhm.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Natural History Museum</a></strong> is
-Singapore’s only natural history museum, and a leading institution in Southeast
-Asian biodiversity research, education, and outreach. As safe keepers of
-Singapore’s natural heritage, we seek to share knowledge with the public.
-Join us at our booth to check out local and regional specimens and find
-out about the research work we do to support biodiversity research in Singapore
-and in the region.</p>
+Singapore’s only natural history museum, located at the National University
+of Singapore. We house over a million biological specimens, field notes,
+and photographs from Southeast Asia. We support biodiversity research,
+share knowledge with the public, and engage in education and outreach,
+preserving Singapore’s natural heritage and contributing to global scientific
+efforts.</p>
 </td>
 </tr>
 <tr>
@@ -234,8 +232,7 @@ and curated content here at our booth.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a></strong> will
-display plants and fungi specimens at our booth to help people overcome
-plant and fungi blindness.</p>
+highlight local plants and fungi and their usefulness to humans.</p>
 </td>
 </tr>
 <tr>
@@ -245,13 +242,13 @@ plant and fungi blindness.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://toddycats.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS Toddycats</a></strong> are
+<p><strong><a href="https://toddycats.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS Toddycats!</a></strong> are
 volunteers with the Lee Kong Chian Natural History Museum. We aim to expose,
 develop, enthuse and apply individuals to programmes in conservation, education
-and research. We also engage the public through exhibitions, nature and
-heritage trails, public seminars, webpages, partnerships and coastal cleanups!
-Have a passion for nature and biodiversity? Come to our booth to find out
-how you can contribute!</p>
+and research. We engage the public through exhibitions, seminars and symposia,
+nature and heritage trails, Coastal Clean-ups, online resources and form
+active partnerships with the larger community! Come to our booth to find
+out how you can contribute!</p>
 </td>
 </tr>
 <tr>
@@ -364,10 +361,10 @@ conserve our wildlife and their waterways!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.facebook.com/RBLWG/" rel="noopener noreferrer nofollow" target="_blank">Raffles' Banded Langur Working Group</a></strong> was
-established in 2016 with partners in both countries to carry out research,
-education outreach and conservation activities. The Raffles' Banded Langur
-(<em>Presbytis femoralis</em>) is a critically endangered monkey found
-only in Singapore and southern Peninsular Malaysia.</p>
+established in 2016 to carry out research, education outreach and conservation
+activities for the Raffles' Banded Langur (Presbytis femoralis). It is
+a Critically Endangered monkey found only in Singapore and Malaysia and
+is considered one of the top 25 most endangered primates in the world.</p>
 </td>
 </tr>
 <tr>
@@ -407,10 +404,10 @@ booth at the Festival of Biodiversity 2024.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.swagcat.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Wildcat Action Group (SWAG)</a></strong>&nbsp;promotes
 wildcats, like leopard cats and tigers and takes actions to conserve them.
-We are volunteer-run! Come learn about wildcats and what you can do to
-make a difference for them. Children, come get a fun wildcat tattoo at
-our booth!</p>
-<p>Join us at 2pm to 3pm for mask colouring, and 4pm to 5pm for jigsaw!</p>
+We are volunteer-run! Booth highlights: come learn about wildcats and what
+you can do to make a difference for them. Children, come play a game, listen
+to a story, and get a cute wildcat sticker! Wildcat merchandise like children’s
+books, and other fun stuff will be on sale!</p>
 </td>
 </tr>
 <tr>
@@ -424,9 +421,9 @@ our booth!</p>
 the Singapore Chapter of the Global Youth Biodiversity Network, official
 youth representatives at the United Nations' Convention on Biological Diversity.
 We work extensively on local and international biodiversity policy and
-stakeholder engagement. Come down to learn more about some of our ongoing
-projects, our policy documents, and how YOUth can contribute to conservation
-in the region.</p>
+stakeholder engagement. Our booth will showcase SYVB's biodiversity policy
+projects, outreach events like guided walks, and advertise our social media
+projects like our COP Vlogs.</p>
 </td>
 </tr>
 <tr>
