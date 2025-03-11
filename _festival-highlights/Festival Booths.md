@@ -223,17 +223,6 @@ in nesting situations.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nlb.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>National Library Board </strong>will showcase sustainability programmes
-and curated content here at our booth.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSS.png">
 </div>
 </td>
