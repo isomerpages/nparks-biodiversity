@@ -370,7 +370,7 @@ projects like our COP Vlogs.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong><a href="Straw Headed Bulbul – Nature Society Singapore" rel="noopener nofollow" target="_blank">Straw-headed Bulbul Working Group</a></strong> hopes
+<p>The <strong><a href="https://www.nparks.gov.sg/nature/community-in-nature/straw-headed-bulbul-working-group" rel="noopener nofollow" target="_blank">Straw-headed Bulbul Working Group</a></strong> hopes
 to create awareness about the Straw-headed Bulbul, its plight and how everyone
 can help ensure the population continues to thrive in Singapore.</p>
 </td>
