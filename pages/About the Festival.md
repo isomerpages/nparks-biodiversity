@@ -34,9 +34,10 @@ annually on the 22 May 2025 annually, follows the theme<strong> </strong>"<stron
 This years IDP aims to raise public awareness of biodiversity's vital role
 in sustaining all life on earth and highlights the urgent need to halt
 and reverse biodiversity loss. These efforts are crucial for achieving
-the United Nations’ Sustainable Development Goals (SDGs), aligning closely
-with FoB’s mission to promote knowledge of Singapore’s biodiversity and
-foster a society where people and nature coexist in harmony.</p>
+the United Nations’ Sustainable Development Goals (SDGs) and Goals and
+Targets of the Kunming-Montreal Global Biodiversity Framework (KMGBF),
+aligning closely with FoB’s mission to promote knowledge of Singapore’s
+biodiversity and foster a society where people and nature coexist in harmony.</p>
 <p>Date: 31 May and 1 June 2025</p>
 <p>Time: 10am- 730pm</p>
 <p>Venue: The Plaza, National Library Building</p>
