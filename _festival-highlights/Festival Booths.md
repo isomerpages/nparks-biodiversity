@@ -141,15 +141,12 @@ be spotted right in your own backyard.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong><a href="https://www.linkedin.com/company/fmp-community/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank"><u>Friends of Marine Park (FMP)</u></a></strong> community
+<p>The <strong><a href="https://www.linkedin.com/company/fmp-community/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Friends of Marine Park (FMP)</a></strong> community
 is a dynamic network of stakeholders from civil society, business, academia
-and public service. The network encourages community members to collaborate
-for the long-term survival of life in our seas. It is built on trusting
-relationships that enable resource users to get involved in the planning,
-development, and management of the Sisters’ Islands Marine Park. We also
-facilitates activities that are mutually beneficial to the community and
-to the success of the nation’s first marine park. Visit our booth to find
-out more!</p>
+and public service. Explore the incredible marine biodiversity of Singapore
+and learn about ongoing conservation efforts by the marine community with
+Friends of Marine Park. Through engaging activities, we showcase how individuals
+and organizations are working together to protect our oceans.</p>
 </td>
 </tr>
 <tr>
@@ -215,18 +212,27 @@ efforts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LepakInSG logo" src="/images/Logos/LepakInSG_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://lepakinsg.wordpress.com/" rel="noopener nofollow" target="_blank">LepakInSG</a></strong> will
+be conducting a quiz game on environmental issues in Singapore.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6257929473d9486230a7b0b7_mandaifa-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.mandainature.org/en/home.html" rel="noopener noreferrer nofollow" target="_blank">Mandai Nature</a></strong> is
-the conservation arm of&nbsp;Mandai Wildlife Group. Learn about how we
-are working with our partners to drive the conservation of threatened wildlife
-in Southeast Asia. Find out about how we are protecting Singapore’s native
-biodiversity in the Mandai Wildlife Reserve, supporting Singapore’s national
-efforts to become a City in Nature and working with partners on the ground
-to protect some of Southeast Asia’s most threatened and neglected species.</p>
+<p>Learn about how <strong><a href="https://www.mandainature.org/en/home.html" rel="noopener noreferrer nofollow" target="_blank">Mandai Nature</a></strong>,
+the conservation arm of Mandai Wildlife Group, helps ensure local biodiversity
+found in the Mandai Wildlife Reserve can thrive, and find out how we work
+with partners to protect some of Southeast Asia's most threatened wildlife.</p>
 </td>
 </tr>
 <tr>
@@ -309,13 +315,13 @@ visit our booth to find out more about our Nature Kakis!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <a href="https://npss.org.sg/" rel="noopener nofollow" target="_blank">Nature Photographic Society Singapore (NPSS)</a> specialises
+<p>The <strong><a href="https://npss.org.sg/" rel="noopener nofollow" target="_blank">Nature Photographic Society Singapore (NPSS)</a></strong> specialises
 in taking nature photos such as Avian / Wildlife, Macro, and landscape.
 Our booth will have photo exhibits showing members works, in addition to
-logo. There will be demonstration of how to take live macro photos at the
-booth and video clips of the society’s activities. how to take responsible
-nature photos, such as not closing in to the subject especially in nesting
-situations</p>
+logo. There will be a demonstration of how to take live macro photos at
+the booth and video clips of the society’s activities. We will also show
+how to take responsible nature photos, such as not closing in to the subject
+especially in nesting situations.</p>
 </td>
 </tr>
 <tr>
@@ -467,9 +473,9 @@ projects like our COP Vlogs.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">World Wide Fund for Nature Singapore (WWF-Singapore)</a></strong> will
-showcase topics on coral restoration, wetland conservation, public walks,
-invasive species. Discover Marine Conservation, Outdoor Programmes, Eco-Schools,
-WWF Explores. Engage with us!</p>
+showcase topics on coral restoration, wetland conservation, public walks
+and invasive species. Discover Marine Conservation, Outdoor Programmes,
+Eco-Schools, WWF Explores. Engage with us!</p>
 </td>
 </tr>
 </tbody>
