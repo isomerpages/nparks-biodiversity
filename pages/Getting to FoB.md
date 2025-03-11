@@ -4,7 +4,8 @@ permalink: /getting-to-fob/
 variant: tiptap
 description: ""
 ---
-<p>📍 National Library (100 Victoria St, Singapore 188064)</p>
+<p>📍 The Plaza, National Library Building (100 Victoria Street, Singapore
+188064)</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2371.7516857268993!2d103.85333319222872!3d1.2977177096346497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19a524aca129%3A0xf23dddaa8432afc5!2sNational%20Library%20%2F%20Lee%20Kong%20Chian%20Reference%20Library!5e0!3m2!1sen!2ssg!4v1741057358184!5m2!1sen!2ssg"></iframe>
 </div>
