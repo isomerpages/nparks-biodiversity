@@ -32,28 +32,11 @@ your family, complete with freebies, games, and more!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://acres.org.sg/" rel="noopener noreferrer nofollow" target="_blank">ACRES</a></strong> is
 a registered Charity that aims to create a world where all animals are
-treated as fellow sentient beings. Our focus areas includes wildlife rescue
+treated as fellow sentient beings. Our focus areas include wildlife rescue
 and rehabilitation, investigating wildlife crime, promoting human-wildlife
 coexistence and community outreach. All our work is encapsulated by our
 humane education, raising awareness and equipping people to advance animal
 welfare in their own capacity!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BES Drongos" src="/images/Logos/BES_drongos.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.instagram.com/bes.drongos/" rel="noopener noreferrer nofollow" target="_blank">BES Drongos</a></strong> are
-a group of nature lovers from the Bachelor of Environmental Studies (BES)
-programme at the National University of Singapore (NUS) who have come together
-to manage guided walks open to everyone and anyone. We want to inspire
-people to appreciate the rich local biodiversity and ecological systems
-we have in Singapore through our guided walks in various nature areas.&nbsp;Our
-booth will include a video and slide presentation as well as posters sharing
-what we do.</p>
 </td>
 </tr>
 <tr>
@@ -68,21 +51,6 @@ a transparent, science-based approach in our efforts to expand local and
 regional knowledge on birds. Head down to our booth to learn more about
 our science, our resources, and how you can meaningfully contribute to
 research and conservation!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Book_a_tree.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.giving.sg/donate/campaign/book-a-tree" rel="noopener noreferrer nofollow" target="_blank">Book A Tree</a></strong>&nbsp;is
-a movement to support NParks in their mission to plant one million trees
-around Singapore to further enhance its status as a garden city. The movement
-is supported by sales of the book “God’s Own Design - A Photographic Journey
-Through Nature”. All proceeds from the book sales will be donated to the
-Garden City Fund’s Plant-A-Tree Programme.</p>
 </td>
 </tr>
 <tr>
@@ -237,6 +205,23 @@ with partners to protect some of Southeast Asia's most threatened wildlife.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NPSS logo" src="/images/Logos/NPSS_Logo.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The <strong><a href="https://npss.org.sg/" rel="noopener nofollow" target="_blank">Nature Photographic Society Singapore (NPSS)</a></strong> specialises
+in taking nature photos such as Avian/Wildlife, Macro, and landscape. Our
+booth will have photo exhibits showing members works, in addition to logo.
+There will be a demonstration of how to take live macro photos at the booth
+and video clips of the society’s activities. We will also show how to take
+responsible nature photos, such as not closing in to the subject especially
+in nesting situations.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nlb.png">
 </div>
@@ -244,6 +229,22 @@ with partners to protect some of Southeast Asia's most threatened wildlife.</p>
 <td rowspan="1" colspan="1">
 <p><strong>National Library Board </strong>will showcase sustainability programmes
 and curated content here at our booth.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSS.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society (Singapore)</a></strong> is
+a non-government, non-profit organisation dedicated to the appreciation,
+conservation, study and enjoyment of the natural heritage in Singapore,
+Malaysia and the surrounding region.&nbsp;Singapore is home to a wide array
+of biodiversity from the very tiny to the majestic. Visit our booth to
+find out more about them and our natural environment through a combination
+of show and tell and activities.</p>
 </td>
 </tr>
 <tr>
@@ -271,57 +272,6 @@ and research. We engage the public through exhibitions, seminars and symposia,
 nature and heritage trails, Coastal Clean-ups, online resources and form
 active partnerships with the larger community! Come to our booth to find
 out how you can contribute!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSS.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society (Singapore)</a></strong> is
-a non-government, non-profit organisation dedicated to the appreciation,
-conservation, study and enjoyment of the natural heritage in Singapore,
-Malaysia and the surrounding region.&nbsp;Singapore is home to a wide array
-of biodiversity from the very tiny to the majestic. Visit our booth to
-find out more about them and our natural environment through a combination
-of show and tell and activities.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nature_Kakis_Logo_Full_Colour__PNG_version___2_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>The&nbsp;<strong><a href="https://naturekakis.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Kakis Network</a>&nbsp;</strong>is
-a touchpoint centred at the heart of local communities that will make City
-in Nature-related initiatives more accessible for members of the public
-to participate in. This initiative will provide more opportunities for
-the wider community to become stewards of nature by bringing together passionate
-like-minded individuals to share and exchange ideas with others in the
-wider community on how to conserve and steward our natural heritage. Come
-visit our booth to find out more about our Nature Kakis!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NPSS logo" src="/images/Logos/NPSS_Logo.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>The <strong><a href="https://npss.org.sg/" rel="noopener nofollow" target="_blank">Nature Photographic Society Singapore (NPSS)</a></strong> specialises
-in taking nature photos such as Avian / Wildlife, Macro, and landscape.
-Our booth will have photo exhibits showing members works, in addition to
-logo. There will be a demonstration of how to take live macro photos at
-the booth and video clips of the society’s activities. We will also show
-how to take responsible nature photos, such as not closing in to the subject
-especially in nesting situations.</p>
 </td>
 </tr>
 <tr>
@@ -381,20 +331,6 @@ Visit our booth to find out more!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pwlogo_withoutbackground.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.onepa.gov.sg/about-us/passion-wave" rel="noopener noreferrer nofollow" target="_blank">Project Blue WaVe</a></strong> is
-an initiative by PA PAssion WaVe to bring Singaporeans together and build
-a sense of ownership towards our environment through education on marine
-biodiversity and environment conservation. Ride on Project Blue WaVe to
-conserve our wildlife and their waterways!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/raffles_banded_langur_wg.jpg">
 </div>
 </td>
@@ -404,34 +340,6 @@ established in 2016 to carry out research, education outreach and conservation
 activities for the Raffles' Banded Langur (Presbytis femoralis). It is
 a Critically Endangered monkey found only in Singapore and Malaysia and
 is considered one of the top 25 most endangered primates in the world.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Straw-headed Bulbul Working Group logo" src="/images/Logos/Straw_headed_Bulbul_Working_Group_Logo.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>The <strong><a href="Straw Headed Bulbul – Nature Society Singapore" rel="noopener nofollow" target="_blank">Straw-headed Bulbul Working Group</a></strong> hopes
-to create awareness about the Straw-headed Bulbul, its plight and how everyone
-can help ensure the population continues to thrive in Singapore.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SINGPOST.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Singapore Post Limited (SingPost)</strong> has launched a series
-of four stamps in conjunction with the Festival of Biodiversity 2024. The
-stamps feature Critically Endangered flora of Singapore – flora of lowland
-dipterocarp forests. Beautifully showcased in the stamps are the species&nbsp;<em>Kadsura scandens,&nbsp;Artocarpus kemando,&nbsp;Piper porphyrophyllum</em>,<em>&nbsp;</em>and<em>&nbsp;Mucuna biplicate.&nbsp;</em>These
-stamps and other nature thematic stamps will be available at the SingPost
-booth at the Festival of Biodiversity 2024.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -463,6 +371,19 @@ We work extensively on local and international biodiversity policy and
 stakeholder engagement. Our booth will showcase SYVB's biodiversity policy
 projects, outreach events like guided walks, and advertise our social media
 projects like our COP Vlogs.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Straw-headed Bulbul Working Group logo" src="/images/Logos/Straw_headed_Bulbul_Working_Group_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The <strong><a href="Straw Headed Bulbul – Nature Society Singapore" rel="noopener nofollow" target="_blank">Straw-headed Bulbul Working Group</a></strong> hopes
+to create awareness about the Straw-headed Bulbul, its plight and how everyone
+can help ensure the population continues to thrive in Singapore.</p>
 </td>
 </tr>
 <tr>
