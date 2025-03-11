@@ -212,7 +212,7 @@ with partners to protect some of Southeast Asia's most threatened wildlife.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://npss.org.sg/" rel="noopener nofollow" target="_blank">Nature Photographic Society Singapore (NPSS)</a></strong> specialises
-in taking nature photos such as Avian/Wildlife, Macro, and landscape. Our
+in taking nature photos such as Avian/Wildlife, macro, and landscape. Our
 booth will have photo exhibits showing members works, in addition to logo.
 There will be a demonstration of how to take live macro photos at the booth
 and video clips of the society’s activities. We will also show how to take
@@ -281,7 +281,7 @@ heritage found in our Nature Reserves and Nature Parks at our booth.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-management/wildlife-management site as well" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> takes
+<p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-management/wildlife-management" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> takes
 a community- and science-based approach to human-wildlife encounters in
 Singapore. Come learn more about our work and how you can play your part
 in ensuring safe and responsible encounters with wildlife.</p>
