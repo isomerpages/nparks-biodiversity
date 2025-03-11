@@ -353,7 +353,7 @@ books, and other fun stuff will be on sale!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://sgyouthvoicesbiod.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Singapore Youth Voices for Biodiversity (SYVB)</a></strong> is
+<p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-management/wildlife-management" rel="noopener noreferrer nofollow" target="_blank">Singapore Youth Voices for Biodiversity (SYVB)</a></strong> is
 the Singapore Chapter of the Global Youth Biodiversity Network, official
 youth representatives at the United Nations' Convention on Biological Diversity.
 We work extensively on local and international biodiversity policy and
