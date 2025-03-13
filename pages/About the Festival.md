@@ -23,7 +23,7 @@ Nature vision.</p>
 <p>The biggest biodiversity festival in Singapore is back! The 2025 Festival
 of Biodiversity (FoB) will take place at the National Library on 31 May
 and 1 June, with an even more exciting and informative experience. Building
-on the success of 2024’s FoB, which welcomed over 16 000 visitors, NParks
+on the success of 2024’s FoB, which welcomed over 16,000 visitors, NParks
 together with other biodiversity-related interest groups and Non-Governmental
 Organisations (NGOs) is committed to making this year’s festival bigger
 and better. Expect more community involvement, engaging activities for
