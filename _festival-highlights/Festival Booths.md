@@ -382,7 +382,7 @@ can help ensure the population continues to thrive in Singapore.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">World Wide Fund for Nature Singapore (WWF-Singapore)</a></strong> will
+<p><strong><a href="https://www.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">World Wide Fund for Nature (WWF) Singapore</a></strong> will
 showcase topics on coral restoration, wetland conservation, public walks
 and invasive species. Discover Marine Conservation, Outdoor Programmes,
 Eco-Schools, WWF Explores. Engage with us!</p>
