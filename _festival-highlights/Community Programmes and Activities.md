@@ -76,8 +76,8 @@ visit the Nature Society Singapore website.</p>
 wildlife listings online as part of the Coalition to End Wildlife Trafficking
 Online. Running four times a year, it aims to become a volunteer-led initiative.
 Selected volunteers undergo training to identify and report prohibited
-wildlife products, which WWF reviews before working with coalition members
-to remove them from online platforms.</p>
+wildlife products, which WWF-Singapore reviews before working with coalition
+members to remove them from online platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://cyberspotter.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
@@ -86,7 +86,7 @@ view website for more information.</p>
 Website. About 1.5 months before the next round of programme, the 'join
 us' link will be updated with the registration form. When the registration
 form is not active, there will be an interest form left instead for people
-to leave their information for WWF to contact for future rounds.</p>
+to leave their information for WWF-Singapore to contact for future rounds.</p>
 </td>
 </tr>
 </tbody>
@@ -162,7 +162,7 @@ visit the e-module website.</p>
 <p>First Saturday of every month: 5 April 2025, 3 May 2025, 7 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>WWF Explores: Wetland Watchers @ Lim Chu Kang Nature Park</strong>
+<p><strong>WWF-Singapore Explores: Wetland Watchers @ Lim Chu Kang Nature Park</strong>
 </p>
 <p>Experience a day as a field biologist with WWF-Singapore’s Wetland Watchers
 at Lim Chu Kang Nature Park! Join this citizen science programme to observe
@@ -183,7 +183,7 @@ to get notified when registration for the next round starts.</p>
 <p>Second Saturday of each month: 12 April 2025, 10 May 2025, 14 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>WWF Explores: Natural Heritage Walks at Rifle Range Nature Park</strong>
+<p><strong>WWF-Singapore Explores: Natural Heritage Walks at Rifle Range Nature Park</strong>
 </p>
 <p>Join the WWF-led guided walk to learn about the rich variety of plants
 and animals found in the park. You will get a chance to spot many types
