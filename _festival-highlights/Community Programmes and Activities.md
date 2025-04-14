@@ -67,7 +67,7 @@ register.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ocean Superheroes with Blossom World Society graphic" src="/images/FoB 2025/5_Ocean_Superheroes_with_Blossom_World_Society.png">
 </div>
-<p>"Join our parent-child programme with Blossom World Society to learn how
+<p>Join our parent-child programme with Blossom World Society to learn how
 we can live sustainably and do our part to keep our beaches and oceans
 clean!</p>
 <p>In this programme:</p>
@@ -78,7 +78,6 @@ clean!</p>
 Suitable for children aged 7-12.</p>
 <p>Registration is required. Please register 1 ticket each for your child
 and yourself.</p>
-<p>"</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174245125395" rel="noopener nofollow" target="_blank"><u>here</u></a> to
@@ -90,8 +89,11 @@ register.</p>
 <p>7 April 2025 (7pm-8:30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Introduction to the World of Fungi | Down to Earth
-<br>"</p>
+<p><strong>Introduction to the World of Fungi | Down to Earth</strong> 
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Introduction to the World of Fungi graphic" src="/images/FoB 2025/6_Introduction_to_the_World_of_Fungi_.png">
+</div>
 <p>The kingdom of Fungi, making up one of the five kingdoms of living beings,
 has an estimated 3.8 million species.</p>
 <p>These fungi range from edible mushrooms that routinely sprout after rain,
@@ -102,10 +104,11 @@ western medication (Eg: Penicillin from Penicillum chrysogenum).</p>
 <p>In addition to existing independently, an estimated 80+% of existing plant
 species form symbiotic relationships with fungi within their roots. Join
 us for a glimpse into the fascinating fungal world.</p>
-<p>This programme is held in conjunction with Republic Polytechnic."</p>
+<p>This programme is held in conjunction with Republic Polytechnic.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174245125395" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -206,27 +209,16 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Playtime with Timmy and his wild neighbours graphic" src="/images/FoB 2025/2_Playtime_with_Timmy_and_his_wild_neighbours.png">
 </div>
-<p>"Join Timmy on an exciting journey around his neighbourhood as he discovers
+<p>Join Timmy on an exciting journey around his neighbourhood as he discovers
 amazing animals that live around him!</p>
 <p>From playful macaques to curious otters and helpful bats, there are many
 different types of wildlife in our midst, and much to learn about sharing
 our space with them.</p>
-<p>Let’s find out how we can be good neighbours to the animals around us!"</p>
+<p>Let’s find out how we can be good neighbours to the animals around us!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
 will be updated here once registration opens.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
