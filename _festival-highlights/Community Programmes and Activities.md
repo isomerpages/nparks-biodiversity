@@ -104,8 +104,8 @@ nature responsibly, with a focus on commonly encountered wildlife species
 such as long-tailed macaques, wild boars, civets, snakes etc.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration for this activity has not opened yet. The link to register
-will be updated here once registration opens.</p>
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174287277149" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
 </td>
 </tr>
 </tbody>
@@ -163,8 +163,8 @@ our space with them.</p>
 <p>Let’s find out how we can be good neighbours to the animals around us!"</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174287277149" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-register.</p>
+<p>Registration for this activity has not opened yet. The link to register
+will be updated here once registration opens.</p>
 </td>
 </tr>
 <tr>
