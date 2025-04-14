@@ -20,6 +20,7 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 <summary><strong>April</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -89,6 +90,24 @@ form is not active, there will be an interest form left instead for people
 to leave their information for WWF-Singapore to contact for future rounds.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 April 2025 (1.30pm-2.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wildlife in Our Neighbourhood with National Parks</strong>
+</p>
+<p>Discover how to live harmoniously with Singapore's wild residents through
+responsible wildlife encounters.
+<br>This talk will provide information on how to interact with wildlife and
+nature responsibly, with a focus on commonly encountered wildlife species
+such as long-tailed macaques, wild boars, civets, snakes etc.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration for this activity has not opened yet. The link to register
+will be updated here once registration opens.</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -108,7 +127,59 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 <summary><strong>June</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>How to Register</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 June 2025 (1.30pm-2.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Playtime with Timmy and his Wild Neighbours</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Playtime with Timmy and his wild neighbours graphic" src="/images/FoB 2025/2_Playtime_with_Timmy_and_his_wild_neighbours.png">
+</div>
+<p>"Join Timmy on an exciting journey around his neighbourhood as he discovers
+amazing animals that live around him!</p>
+<p>From playful macaques to curious otters and helpful bats, there are many
+different types of wildlife in our midst, and much to learn about sharing
+our space with them.</p>
+<p>Let’s find out how we can be good neighbours to the animals around us!"</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174287277149" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
