@@ -89,7 +89,7 @@ register.</p>
 <p>7 April 2025 (7pm-8:30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Introduction to the World of Fungi | Down to Earth</strong> 
+<p><strong>Introduction to the World of Fungi | Down to Earth</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Introduction to the World of Fungi graphic" src="/images/FoB 2025/6_Introduction_to_the_World_of_Fungi_.png">
@@ -107,7 +107,7 @@ us for a glimpse into the fascinating fungal world.</p>
 <p>This programme is held in conjunction with Republic Polytechnic.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174245125395" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register.</p>
 </td>
 </tr>
