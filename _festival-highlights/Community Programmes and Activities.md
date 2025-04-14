@@ -41,6 +41,50 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 April 2025 (1:30pm-2:30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wildlife in Our Neighbourhood with National Parks</strong>
+</p>
+<p>Discover how to live harmoniously with Singapore's wild residents through
+responsible wildlife encounters.
+<br>This talk will provide information on how to interact with wildlife and
+nature responsibly, with a focus on commonly encountered wildlife species
+such as long-tailed macaques, wild boars, civets, snakes etc.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174287277149" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 April 2025 (2:30pm-3:30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ocean Superheroes with Blossom World Society | Sembawang Public Library</strong>
+</p>
+<p>"Join our parent-child programme with Blossom World Society to learn how
+we can live sustainably and do our part to keep our beaches and oceans
+clean!</p>
+<p>In this programme:</p>
+<p>• Warm up with fun yoga poses inspired by marine animals.</p>
+<p>• Have fun with hands-on learning activities inspired by beach cleanups.</p>
+<p>• Get useful tips on what can and cannot be recycled.</p>
+<p>This programme is made accessible for autism and intellectual disability.
+Suitable for children aged 7-12.</p>
+<p>Registration is required. Please register 1 ticket each for your child
+and yourself.</p>
+<p>"</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174245125395" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>19 April 2025 (8:30am - 10:30am)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,24 +132,6 @@ Website. About 1.5 months before the next round of programme, the 'join
 us' link will be updated with the registration form. When the registration
 form is not active, there will be an interest form left instead for people
 to leave their information for WWF-Singapore to contact for future rounds.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 April 2025 (1.30pm-2.30pm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Wildlife in Our Neighbourhood with National Parks</strong>
-</p>
-<p>Discover how to live harmoniously with Singapore's wild residents through
-responsible wildlife encounters.
-<br>This talk will provide information on how to interact with wildlife and
-nature responsibly, with a focus on commonly encountered wildlife species
-such as long-tailed macaques, wild boars, civets, snakes etc.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174287277149" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-register.</p>
 </td>
 </tr>
 </tbody>
