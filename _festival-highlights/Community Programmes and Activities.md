@@ -107,7 +107,8 @@ us for a glimpse into the fascinating fungal world.</p>
 <p>This programme is held in conjunction with Republic Polytechnic.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a rel="noopener nofollow" target="_blank"><u>here</u></a> to register.</p>
+<p>Click <a href="https://form.gov.sg/67d141eefacab583658bd6ca" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
 </td>
 </tr>
 <tr>
