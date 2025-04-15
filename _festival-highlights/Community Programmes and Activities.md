@@ -113,6 +113,26 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>11 April 2025 (4:30pm-7pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Children's Sustainability Lab&nbsp;</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Children_s_Sustainability_Lab.jpg" src="/images/FoB 2025/13_Children_s_Sustainability_Lab.jpg">
+</div>
+<p>Join the Blue Planet Initiative from the Singapore American School to
+learn about Singapore's mangroves, local endangered animals, and plastic
+waste! There will be fun activities suitable for children aged 4 to 10
+years old.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174263843128" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12 April 2025 (11am-12pm)</p>
 </td>
 <td rowspan="1" colspan="1">
