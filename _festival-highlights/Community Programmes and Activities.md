@@ -402,6 +402,50 @@ will be updated here once registration opens.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>14 June 2025 (11am-1pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Biodiversity Collage Workshop</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The_Transmutation_Principle.png" src="/images/FoB 2025/14__The_Transmutation_Principle.png">
+</div>
+<p>In this workshop, you'll learn why biodiversity is vital for the wellbeing
+&amp; preservation of our societal ecosystems. The challenge lies in balancing
+urban demand for natural resources/services with a need to protect nature.</p>
+<p>Through this hands-on interactive workshop, we'll unpack our interdependence
+with nature &amp; how human activities are contributing to biodiversity
+loss. Learn about the interconnectedness of all life on Earth. Thanks to
+a science-based set of cards (based on the IPBES reports), discover the
+fundamental interactions within biodiversity, the causes and consequences
+of its decline. Discover how our societies and even health systems depend
+very much on nature.</p>
+<p>This workshop is organised in conjunction with The Biodiversity Collage
+and The Transmutation Principle.</p>
+<p>About The Transmutation Principle:</p>
+<p>TTP is a sustainability-driven consulting company whose mission is to
+be catalysts of change to protect and sustain our planet, for the well-being
+of future generations. We curate climate education workshops through collaborative,
+gamified workshops such as this for organisations at every stage, while
+contributing back to communities through our flagship, pro-bono public
+workshops.</p>
+<p>Our</p>
+<p>services employ a breadth of solutions catered for different maturity
+levels across the organization's transformational journey from establishing
+foundational excellence to elevating their organisational ESG strategy,
+as we navigate this increasingly volatile environment together.</p>
+<p>Here's how:</p>
+<p>📖 Create accessible climate education for all</p>
+<p>🛠️ Outsource your sustainability pain points to us</p>
+<p>💡 Diagnose &amp; drive sustainable change.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration for this activity has not opened yet. The link to register
+will be updated here once registration opens.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>21 June 2025 (11am-12pm)</p>
 </td>
 <td rowspan="1" colspan="1">
