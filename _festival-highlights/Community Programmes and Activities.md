@@ -113,6 +113,50 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>15 April 2025 (7pm-8pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beyond Looking Like a Stick | Down to Earth</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Beyond Looking like a Stick graphic" src="/images/FoB 2025/7_Beyond_Looking_like_a_Stick.png">
+</div>
+<p>Stick insects are famous for mimicking motionless sticks but they have
+an amazing life history that goes beyond simple disguise. Their incredible
+array of behavioural traits and strategies that they deploy to avoid predators
+will astound you!</p>
+<p>Join us as our speaker, Dr Eunice Tan, shares the work taken in uncovering
+the behaviours of the charismatic, yet largely neglected, leaf and stick
+insects.</p>
+<p>This programme is part of a series on sustainability co-curated with the
+NUS Department of Biological Sciences.</p>
+<p></p>
+<p>About the Speaker:</p>
+<p>Dr Eunice Tan’s research focuses on the biodiversity, behaviour and ecology
+of insects and spiders in Southeast Asian habitats. Eunice is an Assistant
+Professor at the Department of Biological Sciences, National University
+of Singapore, where she teaches undergraduate and graduate courses in behavioural
+ecology.</p>
+<p>Please note that presentation slides may be available during or after
+the programme, depending on the programme. Where applicable, only participants
+who attend the programme can have access to the slides via instructions
+given during the programme.</p>
+<p></p>
+<p>Down to Earth:</p>
+<p>Down to Earth Series unpacks pertinent sustainability topics and makes
+them accessible whatever your background. From demystifying the latest
+green buzzwords to illuminating the incredible biodiversity we live amongst,
+join us and grow your knowledge with experts as they give you the break
+down on all things green.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://form.gov.sg/67d1402dfacab583658b5aa4" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>19 April 2025 (8:30am - 10:30am)</p>
 </td>
 <td rowspan="1" colspan="1">
