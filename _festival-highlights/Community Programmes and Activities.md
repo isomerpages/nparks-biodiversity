@@ -216,7 +216,63 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 <summary><strong>May</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>How to Register</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 May 2025 (2pm-3pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>From Rescue to Release: Navigating Wildlife Emergencies in Singapore</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rescue to Release graphic" src="/images/FoB 2025/8_Rescue_to_Release.png">
+</div>
+<p>The Animal Concerns, Research and Education Society (ACRES) is a registered
+Singaporean Charity and Institution of Public Character that aims to create
+a world where all animals are treated as fellow sentient beings. One of
+our key focus areas is Wildlife Rescue and Rehabilitation, where we rescue
+thousands of animals each year.</p>
+<p>In this talk, learn more about how Singapore's only Wildlife Rescue charity
+functions and hear about our most exciting rescue stories. Empower yourselves
+to play a part in helping animals by learning what to do when you see various
+animals who are injured or in distress.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration for this activity has not opened yet. The link to register
+will be updated here once registration opens.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
@@ -225,6 +281,7 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 <summary><strong>June</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -259,6 +316,31 @@ amazing animals that live around him!</p>
 different types of wildlife in our midst, and much to learn about sharing
 our space with them.</p>
 <p>Let’s find out how we can be good neighbours to the animals around us!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration for this activity has not opened yet. The link to register
+will be updated here once registration opens.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 June 2025 (11am-12pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>From Rescue to Release: Navigating Wildlife Emergencies in Singapore</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rescue to Release graphic" src="/images/FoB 2025/10_Rescue_to_Release.png">
+</div>
+<p>The Animal Concerns, Research and Education Society (ACRES) is a registered
+Singaporean Charity and Institution of Public Character that aims to create
+a world where all animals are treated as fellow sentient beings. One of
+our key focus areas is Wildlife Rescue and Rehabilitation, where we rescue
+thousands of animals each year.</p>
+<p>In this talk, learn more about how Singapore's only Wildlife Rescue charity
+functions and hear about our most exciting rescue stories. Empower yourselves
+to play a part in helping animals by learning what to do when you see various
+animals who are injured or in distress.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
