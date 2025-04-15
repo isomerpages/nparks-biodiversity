@@ -113,6 +113,29 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>12 April 2025 (11am-12pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Little Tiger and Friends&nbsp;</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Little_Tiger___Friends.jpg" src="/images/FoB 2025/12_Little_Tiger___Friends.jpg">
+</div>
+<p>Two delightful books, Little Tiger and Little Tiger and the Snow Leopards
+will be read by Dr Linda Gan, the author of both books. The beautifully
+illustrated stories are about a tiger cub and its exciting adventures with
+its best friend, Bird! Read by author Linda Gan, well-known in the field
+of early childhood education in Singapore, Little Tiger and the Snow Leopards
+will inspire love and empathy for animals. Children will also have a chance
+to make a wildcat mask!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://form.gov.sg/67d1426a16761c759cd568a8" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>15 April 2025 (7pm-8pm)</p>
 </td>
 <td rowspan="1" colspan="1">
