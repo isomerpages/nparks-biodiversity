@@ -302,20 +302,55 @@ will be updated here once registration opens.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 June 2025 (1.30pm-2.30pm)</p>
+<p>3 June 2025 (7pm-8pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Playtime with Timmy and his Wild Neighbours</strong>
+<p><strong>Phytoplankton Ecology in Singapore and Beyond! | Down to Earth</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Playtime with Timmy and his wild neighbours graphic" src="/images/FoB 2025/2_Playtime_with_Timmy_and_his_wild_neighbours.png">
+<img style="width: 100%" height="auto" width="100%" alt="Phytoplankton_Ecology_in_Singapore_and_Beyond_.png" src="/images/FoB 2025/11_Phytoplankton_Ecology_in_Singapore_and_Beyond_.png">
 </div>
-<p>Join Timmy on an exciting journey around his neighbourhood as he discovers
-amazing animals that live around him!</p>
-<p>From playful macaques to curious otters and helpful bats, there are many
-different types of wildlife in our midst, and much to learn about sharing
-our space with them.</p>
-<p>Let’s find out how we can be good neighbours to the animals around us!</p>
+<p>Phytoplankton play a vital role in aquatic ecosystems and sequester carbon
+dioxide in our atmosphere. More than 50% of our oxygen comes from phytoplankton
+in the world’s oceans and lakes.</p>
+<p>Understanding the role of phytoplankton in aquatic ecosystems will help
+in advancing the solutions to problems facing today’s water resources,
+such as harmful algal blooms, pollution, and climate change.</p>
+<p>Join us in this talk as Dr Maxine Mowe shares more on phytoplankton and
+how their growth and production can possibly be the solution for increasing
+carbon capture globally.</p>
+<p>This programme is part of a series on sustainability co-curated with the
+NUS Department of Biological Sciences.</p>
+<p></p>
+<p>About the Speaker:</p>
+<p>Dr. Maxine Mowe is a biology lecturer at the National University of Singapore
+in the Department of Biological Sciences and has more than 14 years of
+research experience in aquatic biology specifically in phytoplankton and
+zooplankton ecology and has been a lecturer since 2019. She has worked
+on the ecology of several cyanobacterial taxa (Microcystis, Raphidiopsis),
+phytoplankton and zooplankton interactions, microplastic impacts and eutrophication
+and algal bloom mitigation using aquatic plants in Singapore’s reservoirs
+and coastal environment. She teaches various biology and ecology courses
+(General Biology, Evolutionary Biology, Freshwater Biology, Plankton Ecology)
+for undergraduate students and several courses (Freshwater Conservation,
+Food Security and Sustainability and Internships) for the Masters’ programme
+in NUS on Biodiversity Conservation and Sustainability. She is also a voluntary
+committee member for Care for Creation Committee at Caritas since 1 January
+2023. Together with the rest of the committee, she has planned several
+environmental activities including beach clean-ups, intertidal walks, tree
+planting events and workshops for adults and children.</p>
+<p></p>
+<p>Please note that presentation slides may be available during or after
+the programme, depending on the programme. Where applicable, only participants
+who attend the programme can have access to the slides via instructions
+given during the programme.</p>
+<p></p>
+<p>Down to Earth:</p>
+<p>Down to Earth Series unpacks pertinent sustainability topics and makes
+them accessible whatever your background. From demystifying the latest
+green buzzwords to illuminating the incredible biodiversity we live amongst,
+join us and grow your knowledge with experts as they give you the break
+down on all things green.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
@@ -341,6 +376,28 @@ thousands of animals each year.</p>
 functions and hear about our most exciting rescue stories. Empower yourselves
 to play a part in helping animals by learning what to do when you see various
 animals who are injured or in distress.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration for this activity has not opened yet. The link to register
+will be updated here once registration opens.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 June 2025 (1.30pm-2.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Playtime with Timmy and his Wild Neighbours</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Playtime with Timmy and his wild neighbours graphic" src="/images/FoB 2025/2_Playtime_with_Timmy_and_his_wild_neighbours.png">
+</div>
+<p>Join Timmy on an exciting journey around his neighbourhood as he discovers
+amazing animals that live around him!</p>
+<p>From playful macaques to curious otters and helpful bats, there are many
+different types of wildlife in our midst, and much to learn about sharing
+our space with them.</p>
+<p>Let’s find out how we can be good neighbours to the animals around us!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
