@@ -126,7 +126,7 @@ fauna through these opportunities and workshops.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Top 10 Weirdest Critters of Singapore’s Rainforest by Cicada Tree Eco-Place (12.15 - 2pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
-<p>Story telling and Colouring Activity based on children's book published
+<p>Storytelling and Colouring Activity based on children's book published
 by Cicada Tree Eco-Place "Top 10 Weirdest Critters of Singapore’s Rainforest".</p>
 <p>No registration is required - simply drop by during the specified time
 to participate. Seats are limited and available on a first-come, first-serve
