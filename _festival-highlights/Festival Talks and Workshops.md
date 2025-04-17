@@ -226,7 +226,7 @@ basis.</p>
 </details>
 </div>
 <p></p>
-<h4>Thematic Workshops </h4>
+<h4>Thematic Workshops</h4>
 <details class="isomer-details">
 <summary>1 June 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
