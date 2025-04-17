@@ -193,6 +193,22 @@ to take home your creation. This workshop is open to any kids above the
 age of 5 years old with 20 pax at any one time.</p>
 <p>Registration link will be updated here once registration opens!</p>
 <hr>
+<p><strong>A History of Land-use Policies and Planning in Singapore by Singapore Youth Voices for Biodiversity (2pm - 4pm at Possibility Room - National Library Building, Level 5)</strong>
+</p>
+<p>Singapore’s landscapes have seen many changes through the years - from
+kampongs and plantations, to a bustling port city, and finally to the metropolis
+we know today. Forests made way for roads and homes, rivers were straightened
+into canals, and new neighbourhoods popped up one after another - often
+at the expense of native habitats and the species they once sheltered.
+But through all this, patches of wildness remain - sometimes protected,
+sometimes overlooked. What gets protected, what gets moved, and what gets
+lost in the name of progress? Together, we’ll reflect on how these landscapes
+came to be, the policies and planning decisions that shaped them, and what
+they might look like in the years to come. Join us for an afternoon of
+conversation and co-learning, as we reimagine how Singapore’s green and
+grey might grow side by side as we move towards becoming a City in Nature.</p>
+<p>Register <a href="http://bit.ly/SYVB_FOB25" rel="noopener nofollow" target="_blank">here</a>!</p>
+<hr>
 <p><strong>Secrets of our Nocturnal Neighbours: A discovery of their biology and challenges in urban Singapore by NUS Toddycats (2.15pm - 4pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
 <p>This workshop is designed for participants to discover the fascinating
