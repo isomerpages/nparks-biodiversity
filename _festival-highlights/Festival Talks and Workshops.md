@@ -205,8 +205,7 @@ conservation issues that they face.</p>
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p>Conservation Seekers (A Facilitated Boardgame)<strong> by </strong>World
-Wide Fund for Nature (Singapore)<strong> (4.15pm - 6pm at Workshop Zone - Stage, National Library Plaza)</strong>
+<p><strong>Conservation Seekers (A Facilitated Boardgame) by World Wide Fund for Nature (Singapore) (4.15pm - 6pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
 <p>Join us for an interactive board game that makes learning about biodiversity,
 conservation, and environmental challenges fun! Guided by a facilitator,
