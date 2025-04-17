@@ -122,129 +122,107 @@ of previously conducted webinars!</p>
 fauna through these opportunities and workshops.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>25 May 2024</summary>
+<summary>31 May 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>The Fussy Juvenile Horseshoe Crab at Chek Jawa by Nature Society Singapore and Dunman Secondary School (12.15 - 2pm at Workshop Zone - Stage)</strong>
+<p><strong>Top 10 Weirdest Critters of Singapore’s Rainforest by Cicada Tree Eco-Place (12.15 - 2pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM_V2.png">
-</div>
-<p>This workshop is designed to captivate and educate children aged 5 to
-12, revolving around the delightful narrative of "No Worms for Dinner."
-Dunman Secondary School students will bring the book to life through storytelling.
-Following the narrative journey, participants will be invited to consolidate
-their newfound knowledge through a thoughtfully constructed quiz in a fun
-and interactive manner. To further enrich this experience, the workshop
-will include a hands-on coloring activity, carefully curated to spotlight
-key characters from the book. This aims to reinforce the children's connection
-with the story, enhancing their understanding and appreciation of the narrative's
-nuances. Through this multifaceted approach, the workshop aims to foster
-a love for reading, stimulate imaginative thinking, and cultivate artistic
-skills among its youthful participants.</p>
-<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdM6hWZMZytvB5qjcj6LO9eB9gjPtCyZI5ux4BLjuCnItgUxA/viewform" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-register by 17 May 2024.</p>
-<hr>
-<p><strong>All About Sharks! by The Dorsal Effect (2.15pm - 4.15pm at Workshop Zone - Stage)</strong>
-</p>
-<p>This is a workshop for children to learn more about sharks in an interactive
-way through quizzes and hands on activities. Learn more about how you can
-take action for sharks and the ocean with The Dorsal Effect.</p>
+<p>Story telling and Colouring Activity based on children's book published
+by Cicada Tree Eco-Place "Top 10 Weirdest Critters of Singapore’s Rainforest".</p>
 <p>No registration is required - simply drop by during the specified time
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>Marine-Themed Crafts for Kids by Friends of Marine Park (4.15pm - 6pm at Workshop Zone - Stage)</strong>
+<p><strong>Sharks and us! by The Dorsal Effect (2.15pm - 4pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
-<p>Dive into creativity at this clay-making workshop! Join us for a hands-on
-experience where you will sculpt your favourite marine animals. This workshop
-promises to be a splash of fun!</p>
-<p>Click <a href="https://go.gov.sg/fob-marinecrafts" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>to
-register.</p>
+<p>Come learn more about sharks and join in a shark colouring and mapping
+activity as well as folding of cute paper sharks that you can take home
+with you!</p>
+<p>No registration is required - simply drop by during the specified time
+to participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
+<hr>
+<p><strong>Make a Wild Friend! by ACRES (4.15pm - 6pm at Workshop Zone - Stage, National Library Plaza)</strong>
+</p>
+<p>Do you love wild animals and know that you shouldn't get close enough
+to pet a real one?
+<br>Join ACRES to create your very own Reticulated Python, Common Palm Civet,
+or Collared Kingfisher from air-dry clay. You can definitely pet these!
+<br>While modelling, hear some stories about our encounters with these wonderful
+wild neighbours and share about your creature on Instagram (@eyesofacres)
+before you take it home.</p>
+<p>No registration is required - simply drop by during the specified time
+to participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>26 May 2024</summary>
+<summary>1 June 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Love our Wildcats! by Singapore Wildcat Action Group (SWAG) (10.15am - 12pm at Workshop Zone - Stage)</strong>
+<p><strong>Exploring Singapore’s Wildlife: A Hands-On Learning Experience by Nature Society Singapore (10am - 11.30am at Possibility Room - National Library Building, Level 5)</strong>
 </p>
-<p>Join SWAG to hear stories of leopard cats, tigers and leopards! Have fun
-colouring wildcats, and having your face painted as one of our beloved
-wildcats!</p>
+<p>This interactive workshop invites participants to discover the diverse
+wildlife of Singapore, with a focus on common birds, mammals and endangered
+species. The workshop is targeted towards 6 -12 year old children and their
+families. Through engaging activities led by students from Teck Whye Primary
+School's Green Club, participants will learn about local biodiversity and
+conservation in a fun and educational way. The activities consist of educational
+iPad games and endangered species headband-making activity. The iPad games
+offer a fun way for participants to learn and test their knowledge of the
+common birds and mammals in Singapore. Through the endangered species headband-making
+activity, the participants engage in a hands-on activity where they will
+make headbands featuring endangered species in Singapore. This activity
+highlights the importance of protecting wildlife and encourages participants
+to reflect on how they can contribute to conservation efforts.</p>
+<p>Register <a href="http://tinyurl.com/FOB2025-TWPS" rel="noopener nofollow" target="_blank">here</a>!</p>
+<hr>
+<p><strong>Love Our Wildcats! by Singapore Wildcat Action Group (SWAG) by Singapore Wildcat Action Group (10.15am - 12pm at Workshop Zone - Stage, National Library Plaza)</strong>
+</p>
+<p>Join SWAG to hear stories of tigers and snow leopards! Have fun colouring
+wildcats, and having your face painted as one of our beloved wildcats!</p>
 <p>No registration is required - simply drop by during the specified time
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>ConservaClay with WWF-Singapore (12.15pm - 2pm at Workshop Zone - Stage)</strong>
+<p><strong>Claying around: Make your very own marine creature or marine scientist talk by Friends of Marine Park (12.15pm - 2pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
-<p>Join WWF-Singapore for an immersive hands-on experience that ignites your
-passion for nature.&nbsp; Delve into the art of clay sculpting under the
-guidance of our skilled facilitators. Unleash your creativity as you mold
-the clay into creatures inspired by the wonders of the animal kingdom and
-lush plant life.</p>
-<p>But there's more to this workshop than just artistry! As you craft your
-clay creations, you'll also discover fascinating insights into local species
-and the conservation efforts needed to protect them. It's a unique opportunity
-to blend creativity with conservation and make a meaningful impact.</p>
-<p>Mark your calendars and join us at the Workshop Zone on the 26th May 2024
-to be part of the fun-filled eco-artistry session.</p>
+<p>The crafters from the Friends of Marine Park will be teaching you how
+to make some common sea creatures found in our local waters. As you make
+your very own marine friend, learn some interesting facts about them. We
+will be modeling simple shapes from air-dry polymer clay and you will get
+to take home your creation. This workshop is open to any kids above the
+age of 5 years old with 20 pax at any one time.</p>
+<p>Registration link will be updated here once registration opens!</p>
+<hr>
+<p><strong>Secrets of our Nocturnal Neighbours: A discovery of their biology and challenges in urban Singapore by NUS Toddycats (2.15pm - 4pm at Workshop Zone - Stage, National Library Plaza)</strong>
+</p>
+<p>This workshop is designed for participants to discover the fascinating
+nocturnal wildlife (e.g. civets, bats, etc) found in Singapore, focusing
+on their unique biological adaptations and the challenges they face in
+their natural habitats. Participants will gain insights into the lives
+of these creatures, understand the roles that they play and discuss the
+conservation issues that they face.</p>
 <p>No registration is required - simply drop by during the specified time
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>DIY Fun with Garden Birds with NParks (Singapore Botanic Gardens) (1pm - 2pm at Punggol Regional Library, Programme Room (Level 5))</strong>
+<p>Conservation Seekers (A Facilitated Boardgame)<strong> by </strong>World
+Wide Fund for Nature (Singapore)<strong> (4.15pm - 6pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
-<p>Did you know that there are 413 species of birds found in Singapore –
-out of these nearly half are found in the Singapore Botanic Gardens! Join
-James &amp; Ratika from the Singapore Botanic Gardens as they help you
-know more about birds of our Gardens, answer your questions, and ask you
-some questions – correct answers win prizes! The best part, you get to
-make &amp; take your own bird home!</p>
-<hr>
-<p><strong>Fingerprinting Our Marine Wildlife with Biogirl MJ (2.15pm - 4pm at Workshop Zone - Stage)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JKT_Fingerprinting_Art_Workshop_Banner__for_FOB___UPDATED_.png">
-</div>
-<p>In celebration of the Festival of Biodiversity, join Biogirl MJ for an
-exciting workshop where we will dive into the world of our local marine
-biodiversity and unleash your inner artist with a fun fingerprint art session.
-From vibrant coral reefs to the endearing hermit crabs, discover and appreciate
-the wonders of our underwater friends here! This event promises an engaging
-blend of knowledge, creativity, and fun!</p>
-<p>Click <a href="https://www.eventbrite.sg/e/fingerprinting-our-marine-wildlife-tickets-896766371357?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>to
-register.</p>
-</div>
-</details>
-</div>
-<h4>Open Door Sessions</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>26 May 2024 at Function Room (Level 5)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Tackling International Biodiversity Policy: Singapore and the KMGBF by Singapore Youth Voices for Biodiversity (10.30am - 12.30pm)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KMGBF_FOB_Workshop.png">
-</div>
-<p>The session by Singapore Youth Voices for Biodiversity (SYVB) provides
-an introduction to the Kunming-Montreal Global Framework (KMGBF). They
-will introduce its 23 targets and encourage participants to think about
-existing policies and Singapore and how they can be better enhanced.</p>
-<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOx6keFlw8G0fm1VhGfu8-AftqIuezRfnFbXAsLwuIHwh8_A/viewform" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-register.</p>
-<hr>
-<p><strong>The Making of the Singapore Red Data Book - A Resource for All Nature Lovers by Dr Geoff Davidson (NParks) (2.30pm - 4.30pm)</strong>
-</p>
-<p>The session will describe the development of Red Data Books and Red Lists
-as well as Singapore's experiences in creating the Singapore Red Data Book
-and national Red Lists. Ever wonder how specialists decide whether a creature
-should be included in the lists? And how they go about with the assessments?
-This is the session for you. In addition, examples of some iconic Singapore
-plants and animals will illustrate some of the ways the Singapore Red Data
-Book can be used for biodiversity conservation.</p>
-<p>Click <a href="https://go.gov.sg/fob2024-reddatabook" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>to
-register.</p>
+<p>Join us for an interactive board game that makes learning about biodiversity,
+conservation, and environmental challenges fun! Guided by a facilitator,
+players (Seekers) take turns rolling the dice, moving across the board,
+and tackling nature-themed challenges, trivia, and surprises.
+<br>- Conservation Booster: Gain an advantage!
+<br>- It’s Up to Chance: A surprise setback or boost!
+<br>- Mini-Challenges: Answer trivia or act out animal behaviors to progress.
+<br>- Goal: Reach Sustainable Future first and win a WWF token, redeemable
+at our booth!
+<br>Each round lasts 20-30 minutes, with up to three rounds in a 1.5-hour
+session. This family-friendly game encourages critical thinking, teamwork,
+and environmental awareness, making it ideal for families and young children.</p>
+<p>No registration is required - simply drop by during the specified time
+to participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
 </div>
 </details>
 </div>
