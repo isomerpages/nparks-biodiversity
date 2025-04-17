@@ -14,56 +14,95 @@ for more updates as you do not want to miss out!</p>
 community share fascinating insights about Singapore's rich natural&nbsp;heritage</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>25 May 2024 at Punggol Regional Library, Programme Room (Level 5)</summary>
+<summary>31 May 2025 National Library Building, Central Public Library Programme
+Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Marine Talk for Kids (1.30pm - 3pm)</strong>
+<p><strong>Seeing Sounds, Hearing Feathers (4pm - 5.30pm)</strong>
 </p>
-<p>Meet the biologists, scientists, researchers and science educators of
-the marine community and hear them share about the wonderful world of marine
-life and habitats. They will be sharing on the fascinating corals and coral
-reefs, the witty octopuses and incredible giant clams, the charismatic
-sea turtles, the amazing mangroves and last but not least, the impact of
-unforgiving marine trash on our marine environment. What can we do to help
-protect our marine environment to give the marine animals healthy homes?</p>
-<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-register.</p>
-<hr>
-<p><strong>Perspectives from LKCNHM: Archiving our Historical Biodiversity (4pm - 5.30pm)</strong>
-</p>
-<p>The Lee Kong Chian Natural History Museum is Singapore’s only natural
-history museum, and a leading institution in Southeast Asian biodiversity
-research, education, and outreach. Located at the National University of
-Singapore, over a million biological specimens, artefacts, field notes,
-drawings, and photographs from Southeast Asia are housed in our iconic
-rock-shaped building. As safe-keepers of Singapore’s natural heritage,
-we not only seek to share knowledge with the public, but also recognise
-the value of our collections among the scientific community and support
-biodiversity research in Singapore and in the region. This talk will share
-about LKCNHM’s role in archiving our historical biodiversity, specific
-to a wild Punggol in the past and present and our ongoing digitisation
-programmes.&nbsp;</p>
-<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>to
-register.</p>
+<p>The soundscape in Singapore varies from habitat to habitat, providing
+unique acoustic experiences at different sites. Not only do bird calls
+make us feel at peace, they can also provide important information to science
+too! Learn more about the path less trodden in birdwatching, and how you
+can start collecting your own call library!</p>
+<p>Registration has not yet opened. Once opened, the link to register will
+be updated here.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>26 May 2024 at Punggol Regional Library, Programme Room (Level 5)</summary>
+<summary>1 June 2025 at National Library Building, The Pod (Level 6)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Discovering the Bees of Singapore (11am - 12.30pm)</strong>
+<p><strong>Documenting Life in Singapore's Southern Archipelago: The Southern Islands Biodiversity Survey (10am - 11am)</strong>
 </p>
-<p>From magnificent carpenters to minuscule ground-dwellers, Singapore hosts
-an impressive array of bee species that inhabit our parks, forests, mangroves,
-and urban gardens. Despite their crucial role as pollinators, bees are
-frequently misunderstood or overlooked. Join NParks' Zestin Soh as we unveil
-the fascinating diversity of these beneficial insects, and learn how you
-can actively contribute to expanding our understanding of them!</p>
-<p>Click <a href="https://go.gov.sg/fob-spotlighttalks" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-register.</p>
+<p>Join us for an exciting exploration of the Southern Islands Biodiversity
+Survey, a comprehensive report of the history, geology, and biodiversity
+of 17 sites with our southern islands. The database has been compiled from
+biodiversity surveys conducted from 2019 to 2022 and data from existing
+records. Whether you are a nature enthusiast, academic, or simply curious
+about Singapore's hidden treasures, this talk offers fascinating insights
+into the biodiversity of our offshore islands.</p>
+<p>Registration has not yet opened. Once opened, the link to register will
+be updated here.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>1 June 2025 at National Library Building, Central Public Library Programme
+Room (Level B1)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Singapore’s Amazing Plant Life (11am - 12.30pm)</strong>
+</p>
+<p>Singapore is home to truly wondrous and beautiful plant life. Spend an
+hour with Dr Shawn Lum of the Nature Society to learn more about our mossy,
+ferny or flowery friends and neighbours.</p>
+<p>Registration has not yet opened. Once opened, the link to register will
+be updated here.</p>
+<hr>
+<p><strong>Fantastic Frogs &amp; Terrific Toads (2pm - 3pm)</strong>
+</p>
+<p>Frogs are more than noisy creatures that turn up after the rains! Singapore
+is home to a fascinating variety of frogs, many of which have unique adaptations
+and important roles in our ecosystems. In this fun and interactive session,
+we will explore the secret lives of our local frogs—how they grow, what
+they eat, and where they live. There will also be plenty of engaging stories,
+exciting frog calls, and more! Perfect for younger nature enthusiasts,
+this talk will inspire curiosity, appreciation, and action to safeguard
+Singapore’s amphibians. Get ready to hop into the world of frogs like never
+before!</p>
+<p>Registration has not yet opened. Once opened, the link to register will
+be updated here.</p>
+<hr>
+<p><strong>Adaptation and Evolution: The Secrets Behind the Success of Snakes (3pm - 4pm)</strong>
+</p>
+<p>Snakes are among the most diverse and successful groups of vertebrates,
+with approximately 3,900 species found across every continent except Antarctica.
+Despite being limbless, they have evolved remarkable adaptations that enable
+them to thrive in a vast range of habitats, from the scorching sands of
+the Sahara to the dense rainforests of Southeast Asia. Their specialized
+morphological and behavioral traits demonstrate the extraordinary versatility
+of these reptiles. This talk will explore the unique adaptations of snakes
+found in Singapore and the surrounding region, highlighting how these limbless
+predators have mastered their environments and continue to flourish in
+both natural and urban landscapes.</p>
+<p>Registration has not yet opened. Once opened, the link to register will
+be updated here.</p>
+<hr>
+<p><strong>Sentosa #WhereDiscoveryNeverEnds - A Natural Heritage Journey (4.30pm - 6pm)</strong>
+</p>
+<p>Join us for an exploration of Sentosa's rich biodiversity, where we'll
+delve into the diverse ecosystems that thrive alongside our world-famous
+attractions. From coastal forests and mangroves to our coral-rich waters,
+discover fascinating residents like the Oriental Pied Hornbill, Tiger Cowry,
+and the diverse corals and tree species that call the island home. Also
+learn about Sentosa and our island partner's ongoing conservation initiatives,
+from coral restoration programmes to forest habitat enhancement efforts
+and wildlife monitoring projects. We'll share how these efforts help maintain
+the delicate balance between tourism development and environmental preservation,
+highlighting how Sentosa continues to serve as both a leisure destination
+and an important sanctuary for Singapore's native wildlife, demonstrating
+that tourism and conservation can coexist harmoniously.</p>
+<p>Registration has not yet opened. Once opened, the link to register will
+be updated here.</p>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB__Spotlight_Poster__Long_.png">
+</details>
 </div>
 <p></p>
 <h4>Past Webinars</h4>
