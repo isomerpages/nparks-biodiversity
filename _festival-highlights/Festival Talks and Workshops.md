@@ -11,7 +11,7 @@ our City in Nature and local biodiversity! Please check back regularly
 for more updates as you do not want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
-community share fascinating insights about Singapore's rich natural&nbsp;heritage</p>
+community share fascinating insights about Singapore's rich natural&nbsp;heritage!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>31 May 2025 National Library Building, Central Public Library Programme
@@ -24,8 +24,7 @@ unique acoustic experiences at different sites. Not only do bird calls
 make us feel at peace, they can also provide important information to science
 too! Learn more about the path less trodden in birdwatching, and how you
 can start collecting your own call library!</p>
-<p>Registration has not yet opened. Once opened, the link to register will
-be updated here.</p>
+<p>Register <a href="http://go.gov.sg/fobspotlight2025" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -40,8 +39,7 @@ biodiversity surveys conducted from 2019 to 2022 and data from existing
 records. Whether you are a nature enthusiast, academic, or simply curious
 about Singapore's hidden treasures, this talk offers fascinating insights
 into the biodiversity of our offshore islands.</p>
-<p>Registration has not yet opened. Once opened, the link to register will
-be updated here.</p>
+<p>Register <a href="http://go.gov.sg/fobspotlight2025" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -53,8 +51,7 @@ Room (Level B1)</summary>
 <p>Singapore is home to truly wondrous and beautiful plant life. Spend an
 hour with Dr Shawn Lum of the Nature Society to learn more about our mossy,
 ferny or flowery friends and neighbours.</p>
-<p>Registration has not yet opened. Once opened, the link to register will
-be updated here.</p>
+<p>Register <a href="http://go.gov.sg/fobspotlight2025" rel="noopener nofollow" target="_blank">here</a>!</p>
 <hr>
 <p><strong>Fantastic Frogs &amp; Terrific Toads (2pm - 3pm)</strong>
 </p>
@@ -67,8 +64,7 @@ exciting frog calls, and more! Perfect for younger nature enthusiasts,
 this talk will inspire curiosity, appreciation, and action to safeguard
 Singapore’s amphibians. Get ready to hop into the world of frogs like never
 before!</p>
-<p>Registration has not yet opened. Once opened, the link to register will
-be updated here.</p>
+<p>Register <a href="http://go.gov.sg/fobspotlight2025" rel="noopener nofollow" target="_blank">here</a>!</p>
 <hr>
 <p><strong>Adaptation and Evolution: The Secrets Behind the Success of Snakes (3pm - 4pm)</strong>
 </p>
@@ -82,8 +78,7 @@ of these reptiles. This talk will explore the unique adaptations of snakes
 found in Singapore and the surrounding region, highlighting how these limbless
 predators have mastered their environments and continue to flourish in
 both natural and urban landscapes.</p>
-<p>Registration has not yet opened. Once opened, the link to register will
-be updated here.</p>
+<p>Register <a href="http://go.gov.sg/fobspotlight2025" rel="noopener nofollow" target="_blank">here</a>!</p>
 <hr>
 <p><strong>Sentosa #WhereDiscoveryNeverEnds - A Natural Heritage Journey (4.30pm - 6pm)</strong>
 </p>
@@ -99,8 +94,7 @@ the delicate balance between tourism development and environmental preservation,
 highlighting how Sentosa continues to serve as both a leisure destination
 and an important sanctuary for Singapore's native wildlife, demonstrating
 that tourism and conservation can coexist harmoniously.</p>
-<p>Registration has not yet opened. Once opened, the link to register will
-be updated here.</p>
+<p>Register <a href="http://go.gov.sg/fobspotlight2025" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
 </div>
