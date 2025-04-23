@@ -113,6 +113,21 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>9 April 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wildlife in Our Neighbourhood</strong>
+</p>
+<p>The programme will provide information on how to interact with wildlife
+and nature responsibly, with a focus on commonly encountered wildlife species
+such as long-tailed macaques, wild boars, civets, snakes etc.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration has closed.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>11 April 2025 (4:30pm-7pm)</p>
 </td>
 <td rowspan="1" colspan="1">
