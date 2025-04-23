@@ -295,6 +295,31 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>8 May 2025 (11:30am-1pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Biodiversity Kopitiam</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Biodiversity Kopitiam" src="/images/FoB 2025/2.jpg">
+</div>
+<p>The Biodiversity Collective (TBC) plays on ""To Be Continued"". Biodiversity
+must continue and it's not just something for experts to understand!</p>
+<p>Kopitiam Edition - Lim Kopi (Drink Coffee), and learn about various topics
+of biodiversity. A round-table kopitiam style where attendees rotate around
+20min expert sharings.</p>
+<p>8th May, 11.30am-1pm @ 76 Neil Rd, Ahimsa Sanctuary</p>
+<p>Speakers:</p>
+<p>Saravanan Sinniah, Conservation International (CI).</p>
+<p>Cheng Puay and Samuel, from Ridge View Residential College (NUS).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.co.uk/e/1301764886819?aff=oddtdtcreator" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>17 May 2025 (2pm-3pm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -316,17 +341,6 @@ animals who are injured or in distress.</p>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
 will be updated here once registration opens.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
