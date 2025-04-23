@@ -11,7 +11,7 @@ our City in Nature and local biodiversity! Please check back regularly
 for more updates as you do not want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
-community share fascinating insights about Singapore's rich natural&nbsp;heritage</p>
+community share fascinating insights about Singapore's rich natural&nbsp;heritage!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>31 May 2025 National Library Building, Central Public Library Programme
