@@ -435,6 +435,9 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong><em>Leopard Cat </em>QUEST<em> @</em>Ubin</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/leopard_cat_quest.jpg">
+</div>
 <p>We are excited to announce <em>Leopard Cat </em>QUEST<em> @</em>Ubin in
 search of our elusive native wildcat. Nationally critically endangered,
 the Leopard Cat is known to inhabit Pulau Ubin, Pulau Tekong, the Central
