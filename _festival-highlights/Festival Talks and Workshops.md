@@ -28,14 +28,14 @@ can start collecting your own call library!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>1 June 2025 at National Library Building, The Pod (Level 6)</summary>
+<summary>1 June 2025 at National Library Building, The Pod (Level 16)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Documenting Life in Singapore's Southern Archipelago: The Southern Islands Biodiversity Survey (10am - 11am)</strong>
 </p>
 <p>Join us for an exciting exploration of the Southern Islands Biodiversity
 Survey, a comprehensive report of the history, geology, and biodiversity
-of 17 sites with our southern islands. The database has been compiled from
-biodiversity surveys conducted from 2019 to 2022 and data from existing
+of 17 sites within the southern islands. The database has been compiled
+from biodiversity surveys conducted from 2019 to 2022 and data from existing
 records. Whether you are a nature enthusiast, academic, or simply curious
 about Singapore's hidden treasures, this talk offers fascinating insights
 into the biodiversity of our offshore islands.</p>
