@@ -299,7 +299,11 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Cultivating Growth: The Power of Plant Tissue Culture &amp; Multiplication</strong> 
-<br>Did you know that the kingdom Plantae boasts an impressive 370,000 described
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/2_Cultivating_Growth_The_Power_of_Plant_Tissue_Culture_and_Multiplication.png">
+</div>
+<p>Did you know that the kingdom Plantae boasts an impressive 370,000 described
 plant species? One fascinating feature of plants is their totipotent property,
 which means that a single plant cell has the potential to develop into
 an entire plant under the right conditions. Through plant tissue culture,
@@ -357,6 +361,9 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Where Are All the Animals? Singapore's Illegal Wildlife Trade for Families</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/3_Where_are_All_the_Animals.jpg">
+</div>
 <p>Have you ever wondered how some people get to keep snakes, iguanas, squirrels,
 birds, and other pets? Where did these animals come from? If you love a
 specific animal and are able to care for it well, should you buy one? What
