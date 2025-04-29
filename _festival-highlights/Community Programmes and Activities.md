@@ -887,6 +887,9 @@ more details!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Treasures of the Singapore Herbarium</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SBG_treasures_of_the_singapore_herbarium.jpg">
+</div>
 <p>The Singapore Herbarium (SING) was established in 1875 by James Henry
 Murton, marking the beginning of scientific research at the Singapore Botanic
 Gardens. What began as a limited collection of specimens in Murton’s office
