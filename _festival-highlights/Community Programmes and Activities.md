@@ -509,6 +509,27 @@ will be updated here once registration opens.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>8 June 2025 (11am-12pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Top 10 Weirdest Critters of Singapore’s Rainforest</strong>
+</p>
+<p>Discover Singapore's weirdest rainforest critters, from gliding snakes
+to worms with claws! These amazing wildlife and weird facts are featured
+in a children's book - Top 10 Weirdest Critters of Singapore's Rainforest.</p>
+<p>Published by Cicada Tree Eco-Place, the book is an environmental education
+resource of the ""Protect Our Last Wilderness"" campaign. Launched in 2019,
+the campaign highlights the pressing need to prevent the disappearance
+of the island’s last remaining wilderness areas, which are an important
+buffer against the effects of climate change.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>14 June 2025 (11am-1pm)</p>
 </td>
 <td rowspan="1" colspan="1">
