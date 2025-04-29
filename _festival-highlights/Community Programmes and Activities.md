@@ -622,8 +622,7 @@ of future generations. We curate climate education workshops through collaborati
 gamified workshops such as this for organisations at every stage, while
 contributing back to communities through our flagship, pro-bono public
 workshops.</p>
-<p>Our</p>
-<p>services employ a breadth of solutions catered for different maturity
+<p>Our services employ a breadth of solutions catered for different maturity
 levels across the organization's transformational journey from establishing
 foundational excellence to elevating their organisational ESG strategy,
 as we navigate this increasingly volatile environment together.</p>
@@ -689,17 +688,6 @@ animals who are injured or in distress.</p>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
 will be updated here once registration opens.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
