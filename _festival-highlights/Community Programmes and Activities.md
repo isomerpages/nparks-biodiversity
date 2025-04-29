@@ -298,7 +298,7 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 <p>5 May 2025 (7pm-8:30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Cultivating Growth: The Power of Plant Tissue Culture &amp; Multiplication</strong> 
+<p><strong>Cultivating Growth: The Power of Plant Tissue Culture &amp; Multiplication</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/2_Cultivating_Growth_The_Power_of_Plant_Tissue_Culture_and_Multiplication.png">
@@ -428,6 +428,34 @@ and healthy.</p>
 register.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 May 2025 (7pm-8:30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mangrove and Coastal Horseshoe Crabs: Guardians of the Coastal Ecosystems</strong>
+</p>
+<p>Horseshoe crabs are ancient arthropods that have roamed the Earth for
+over 450 million years. Interestingly, they are also not true crabs but
+are more related to spiders and scorpions. This talk explores the remarkable
+biology, history, and ecological significance of these creatures. We will
+delve into the fascinating features of horseshoe crabs, including their
+unique anatomy, behaviour, and the important role they play in the marine
+ecosystem.</p>
+<p>Additionally, the talk will address the conservation challenges horseshoe
+crabs face, including the impact of overharvesting and habitat loss on
+their populations, and the measures being taken to protect them.</p>
+<p>By the end of the session, participants will gain a deep appreciation
+for these “living fossils”, their critical role in modern medicine, and
+the ongoing efforts to ensure their survival in the face of increasing
+environmental pressures.</p>
+<p>This programme is held in conjunction with Republic Polytechnic.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://form.gov.sg/67f3467c9ee26e0ce9a7868c" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -510,8 +538,8 @@ join us and grow your knowledge with experts as they give you the break
 down on all things green.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration for this activity has not opened yet. The link to register
-will be updated here once registration opens.</p>
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -521,6 +549,9 @@ will be updated here once registration opens.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Top 10 Weirdest Critters of Singapore’s Rainforest</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/4_Top_10_Weirdest_Critters_of_Singapore_s_Rainforest.jpg">
+</div>
 <p>Discover Singapore's weirdest rainforest critters, from gliding snakes
 to worms with claws! These amazing wildlife and weird facts are featured
 in a children's book - Top 10 Weirdest Critters of Singapore's Rainforest.</p>
@@ -581,6 +612,35 @@ will be updated here once registration opens.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>14 June 2025 (2:30pm-4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Unveiling the Secrets of Leopard Cats in Singapore | Down to Earth</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/7_Unveiling_the_Secrets_of_Leopard_Cats_in_Singapore.png">
+</div>
+<p>Join us for a fascinating lecture with Marcus Chua from the Lee Kong Chian
+Natural History Museum. Marcus will share his expertise on leopard cats
+in Singapore, covering their habitats, ecology, population genetics, and
+threats. Recent research has identified key habitats, including Pulau Tekong,
+Pulau Ubin, the Central and Western Catchments, and Changi. With only around
+50 individuals remaining, conservation efforts are crucial. Register now
+for this enlightening web lecture and join the conversation on leopard
+cat conservation in Singapore!</p>
+<p>About the speaker</p>
+<p>Marcus Chua is a mammal researcher with expertise in leopard cats and
+mouse-deer. He works at the Lee Kong Chian Natural History Museum. Fun
+fact: Marcus was the first in the world to record leopard cats on reclaimed
+land! Read more from his blog here.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/signuplink-uslcs" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>21 June 2025 (11am-12pm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -602,6 +662,17 @@ animals who are injured or in distress.</p>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
 will be updated here once registration opens.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
