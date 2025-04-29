@@ -530,6 +530,7 @@ will be updated here once registration opens.</p>
 <summary><strong>Recurring or Ongoing</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -620,6 +621,9 @@ to get notified when registration for the next round starts.</p>
 <td rowspan="1" colspan="1">
 <p><strong>We Love Our Planet - A Nature Action Exhibition</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SBG_we_love_our_planet.jpg">
+</div>
 <p>The latest exhibition at the Singapore Botanic Gardens’ CDL Green Gallery, <strong>‘We Love Our Planet,’</strong> shines
 a spotlight on the indispensable role of nature in our lives. Despite its
 profound importance, nature is often undervalued and taken for granted.
@@ -644,6 +648,9 @@ more details!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Ethnobotany and Diversity of Dipterocarps</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SBG_ethnobotany_and_diversity_of_dipterocarps.jpg">
+</div>
 <p>The Singapore Botanic Gardens' Rain Forest is one of the oldest remnants
 of primary rain forests in Singapore. Spanning 6.2 hectares, it is home
 to over 300 species of plants, including majestic, mature dipterocarps.
@@ -670,6 +677,9 @@ more details!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Celebrating Singapore Botanic Gardens</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SBG_celebrating_singapore_botanic_gardens.jpg">
+</div>
 <p>This year, the Singapore Botanic Gardens marks a series of incredible
 milestones, including the 10th anniversary of its UNESCO World Heritage
 Site inscription! As Singapore’s first and only UNESCO World Heritage Site—and
@@ -692,13 +702,28 @@ more details!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>17&nbsp;April 2025 - 17 July 2025 (5am-12am)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Treasures of the Singapore Herbarium</strong>
+</p>
+<p>The Singapore Herbarium (SING) was established in 1875 by James Henry
+Murton, marking the beginning of scientific research at the Singapore Botanic
+Gardens. What began as a limited collection of specimens in Murton’s office
+has grown into collection of approximately 800,000 specimens. Today, the
+Singapore Herbarium is recognised as the one of the largest and most important
+herbaria in our biodiverse Southeast Asian region.&nbsp;&nbsp;
+<br>Our collection played an important role in securing the UNESCO World Heritage
+status for the Singapore Botanic Gardens in 2015. To ensure the Herbarium
+is preserved for future generations, we are continuously enhancing and
+expanding our facilities.&nbsp;
+<br>In celebration of the Herbarium’s 150th anniversary, we are embarking
+on an ambitious digitisation project to make our specimens freely accessible
+online.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/exhibition_treasures-of-sing-herbarium_2025" rel="noopener nofollow" target="_blank">here</a> for
+more details!</p>
 </td>
 </tr>
 </tbody>
