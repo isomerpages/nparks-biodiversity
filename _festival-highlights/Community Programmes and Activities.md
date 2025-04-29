@@ -430,6 +430,27 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>24 May 2025 (7pm-11pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Leopard Cat </em>QUEST<em> @</em>Ubin</strong>
+</p>
+<p>We are excited to announce <em>Leopard Cat </em>QUEST<em> @</em>Ubin in
+search of our elusive native wildcat. Nationally critically endangered,
+the Leopard Cat is known to inhabit Pulau Ubin, Pulau Tekong, the Central
+Catchment Nature Reserve and the Western Catchment. We will walk Pulau
+Ubin’s rustic kampong lanes and forested areas in the silent, cool night,
+to look for the glint of the Leopard Cats’ eyes, and hopefully also encounter
+the Greater Mousedeer, Common Palm Civet, sleeping birds and butterflies,
+foraging fruit bats, snakes, mangrove wildlife and more!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.swagcat.org/store/Leopard-Cat-QUEST-@Ubin-p450716014" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>26 May 2025 (7pm-8:30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
