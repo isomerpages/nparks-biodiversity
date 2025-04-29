@@ -613,6 +613,94 @@ register.</p>
 to get notified when registration for the next round starts.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 December&nbsp;2024 – 1 June 2025 (9am-6pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>We Love Our Planet - A Nature Action Exhibition</strong>
+</p>
+<p>The latest exhibition at the Singapore Botanic Gardens’ CDL Green Gallery, <strong>‘We Love Our Planet,’</strong> shines
+a spotlight on the indispensable role of nature in our lives. Despite its
+profound importance, nature is often undervalued and taken for granted.
+Yet, restoring the delicate balance between nature and society has never
+been more urgent to ensure the well-being of both.</p>
+<p>&nbsp;In collaboration with 24 international and local organisations,
+this exhibition highlights the critical role of biodiversity in supporting
+ecosystem resilience and combating the climate crisis. It celebrates Southeast
+Asia’s rich natural heritage while showcasing Singapore's ongoing conservation
+efforts and the global call for ecosystem restoration, aligned with the
+Singapore Green Plan 2030.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/exhibition_cdl_we-love-our-planet-2024" rel="noopener nofollow" target="_blank">here</a> for
+more details!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exhibition runs till 27 November 2025 (9am-6pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ethnobotany and Diversity of Dipterocarps</strong>
+</p>
+<p>The Singapore Botanic Gardens' Rain Forest is one of the oldest remnants
+of primary rain forests in Singapore. Spanning 6.2 hectares, it is home
+to over 300 species of plants, including majestic, mature dipterocarps.
+This rain forest is part of the original lowland dipterocarp forest that
+once covered much of the island, a natural heritage preserved by successive
+directors of the Gardens . The OCBC Arboretum in the Singapore Botanic
+Gardens, managed by NParks, is Southeast Asia’s first high-tech conservation
+initiative for dipterocarps. The Arboretum houses 200 species of dipterocarps
+and employs an Internet of Things (IoT) system to remotely and continuously
+monitor tree growth and environmental conditions.&nbsp;
+<br>This exhibition invites you to explore the rich history, ecological importance,
+and versatile uses of dipterocarps. Join us to uncover the stories of these
+forest giants and their lasting impact on our environment and heritage.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/exhibition_ethnobotany-and-diversity-of-dipterocarps" rel="noopener nofollow" target="_blank">here</a> for
+more details!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>04 Apr 2025 - 31 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Celebrating Singapore Botanic Gardens</strong>
+</p>
+<p>This year, the Singapore Botanic Gardens marks a series of incredible
+milestones, including the 10th anniversary of its UNESCO World Heritage
+Site inscription! As Singapore’s first and only UNESCO World Heritage Site—and
+the world’s only tropical botanical garden on the list—the Gardens stands
+as a treasured symbol of our City in Nature.
+<br>We’re also celebrating 150 years of the Singapore Herbarium and the Library
+of Botany and Horticulture, along with 30 years of the National Orchid
+Garden—cornerstones of the Gardens’ research, education and conservation
+work. These milestones coincide with Singapore’s 60th year of independence,
+making this a truly special occasion!
+<br>Join us for a year-long celebration! Kicking off with the Singapore Botanic
+Gardens Heritage Festival in July, enjoy a vibrant line-up of exhibitions,
+events, and activities that bring the Gardens’ rich history and cultural
+heritage to life.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/celebrating-sbg" rel="noopener nofollow" target="_blank">here</a> for
+more details!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
