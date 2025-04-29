@@ -435,6 +435,9 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mangrove and Coastal Horseshoe Crabs: Guardians of the Coastal Ecosystems</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/5_Mangrove_and_Coastal_Horseshoe_Crabs_Guardians_of_the_Coastal_Ecosystems.png">
+</div>
 <p>Horseshoe crabs are ancient arthropods that have roamed the Earth for
 over 450 million years. Interestingly, they are also not true crabs but
 are more related to spiders and scorpions. This talk explores the remarkable
