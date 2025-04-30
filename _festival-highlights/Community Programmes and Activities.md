@@ -320,6 +320,33 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>10 May 2025 (10:30am-11:30am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Where Are All the Animals? Singapore's Illegal Wildlife Trade for Families</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/3_Where_are_All_the_Animals.jpg">
+</div>
+<p>Have you ever wondered how some people get to keep snakes, iguanas, squirrels,
+birds, and other pets? Where did these animals come from? If you love a
+specific animal and are able to care for it well, should you buy one? What
+happens if each of us were to go around Singapore and take a wild animal
+we love back as a pet?</p>
+<p>Follow the stories of Ultra - the African ball python, Rio - the critically
+endangered Indian star tortoise, and Kiki - the Blue-crowned hanging parrot,
+to find out how animals who were poached, smuggled, and illegally traded
+as pets are rescued and cared for in Singapore by the Animal Concerns,
+Research and Education Society.</p>
+<p>Whether big or small, you too can help wild animals!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174583286869" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>17 May 2025 (2pm-3pm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -341,6 +368,83 @@ animals who are injured or in distress.</p>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
 will be updated here once registration opens.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 May 2025 (11am-12pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Getting to Know Our Wild Neighbours!</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/1_Getting_to_Know_Our_Wild_Neighbours.png">
+</div>
+<p>Have you ever chanced upon a troop of macaques in your estate or heard
+the iconic "uwu!" calls of the koel? Get yourself acquainted with Our Wild
+Neighbours and learn the dos and don'ts during a wildlife encounter. Get
+practical tips on how you can coexist with the animals that share our island
+home and what role each animal plays in keeping our city in nature green
+and healthy.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://form.gov.sg/67f4ad7242f7628adc8aaabf" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 May 2025 (7pm-11pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Leopard Cat </em>QUEST<em> @</em>Ubin</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/leopard_cat_quest.jpg">
+</div>
+<p>We are excited to announce <em>Leopard Cat </em>QUEST<em> @</em>Ubin in
+search of our elusive native wildcat. Nationally critically endangered,
+the Leopard Cat is known to inhabit Pulau Ubin, Pulau Tekong, the Central
+Catchment Nature Reserve and the Western Catchment. We will walk Pulau
+Ubin’s rustic kampong lanes and forested areas in the silent, cool night,
+to look for the glint of the Leopard Cats’ eyes, and hopefully also encounter
+the Greater Mousedeer, Common Palm Civet, sleeping birds and butterflies,
+foraging fruit bats, snakes, mangrove wildlife and more!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.swagcat.org/store/Leopard-Cat-QUEST-@Ubin-p450716014" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 May 2025 (7pm-8:30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mangrove and Coastal Horseshoe Crabs: Guardians of the Coastal Ecosystems</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/5_Mangrove_and_Coastal_Horseshoe_Crabs_Guardians_of_the_Coastal_Ecosystems.png">
+</div>
+<p>Horseshoe crabs are ancient arthropods that have roamed the Earth for
+over 450 million years. Interestingly, they are also not true crabs but
+are more related to spiders and scorpions. This talk explores the remarkable
+biology, history, and ecological significance of these creatures. We will
+delve into the fascinating features of horseshoe crabs, including their
+unique anatomy, behaviour, and the important role they play in the marine
+ecosystem.</p>
+<p>Additionally, the talk will address the conservation challenges horseshoe
+crabs face, including the impact of overharvesting and habitat loss on
+their populations, and the measures being taken to protect them.</p>
+<p>By the end of the session, participants will gain a deep appreciation
+for these “living fossils”, their critical role in modern medicine, and
+the ongoing efforts to ensure their survival in the face of increasing
+environmental pressures.</p>
+<p>This programme is held in conjunction with Republic Polytechnic.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://form.gov.sg/67f3467c9ee26e0ce9a7868c" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
 </td>
 </tr>
 </tbody>
@@ -425,8 +529,32 @@ join us and grow your knowledge with experts as they give you the break
 down on all things green.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration for this activity has not opened yet. The link to register
-will be updated here once registration opens.</p>
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 June 2025 (11am-12pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Top 10 Weirdest Critters of Singapore’s Rainforest</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/4_Top_10_Weirdest_Critters_of_Singapore_s_Rainforest.jpg">
+</div>
+<p>Discover Singapore's weirdest rainforest critters, from gliding snakes
+to worms with claws! These amazing wildlife and weird facts are featured
+in a children's book - Top 10 Weirdest Critters of Singapore's Rainforest.</p>
+<p>Published by Cicada Tree Eco-Place, the book is an environmental education
+resource of the ""Protect Our Last Wilderness"" campaign. Launched in 2019,
+the campaign highlights the pressing need to prevent the disappearance
+of the island’s last remaining wilderness areas, which are an important
+buffer against the effects of climate change.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nlb.gov.sg/main/whats-on" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -458,8 +586,7 @@ of future generations. We curate climate education workshops through collaborati
 gamified workshops such as this for organisations at every stage, while
 contributing back to communities through our flagship, pro-bono public
 workshops.</p>
-<p>Our</p>
-<p>services employ a breadth of solutions catered for different maturity
+<p>Our services employ a breadth of solutions catered for different maturity
 levels across the organization's transformational journey from establishing
 foundational excellence to elevating their organisational ESG strategy,
 as we navigate this increasingly volatile environment together.</p>
@@ -471,6 +598,35 @@ as we navigate this increasingly volatile environment together.</p>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
 will be updated here once registration opens.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 June 2025 (2:30pm-4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Unveiling the Secrets of Leopard Cats in Singapore | Down to Earth</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/7_Unveiling_the_Secrets_of_Leopard_Cats_in_Singapore.png">
+</div>
+<p>Join us for a fascinating lecture with Marcus Chua from the Lee Kong Chian
+Natural History Museum. Marcus will share his expertise on leopard cats
+in Singapore, covering their habitats, ecology, population genetics, and
+threats. Recent research has identified key habitats, including Pulau Tekong,
+Pulau Ubin, the Central and Western Catchments, and Changi. With only around
+50 individuals remaining, conservation efforts are crucial. Register now
+for this enlightening web lecture and join the conversation on leopard
+cat conservation in Singapore!</p>
+<p>About the speaker</p>
+<p>Marcus Chua is a mammal researcher with expertise in leopard cats and
+mouse-deer. He works at the Lee Kong Chian Natural History Museum. Fun
+fact: Marcus was the first in the world to record leopard cats on reclaimed
+land! Read more from his blog here.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/signuplink-uslcs" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
 </td>
 </tr>
 <tr>
@@ -530,6 +686,7 @@ will be updated here once registration opens.</p>
 <summary><strong>Recurring or Ongoing</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -611,6 +768,121 @@ Sin Seng Quarry.</p>
 register.</p>
 <p>If the event’s last registration date has passed, follow WWF on Eventbrite
 to get notified when registration for the next round starts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 December&nbsp;2024 – 1 June 2025 (9am-6pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>We Love Our Planet - A Nature Action Exhibition</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SBG_we_love_our_planet.jpg">
+</div>
+<p>The latest exhibition at the Singapore Botanic Gardens’ CDL Green Gallery, <strong>‘We Love Our Planet,’</strong> shines
+a spotlight on the indispensable role of nature in our lives. Despite its
+profound importance, nature is often undervalued and taken for granted.
+Yet, restoring the delicate balance between nature and society has never
+been more urgent to ensure the well-being of both.</p>
+<p>&nbsp;In collaboration with 24 international and local organisations,
+this exhibition highlights the critical role of biodiversity in supporting
+ecosystem resilience and combating the climate crisis. It celebrates Southeast
+Asia’s rich natural heritage while showcasing Singapore's ongoing conservation
+efforts and the global call for ecosystem restoration, aligned with the
+Singapore Green Plan 2030.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/exhibition_cdl_we-love-our-planet-2024" rel="noopener nofollow" target="_blank">here</a> for
+more details!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exhibition runs till 27 November 2025 (9am-6pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ethnobotany and Diversity of Dipterocarps</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SBG_ethnobotany_and_diversity_of_dipterocarps.jpg">
+</div>
+<p>The Singapore Botanic Gardens' Rain Forest is one of the oldest remnants
+of primary rain forests in Singapore. Spanning 6.2 hectares, it is home
+to over 300 species of plants, including majestic, mature dipterocarps.
+This rain forest is part of the original lowland dipterocarp forest that
+once covered much of the island, a natural heritage preserved by successive
+directors of the Gardens . The OCBC Arboretum in the Singapore Botanic
+Gardens, managed by NParks, is Southeast Asia’s first high-tech conservation
+initiative for dipterocarps. The Arboretum houses 200 species of dipterocarps
+and employs an Internet of Things (IoT) system to remotely and continuously
+monitor tree growth and environmental conditions.&nbsp;
+<br>This exhibition invites you to explore the rich history, ecological importance,
+and versatile uses of dipterocarps. Join us to uncover the stories of these
+forest giants and their lasting impact on our environment and heritage.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/exhibition_ethnobotany-and-diversity-of-dipterocarps" rel="noopener nofollow" target="_blank">here</a> for
+more details!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>04 Apr 2025 - 31 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Celebrating Singapore Botanic Gardens</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SBG_celebrating_singapore_botanic_gardens.jpg">
+</div>
+<p>This year, the Singapore Botanic Gardens marks a series of incredible
+milestones, including the 10th anniversary of its UNESCO World Heritage
+Site inscription! As Singapore’s first and only UNESCO World Heritage Site—and
+the world’s only tropical botanical garden on the list—the Gardens stands
+as a treasured symbol of our City in Nature.
+<br>We’re also celebrating 150 years of the Singapore Herbarium and the Library
+of Botany and Horticulture, along with 30 years of the National Orchid
+Garden—cornerstones of the Gardens’ research, education and conservation
+work. These milestones coincide with Singapore’s 60th year of independence,
+making this a truly special occasion!
+<br>Join us for a year-long celebration! Kicking off with the Singapore Botanic
+Gardens Heritage Festival in July, enjoy a vibrant line-up of exhibitions,
+events, and activities that bring the Gardens’ rich history and cultural
+heritage to life.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/celebrating-sbg" rel="noopener nofollow" target="_blank">here</a> for
+more details!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17&nbsp;April 2025 - 17 July 2025 (5am-12am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Treasures of the Singapore Herbarium</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SBG_treasures_of_the_singapore_herbarium.jpg">
+</div>
+<p>The Singapore Herbarium (SING) was established in 1875 by James Henry
+Murton, marking the beginning of scientific research at the Singapore Botanic
+Gardens. What began as a limited collection of specimens in Murton’s office
+has grown into collection of approximately 800,000 specimens. Today, the
+Singapore Herbarium is recognised as the one of the largest and most important
+herbaria in our biodiverse Southeast Asian region.&nbsp;&nbsp;
+<br>Our collection played an important role in securing the UNESCO World Heritage
+status for the Singapore Botanic Gardens in 2015. To ensure the Herbarium
+is preserved for future generations, we are continuously enhancing and
+expanding our facilities.&nbsp;
+<br>In celebration of the Herbarium’s 150th anniversary, we are embarking
+on an ambitious digitisation project to make our specimens freely accessible
+online.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/exhibition_treasures-of-sing-herbarium_2025" rel="noopener nofollow" target="_blank">here</a> for
+more details!</p>
 </td>
 </tr>
 </tbody>
