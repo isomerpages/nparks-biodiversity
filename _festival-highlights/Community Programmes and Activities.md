@@ -295,42 +295,6 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 May 2025 (7pm-8:30pm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Cultivating Growth: The Power of Plant Tissue Culture &amp; Multiplication</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/2_Cultivating_Growth_The_Power_of_Plant_Tissue_Culture_and_Multiplication.png">
-</div>
-<p>Did you know that the kingdom Plantae boasts an impressive 370,000 described
-plant species? One fascinating feature of plants is their totipotent property,
-which means that a single plant cell has the potential to develop into
-an entire plant under the right conditions. Through plant tissue culture,
-it's possible to grow large quantities of plants from a small starting
-piece, such as a tiny portion of a leaf. This technique is invaluable for
-multiplying critically endangered plants and producing healthy crops and
-ornamental plants.</p>
-<p>Join us for an enlightening session where the speaker will introduce the
-concept of plant tissue culture and share how plants can be multiplied
-for use in plant conservation, research, and commercial applications.</p>
-<p>Don't miss this opportunity to gain insights into the fascinating world
-of plant tissue culture and its wide-ranging applications!</p>
-<p>This programme is held in conjunction with Republic Polytechnic.</p>
-<p>About the Speaker</p>
-<p>A botanist and mycologist by training, Dr Lim Wei Han is currently a lecturer
-with the School of Applied Science, Republic Poly, teaching both PET(full
-time diploma students) and CET (adult learners). He has worked with both
-plants and fungi for over 18 years. His research interests range from plant/fungal
-tissue culture, plant/fungal secondary metabolites and plant/fungal symbioses.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://form.gov.sg/67f4aa4bf5fd1da45c52548b" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>8 May 2025 (11:30am-1pm)</p>
 </td>
 <td rowspan="1" colspan="1">
