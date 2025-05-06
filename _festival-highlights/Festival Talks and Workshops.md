@@ -135,6 +135,18 @@ with you!</p>
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
+<p><strong>Living with Nature: Playtime with Timmy and his Wild Neighbours (Storytelling) by NParks Wildlife Management Division (3pm - 5pm at Possibility Room - National Library Building, Level 5)</strong>
+</p>
+<p>Join us for an adventure with Timmy as he discovers the wonderful wild
+neighbours sharing our city! Through this delightful tale, children will
+follow Timmy's encounters with playful long-tailed macaques, charming smooth-coated
+otters, and amazing bats. Learn why these fascinating creatures make their
+homes in our urban spaces, and discover the right ways to be a good neighbour
+to our wildlife friends. This interactive storytelling session teaches
+young ones how to appreciate and respect our wild neighbours while keeping
+both humans and animals safe.</p>
+<p>Register <a href="https://form.gov.sg/680f5bcb5f1bcce94ffe12fb" rel="noopener nofollow" target="_blank">here</a>!</p>
+<hr>
 <p><strong>Make a Wild Friend! by ACRES (4.15pm - 6pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
 <p>Do you love wild animals and know that you shouldn't get close enough
@@ -185,7 +197,9 @@ your very own marine friend, learn some interesting facts about them. We
 will be modeling simple shapes from air-dry polymer clay and you will get
 to take home your creation. This workshop is open to any kids above the
 age of 5 years old with 20 pax at any one time.</p>
-<p>Registration link will be updated here once registration opens!</p>
+<p>No registration is required - simply drop by during the specified time
+to participate. Seats are limited and available on a first-come, first-serve
+basis.</p>
 <hr>
 <p><strong>Secrets of our Nocturnal Neighbours: A discovery of their biology and challenges in urban Singapore by NUS Toddycats (2.15pm - 4pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
@@ -213,13 +227,16 @@ at our booth!
 <br>Each round lasts 20-30 minutes, with up to three rounds in a 1.5-hour
 session. This family-friendly game encourages critical thinking, teamwork,
 and environmental awareness, making it ideal for families and young children.</p>
-<p>No registration is required - simply drop by during the specified time
-to participate. Seats are limited and available on a first-come, first-serve
-basis.</p>
+<p>Register <a href="https://www.eventbrite.sg/e/wwf-singapore-conservation-seekers-festival-of-biodiversity-tickets-1329582660529?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=ebdsshcopyurl" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/workshops__1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/workshops__2_.png">
+</div>
 <h4>Thematic Workshops</h4>
 <details class="isomer-details">
 <summary>1 June 2025</summary>
@@ -241,4 +258,7 @@ grey might grow side by side as we move towards becoming a City in Nature.</p>
 <p>Register <a href="http://bit.ly/SYVB_FOB25" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Thematic_Workshop_Publicity_Poster___210_x_250_mm_.png">
+</div>
 <p></p>
