@@ -219,7 +219,12 @@ basis.</p>
 </div>
 </details>
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/workshops__1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/workshops__2_.png">
+</div>
 <h4>Thematic Workshops</h4>
 <details class="isomer-details">
 <summary>1 June 2025</summary>
@@ -241,4 +246,7 @@ grey might grow side by side as we move towards becoming a City in Nature.</p>
 <p>Register <a href="http://bit.ly/SYVB_FOB25" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Thematic_Workshop_Publicity_Poster___210_x_250_mm_.png">
+</div>
 <p></p>
