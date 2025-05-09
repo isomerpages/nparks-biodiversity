@@ -135,7 +135,7 @@ with you!</p>
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>Living with Nature (Storytelling) by NParks Wildlife Management &amp; Outreach (3pm - 5pm at Possibility Room - National Library Building, Level 5)</strong>
+<p><strong>Living with Nature (Storytelling) by NParks Wildlife Management &amp; Outreach (3pm - 4pm at Possibility Room - National Library Building, Level 5)</strong>
 </p>
 <p>Join Timmy and Steffi on an exciting journey around their neighbourhood
 as they discover amazing animals that live around them! Through this delightful
@@ -227,14 +227,7 @@ and environmental awareness, making it ideal for families and young children.</p
 </div>
 </details>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stage Workshops EDM 1" src="/images/FoB 2025/3.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stage Workshops EDM 2" src="/images/FoB 2025/4.png">
-</div>
-<p></p>
+<p>4</p>
 <h4>Thematic Workshops</h4>
 <details class="isomer-details">
 <summary>1 June 2025</summary>
