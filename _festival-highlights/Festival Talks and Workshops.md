@@ -231,12 +231,6 @@ and environmental awareness, making it ideal for families and young children.</p
 </div>
 </details>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/workshops__1_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/workshops__2_.png">
-</div>
 <h4>Thematic Workshops</h4>
 <details class="isomer-details">
 <summary>1 June 2025</summary>
@@ -255,10 +249,10 @@ came to be, the policies and planning decisions that shaped them, and what
 they might look like in the years to come. Join us for an afternoon of
 conversation and co-learning, as we reimagine how Singapore’s green and
 grey might grow side by side as we move towards becoming a City in Nature.</p>
-<p>Register <a href="http://bit.ly/SYVB_FOB25" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p>Register <a href="http://go.gov.sg/fob2025syvb" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Thematic_Workshop_Publicity_Poster___210_x_250_mm_.png">
+<img style="width: 100%" height="auto" width="100%" alt="EDM for Thematic Workshop" src="/images/FoB 2025/For_Website.png">
 </div>
 <p></p>
