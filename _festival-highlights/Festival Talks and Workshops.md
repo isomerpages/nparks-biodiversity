@@ -120,13 +120,13 @@ fauna through these opportunities and workshops.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Top 10 Weirdest Critters of Singapore’s Rainforest by Cicada Tree Eco-Place (12.15 - 2pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
-<p>Storytelling and Colouring Activity based on children's book published
-by Cicada Tree Eco-Place "Top 10 Weirdest Critters of Singapore’s Rainforest".</p>
+<p>Join us for a storytelling and colouring activity based Cicada Tree Eco-Place's
+children's book, "Top 10 Weirdest Critters of Singapore’s Rainforest"!</p>
 <p>No registration is required - simply drop by during the specified time
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>Sharks and us! by The Dorsal Effect (2.15pm - 4pm at Workshop Zone - Stage, National Library Plaza)</strong>
+<p><strong>Sharks and Us! by The Dorsal Effect (2.15pm - 4pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
 <p>Come learn more about sharks and join in a shark colouring and mapping
 activity as well as folding of cute paper sharks that you can take home
@@ -135,17 +135,17 @@ with you!</p>
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>Living with Nature: Playtime with Timmy and his Wild Neighbours (Storytelling) by NParks Wildlife Management Division (3pm - 5pm at Possibility Room - National Library Building, Level 5)</strong>
+<p><strong>Living with Nature (Storytelling) by NParks Wildlife Management &amp; Outreach (3pm - 5pm at Possibility Room - National Library Building, Level 5)</strong>
 </p>
-<p>Join us for an adventure with Timmy as he discovers the wonderful wild
-neighbours sharing our city! Through this delightful tale, children will
-follow Timmy's encounters with playful long-tailed macaques, charming smooth-coated
-otters, and amazing bats. Learn why these fascinating creatures make their
-homes in our urban spaces, and discover the right ways to be a good neighbour
-to our wildlife friends. This interactive storytelling session teaches
-young ones how to appreciate and respect our wild neighbours while keeping
-both humans and animals safe.</p>
-<p>Register <a href="https://form.gov.sg/680f5bcb5f1bcce94ffe12fb" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p>Join Timmy and Steffi on an exciting journey around their neighbourhood
+as they discover amazing animals that live around them! Through this delightful
+tale, children will follow their encounters with playful long-tailed macaques,
+curious smooth-coated otters, and helpful bats. Learn why these fascinating
+creatures make their homes in our urban spaces, and discover the right
+ways to be a good neighbour to our wildlife friends. This interactive storytelling
+session teaches young ones how to appreciate and respect our wild neighbours
+while keeping both humans and animals safe.</p>
+<p>Register <a href="https://go.gov.sg/fob2025livingwithnature" rel="noopener nofollow" target="_blank">here</a>!</p>
 <hr>
 <p><strong>Make a Wild Friend! by ACRES (4.15pm - 6pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
@@ -179,7 +179,7 @@ activity, the participants engage in a hands-on activity where they will
 make headbands featuring endangered species in Singapore. This activity
 highlights the importance of protecting wildlife and encourages participants
 to reflect on how they can contribute to conservation efforts.</p>
-<p>Register <a href="http://tinyurl.com/FOB2025-TWPS" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p>Register <a href="https://go.gov.sg/exploringsgwildlifefob2025" rel="noopener nofollow" target="_blank">here</a>!</p>
 <hr>
 <p><strong>Love Our Wildcats! by Singapore Wildcat Action Group (SWAG) by Singapore Wildcat Action Group (10.15am - 12pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
@@ -189,7 +189,7 @@ wildcats, and having your face painted as one of our beloved wildcats!</p>
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>Claying around: Make your very own marine creature or marine scientist talk by Friends of Marine Park (12.15pm - 2pm at Workshop Zone - Stage, National Library Plaza)</strong>
+<p><strong>Claying Around: Make Your Very Own Marine Creature by Friends of Marine Park (12.15pm - 2pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
 <p>The crafters from the Friends of Marine Park will be teaching you how
 to make some common sea creatures found in our local waters. As you make
@@ -201,14 +201,10 @@ age of 5 years old with 20 pax at any one time.</p>
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>Secrets of our Nocturnal Neighbours: A discovery of their biology and challenges in urban Singapore by NUS Toddycats (2.15pm - 4pm at Workshop Zone - Stage, National Library Plaza)</strong>
+<p><strong>Otter Workshop by NUS Toddycats (2.15pm - 4pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
-<p>This workshop is designed for participants to discover the fascinating
-nocturnal wildlife (e.g. civets, bats, etc) found in Singapore, focusing
-on their unique biological adaptations and the challenges they face in
-their natural habitats. Participants will gain insights into the lives
-of these creatures, understand the roles that they play and discuss the
-conservation issues that they face.</p>
+<p>This workshop is designed for participants to discover more about the
+smooth-coated otters of Singapore!</p>
 <p>No registration is required - simply drop by during the specified time
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
