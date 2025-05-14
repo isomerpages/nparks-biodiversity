@@ -102,7 +102,7 @@ that tourism and conservation can coexist harmoniously.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Spotlight_Talks_Publicity_Poster.png">
 </div>
 <h4>Past Webinars</h4>
 <p>Learn more about our City in Nature and our local biodiversity with videos
@@ -202,10 +202,17 @@ age of 5 years old with 20 pax at any one time.</p>
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>Otter Workshop by NUS Toddycats (2.15pm - 4pm at Workshop Zone - Stage, National Library Plaza)</strong>
+<p><strong>An Otter Adventure: Explore the World of Singapore’s Beloved Otters! by Otter Working Group &amp; NUS Toddycats! (2.15pm - 4pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
-<p>This workshop is designed for participants to discover more about the
-smooth-coated otters of Singapore!</p>
+<p>Join An Otter Adventure for a hands-on workshop that takes children (aged
+12 and below) on a fascinating journey into the lives of Singapore’s smooth-coated
+otters.
+<br>Through interactive and fun activities, uncover how these playful creatures
+thrive in our bustling urban landscapes. Explore otter biology, ecology,
+and behaviour, to gain a deeper appreciation for Singapore’s most charming
+carnivores.
+<br>Kids will also discover practical ways to live in harmony with these iconic
+animals to do our part for A City in Nature.</p>
 <p>No registration is required - simply drop by during the specified time
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
@@ -231,9 +238,8 @@ and environmental awareness, making it ideal for families and young children.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SW1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SW2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Stage_Workshop_Publicity_Poster__1_.png">
 </div>
 <h4>Thematic Workshops</h4>
 <details class="isomer-details">
