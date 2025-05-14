@@ -101,9 +101,6 @@ that tourism and conservation can coexist harmoniously.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/1.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Stage_Workshop_Publicity_Poster__1_.png">
-</div>
 <h4>Past Webinars</h4>
 <p>Learn more about our City in Nature and our local biodiversity with videos
 of previously conducted webinars!</p>
@@ -238,9 +235,11 @@ and environmental awareness, making it ideal for families and young children.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SW1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SW2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Stage_Workshop_Publicity_Poster__1_.png">
 </div>
 <h4>Thematic Workshops</h4>
 <details class="isomer-details">
