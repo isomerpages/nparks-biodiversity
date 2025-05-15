@@ -35,7 +35,7 @@ can start collecting your own call library!</p>
 <p>Join us for an exciting exploration of the Southern Islands Biodiversity
 Survey, a comprehensive report of the history, geology, and biodiversity
 of 17 sites within the southern islands. The database has been compiled
-from biodiversity surveys conducted from 2019 to 2022 and data from existing
+from biodiversity surveys conducted from 2020 to 2022 and data from existing
 records. Whether you are a nature enthusiast, academic, or simply curious
 about Singapore's hidden treasures, this talk offers fascinating insights
 into the biodiversity of our offshore islands.</p>
@@ -99,7 +99,7 @@ that tourism and conservation can coexist harmoniously.</p>
 </details>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Spotlight_Talks_Publicity_Poster__1_.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Spotlight_Talks_Publicity_Poster.png">
