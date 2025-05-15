@@ -236,10 +236,11 @@ and environmental awareness, making it ideal for families and young children.</p
 </details>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SW1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Stage_Workshop_Publicity_Poster__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
 <h4>Thematic Workshops</h4>
 <details class="isomer-details">
