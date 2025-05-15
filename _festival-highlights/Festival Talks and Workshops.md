@@ -165,7 +165,7 @@ basis.</p>
 <details class="isomer-details">
 <summary>1 June 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Exploring Singapore’s Wildlife: A Hands-On Learning Experience by Nature Society Singapore (10am - 11.30am at Possibility Room - National Library Building, Level 5)</strong>
+<p><strong>Exploring Singapore’s Wildlife: A Hands-On Learning Experience by Nature Society Singapore (10am - 11.30am at Imagination Room - National Library Building, Level 5)</strong>
 </p>
 <p>This interactive workshop invites participants to discover the diverse
 wildlife of Singapore, with a focus on common birds, mammals and endangered
@@ -245,7 +245,7 @@ and environmental awareness, making it ideal for families and young children.</p
 <details class="isomer-details">
 <summary>1 June 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>A History of Land-use Policies and Planning in Singapore by Singapore Youth Voices for Biodiversity (2pm - 4pm at Possibility Room - National Library Building, Level 5)</strong>
+<p><strong>A History of Land-use Policies and Planning in Singapore by Singapore Youth Voices for Biodiversity (2pm - 4pm at Imagination Room - National Library Building, Level 5)</strong>
 </p>
 <p>Singapore’s landscapes have seen many changes through the years - from
 kampongs and plantations, to a bustling port city, and finally to the metropolis
