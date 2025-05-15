@@ -136,7 +136,7 @@ with you!</p>
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>Living with Nature (Storytelling) by NParks Wildlife Management &amp; Outreach (3pm - 4pm at Possibility Room - National Library Building, Level 5)</strong>
+<p><strong>Living with Nature (Storytelling) by NParks Wildlife Management &amp; Outreach (3pm - 4pm at Imagination Room - National Library Building, Level 5)</strong>
 </p>
 <p>Join Timmy and Steffi on an exciting journey around their neighbourhood
 as they discover amazing animals that live around them! Through this delightful
