@@ -35,7 +35,7 @@ can start collecting your own call library!</p>
 <p>Join us for an exciting exploration of the Southern Islands Biodiversity
 Survey, a comprehensive report of the history, geology, and biodiversity
 of 17 sites within the southern islands. The database has been compiled
-from biodiversity surveys conducted from 2019 to 2022 and data from existing
+from biodiversity surveys conducted from 2020 to 2022 and data from existing
 records. Whether you are a nature enthusiast, academic, or simply curious
 about Singapore's hidden treasures, this talk offers fascinating insights
 into the biodiversity of our offshore islands.</p>
@@ -99,7 +99,7 @@ that tourism and conservation can coexist harmoniously.</p>
 </details>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Spotlight_Talks_Publicity_Poster__1_.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Spotlight_Talks_Publicity_Poster.png">
@@ -136,7 +136,7 @@ with you!</p>
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
 <hr>
-<p><strong>Living with Nature (Storytelling) by NParks Wildlife Management &amp; Outreach (3pm - 4pm at Possibility Room - National Library Building, Level 5)</strong>
+<p><strong>Living with Nature (Storytelling) by NParks Wildlife Management &amp; Outreach (3pm - 4pm at Imagination Room - National Library Building, Level 5)</strong>
 </p>
 <p>Join Timmy and Steffi on an exciting journey around their neighbourhood
 as they discover amazing animals that live around them! Through this delightful
@@ -165,7 +165,7 @@ basis.</p>
 <details class="isomer-details">
 <summary>1 June 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Exploring Singapore’s Wildlife: A Hands-On Learning Experience by Nature Society Singapore (10am - 11.30am at Possibility Room - National Library Building, Level 5)</strong>
+<p><strong>Exploring Singapore’s Wildlife: A Hands-On Learning Experience by Nature Society Singapore (10am - 11.30am at Imagination Room - National Library Building, Level 5)</strong>
 </p>
 <p>This interactive workshop invites participants to discover the diverse
 wildlife of Singapore, with a focus on common birds, mammals and endangered
@@ -236,16 +236,17 @@ and environmental awareness, making it ideal for families and young children.</p
 </details>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/SW1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Stage_Workshop_Publicity_Poster__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
 <h4>Thematic Workshops</h4>
 <details class="isomer-details">
 <summary>1 June 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>A History of Land-use Policies and Planning in Singapore by Singapore Youth Voices for Biodiversity (2pm - 4pm at Possibility Room - National Library Building, Level 5)</strong>
+<p><strong>A History of Land-use Policies and Planning in Singapore by Singapore Youth Voices for Biodiversity (2pm - 4pm at Imagination Room - National Library Building, Level 5)</strong>
 </p>
 <p>Singapore’s landscapes have seen many changes through the years - from
 kampongs and plantations, to a bustling port city, and finally to the metropolis
