@@ -400,13 +400,13 @@ Eco-Schools, WWF Explores. Engage with us!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mee Toh School wants to celebrate our local biodiversity. Our Nature Lovers’
-Club will showcase students’ journaling projects, featuring their observations,
-documentation and reflections of the plants, insects and animals in our
-natural world in a creative manner. Our Primary 2 students, on the other
-hand, will present their discoveries of the local biodiversity in the school
-and share their growing appreciation for nature through drawings, models,
-and storytelling.</p>
+<p><a href="https://www.meetoh.moe.edu.sg/" rel="noopener nofollow" target="_blank">Mee Toh School </a>wants
+to celebrate our local biodiversity. Our Nature Lovers’ Club will showcase
+students’ journaling projects, featuring their observations, documentation
+and reflections of the plants, insects and animals in our natural world
+in a creative manner. Our Primary 2 students, on the other hand, will present
+their discoveries of the local biodiversity in the school and share their
+growing appreciation for nature through drawings, models, and storytelling.</p>
 <p></p>
 </td>
 </tr>
@@ -418,10 +418,10 @@ and storytelling.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Greenwood Primary School Eco Ambassadors will share the school’s green
-initiatives, with a special focus on one of their projects: the importance
-of owls to the ecosystem. Children can also enjoy a hands-on craft session
-using recycled materials!</p>
+<p><a href="https://www.greenwoodpri.moe.edu.sg/" rel="noopener nofollow" target="_blank">Greenwood Primary School</a> Eco
+Ambassadors will share the school’s green initiatives, with a special focus
+on one of their projects: the importance of owls to the ecosystem. Children
+can also enjoy a hands-on craft session using recycled materials!</p>
 <p></p>
 </td>
 </tr>
@@ -433,12 +433,12 @@ using recycled materials!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Since 2024, Geylang Methodist School (Primary) has championed biodiversity
-through programmes like Every Singaporean a Naturalist, in partnership
-with the Nature Society Singapore. Our school's yearly Elderly Outreach
-features a garden trail, fostering intergenerational learning, allowing
-student leaders to gain confidence and deepen garden knowledge as they
-guide participants. Pandan drinks from our garden are shared, celebrating
+<p>Since 2024, <a href="https://www.geylangmethodistpri.moe.edu.sg/" rel="noopener nofollow" target="_blank">Geylang Methodist School (Primary)</a> has
+championed biodiversity through programmes like Every Singaporean a Naturalist,
+in partnership with the Nature Society Singapore. Our school's yearly Elderly
+Outreach features a garden trail, fostering intergenerational learning,
+allowing student leaders to gain confidence and deepen garden knowledge
+as they guide participants. Pandan drinks from our garden are shared, celebrating
 the joy of harvesting together.</p>
 </td>
 </tr>
