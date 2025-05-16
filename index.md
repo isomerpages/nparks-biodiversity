@@ -18,12 +18,12 @@ sections:
         - title: Festival Talks and Workshops
           description: ""
           url: /festival-workshops/festivalworkshops/
+        - title: Festival Game Stations
+          description: ""
+          url: /game-stations/
         - title: Community Programmes and Activities
           description: ""
           url: /community-programmes-activities/community/
-        - title: Stay Home Activities
-          description: ""
-          url: /festival-programmes/stayhome/
       subtitle: 31 May & 1 June 2025 | The Plaza, National Library Building
       variant: center
       size: md
