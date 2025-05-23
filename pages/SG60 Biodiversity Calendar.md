@@ -9,6 +9,6 @@ description: ""
 <div class="iframe-wrapper">
 <iframe style="border:solid 1px #777" height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vQ5UqEaEDbrQ7yPASWT0ylPq5k6cqvofk6ZmZB2L7Pn2m8EmT_0WP4bz8BhdmaNUwRBM-CD9Adh8vb6/pub?embedded=true"></iframe>
 </div>
-<p>To view the full calendar on Google Docs, click <a href="https://docs.google.com/document/d/1RA9gpTa32gUTtjz79tKkGRBdXVUgcFLJWRID7bGvXAk/edit?usp=sharing" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p>To view the full calendar, click <a href="https://docs.google.com/document/d/1RA9gpTa32gUTtjz79tKkGRBdXVUgcFLJWRID7bGvXAk/edit?usp=sharing" rel="noopener nofollow" target="_blank">here</a>!</p>
 <p>If you would like your event to be listed on our calendar, please email
 XXX.</p>
