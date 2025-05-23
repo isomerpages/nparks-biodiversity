@@ -396,29 +396,11 @@ Eco-Schools, WWF Explores. Engage with us!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mee_Toh_Pri_Sch.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.meetoh.moe.edu.sg/" rel="noopener nofollow" target="_blank">Mee Toh School </a>wants
-to celebrate our local biodiversity. Our Nature Lovers’ Club will showcase
-students’ journaling projects, featuring their observations, documentation
-and reflections of the plants, insects and animals in our natural world
-in a creative manner. Our Primary 2 students, on the other hand, will present
-their discoveries of the local biodiversity in the school and share their
-growing appreciation for nature through drawings, models, and storytelling.</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Greenwood_Pri_Sch_compressed.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.greenwoodpri.moe.edu.sg/" rel="noopener nofollow" target="_blank">Greenwood Primary School</a> Eco
+<p><strong><a href="https://www.greenwoodpri.moe.edu.sg/" rel="noopener nofollow" target="_blank">Greenwood Primary School</a></strong> Eco
 Ambassadors will share the school’s green initiatives, with a special focus
 on one of their projects: the importance of owls to the ecosystem. Children
 can also enjoy a hands-on craft session using recycled materials!</p>
@@ -433,13 +415,51 @@ can also enjoy a hands-on craft session using recycled materials!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Since 2024, <a href="https://www.geylangmethodistpri.moe.edu.sg/" rel="noopener nofollow" target="_blank">Geylang Methodist School (Primary)</a> has
+<p>Since 2024, <strong><a href="https://www.geylangmethodistpri.moe.edu.sg/" rel="noopener nofollow" target="_blank">Geylang Methodist School (Primary)</a></strong> has
 championed biodiversity through programmes like Every Singaporean a Naturalist,
 in partnership with the Nature Society Singapore. Our school's yearly Elderly
 Outreach features a garden trail, fostering intergenerational learning,
 allowing student leaders to gain confidence and deepen garden knowledge
 as they guide participants. Pandan drinks from our garden are shared, celebrating
 the joy of harvesting together.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mee_Toh_Pri_Sch.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.meetoh.moe.edu.sg/" rel="noopener nofollow" target="_blank">Mee Toh School </a></strong>wants
+to celebrate our local biodiversity. Our Nature Lovers’ Club will showcase
+students’ journaling projects, featuring their observations, documentation
+and reflections of the plants, insects and animals in our natural world
+in a creative manner. Our Primary 2 students, on the other hand, will present
+their discoveries of the local biodiversity in the school and share their
+growing appreciation for nature through drawings, models, and storytelling.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/West_Grove_Pri_Sch.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.westgrovepri.moe.edu.sg/" rel="noopener nofollow" target="_blank">West Grove Primary</a></strong> believes
+in educating our students about biodiversity as it is crucial for fostering
+a sense of responsibility and stewardship towards the environment.</p>
+<p>Our philosophy of Aware, Care, Dare encourages students to first understand
+the importance of biodiversity (Aware), then develop a sense of empathy
+and responsibility (Care), and finally take action to protect it (Dare).</p>
+<p>Through the Nature Club, we incorporate hands-on activities, such as field
+trips to local ecosystems, participation in conservation projects, or even
+discussions about the impact of human activities on biodiversity, can further
+enhance their learning experience. Additionally, collaborating with local
+environmental organisations such as NParks could provide valuable resources
+and opportunities for students to engage in real-world conservation efforts.</p>
 </td>
 </tr>
 </tbody>
