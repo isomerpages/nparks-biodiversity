@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>The Biodiversity Roundtable has published a list of upcoming biodiversity
-activities offered by nature groups which are open to public.</p>
+activities offered by nature groups which are open to public. All are welcome!</p>
 <p><strong>Join us to celebrate and conserve our local biodiversity together!</strong>
 </p>
 <p>View the calendar <a href="https://go.gov.sg/sg60biodiversitycalendar-doc" rel="noopener nofollow" target="_blank">here</a>!</p>
@@ -16,3 +16,4 @@ activities offered by nature groups which are open to public.</p>
 </p>
 <p>If you would like your event to be listed on our calendar, please email
 <a href="mailto:cin@nparks.gov.sg" rel="noopener nofollow" target="_blank">cin@nparks.gov.sg</a>.</p>
+<p></p>
