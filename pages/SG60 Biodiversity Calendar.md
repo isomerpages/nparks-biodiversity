@@ -8,6 +8,9 @@ description: ""
 activities offered by nature groups which are open to public. All are welcome!</p>
 <p><strong>Join us to celebrate and conserve our local biodiversity together!</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/For_Website__1_.png">
+</div>
 <p>View the calendar <a href="https://go.gov.sg/sg60biodiversitycalendar-doc" rel="noopener nofollow" target="_blank">here</a>!</p>
 <div class="iframe-wrapper">
 <iframe style="border:solid 1px #777" height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vTNHChqQOFGIJ95kdX2GJ83ftG6Xa2Lhr3OBAfTdnqFKV54XzOUacM04cb_kFNA_Vzx6OtxxUBCF9lL/pub?embedded=true"></iframe>

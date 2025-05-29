@@ -121,8 +121,18 @@ fauna through these opportunities and workshops.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Top 10 Weirdest Critters of Singapore’s Rainforest by Cicada Tree Eco-Place (12.15 - 2pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
-<p>Join us for a storytelling and colouring activity based Cicada Tree Eco-Place's
-children's book, "Top 10 Weirdest Critters of Singapore’s Rainforest"!</p>
+<p>Join Cicada Tree Eco-Place at the Festival of Biodiversity!</p>
+<p>We're excited to launch our latest children's book, 'Top 10 Weirdest Critters
+of Singapore’s Rainforest'! The poems are written by a talented 14-year-old,
+and the book celebrates ten of the fascinating critters found in Singapore’s
+forests.</p>
+<p>Be part of the first-ever public reading of these whimsical poems, followed
+by a fun colouring activity for kids and families</p>
+<p>We’re also featuring a special preview reading of an upcoming children’s
+book, 'The Three Hungry Microbes', by Cuifen Pui and Dorcas Tang. The story
+is inspired by Cuifen’s community composting adventures in Singapore and
+told from the perspectiv of soil microbes!</p>
+<p>Both readings will conclude with a shared colouring session.</p>
 <p>No registration is required - simply drop by during the specified time
 to participate. Seats are limited and available on a first-come, first-serve
 basis.</p>
@@ -238,7 +248,6 @@ and environmental awareness, making it ideal for families and young children.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
