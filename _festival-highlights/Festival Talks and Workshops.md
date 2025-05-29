@@ -129,9 +129,9 @@ forests.</p>
 <p>Be part of the first-ever public reading of these whimsical poems, followed
 by a fun colouring activity for kids and families</p>
 <p>We’re also featuring a special preview reading of an upcoming children’s
-book by Cuifen Pui and Dorcas Tang. The story is inspired by Cuifen’s community
-composting adventures in Singapore and told from the perspectiv of soil
-microbes!</p>
+book, 'The Three Hungry Microbes', by Cuifen Pui and Dorcas Tang. The story
+is inspired by Cuifen’s community composting adventures in Singapore and
+told from the perspectiv of soil microbes!</p>
 <p>Both readings will conclude with a shared colouring session.</p>
 <p>No registration is required - simply drop by during the specified time
 to participate. Seats are limited and available on a first-come, first-serve
