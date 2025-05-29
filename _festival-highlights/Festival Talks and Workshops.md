@@ -122,15 +122,12 @@ fauna through these opportunities and workshops.</p>
 <p><strong>Top 10 Weirdest Critters of Singapore’s Rainforest by Cicada Tree Eco-Place (12.15 - 2pm at Workshop Zone - Stage, National Library Plaza)</strong>
 </p>
 <p>Join Cicada Tree Eco-Place at the Festival of Biodiversity!</p>
-<p>&nbsp;</p>
 <p>We're excited to launch our latest children's book, 'Top 10 Weirdest Critters
 of Singapore’s Rainforest'! The poems are written by a talented 14-year-old,
 and the book celebrates ten of the fascinating critters found in Singapore’s
 forests.</p>
-<p></p>
 <p>Be part of the first-ever public reading of these whimsical poems, followed
-by a fun colouring activity for kids and families.</p>
-<p>&nbsp;</p>
+by a fun colouring activity for kids and families</p>
 <p>We’re also featuring a special preview reading of an upcoming children’s
 book by Cuifen Pui and Dorcas Tang. The story is inspired by Cuifen’s community
 composting adventures in Singapore and told from the perspectiv of soil
