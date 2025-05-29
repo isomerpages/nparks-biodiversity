@@ -656,6 +656,43 @@ will be updated here once registration opens.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>27 June 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>[Training] OMT Volunteer Facilitator - June 2025</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3d84bda4_184f_4f4f_b4fb_4ab6e4d59fc9.png">
+</div>
+<p>Interested in volunteering for the OneMillionTrees movement? Why not join
+us as a Volunteer Facilitator!</p>
+<p>The role of tree-planting facilitators is to guide participants during
+the OneMillionTrees movement tree-planting sessions, ensure their safety,
+share with them about City in Nature and the OneMillionTrees movement,
+and species being planted. As a tree-planting facilitator, you will not
+be planting trees during the tree planting event.</p>
+<p></p>
+<p>Volunteers will have to undergo both theory and practical training in
+order to become official tree-planting facilitators. Those who undergo
+the training session will have to commit to at least 4 tree-planting sessions
+per year. Please also note that majority of our tree planting events are
+held on weekdays.</p>
+<p></p>
+<p>June's training session will be held on 26 June 2025, 7.30pm-8.30pm over
+Microsoft Teams (theory) and 27 June 2025, 9am to 10.30am at Fort Rd, near
+Katong Park MRT (practical).</p>
+<p></p>
+<p>Sign up for the training session if you're keen to become a Volunteer
+Facilitator with us!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.volunteer.gov.sg/volunteer/opportunity/details/?id=0e9582c1-093a-f011-ac76-027d80ecb760" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>28 June 2025 (1.30pm-2.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
