@@ -12,6 +12,4 @@ activities offered by nature groups which are open to public. All are welcome!</
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/For_Website__1_.png">
 </div>
 <p>View the calendar <a href="https://go.gov.sg/sg60biodiversitycalendar-doc" rel="noopener nofollow" target="_blank">here</a>!</p>
-<p>If you would like your event to be listed on our calendar, please email
-<a href="mailto:cin@nparks.gov.sg" rel="noopener nofollow" target="_blank">cin@nparks.gov.sg</a>.</p>
 <p></p>
