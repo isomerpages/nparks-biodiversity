@@ -2,4 +2,5 @@ collections:
   obsolete-pages:
     output: true
     order:
+      - Community Programmes and Activities.md
       - Crafts.md
