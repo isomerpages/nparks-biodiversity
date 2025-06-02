@@ -596,8 +596,8 @@ as we navigate this increasingly volatile environment together.</p>
 <p>💡 Diagnose &amp; drive sustainable change.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration for this activity has not opened yet. The link to register
-will be updated here once registration opens.</p>
+<p>Click <a href="https://form.gov.sg/6822b77eb74eb850775ccba9" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
 </td>
 </tr>
 <tr>
