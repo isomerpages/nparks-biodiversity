@@ -6,11 +6,7 @@ description: ""
 ---
 <p>The Biodiversity Roundtable has published a list of upcoming biodiversity
 activities offered by nature groups which are open to public. All are welcome!</p>
-<p><strong>Join us to celebrate and conserve our local biodiversity together!</strong>
+<p>Join us to celebrate and conserve our local biodiversity together!</p>
+<p><strong>View <a href="https://go.gov.sg/sg60biodiversitycalendar-doc" rel="noopener nofollow" target="_blank">the calendar here</a>!</strong>
 </p>
-<p>View the calendar <a href="https://go.gov.sg/sg60biodiversitycalendar-doc" rel="noopener nofollow" target="_blank">here</a>!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/For_Website__1_.png">
-</div>
-<p></p>
 <p></p>
