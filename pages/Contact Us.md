@@ -15,5 +15,5 @@ variant: tiptap
 <p>Contact: <a href="mailto:cin@nparks.gov.sg" rel="noopener nofollow" target="_blank">cin@nparks.gov.sg</a>
 </p>
 <h4>For General Inquiries &amp; Feedback</h4>
-<p>Contact: <a href="http://www.nparks.gov.sg/feedback" rel="noopener noreferrer nofollow" target="_blank">http://www.nparks.gov.sg/feedback</a>
+<p>Contact: <a href="www.nparks.gov.sg/contact-us" rel="noopener noreferrer nofollow" target="_blank">http://www.nparks.gov.sg/feedback</a>
 </p>
