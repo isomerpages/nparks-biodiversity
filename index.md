@@ -23,10 +23,7 @@ sections:
         - title: Festival Game Stations
           description: ""
           url: /game-stations/
-        - title: SG60 Biodiversity Calendar
-          description: ""
-          url: /sg60-biodiversity-calendar
-      subtitle: 31 May & 1 June 2025 | The Plaza, National Library Building
+      subtitle: 6 June & 7 June 2026 | The Plaza, National Library Building
       variant: center
       size: md
       backgroundColor: gray
