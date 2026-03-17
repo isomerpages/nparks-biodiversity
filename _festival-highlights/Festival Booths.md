@@ -65,9 +65,9 @@ research and conservation!</p>
 an environmental education non-government organisation that promotes the
 conservation of local biodiversity, nature and culture. In conjunction
 with FoB 2025, Cicada Tree Eco-Place is publishing a children's book titled
-"Top 10 Weirdest Critters of Singapore’s Rainforest." The book is an environmental
-education resource of the "Protect Our Last Wilderness" conservation campaign
-by Cicada Tree Eco-Place.</p>
+"Top 10 Weirdest Crittrgapore’s Rainforest." The book is an environmental
+education resource of the "Protect Our La Wilderness" conservation campaign
+by Cicada Tree Eco-Place</p>
 </td>
 </tr>
 <tr>
