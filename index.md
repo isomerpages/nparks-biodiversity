@@ -44,7 +44,7 @@ sections:
         enjoy some stay-home bonding with our craft activities!
       button: Find out more
       url: /festival-workshops/festivalworkshops/
-      image: /images/FoB 2024/SWAG_storytelling_cropped.jpg
+      image: /images/Storytelling_FOB2025.jpg
       alt: Storytelling workshop at FoB
   - infopic:
       url: https://www.nparks.gov.sg/nature/community-in-nature#citizen-science
