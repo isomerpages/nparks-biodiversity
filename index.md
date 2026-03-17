@@ -34,7 +34,7 @@ sections:
       alt: NParks booth at FoB
       url: /festival-booths/festivalbooths/
       button: Explore
-      image: /images/FoB 2024/CN_booth_cropped.jpg
+      image: /images/Festival_of_Biodiversity_2025_Day_1_G__119__1_.jpg
       description: Enjoy a fun-filled day with your family at our booths by NParks and
         other nature organisations.
   - infopic:
