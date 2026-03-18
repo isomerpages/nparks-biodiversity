@@ -23,10 +23,7 @@ sections:
         - title: Festival Game Stations
           description: ""
           url: /game-stations/
-        - title: SG60 Biodiversity Calendar
-          description: ""
-          url: /sg60-biodiversity-calendar
-      subtitle: 31 May & 1 June 2025 | The Plaza, National Library Building
+      subtitle: 6 June & 7 June 2026 | The Plaza, National Library Building
       variant: center
       size: md
       backgroundColor: gray
@@ -37,7 +34,7 @@ sections:
       alt: NParks booth at FoB
       url: /festival-booths/festivalbooths/
       button: Explore
-      image: /images/FoB 2024/CN_booth_cropped.jpg
+      image: /images/Festival_of_Biodiversity_2025_Day_1_G__119__1_.jpg
       description: Enjoy a fun-filled day with your family at our booths by NParks and
         other nature organisations.
   - infopic:
@@ -47,7 +44,7 @@ sections:
         enjoy some stay-home bonding with our craft activities!
       button: Find out more
       url: /festival-workshops/festivalworkshops/
-      image: /images/FoB 2024/SWAG_storytelling_cropped.jpg
+      image: /images/Storytelling_FOB2025.jpg
       alt: Storytelling workshop at FoB
   - infopic:
       url: https://www.nparks.gov.sg/nature/community-in-nature#citizen-science
@@ -64,7 +61,7 @@ sections:
       subtitle: What are our schools up to?
       description: This week of events commemorates the International Day for
         Biological Diversity. Students can participate in exciting activities
-        from 24 May to 1 June 2025.
+        from 23 May to 31 May 2026.
       button: Learn more
       url: https://www.nparks.gov.sg/learn/programmes/biodiversity-week-schools
       image: /images/BWS__Global_indian_International_School.jpg

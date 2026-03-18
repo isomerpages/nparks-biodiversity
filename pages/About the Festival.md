@@ -33,7 +33,6 @@ special collections on nature and biodiversity.</p>
 <p>Time: 10am - 7.30pm</p>
 <p>Venue: The Plaza, National Library Building</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Library" src="/images/FoB 2025/National_Library.jpg">
 </div>
