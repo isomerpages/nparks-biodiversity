@@ -98,7 +98,7 @@ Different insects play different but equally important roles in the environment,
 but more often than not they are misunderstood and overlooked. Learn how
 to identify the variety of insects found in Singapore, not just the charismatic
 ones. You don’t have to venture deep into the forests to find them, many
-can be spotted right in your own backyard.</p>
+can be spotted right in your own backyard!</p>
 </td>
 </tr>
 <tr>
