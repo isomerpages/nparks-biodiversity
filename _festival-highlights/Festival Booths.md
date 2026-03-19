@@ -32,11 +32,11 @@ your family, complete with freebies, games, and more!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://acres.org.sg/" rel="noopener noreferrer nofollow" target="_blank">ACRES</a></strong> is
 a registered Charity that aims to create a world where all animals are
-treated as fellow sentient beings. Our focus areas include wildlife rescue
+treated as fellow sentient beings. Their focus areas include wildlife rescue
 and rehabilitation, investigating wildlife crime, promoting human-wildlife
-coexistence and community outreach. All our work is encapsulated by our
-humane education, raising awareness and equipping people to advance animal
-welfare in their own capacity!</p>
+coexistence and community outreach. Their work is encapsulated by humane
+education, raising awareness and equipping people to advance animal welfare
+in their own capacity!</p>
 </td>
 </tr>
 <tr>
@@ -46,11 +46,15 @@ welfare in their own capacity!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The&nbsp;<strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong> promotes
-a transparent, science-based approach in our efforts to expand local and
-regional knowledge on birds. Head down to our booth to learn more about
-our science, our resources, and how you can meaningfully contribute to
-research and conservation!</p>
+<p>The&nbsp;<strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong> is
+a science-based collective promoting research and conser ation of our avifauna.
+They focus on widening interest in bird watching, deepending ties with
+like-minded organisations and drawing on the collective expertise of our
+community. Commited to advancing local and regional ornithological knowledge
+and promoting transparent record-sharing across the community, Bird Society
+of Singapore aim to build community capacity and empower our local birdwatches
+to contribute to reserach and conservaation.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -63,11 +67,9 @@ research and conservation!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://cicadatree.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cicada Tree Eco-Place</a></strong> is
 an environmental education non-government organisation that promotes the
-conservation of local biodiversity, nature and culture. In conjunction
-with FoB 2025, Cicada Tree Eco-Place is publishing a children's book titled
-"Top 10 Weirdest Crittrgapore’s Rainforest." The book is an environmental
-education resource of the "Protect Our La Wilderness" conservation campaign
-by Cicada Tree Eco-Place</p>
+conservation of local biodiversity, nature and culture. Head down to their
+booth to enjoy fun activities, learn more about nature in Singapore and
+find out about upcoming public walks!</p>
 </td>
 </tr>
 <tr>
