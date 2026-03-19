@@ -81,9 +81,8 @@ find out about upcoming public walks!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://blogs.ntu.edu.sg/sao-earthlinkntu/" rel="noopener noreferrer nofollow" target="_blank">Earthlink NTU</a></strong> members
 will share about the unique biodiversity of NTU's campus and the many challenges
-we face living close to a wildlife-rich area. Specimens collected from
-past human-wildlife conflict issues, such as bird strikes, will be put
-on display.</p>
+we face living close to a wildlife-rich area. Insects specimens collected
+on NTU campus will also be put on display!</p>
 </td>
 </tr>
 <tr>
@@ -94,13 +93,12 @@ on display.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore (ENSING)</a></strong> hopes
-to showcase some of our insect variety and ways of life, and the threats
-they face. Different insects play different but equally important roles
-in the environment, but more often than not they are misunderstood and
-shunned. So, learn how to identify the variety of insects found in Singapore,
-not just the charismatic ones, and how they contribute to our daily lives.
-You don’t have to venture deep into the forests to find them, many can
-be spotted right in your own backyard.</p>
+to showcase some of Singapore's insect variety and their ways of life.
+Different insects play different but equally important roles in the environment,
+but more often than not they are misunderstood and overlooked. Learn how
+to identify the variety of insects found in Singapore, not just the charismatic
+ones. You don’t have to venture deep into the forests to find them, many
+can be spotted right in your own backyard.</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +244,8 @@ of show and tell and activities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a></strong> will
-highlight local plants and fungi and their usefulness to humans.</p>
+highlight local plants and fungi, their usefulness to humans and the role
+they play in the natural world.</p>
 </td>
 </tr>
 <tr>
