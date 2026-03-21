@@ -22,16 +22,26 @@ Nature vision.</p>
 <h2>Introducing 2026's Festival of Biodiversity</h2>
 <p>The biggest biodiversity festival in Singapore is back! The 2026 Festival
 of Biodiversity (FoB) will take place at the National Library on 6 and
-7 June, with an even more exciting and informative experience. Building
-on the success of 2025’s FoB, which welcomed over 21,000 visitors, NParks,
-together with other biodiversity-related interest groups and Non-Governmental
+7 June, with an even more exciting and informative experience.</p>
+<p>Building on the success of 2025’s FoB, which welcomed over 21,000 visitors,
+NParks, together with other biodiversity-related interest groups and Non-Governmental
 Organisations (NGOs) is committed to making this year’s festival bigger
-and better. Expect more community involvement, engaging activities for
-all ages, and new collaborations with the National Library Board to curate
-special collections on nature and biodiversity.</p>
-<p>Date: 6 and 7 June 2026</p>
-<p>Time: 10am - 7.30pm</p>
-<p>Venue: The Plaza, National Library Building</p>
+and better.</p>
+<p>Expect more community involvement, engaging activities for all ages, and
+new collaborations with the National Library Board to curate special collections
+on nature and biodiversity.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Date</strong>: 6 and 7 June 2026</p>
+</li>
+<li>
+<p><strong>Time</strong>: 10am - 7.30pm</p>
+</li>
+<li>
+<p><strong>Venue</strong>: The Plaza, National Library Building</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Library" src="/images/FoB 2025/National_Library.jpg">
