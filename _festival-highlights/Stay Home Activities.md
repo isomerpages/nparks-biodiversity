@@ -29,8 +29,20 @@ and terrestial biodiversity by identifying their distinct features that
 are absent!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="https://go.gov.sg/spotthedifference-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a> ;
-<a href="https://go.gov.sg/spotthedifferencetemplate" rel="noopener noreferrer nofollow" target="_blank">Activity Sheet</a>; <a href="https://go.gov.sg/spot-the-difference-answersheet" rel="noopener noreferrer nofollow" target="_blank">Answer Sheet and Colour Template</a>]</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/spotthedifference-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/spotthedifferencetemplate" rel="noopener noreferrer nofollow" target="_blank">Activity Sheet</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/spot-the-difference-answersheet" rel="noopener noreferrer nofollow" target="_blank">Answer Sheet and Colour Template</a>
+</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/spot%20the%20diff%20(coastal).png">
 </div>
@@ -47,8 +59,21 @@ are absent!</p>
 name of a native species!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="https://go.gov.sg/unscrambleme-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a> ;
-<a href="https://go.gov.sg/unscramblemetemplate" rel="noopener noreferrer nofollow" target="_blank">Activity Sheet</a>; <a href="https://go.gov.sg/unscramble-me-answersheet" rel="noopener noreferrer nofollow" target="_blank">Answer Sheet</a>]</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/unscrambleme-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/unscramblemetemplate" rel="noopener noreferrer nofollow" target="_blank">Activity Sheet</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/unscramble-me-answersheet" rel="noopener noreferrer nofollow" target="_blank">Answer Sheet</a>
+</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/unscramble%20me%20(easy).png">
 </div>
@@ -65,20 +90,34 @@ name of a native species!</p>
 and turn the doodles into native animals!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="https://go.gov.sg/doodle-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a> ;
-<a href="https://go.gov.sg/doodleactivitytemplate" rel="noopener noreferrer nofollow" target="_blank">Activity Sheet</a>; <a href="https://go.gov.sg/doodle-answersheet" rel="noopener noreferrer nofollow" target="_blank">Answer Sheet</a>]</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/doodle-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/doodleactivitytemplate" rel="noopener noreferrer nofollow" target="_blank">Activity Sheet</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/doodle-answersheet" rel="noopener noreferrer nofollow" target="_blank">Answer Sheet</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/doodle%20-%20common%20flameback.png">
 </div>
-<p>Common Flameback Doodle Sample Activity Template</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/doodle%20-%20sunda%20pangolin.png">
 </div>
-<p>Sunda Pangolin Doodle Sample Activity Template</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/doodle%20-%20green%20paddy%20frog.png">
 </div>
-<p>Green Paddy Frog Doodle Sample Activity Template</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -111,7 +150,8 @@ egg cartons!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="https://go.gov.sg/themosteggcellentgift-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a>]</p>
+<p><a href="https://go.gov.sg/themosteggcellentgift-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/the%20most%20excellent%20gift.png">
 </div>
@@ -125,7 +165,8 @@ egg cartons!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="https://go.gov.sg/papermachefish-facilnotes" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a>]</p>
+<p><a href="https://go.gov.sg/papermachefish-facilnotes" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/paper%20mache%20fish.png">
 </div>
@@ -162,8 +203,20 @@ egg cartons!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="https://go.gov.sg/createyourbeefamily-facilnotes" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a> ;
-<a href="https://go.gov.sg/beeactivitytemplate" rel="noopener noreferrer nofollow" target="_blank">Activity Template</a>; <a href="https://go.gov.sg/beefamilyactivitysample" rel="noopener noreferrer nofollow" target="_blank">Activity Sample</a>]</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/createyourbeefamily-facilnotes" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/beeactivitytemplate" rel="noopener noreferrer nofollow" target="_blank">Activity Template</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/beefamilyactivitysample" rel="noopener noreferrer nofollow" target="_blank">Activity Sample</a>
+</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bee%20activity.png">
 </div>
