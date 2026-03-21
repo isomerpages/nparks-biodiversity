@@ -308,7 +308,7 @@ who engage with the booth activities!</p>
 <p>The <strong><a href="https://www.facebook.com/OtterWatch/posts/introducing-singapores-otter-working-group/1127515683987645/" rel="noopener noreferrer nofollow" target="_blank">Otter Working Group</a></strong> is
 a close partnership of multiple entities including NParks, NUS, ACRES,
 PAssion Wave, PUB, Mandai Wildlife Group, and members of the public, collectively
-working towards otter conservation and management in Singapore. Visit our
+working towards otter conservation and management in Singapore. Visit the
 Otter Working Group booth to find out more.</p>
 </td>
 </tr>
