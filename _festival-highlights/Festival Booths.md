@@ -125,7 +125,7 @@ and organizations are working together to protect our oceans.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank">Herpetological Society of Singapore (HSS)</a></strong> is
-a group of herpetology enthusiasts based in Singapore.This booth showcases
+a group of herpetology enthusiasts based in Singapore. HSS will showcase
 wet and dry specimens of some local herpetofauna, informative posters,
 figurines, scientific models, and photos and videos taken by members. Look
 forward to exciting merchandise, including stickers, pins, T-shirts, posters,
