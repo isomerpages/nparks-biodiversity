@@ -174,11 +174,10 @@ uses storytelling to make biodiversity accessible and inspiring.</p>
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://lkcnhm.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Natural History Museum</a></strong> is
 Singapore’s only natural history museum, located at the National University
-of Singapore. We house over a million biological specimens, field notes,
-and photographs from Southeast Asia. We support biodiversity research,
-share knowledge with the public, and engage in education and outreach,
-preserving Singapore’s natural heritage and contributing to global scientific
-efforts.</p>
+of Singapore. Visit the outreach booth for a closer look at the incredible
+diversity of life in Singapore and Southeast Asia. Discover fascinating
+specimens and learn how scientists document biodiversity through museum
+collections and research expeditions.</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +189,8 @@ efforts.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://lepakinsg.wordpress.com/" rel="noopener nofollow" target="_blank">LepakInSG</a></strong> will
-be conducting a quiz game on environmental issues in Singapore.</p>
+host nature-themed quizzes and share about ecological connectivity in Singapore.
+Handmade stuffed marine animals will be up for grabs at their booth!</p>
 </td>
 </tr>
 <tr>
