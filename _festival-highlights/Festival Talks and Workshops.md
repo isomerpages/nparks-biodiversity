@@ -22,30 +22,18 @@ Room (Level B1)</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>1 June 2025 at National Library Building, The Pod (Level 16)</summary>
+<summary>7 June 2026 at National Library Building, The Pod (Level 16)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Documenting Life in Singapore's Southern Archipelago: The Southern Islands Biodiversity Survey (10am - 11am)</strong>
-</p>
-<p>Join us for an exciting exploration of the Southern Islands Biodiversity
-Survey, a comprehensive report of the history, geology, and biodiversity
-of 17 sites within the southern islands. The database has been compiled
-from biodiversity surveys conducted from 2020 to 2022 and data from existing
-records. Whether you are a nature enthusiast, academic, or simply curious
-about Singapore's hidden treasures, this talk offers fascinating insights
-into the biodiversity of our offshore islands.</p>
-<p>Register <a href="http://go.gov.sg/fobspotlight2025" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p></p>
+<p>More information will be updated in April 2026!</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>1 June 2025 at National Library Building, Central Public Library Programme
+<summary>7 June 2026 at National Library Building, Central Public Library Programme
 Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Singapore’s Amazing Plant Life (11am - 12.30pm)</strong>
-</p>
-<p>Singapore is home to truly wondrous and beautiful plant life. Spend an
-hour with Dr Shawn Lum of the Nature Society to learn more about our mossy,
-ferny or flowery friends and neighbours.</p>
-<p>Register <a href="http://go.gov.sg/fobspotlight2025" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p></p>
+<p>More information will be updated in April 2026!</p>
 <hr>
 <p><strong>Fantastic Frogs &amp; Terrific Toads (2pm - 3pm)</strong>
 </p>
