@@ -246,9 +246,10 @@ conservation in Singapore!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a></strong> will
-highlight local plants and fungi, their usefulness to humans and the role
-they play in the natural world.</p>
+<p><strong><a href="https://nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a></strong> Department
+of Biological Sciences will put up display of highlight plants and fungi.
+Learn more about their usefulness to humans and the role they play in the
+natural world.</p>
 </td>
 </tr>
 <tr>
