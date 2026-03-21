@@ -48,12 +48,12 @@ in their own capacity!</p>
 <td rowspan="1" colspan="1">
 <p>The&nbsp;<strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong> is
 a science-based collective promoting research and conser ation of our avifauna.
-They focus on widening interest in bird watching, deepending ties with
-like-minded organisations and drawing on the collective expertise of our
-community. Commited to advancing local and regional ornithological knowledge
-and promoting transparent record-sharing across the community, Bird Society
-of Singapore aim to build community capacity and empower our local birdwatches
-to contribute to reserach and conservaation.</p>
+The society focus on widening interest in bird watching, deepending ties
+with like-minded organisations and drawing on the collective expertise
+of our community. Commited to advancing local and regional ornithological
+knowledge and promoting transparent record-sharing across the community,
+Bird Society of Singapore aim to build community capacity and empower our
+local birdwatches to contribute to reserach and conservaation.</p>
 <p></p>
 </td>
 </tr>
@@ -113,7 +113,7 @@ can be spotted right in your own backyard!</p>
 is a dynamic network of stakeholders from civil society, business, academia
 and public service. Explore the incredible marine biodiversity of Singapore
 and learn about ongoing conservation efforts by the marine community with
-Friends of Marine Park. Through engaging activities, we showcase how individuals
+Friends of Marine Park. Through engaging activities, FMP showcase how individuals
 and organizations are working together to protect our oceans.</p>
 </td>
 </tr>
@@ -125,10 +125,11 @@ and organizations are working together to protect our oceans.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank">Herpetological Society of Singapore (HSS)</a></strong> is
-a group of herpetology enthusiasts based in Singapore. HSS's booth will
-have a variety of reptile specimens and posters, along with herp-themed
-figurines &amp; toys. Furthermore, we will also be selling our merchandise
-(stickers, pins, and posters) at the booth.</p>
+a group of herpetology enthusiasts based in Singapore.This booth showcases
+wet and dry specimens of some local herpetofauna, informative posters,
+figurines, scientific models, and photos and videos taken by members. Look
+forward to exciting merchandise, including stickers, pins, T-shirts, posters,
+and the "A Field Guide to the Reptiles and Amphibians of Singapore" book.</p>
 </td>
 </tr>
 <tr>
