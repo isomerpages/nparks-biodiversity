@@ -305,11 +305,11 @@ who engage with the booth activities!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntu.edu.sg/ase" rel="noopener nofollow" target="_blank">Nanyang Technological University Asian School of Environment (NTU ASE)</a> showcase
-biodiversity through hands-on learning! Visitors can explore programmes
-via brochures, view specimens from labs, and take part in simple interactive
-activities led by faculty, ASE Club members, and student helpers. The booth
-offers close-up insights into ecology, conservation, and environmental
+<p>The <strong><a href="https://www.ntu.edu.sg/ase" rel="noopener nofollow" target="_blank">Asian School of Environment (ASE)</a> </strong>at
+NTU showcase biodiversity through hands-on learning! Visitors can explore
+programmes via brochures, view specimens from labs, and take part in simple
+interactive activities led by faculty, ASE Club members, and student helpers.
+The booth offers close-up insights into ecology, conservation, and environmental
 science.</p>
 </td>
 </tr>
