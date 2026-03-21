@@ -367,9 +367,9 @@ themselves.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.facebook.com/RBLWG/" rel="noopener noreferrer nofollow" target="_blank">Raffles' Banded Langur Working Group</a></strong> was
 established in 2016 to carry out research, education outreach and conservation
-activities for the Raffles' Banded Langur (Presbytis femoralis). It is
-a Critically Endangered monkey found only in Singapore and Malaysia and
-is considered one of the top 25 most endangered primates in the world.</p>
+activities for the Raffles' Banded Langur (<em>Presbytis femoralis</em>).
+It is a Critically Endangered monkey found only in Singapore and Malaysia
+and is considered one of the top 25 most endangered primates in the world.</p>
 </td>
 </tr>
 <tr>
@@ -397,10 +397,11 @@ books, and other fun stuff will be on sale!</p>
 <p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-management/wildlife-management" rel="noopener noreferrer nofollow" target="_blank">Singapore Youth Voices for Biodiversity (SYVB)</a></strong> is
 the Singapore Chapter of the Global Youth Biodiversity Network, official
 youth representatives at the United Nations' Convention on Biological Diversity.
-We work extensively on local and international biodiversity policy and
-stakeholder engagement. Our booth will showcase SYVB's biodiversity policy
-projects, outreach events like guided walks, and advertise our social media
-projects like our COP Vlogs.</p>
+Learn about SYVB's initiatives, biodiversity policies in Singapore's context,
+and more about the Kunming-Montreal Global Biodiversity Framework (KMGBF).
+Discover how you can get involved as a member to help shape Singapore’s
+biodiversity future.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -411,9 +412,12 @@ projects like our COP Vlogs.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong><a href="https://www.nparks.gov.sg/nature/community-in-nature/straw-headed-bulbul-working-group" rel="noopener nofollow" target="_blank">Straw-headed Bulbul Working Group</a></strong> hopes
-to create awareness about the Straw-headed Bulbul, its plight and how everyone
-can help ensure the population continues to thrive in Singapore.</p>
+<p>The <strong><a href="https://www.nparks.gov.sg/nature/community-in-nature/straw-headed-bulbul-working-group" rel="noopener nofollow" target="_blank">Straw-headed Bulbul Working Group</a></strong> (SHBWG)
+booth brings together volunteers and members to introduce visitors to the
+Straw-headed Bulbul. Through displays and conversations, they will share
+more about the bird, its threats, and conservation status in Singapore
+and globally, explain the role of the working group, and highlight how
+the public can help protect this remarkable songbird.</p>
 </td>
 </tr>
 <tr>
@@ -424,11 +428,11 @@ can help ensure the population continues to thrive in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">World Wide Fund for Nature (WWF) Singapore</a></strong> will
-showcase topics on coral restoration, wetland conservation, public walks
-and invasive species. Discover Marine Conservation, Outdoor Programmes,
-Eco-Schools, WWF Explores. Engage with us!</p>
-<p></p>
-<p></p>
+showcase topics on coral restoration, wetland conservation, invasive species
+awareness, and mindful nature experiencess. Learn about outdoor walks,
+youth eco-programmes, and citizen science initiatives like Eco-Schools,
+WWF Explores, and Rooted in Nature. Discover how you can join WWF in protecting
+biodiversity!</p>
 <p></p>
 <p></p>
 </td>
