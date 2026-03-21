@@ -344,15 +344,18 @@ how coexistence with wild animals is possible in our City in Nature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Project Avigate Logo" src="/images/Logos/ProjectAvigate.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project Avigate is a student-led initiative at Nanyang Technological University
-(NTU), dedicated to monitoring and preventing bird-building collisions
-at NTU. They aim to raise awareness about the species most commonly affected
-by such collisions, explore why these incidents happen and why they matter,
-and introduce visitors to the resources available if they encounter a bird-building
-collision themselves.</p>
+<p><strong><a href="https://pjavigate.wixsite.com/project-avigate" rel="noopener nofollow" target="_blank">Project Avigate</a> </strong>is
+a student-led initiative at Nanyang Technological University (NTU), dedicated
+to monitoring and preventing bird-building collisions at NTU. They aim
+to raise awareness about the species most commonly affected by such collisions,
+explore why these incidents happen and why they matter, and introduce visitors
+to the resources available if they encounter a bird-building collision
+themselves.</p>
 </td>
 </tr>
 <tr>
