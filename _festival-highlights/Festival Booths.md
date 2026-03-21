@@ -336,11 +336,10 @@ Otter Working Group booth to find out more.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.ourwildneighbours.sg/" rel="noopener noreferrer nofollow" target="_blank">Our Wild Neighbours (OWN) Initiative</a></strong> is
 a nationwide outreach programme promoting human-wildlife coexistence in
-Singapore. Supported by Mandai Nature and in partnership with local nature
-groups, OWN seeks to educate and empower the public to live harmoniously
-with our wildlife. Ever wonder how you can minimise the occurrence of bats
-roosting in your attic or discourage macaques from visiting your estate?
-Visit our booth to find out more!</p>
+Singapore. Adventurous macaques, curious otters, and introverted reptiles
+are just some of our unique wild neighbours sharing spaces with us. Get
+acquainted with Singapore’s common native urban wildlife, and discover
+how coexistence with wild animals is possible in our City in Nature.</p>
 </td>
 </tr>
 <tr>
