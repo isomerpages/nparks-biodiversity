@@ -200,10 +200,12 @@ Handmade stuffed marine animals will be up for grabs at their booth!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learn about how <strong><a href="https://www.mandainature.org/en/home.html" rel="noopener noreferrer nofollow" target="_blank">Mandai Nature</a></strong>,
-the conservation arm of Mandai Wildlife Group, helps ensure local biodiversity
-found in the Mandai Wildlife Reserve can thrive, and find out how we work
-with partners to protect some of Southeast Asia's most threatened wildlife.</p>
+<p><strong><a href="https://www.mandainature.org/en/home.html" rel="noopener noreferrer nofollow" target="_blank">Mandai Nature</a></strong> is
+the conservation arm of Mandai Wildlife Group. Learn about how they are
+protecting Singapore's unique native biodiversity - from the shy and scaly
+Sunda pangolin to the tree-dwelling Sunda colugo and rare Raffles' banded
+langur.</p>
+<p></p>
 </td>
 </tr>
 <tr>
