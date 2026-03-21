@@ -13,7 +13,7 @@ and learn more about our City in Nature! Keep an eye on this page for updates
 community share fascinating insights about Singapore's rich natural&nbsp;heritage!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>6 June 2026 National Library Building, Central Public Library Programme
+<summary>6 June 2026 at National Library Building, Central Public Library Programme
 Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
