@@ -5,16 +5,14 @@ variant: tiptap
 description: ""
 image: /images/Instructions_Page.png
 ---
-<p>Look out for our 3 festival game stations at the Festival of Biodiversity,
-where you can learn more about the rich biodiversity that can be found
-in Singapore's urban areas. This year, we also have a scavenger hunt across
-our festival booths and the Central Public Library. Complete all 3 game
-stations and answer at least 3 questions in the scavenger hunt to win the
-exclusive FoB 2025 pin!</p>
+<p>Look out for our festival game stations at the Festival of Biodiversity
+2026, where you can explore and learn more about the rich biodiversity
+found in Singapore’s urban spaces.</p>
+<p>Explore the festival booths and the Central Public Library. Complete all
+game stations to win an exclusive FoB 2026 pin!</p>
+<p></p>
+<p><strong>More information coming soon!</strong>
+</p>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB2025__Game_Stn_Summary_Poster_A1__1___1_.png">
-</div>
 <p></p>
