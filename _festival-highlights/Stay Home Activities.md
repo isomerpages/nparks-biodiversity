@@ -24,7 +24,7 @@ unique activity sheets for a fun family activity!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Spot the Difference -  </strong>Learn more about our local coastal
+<p><strong>Spot the Difference - </strong>Learn more about our local coastal
 and terrestial biodiversity by identifying their distinct features that
 are absent!</p>
 </td>
@@ -105,7 +105,9 @@ and print out our templates and fun crafts for a fun family activity!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Make <strong>The Most Egg-cellent Gift</strong> with your family using recycled
-egg cartons! <strong>Click <a href="https://drive.google.com/file/d/1nSBkiHyD5xjd4Q057mT35gsl6hzVpM0U/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">here</a> for the video tutorial.</strong>
+egg cartons!</p>
+<p></p>
+<p><strong>Click <a href="https://drive.google.com/file/d/1nSBkiHyD5xjd4Q057mT35gsl6hzVpM0U/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">here</a> for the video tutorial.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +119,9 @@ egg cartons! <strong>Click <a href="https://drive.google.com/file/d/1nSBkiHyD5xj
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Get messy by getting hands-on and create your own <strong>Paper Mache Fish</strong>! <strong>Click <a href="https://drive.google.com/file/d/13IMVOCKoOYEIUfuAhzWHbLt08KHkAwRE/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">here</a> for the video tutorial.</strong>
+<p>Get messy by getting hands-on and create your own <strong>Paper Mache Fish</strong>!</p>
+<p></p>
+<p><strong>Click <a href="https://drive.google.com/file/d/13IMVOCKoOYEIUfuAhzWHbLt08KHkAwRE/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">here</a> for the video tutorial.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +133,9 @@ egg cartons! <strong>Click <a href="https://drive.google.com/file/d/1nSBkiHyD5xj
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Let your creative juices flow with our <strong>Animal Bookmark</strong> activity! <strong>Click <a href="https://drive.google.com/file/d/1xjsDQZszzvZ8wQpxQXFtNYr9HiWkR16i/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">here</a> for the video tutorial.</strong>
+<p>Let your creative juices flow with our <strong>Animal Bookmark</strong> activity!</p>
+<p></p>
+<p><strong>Click <a href="https://drive.google.com/file/d/1xjsDQZszzvZ8wQpxQXFtNYr9HiWkR16i/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">here</a> for the video tutorial.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +156,9 @@ egg cartons! <strong>Click <a href="https://drive.google.com/file/d/1nSBkiHyD5xj
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Let your crayons and paint brushes take a walk on the wild side with our <strong>Bee Activity</strong>! <strong>Click <a href="https://drive.google.com/file/d/1Xgqunko4CLCQY9RN7QW8k-uhLyd4Xs_P/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">here </a>for the video tutorial.</strong>
+<p>Let your crayons and paint brushes take a walk on the wild side with our <strong>Bee Activity</strong>!</p>
+<p></p>
+<p><strong>Click <a href="https://drive.google.com/file/d/1Xgqunko4CLCQY9RN7QW8k-uhLyd4Xs_P/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">here </a>for the video tutorial.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
