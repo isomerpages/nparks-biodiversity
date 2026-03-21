@@ -4,27 +4,21 @@ permalink: /festival-workshops/festivalworkshops/
 description: ""
 variant: tiptap
 ---
-<p>There will be many engaging talks, activities and workshops by NParks
-and our partners to encourage the community to discover and learn more
-about our nature in Singapore. Through these, you can better understand
-our City in Nature and local biodiversity! Please check back regularly
-for more updates as you do not want to miss out!</p>
+<p>Join us for captivating talks, hands-on activities, and interactive workshops
+hosted by NParks and our partners. Discover Singapore’s rich biodiversity
+and learn more about our City in Nature! Keep an eye on this page for updates
+— you won’t want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>31 May 2025 National Library Building, Central Public Library Programme
+<summary>6 June 2026 National Library Building, Central Public Library Programme
 Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Seeing Sounds, Hearing Feathers (4pm - 5.30pm)</strong>
-</p>
-<p>The soundscape in Singapore varies from habitat to habitat, providing
-unique acoustic experiences at different sites. Not only do bird calls
-make us feel at peace, they can also provide important information to science
-too! Learn more about the path less trodden in birdwatching, and how you
-can start collecting your own call library!</p>
-<p>Register <a href="http://go.gov.sg/fobspotlight2025" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p></p>
+<p>More information will be updated in April 2026!</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -97,12 +91,6 @@ that tourism and conservation can coexist harmoniously.</p>
 <p>Register <a href="http://go.gov.sg/fobspotlight2025" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Spotlight_Talks_Publicity_Poster__1_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/FoB2025__Spotlight_Talks_Publicity_Poster.png">
 </div>
 <h4>Past Webinars</h4>
 <p>Learn more about our City in Nature and our local biodiversity with videos
