@@ -301,6 +301,21 @@ who engage with the booth activities!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU Logo" src="/images/Logos/Nanyang_Technological_University_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntu.edu.sg/ase" rel="noopener nofollow" target="_blank">Nanyang Technological University Asian School of Environment (NTU ASE)</a> showcase
+biodiversity through hands-on learning! Visitors can explore programmes
+via brochures, view specimens from labs, and take part in simple interactive
+activities led by faculty, ASE Club members, and student helpers. The booth
+offers close-up insights into ecology, conservation, and environmental
+science.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Otter%20working%20group%20(updated%20logo).jpeg">
 </div>
 </td>
