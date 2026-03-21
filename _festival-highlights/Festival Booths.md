@@ -216,13 +216,11 @@ langur.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong><a href="https://npss.org.sg/" rel="noopener nofollow" target="_blank">Nature Photographic Society Singapore (NPSS)</a></strong> specialises
-in taking nature photos such as Avian/Wildlife, macro, and landscape. Our
-booth will have photo exhibits showing members works, in addition to logo.
-There will be a demonstration of how to take live macro photos at the booth
-and video clips of the society’s activities. We will also show how to take
-responsible nature photos, such as not closing in to the subject especially
-in nesting situations.</p>
+<p>The <strong><a href="https://npss.org.sg/" rel="noopener nofollow" target="_blank">Nature Photographic Society Singapore (NPSS)</a></strong> seeks
+to bring together lovers of both nature and photography. The society organise
+photography sessions primarily in Singapore (and overseas) - recording
+the transient moments and fostering positive awareness of the fragile natural
+environment around us.</p>
 </td>
 </tr>
 <tr>
@@ -232,13 +230,13 @@ in nesting situations.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society (Singapore)</a></strong> is
-a non-government, non-profit organisation dedicated to the appreciation,
-conservation, study and enjoyment of the natural heritage in Singapore,
-Malaysia and the surrounding region.&nbsp;Singapore is home to a wide array
-of biodiversity from the very tiny to the majestic. Visit our booth to
-find out more about them and our natural environment through a combination
-of show and tell and activities.</p>
+<p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society (Singapore)</a></strong> (NSS)
+booth will be run by a diverse team of volunteers and staff, coming together
+to share stories of Singapore's unique ecosystems, native wildlife, and
+ongoing conservation efforts. The booth will showcase NSS initiatives and
+merchandise. Visit and discover how you can get involved and support nature
+conservation in Singapore!</p>
+<p></p>
 </td>
 </tr>
 <tr>
