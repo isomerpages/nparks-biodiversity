@@ -18,7 +18,6 @@ Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>More information will be updated in April 2026!</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -53,12 +52,14 @@ fauna through these opportunities and workshops.</p>
 <details class="isomer-details">
 <summary>6 June 2026</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>More information will be updated in April 2026!</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>7 June 2026</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>More information will be updated in April 2026!</p>
 </div>
 </details>
@@ -67,6 +68,7 @@ fauna through these opportunities and workshops.</p>
 <details class="isomer-details">
 <summary>7 June 2026</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>More information will be updated in April 2026!</p>
 </div>
 </details>
