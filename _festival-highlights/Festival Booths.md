@@ -155,12 +155,14 @@ other, the environment, and animals.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong><a href="https://www.instagram.com/justkeepthinkingsg/" rel="noopener nofollow" target="_blank">Just Keep Thinking</a> </strong>booth
-will showcase the Eco-Train Exhibition, a free, public-access environmental
-education initiative focused on Southeast Asia’s rainforests. Featuring
-a miniature Eco-Train model, AR rainforest experience, and showcasing wildlife
-specimens, the booth aims to raise awareness, engage stakeholders, and
-explore collaboration opportunities to expand the project’s impact.</p>
+<p><strong><a href="https://www.instagram.com/justkeepthinkingsg/" rel="noopener nofollow" target="_blank">Just Keep Thinking</a> </strong>aims
+to inspire curiosity in the youths by making learning fun, engaging, and
+meaningful. Their booth - “Become a Wildlife Storyteller” invites visitors
+to discover fascinating Singapore wildlife and learn how science communication
+turns facts into engaging stories. Through quick interactive activities,
+visitors will explore local species, try crafting their own wildlife stories,
+and discover the Wildlife Library. It also showcases how Just Keep Thinking
+uses storytelling to make biodiversity accessible and inspiring.</p>
 </td>
 </tr>
 <tr>
