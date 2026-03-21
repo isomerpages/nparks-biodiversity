@@ -141,10 +141,12 @@ and the "A Field Guide to the Reptiles and Amphibians of Singapore" book.</p>
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://janegoodall.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jane Goodall Institute (Singapore) (JGIS)</a></strong> is
 the local chapter of the organisation founded by Dr. Jane Goodall to empower
-people to make a difference for all living things. We aim to inspire hope
-through action. Our vision is to promote a healthy planet where people
-make compassionate choices to live sustainably and in harmony with each
-other, the environment, and animals.</p>
+people to make a difference for all living things. The booth will highlight
+JGIS' work in Singapore: Roots &amp; Shoots, the Raffles Banded Langur
+Citizen Science programme, Long-tailed Macaque Guarding and Ecotherapy,
+and share the message of harmonious coexistence between humans and wildlife.
+Look forward to interactive bingo and origami activities, and stickers
+as giveaways.</p>
 </td>
 </tr>
 <tr>
@@ -433,6 +435,24 @@ awareness, and mindful nature experiencess. Learn about outdoor walks,
 youth eco-programmes, and citizen science initiatives like Eco-Schools,
 WWF Explores, and Rooted in Nature. Discover how you can join WWF in protecting
 biodiversity!</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Young Nautilus logo" src="/images/Logos/youngnautilus.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://youngnautilus.com/" rel="noopener nofollow" target="_blank">Young Nautilus</a></strong> invites
+visitors to explore the hidden wonders of marine and mangrove life through
+Mystery Boxes. Reach in to feel seahorses, examine shark eggs, and see
+a taxidermized sea turtle up close. Learn why seahorses are sold as dried
+medicines and the challenges that they face. The booth offers a hands-on,
+eye-opening experience for visitors.</p>
+<p></p>
 <p></p>
 <p></p>
 </td>
