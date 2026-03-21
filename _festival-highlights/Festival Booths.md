@@ -260,12 +260,12 @@ natural world.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://toddycats.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS Toddycats!</a></strong> are
-volunteers with the Lee Kong Chian Natural History Museum. We aim to expose,
-develop, enthuse and apply individuals to programmes in conservation, education
-and research. We engage the public through exhibitions, seminars and symposia,
-nature and heritage trails, Coastal Clean-ups, online resources and form
-active partnerships with the larger community! Come to our booth to find
-out how you can contribute!</p>
+volunteers with the Lee Kong Chian Natural History Museum. The group aims
+to expose, develop, enthuse and apply individuals to programmes in conservation,
+education and research. They engage the public through exhibitions, seminars
+and symposia, nature and heritage trails, Coastal Clean-ups, online resources
+and form active partnerships with the larger community! Visit the booth
+to find out how you can contribute!</p>
 </td>
 </tr>
 <tr>
@@ -275,8 +275,12 @@ out how you can contribute!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NParks - Conservation Division</strong> will showcase our natural
-heritage found in our Nature Reserves and Nature Parks at our booth.</p>
+<p><strong>NParks - Conservation Division</strong> will showcase biodiversity
+specimens from three branches- Bukit Timah Nature Reserve, Pulau Ubin,
+and Sungei Buloh Wetland Reserve. The booth will showcase various preserved
+specimens that highlight the rich biodiversity found in these unique habitats,
+and discover the conservation work carried out to protect Singapore’s natural
+heritage.</p>
 </td>
 </tr>
 <tr>
@@ -286,10 +290,12 @@ heritage found in our Nature Reserves and Nature Parks at our booth.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-in-singapore/about-wildlife-in-singapore" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> takes
-a community- and science-based approach to human-wildlife encounters in
-Singapore. Come learn more about our work and how you can play your part
-in ensuring safe and responsible encounters with wildlife.</p>
+<p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-in-singapore/about-wildlife-in-singapore" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> will
+showcase information on Singapore's urban wildlife and how to live with
+nature. Learn about Singapore's various urban wildlife species, and play
+interactive games to understand more about these animals and how to manage
+encounters with them. Wildlife-themed prizes are available for participants
+who engage with the booth activities!</p>
 </td>
 </tr>
 <tr>
