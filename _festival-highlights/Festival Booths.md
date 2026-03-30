@@ -32,11 +32,11 @@ your family, complete with freebies, games, and more!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://acres.org.sg/" rel="noopener noreferrer nofollow" target="_blank">ACRES</a></strong> is
 a registered Charity that aims to create a world where all animals are
-treated as fellow sentient beings. Our focus areas include wildlife rescue
+treated as fellow sentient beings. Their focus areas include wildlife rescue
 and rehabilitation, investigating wildlife crime, promoting human-wildlife
-coexistence and community outreach. All our work is encapsulated by our
-humane education, raising awareness and equipping people to advance animal
-welfare in their own capacity!</p>
+coexistence and community outreach. Their work is encapsulated by humane
+education, raising awareness and equipping people to advance animal welfare
+in their own capacity!</p>
 </td>
 </tr>
 <tr>
@@ -46,11 +46,15 @@ welfare in their own capacity!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The&nbsp;<strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong> promotes
-a transparent, science-based approach in our efforts to expand local and
-regional knowledge on birds. Head down to our booth to learn more about
-our science, our resources, and how you can meaningfully contribute to
-research and conservation!</p>
+<p>The&nbsp;<strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong> is
+a science-based collective promoting research and conser ation of our avifauna.
+The society focus on widening interest in bird watching, deepending ties
+with like-minded organisations and drawing on the collective expertise
+of our community. Commited to advancing local and regional ornithological
+knowledge and promoting transparent record-sharing across the community,
+Bird Society of Singapore aim to build community capacity and empower our
+local birdwatches to contribute to reserach and conservaation.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -63,11 +67,9 @@ research and conservation!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://cicadatree.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Cicada Tree Eco-Place</a></strong> is
 an environmental education non-government organisation that promotes the
-conservation of local biodiversity, nature and culture. In conjunction
-with FoB 2025, Cicada Tree Eco-Place is publishing a children's book titled
-"Top 10 Weirdest Crittrgapore’s Rainforest." The book is an environmental
-education resource of the "Protect Our La Wilderness" conservation campaign
-by Cicada Tree Eco-Place</p>
+conservation of local biodiversity, nature and culture. Head down to their
+booth to enjoy fun activities, learn more about nature in Singapore and
+find out about upcoming public walks!</p>
 </td>
 </tr>
 <tr>
@@ -79,9 +81,8 @@ by Cicada Tree Eco-Place</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://blogs.ntu.edu.sg/sao-earthlinkntu/" rel="noopener noreferrer nofollow" target="_blank">Earthlink NTU</a></strong> members
 will share about the unique biodiversity of NTU's campus and the many challenges
-we face living close to a wildlife-rich area. Specimens collected from
-past human-wildlife conflict issues, such as bird strikes, will be put
-on display.</p>
+we face living close to a wildlife-rich area. Insects specimens collected
+on NTU campus will also be put on display!</p>
 </td>
 </tr>
 <tr>
@@ -92,13 +93,12 @@ on display.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore (ENSING)</a></strong> hopes
-to showcase some of our insect variety and ways of life, and the threats
-they face. Different insects play different but equally important roles
-in the environment, but more often than not they are misunderstood and
-shunned. So, learn how to identify the variety of insects found in Singapore,
-not just the charismatic ones, and how they contribute to our daily lives.
-You don’t have to venture deep into the forests to find them, many can
-be spotted right in your own backyard.</p>
+to showcase some of Singapore's insect variety and their ways of life.
+Different insects play different but equally important roles in the environment,
+but more often than not they are misunderstood and overlooked. Learn how
+to identify the variety of insects found in Singapore, not just the charismatic
+ones. You don’t have to venture deep into the forests to find them, many
+can be spotted right in your own backyard!</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ be spotted right in your own backyard.</p>
 is a dynamic network of stakeholders from civil society, business, academia
 and public service. Explore the incredible marine biodiversity of Singapore
 and learn about ongoing conservation efforts by the marine community with
-Friends of Marine Park. Through engaging activities, we showcase how individuals
+Friends of Marine Park. Through engaging activities, FMP showcase how individuals
 and organizations are working together to protect our oceans.</p>
 </td>
 </tr>
@@ -125,10 +125,11 @@ and organizations are working together to protect our oceans.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://herpsocsg.com/" rel="noopener noreferrer nofollow" target="_blank">Herpetological Society of Singapore (HSS)</a></strong> is
-a group of herpetology enthusiasts based in Singapore. HSS's booth will
-have a variety of reptile specimens and posters, along with herp-themed
-figurines &amp; toys. Furthermore, we will also be selling our merchandise
-(stickers, pins, and posters) at the booth.</p>
+a group of herpetology enthusiasts based in Singapore. HSS will showcase
+wet and dry specimens of some local herpetofauna, informative posters,
+figurines, scientific models, and photos and videos taken by members. Look
+forward to exciting merchandise, including stickers, pins, T-shirts, posters,
+and the "A Field Guide to the Reptiles and Amphibians of Singapore" book.</p>
 </td>
 </tr>
 <tr>
@@ -140,10 +141,12 @@ figurines &amp; toys. Furthermore, we will also be selling our merchandise
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://janegoodall.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Jane Goodall Institute (Singapore) (JGIS)</a></strong> is
 the local chapter of the organisation founded by Dr. Jane Goodall to empower
-people to make a difference for all living things. We aim to inspire hope
-through action. Our vision is to promote a healthy planet where people
-make compassionate choices to live sustainably and in harmony with each
-other, the environment, and animals.</p>
+people to make a difference for all living things. The booth will highlight
+JGIS' work in Singapore: Roots &amp; Shoots, the Raffles Banded Langur
+Citizen Science programme, Long-tailed Macaque Guarding and Ecotherapy,
+and share the message of harmonious coexistence between humans and wildlife.
+Look forward to interactive bingo and origami activities, and stickers
+as giveaways.</p>
 </td>
 </tr>
 <tr>
@@ -154,12 +157,14 @@ other, the environment, and animals.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong><a href="https://www.instagram.com/justkeepthinkingsg/" rel="noopener nofollow" target="_blank">Just Keep Thinking</a> </strong>booth
-will showcase the Eco-Train Exhibition, a free, public-access environmental
-education initiative focused on Southeast Asia’s rainforests. Featuring
-a miniature Eco-Train model, AR rainforest experience, and showcasing wildlife
-specimens, the booth aims to raise awareness, engage stakeholders, and
-explore collaboration opportunities to expand the project’s impact.</p>
+<p><strong><a href="https://www.instagram.com/justkeepthinkingsg/" rel="noopener nofollow" target="_blank">Just Keep Thinking</a> </strong>aims
+to inspire curiosity in the youths by making learning fun, engaging, and
+meaningful. Their booth - “Become a Wildlife Storyteller” invites visitors
+to discover fascinating Singapore wildlife and learn how science communication
+turns facts into engaging stories. Through quick interactive activities,
+visitors will explore local species, try crafting their own wildlife stories,
+and discover the Wildlife Library. It also showcases how Just Keep Thinking
+uses storytelling to make biodiversity accessible and inspiring.</p>
 </td>
 </tr>
 <tr>
@@ -171,11 +176,10 @@ explore collaboration opportunities to expand the project’s impact.</p>
 <td rowspan="1" colspan="1">
 <p>The <strong><a href="https://lkcnhm.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Lee Kong Chian Natural History Museum</a></strong> is
 Singapore’s only natural history museum, located at the National University
-of Singapore. We house over a million biological specimens, field notes,
-and photographs from Southeast Asia. We support biodiversity research,
-share knowledge with the public, and engage in education and outreach,
-preserving Singapore’s natural heritage and contributing to global scientific
-efforts.</p>
+of Singapore. Visit the outreach booth for a closer look at the incredible
+diversity of life in Singapore and Southeast Asia. Discover fascinating
+specimens and learn how scientists document biodiversity through museum
+collections and research expeditions.</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +191,8 @@ efforts.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://lepakinsg.wordpress.com/" rel="noopener nofollow" target="_blank">LepakInSG</a></strong> will
-be conducting a quiz game on environmental issues in Singapore.</p>
+host nature-themed quizzes and share about ecological connectivity in Singapore.
+Handmade stuffed marine animals will be up for grabs at their booth!</p>
 </td>
 </tr>
 <tr>
@@ -197,10 +202,12 @@ be conducting a quiz game on environmental issues in Singapore.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learn about how <strong><a href="https://www.mandainature.org/en/home.html" rel="noopener noreferrer nofollow" target="_blank">Mandai Nature</a></strong>,
-the conservation arm of Mandai Wildlife Group, helps ensure local biodiversity
-found in the Mandai Wildlife Reserve can thrive, and find out how we work
-with partners to protect some of Southeast Asia's most threatened wildlife.</p>
+<p><strong><a href="https://www.mandainature.org/en/home.html" rel="noopener noreferrer nofollow" target="_blank">Mandai Nature</a></strong> is
+the conservation arm of Mandai Wildlife Group. Learn about how they are
+protecting Singapore's unique native biodiversity - from the shy and scaly
+Sunda pangolin to the tree-dwelling Sunda colugo and rare Raffles' banded
+langur.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -211,13 +218,11 @@ with partners to protect some of Southeast Asia's most threatened wildlife.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong><a href="https://npss.org.sg/" rel="noopener nofollow" target="_blank">Nature Photographic Society Singapore (NPSS)</a></strong> specialises
-in taking nature photos such as Avian/Wildlife, macro, and landscape. Our
-booth will have photo exhibits showing members works, in addition to logo.
-There will be a demonstration of how to take live macro photos at the booth
-and video clips of the society’s activities. We will also show how to take
-responsible nature photos, such as not closing in to the subject especially
-in nesting situations.</p>
+<p>The <strong><a href="https://npss.org.sg/" rel="noopener nofollow" target="_blank">Nature Photographic Society Singapore (NPSS)</a></strong> seeks
+to bring together lovers of both nature and photography. The society organise
+photography sessions primarily in Singapore (and overseas) - recording
+the transient moments and fostering positive awareness of the fragile natural
+environment around us.</p>
 </td>
 </tr>
 <tr>
@@ -227,13 +232,13 @@ in nesting situations.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society (Singapore)</a></strong> is
-a non-government, non-profit organisation dedicated to the appreciation,
-conservation, study and enjoyment of the natural heritage in Singapore,
-Malaysia and the surrounding region.&nbsp;Singapore is home to a wide array
-of biodiversity from the very tiny to the majestic. Visit our booth to
-find out more about them and our natural environment through a combination
-of show and tell and activities.</p>
+<p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society (Singapore)</a></strong> (NSS)
+booth will be run by a diverse team of volunteers and staff, coming together
+to share stories of Singapore's unique ecosystems, native wildlife, and
+ongoing conservation efforts. The booth will showcase NSS initiatives and
+merchandise. Visit and discover how you can get involved and support nature
+conservation in Singapore!</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -243,8 +248,10 @@ of show and tell and activities.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a></strong> will
-highlight local plants and fungi and their usefulness to humans.</p>
+<p><strong><a href="https://nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a></strong> Department
+of Biological Sciences will put up display of highlight plants and fungi.
+Learn more about their usefulness to humans and the role they play in the
+natural world.</p>
 </td>
 </tr>
 <tr>
@@ -255,12 +262,12 @@ highlight local plants and fungi and their usefulness to humans.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://toddycats.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS Toddycats!</a></strong> are
-volunteers with the Lee Kong Chian Natural History Museum. We aim to expose,
-develop, enthuse and apply individuals to programmes in conservation, education
-and research. We engage the public through exhibitions, seminars and symposia,
-nature and heritage trails, Coastal Clean-ups, online resources and form
-active partnerships with the larger community! Come to our booth to find
-out how you can contribute!</p>
+volunteers with the Lee Kong Chian Natural History Museum. The group aims
+to expose, develop, enthuse and apply individuals to programmes in conservation,
+education and research. They engage the public through exhibitions, seminars
+and symposia, nature and heritage trails, Coastal Clean-ups, online resources
+and form active partnerships with the larger community! Visit the booth
+to find out how you can contribute!</p>
 </td>
 </tr>
 <tr>
@@ -270,8 +277,12 @@ out how you can contribute!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NParks - Conservation Division</strong> will showcase our natural
-heritage found in our Nature Reserves and Nature Parks at our booth.</p>
+<p><strong>NParks - Conservation Division</strong> will showcase biodiversity
+specimens from three branches- Bukit Timah Nature Reserve, Pulau Ubin,
+and Sungei Buloh Wetland Reserve. The booth will showcase various preserved
+specimens that highlight the rich biodiversity found in these unique habitats,
+and discover the conservation work carried out to protect Singapore’s natural
+heritage.</p>
 </td>
 </tr>
 <tr>
@@ -281,10 +292,27 @@ heritage found in our Nature Reserves and Nature Parks at our booth.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-in-singapore/about-wildlife-in-singapore" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> takes
-a community- and science-based approach to human-wildlife encounters in
-Singapore. Come learn more about our work and how you can play your part
-in ensuring safe and responsible encounters with wildlife.</p>
+<p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-in-singapore/about-wildlife-in-singapore" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> will
+showcase information on Singapore's urban wildlife and how to live with
+nature. Learn about Singapore's various urban wildlife species, and play
+interactive games to understand more about these animals and how to manage
+encounters with them. Wildlife-themed prizes are available for participants
+who engage with the booth activities!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU Logo" src="/images/Logos/Nanyang_Technological_University_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The <strong><a href="https://www.ntu.edu.sg/ase" rel="noopener nofollow" target="_blank">Asian School of Environment (ASE)</a> </strong>at
+NTU showcase biodiversity through hands-on learning! Visitors can explore
+programmes via brochures, view specimens from labs, and take part in simple
+interactive activities led by faculty, ASE Club members, and student helpers.
+The booth offers close-up insights into ecology, conservation, and environmental
+science.</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +325,7 @@ in ensuring safe and responsible encounters with wildlife.</p>
 <p>The <strong><a href="https://www.facebook.com/OtterWatch/posts/introducing-singapores-otter-working-group/1127515683987645/" rel="noopener noreferrer nofollow" target="_blank">Otter Working Group</a></strong> is
 a close partnership of multiple entities including NParks, NUS, ACRES,
 PAssion Wave, PUB, Mandai Wildlife Group, and members of the public, collectively
-working towards otter conservation and management in Singapore. Visit our
+working towards otter conservation and management in Singapore. Visit the
 Otter Working Group booth to find out more.</p>
 </td>
 </tr>
@@ -310,11 +338,26 @@ Otter Working Group booth to find out more.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.ourwildneighbours.sg/" rel="noopener noreferrer nofollow" target="_blank">Our Wild Neighbours (OWN) Initiative</a></strong> is
 a nationwide outreach programme promoting human-wildlife coexistence in
-Singapore. Supported by Mandai Nature and in partnership with local nature
-groups, OWN seeks to educate and empower the public to live harmoniously
-with our wildlife. Ever wonder how you can minimise the occurrence of bats
-roosting in your attic or discourage macaques from visiting your estate?
-Visit our booth to find out more!</p>
+Singapore. Adventurous macaques, curious otters, and introverted reptiles
+are just some of our unique wild neighbours sharing spaces with us. Get
+acquainted with Singapore’s common native urban wildlife, and discover
+how coexistence with wild animals is possible in our City in Nature.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Project Avigate Logo" src="/images/Logos/ProjectAvigate.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://pjavigate.wixsite.com/project-avigate" rel="noopener nofollow" target="_blank">Project Avigate</a> </strong>is
+a student-led initiative at Nanyang Technological University (NTU), dedicated
+to monitoring and preventing bird-building collisions at NTU. They aim
+to raise awareness about the species most commonly affected by such collisions,
+explore why these incidents happen and why they matter, and introduce visitors
+to the resources available if they encounter a bird-building collision
+themselves.</p>
 </td>
 </tr>
 <tr>
@@ -326,9 +369,9 @@ Visit our booth to find out more!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.facebook.com/RBLWG/" rel="noopener noreferrer nofollow" target="_blank">Raffles' Banded Langur Working Group</a></strong> was
 established in 2016 to carry out research, education outreach and conservation
-activities for the Raffles' Banded Langur (Presbytis femoralis). It is
-a Critically Endangered monkey found only in Singapore and Malaysia and
-is considered one of the top 25 most endangered primates in the world.</p>
+activities for the Raffles' Banded Langur (<em>Presbytis femoralis</em>).
+It is a Critically Endangered monkey found only in Singapore and Malaysia
+and is considered one of the top 25 most endangered primates in the world.</p>
 </td>
 </tr>
 <tr>
@@ -356,10 +399,11 @@ books, and other fun stuff will be on sale!</p>
 <p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-management/wildlife-management" rel="noopener noreferrer nofollow" target="_blank">Singapore Youth Voices for Biodiversity (SYVB)</a></strong> is
 the Singapore Chapter of the Global Youth Biodiversity Network, official
 youth representatives at the United Nations' Convention on Biological Diversity.
-We work extensively on local and international biodiversity policy and
-stakeholder engagement. Our booth will showcase SYVB's biodiversity policy
-projects, outreach events like guided walks, and advertise our social media
-projects like our COP Vlogs.</p>
+Learn about SYVB's initiatives, biodiversity policies in Singapore's context,
+and more about the Kunming-Montreal Global Biodiversity Framework (KMGBF).
+Discover how you can get involved as a member to help shape Singapore’s
+biodiversity future.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -370,9 +414,12 @@ projects like our COP Vlogs.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong><a href="https://www.nparks.gov.sg/nature/community-in-nature/straw-headed-bulbul-working-group" rel="noopener nofollow" target="_blank">Straw-headed Bulbul Working Group</a></strong> hopes
-to create awareness about the Straw-headed Bulbul, its plight and how everyone
-can help ensure the population continues to thrive in Singapore.</p>
+<p>The <strong><a href="https://www.nparks.gov.sg/nature/community-in-nature/straw-headed-bulbul-working-group" rel="noopener nofollow" target="_blank">Straw-headed Bulbul Working Group</a></strong> (SHBWG)
+booth brings together volunteers and members to introduce visitors to the
+Straw-headed Bulbul. Through displays and conversations, they will share
+more about the bird, its threats, and conservation status in Singapore
+and globally, explain the role of the working group, and highlight how
+the public can help protect this remarkable songbird.</p>
 </td>
 </tr>
 <tr>
@@ -383,10 +430,28 @@ can help ensure the population continues to thrive in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.wwf.sg/" rel="noopener noreferrer nofollow" target="_blank">World Wide Fund for Nature (WWF) Singapore</a></strong> will
-showcase topics on coral restoration, wetland conservation, public walks
-and invasive species. Discover Marine Conservation, Outdoor Programmes,
-Eco-Schools, WWF Explores. Engage with us!</p>
+showcase topics on coral restoration, wetland conservation, invasive species
+awareness, and mindful nature experiencess. Learn about outdoor walks,
+youth eco-programmes, and citizen science initiatives like Eco-Schools,
+WWF Explores, and Rooted in Nature. Discover how you can join WWF in protecting
+biodiversity!</p>
 <p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Young Nautilus logo" src="/images/Logos/youngnautilus.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://youngnautilus.com/" rel="noopener nofollow" target="_blank">Young Nautilus</a></strong> invites
+visitors to explore the hidden wonders of marine and mangrove life through
+Mystery Boxes. Reach in to feel seahorses, examine shark eggs, and see
+a taxidermized sea turtle up close. Learn why seahorses are sold as dried
+medicines and the challenges that they face. The booth offers a hands-on,
+eye-opening experience for visitors.</p>
 <p></p>
 <p></p>
 <p></p>
