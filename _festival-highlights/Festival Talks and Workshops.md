@@ -17,7 +17,14 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>More information will be updated in April 2026!</p>
+<p>12.15pm - 2.00pm</p>
+<p></p>
+<p><strong>Clay-making Animal and Plant workshop</strong>
+</p>
+<p>Nature Club students will be sharing with the public their clay making
+skills in creating local plants and animals.</p>
+<p></p>
+<p>Organised by: Westgrove Primary School</p>
 </div>
 </details>
 <details class="isomer-details">
