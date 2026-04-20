@@ -17,20 +17,6 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>12.15pm - 2.00pm: Clay-making Animal and Plant workshop</strong>
-</p>
-<p>Organised by: Westgrove Primary School</p>
-<p></p>
-<p>Nature Club students will be sharing with the public their clay making
-skills in creating local plants and animals.</p>
-<p></p>
-<p><strong>2.15 pm – 4.00 pm: Marine sharing and craft session</strong>
-</p>
-<p>Organised by: Friends of Marine Park</p>
-<p></p>
-<p>Join our marine biologists and scientists for an exciting talk and sharing
-about Singapore's marine animals! This will be followed by a craft workshop,
-where you can create your own marine-inspired masterpiece.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -50,6 +36,12 @@ Room (Level B1)</summary>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <h4>Past Webinars</h4>
 <p>Learn more about our City in Nature and our local biodiversity with videos
@@ -64,10 +56,24 @@ fauna through these opportunities and workshops.</p>
 <h4>Children's Workshops</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>6 June 2026</summary>
+<summary><strong>6 June 2026</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>More information will be updated in April 2026!</p>
+<p><strong>12.15pm - 2.00pm: Clay-making Animal and Plant workshop</strong>
+</p>
+<p>Organised by: Westgrove Primary School</p>
+<p></p>
+<p>Nature Club students will be sharing with the public their clay making
+skills in creating local plants and animals.</p>
+<p></p>
+<p><strong>2.15 pm – 4.00 pm: Marine sharing and craft session</strong>
+</p>
+<p>Organised by: Friends of Marine Park</p>
+<p></p>
+<p>Join our marine biologists and scientists for an exciting talk and sharing
+about Singapore's marine animals! This will be followed by a craft workshop,
+where you can create your own marine-inspired masterpiece.</p>
 </div>
 </details>
 <details class="isomer-details">
