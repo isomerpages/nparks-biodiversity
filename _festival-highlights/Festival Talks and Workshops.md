@@ -17,19 +17,26 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>12.15pm - 2.00pm</p>
-<p></p>
-<p><strong>Clay-making Animal and Plant workshop</strong>
+<p><strong>12.15pm - 2.00pm: Clay-making Animal and Plant workshop</strong>
 </p>
+<p>Organised by: Westgrove Primary School</p>
+<p></p>
 <p>Nature Club students will be sharing with the public their clay making
 skills in creating local plants and animals.</p>
 <p></p>
-<p>Organised by: Westgrove Primary School</p>
+<p><strong>2.15 pm – 4.00 pm: Marine sharing and craft session</strong>
+</p>
+<p>Organised by: Friends of Marine Park</p>
+<p></p>
+<p>Join our marine biologists and scientists for an exciting talk and sharing
+about Singapore's marine animals! This will be followed by a craft workshop,
+where you can create your own marine-inspired masterpiece.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>7 June 2026 at National Library Building, The Pod (Level 16)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p></p>
 <p>More information will be updated in April 2026!</p>
 </div>
