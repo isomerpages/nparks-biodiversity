@@ -13,7 +13,7 @@ and learn more about our City in Nature! Keep an eye on this page for updates
 community share fascinating insights about Singapore's rich natural&nbsp;heritage!</p>
 <p>Register for the Spotlight Talks here!</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>For Adults</strong>
 </summary>
@@ -176,8 +176,6 @@ go out photographing them.</p>
 <p></p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>For Children</summary>
 <div data-type="detailsContent" class="isomer-details-content">
