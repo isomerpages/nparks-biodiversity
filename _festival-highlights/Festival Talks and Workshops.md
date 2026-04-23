@@ -90,6 +90,7 @@ where you can create your own marine-inspired masterpiece.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/image__17_.png">
 </div>
+<p></p>
 <p>Join Opera Estate Primary School in an exciting workshop as part of the
 ALP Sustainability Programme!</p>
 <p></p>
