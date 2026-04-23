@@ -41,6 +41,20 @@ in their own capacity!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discover Singapore’s hidden biodiversity through an illustrated card collection
+by <strong><a href="https://byeobarelands.com/" rel="noopener nofollow" target="_blank">ByeO Barelands</a></strong> featuring
+real local wildlife and their ecological interactions.</p>
+<p>Designed for families, the journey begins indoors through play, continues
+outdoors as you spot these species in real life, and grows into meaningful
+action through community initiatives and volunteering.</p>
+<p>✨ Start at the table. Step into the wild. Make a difference.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/birdsoc_sg_1.png">
 </div>
@@ -74,6 +88,15 @@ find out about upcoming public walks!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commonwealth Secondary School will be showcasing their Eco Stewardship
+Programme, with a focus on nature conservation.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/earthlink%20ntu%20logo.png">
 </div>
@@ -83,6 +106,21 @@ find out about upcoming public walks!</p>
 will share about the unique biodiversity of NTU's campus and the many challenges
 we face living close to a wildlife-rich area. Insects specimens collected
 on NTU campus will also be put on display!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Step into the hidden world of Singapore’s ‘ghosts of the forest’ and discover
+the Sambar deer up close at EcoWild Asia's booth. Stand beside a 2m-tall
+deer to see how you measure up, watch a short immersive film, and explore
+interactive activities for all ages. Build an ideal deer habitat, take
+on a fun quiz, and uncover surprising facts about their role in our ecosystem.
+View real antlers, a taxidermy display, and night-vision binoculars, and
+learn simple ways we can coexist more thoughtfully with wildlife around
+us.</p>
 </td>
 </tr>
 <tr>
@@ -346,6 +384,19 @@ how coexistence with wild animals is possible in our City in Nature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>There is currently a lack of understanding on the negative impacts of
+our fishing industry, as well as a general lack of data on where our fish
+come from and how they are caught. <strong><a href="https://pasarfish.com/" rel="noopener nofollow" target="_blank">Pasarfish</a></strong> is
+raising awareness and fostering understanding of these issues, while encouraging
+public support for sustainable practices and policies, ultimately leading
+to collective action and effective efforts towards sustainability and conservation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Project Avigate Logo" src="/images/Logos/ProjectAvigate.png">
 </div>
@@ -372,6 +423,19 @@ established in 2016 to carry out research, education outreach and conservation
 activities for the Raffles' Banded Langur (<em>Presbytis femoralis</em>).
 It is a Critically Endangered monkey found only in Singapore and Malaysia
 and is considered one of the top 25 most endangered primates in the world.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RP_Logo_CMYK_High_Res_Light_BG.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic's booth will showcase their efforts in horseshoe
+crab conservation over the past decade. There will also be displays of
+other biodiversity projects that the diploma has worked on in recent years.</p>
 </td>
 </tr>
 <tr>
