@@ -274,10 +274,6 @@ skills in creating local plants and animals.</p>
 </p>
 <p>Organised by: Friends of Marine Park</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/c2fc4ac7_a56a_4b40_a467_7d185e115405.jpg">
-</div>
-<p></p>
 <p>Join our marine biologists and scientists for an exciting talk and sharing
 about Singapore's marine animals! This will be followed by a craft workshop,
 where you can create your own marine-inspired masterpiece.</p>
@@ -285,10 +281,6 @@ where you can create your own marine-inspired masterpiece.</p>
 <p><strong>3.00 pm - 4.00 pm: Terrarium Workshop with Glass Bottle Painting</strong>
 </p>
 <p>Organised by: Opera Estate Primary School</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/image__17_.png">
-</div>
 <p></p>
 <p>Join Opera Estate Primary School in an exciting workshop as part of the
 ALP Sustainability Programme!</p>
