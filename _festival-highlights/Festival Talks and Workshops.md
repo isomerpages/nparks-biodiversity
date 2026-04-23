@@ -99,7 +99,7 @@ using paper, fostering creativity while appreciating biodiversity and patterns
 in nature.</p>
 </li>
 <li>
-<p><strong>Paper Fish Craft </strong>
+<p><strong>Paper Fish Craft</strong>
 </p>
 <p>Make paper fishes to explore marine life and raise awareness about the
 importance of protecting aquatic environments.</p>
