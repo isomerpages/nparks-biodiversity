@@ -113,7 +113,6 @@ importance of protecting aquatic environments.</p>
 <p></p>
 <p><strong>10.15 am - 2.00 pm: Love Our Wildcats!</strong>
 </p>
-<p></p>
 <p>Organised by: Singapore Wildcat Action Group</p>
 <p></p>
 <p>Hear stories of tigers and snow leopards! Have fun colouring wildcats,
@@ -121,7 +120,6 @@ and having your face painted as one of them!</p>
 <p></p>
 <p><strong>2.15 pm - 4.00 pm: Make a Wild Friend (Clay Workshop)</strong>
 </p>
-<p></p>
 <p>Organised by: ACRES</p>
 <p></p>
 <p>Do you love wild animals and know that you shouldn't get close enough
@@ -133,7 +131,6 @@ these wonderful wild neighbours and share about your animal on Instagram
 <p></p>
 <p><strong>4.15 pm - 6.00 pm: Conservation Seekers</strong>
 </p>
-<p></p>
 <p>Organised by: World Wide Fund for Nature (Singapore)</p>
 <p></p>
 <p>Join us for an interactive board game that makes learning about biodiversity,
@@ -149,7 +146,6 @@ young children.</p>
 <p></p>
 <p><strong>2.15 pm - 4.00pm: If You Were a Monkey</strong>
 </p>
-<p></p>
 <p>Organised by: Deepa Ramanathan</p>
 <p></p>
 <p><em>This workshop will take place at the </em><strong><em>Central Library (Immersive Room, B1)</em></strong><em>, instead of the Workshop Zone on the Stage at the Plaza.</em>
