@@ -315,7 +315,8 @@ importance of protecting aquatic environments.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>7 June 2026</summary>
+<summary><strong>7 June 2026</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>10.15 am - 2.00 pm: Love Our Wildcats!</strong>
