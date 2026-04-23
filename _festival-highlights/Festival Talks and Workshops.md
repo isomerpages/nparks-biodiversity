@@ -176,7 +176,8 @@ go out photographing them.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>For Children</summary>
+<summary><strong>For Children</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
