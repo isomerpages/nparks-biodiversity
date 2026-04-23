@@ -75,6 +75,10 @@ skills in creating local plants and animals.</p>
 </p>
 <p>Organised by: Friends of Marine Park</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/c2fc4ac7_a56a_4b40_a467_7d185e115405.jpg">
+</div>
+<p></p>
 <p>Join our marine biologists and scientists for an exciting talk and sharing
 about Singapore's marine animals! This will be followed by a craft workshop,
 where you can create your own marine-inspired masterpiece.</p>
