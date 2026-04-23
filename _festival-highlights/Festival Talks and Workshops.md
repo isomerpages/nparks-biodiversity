@@ -173,7 +173,6 @@ go out photographing them.</p>
 </div>
 </details>
 </div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
