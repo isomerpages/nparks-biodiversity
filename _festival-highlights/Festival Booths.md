@@ -45,12 +45,12 @@ in their own capacity!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover Singapore’s hidden biodiversity through an illustrated card collection
-by <strong><a href="https://byeobarelands.com/" rel="noopener nofollow" target="_blank">ByeO Barelands</a></strong> featuring
-real local wildlife and their ecological interactions.</p>
+by <strong><a href="https://byeobarelands.com/" rel="noopener nofollow" target="_blank">ByeO Barelands</a></strong>,
+featuring real local wildlife and their ecological interactions.</p>
 <p>Designed for families, the journey begins indoors through play, continues
 outdoors as you spot these species in real life, and grows into meaningful
 action through community initiatives and volunteering.</p>
-<p>✨ Start at the table. Step into the wild. Make a difference.</p>
+<p>Start at the table. Step into the wild. Make a difference.</p>
 </td>
 </tr>
 <tr>
