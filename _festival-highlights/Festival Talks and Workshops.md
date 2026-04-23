@@ -131,20 +131,6 @@ pet these! While modelling, hear some stories about our encounters with
 these wonderful wild neighbours and share about your animal on Instagram
 (@eyesofacres) before you take it home.</p>
 <p></p>
-<p><strong>2.15 pm - 4.00pm: If You Were a Monkey</strong>
-</p>
-<p></p>
-<p>Organised by: Deepa Ramanathan</p>
-<p></p>
-<p><em>This workshop will take place at the </em><strong><em>Central Library (Immersive Room, B1)</em></strong><em>.</em>
-</p>
-<p></p>
-<p>Join us for an energising physical activity followed by a reading of the
-book "If You Were a Monkey." After the storytelling session, participants
-can engage in an "Ask-Me-Anything" segment to explore questions about the
-story and its themes. If time permits, the session will conclude with a
-hands-on art activity and participants can take home a small memento.</p>
-<p></p>
 <p><strong>4.15 pm - 6.00 pm: Conservation Seekers</strong>
 </p>
 <p></p>
@@ -161,7 +147,19 @@ booth! Each round lasts 25 – 30 minutes, with up to three rounds in the
 teamwork and environmental awareness, making it ideal for families and
 young children.</p>
 <p></p>
+<p><strong>2.15 pm - 4.00pm: If You Were a Monkey</strong>
+</p>
 <p></p>
+<p>Organised by: Deepa Ramanathan</p>
+<p></p>
+<p><em>This workshop will take place at the </em><strong><em>Central Library (Immersive Room, B1)</em></strong><em>, instead of the Workshop Zone on the Stage at the Plaza.</em>
+</p>
+<p></p>
+<p>Join us for an energising physical activity followed by a reading of the
+book "If You Were a Monkey." After the storytelling session, participants
+can engage in an "Ask-Me-Anything" segment to explore questions about the
+story and its themes. If time permits, the session will conclude with a
+hands-on art activity and participants can take home a small memento.</p>
 <p></p>
 </div>
 </details>
