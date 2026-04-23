@@ -87,7 +87,6 @@ where you can create your own marine-inspired masterpiece.</p>
 </p>
 <p>Organised by: Opera Estate Primary School</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/image__17_.png">
 </div>
