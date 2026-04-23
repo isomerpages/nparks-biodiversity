@@ -87,6 +87,10 @@ where you can create your own marine-inspired masterpiece.</p>
 </p>
 <p>Organised by: Opera Estate Primary School</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/image__17_.png">
+</div>
 <p>Join Opera Estate Primary School in an exciting workshop as part of the
 ALP Sustainability Programme!</p>
 <p></p>
@@ -172,5 +176,6 @@ hands-on art activity and participants can take home a small memento.</p>
 <p>More information will be updated in April 2026!</p>
 </div>
 </details>
+<p></p>
 <p></p>
 <p></p>
