@@ -11,12 +11,30 @@ and learn more about our City in Nature! Keep an eye on this page for updates
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage!</p>
+<p>Register for the Spotlight Talks here!</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>For Adults</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>6 June 2026 at National Library Building, Central Public Library Programme
-Room (Level B1)</summary>
+<summary>6 June 2026, at National Library Building, <strong>Possibility &amp; Imagination Room (Level 5)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>4.15 pm - 5.45 pm:</strong>  <strong>Living Shores in a Changing City</strong>
+</p>
+<p></p>
+<p>Speaker: Singapore Youth Voices of Biodiversity</p>
+<p></p>
+<p>Singapore’s coastline has been reshaped for decades through land reclamation
+and urban development. Today, rising sea levels and climate change bring
+new challenges, and major coastal protection plans are set to redefine
+our relationship with the sea. This talk explores Singapore’s coastal biodiversity
+and ecosystems—from mangroves to seagrass meadows—and the vital roles they
+play. What does the future of Singapore’s coastline look like, and what
+do we stand to lose or gain as we reshape our coasts for protection?</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -32,19 +50,128 @@ Room (Level B1)</summary>
 Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>More information will be updated in April 2026!</p>
+<p><strong>10.15 am - 11.45 am: Saving Singapore’s Wildlife: Trade, Rescue, and Second Chances</strong>
+</p>
+<p></p>
+<p>Speaker: Karina Lim, ACRES</p>
+<p></p>
+<p>In this two-part talk, ACRES explores illegal wildlife trade in Singapore
+and its impact on local biodiversity, and how rescue and rehabilitation
+efforts protect our animals. The first part highlights how native wildlife
+are targeted by poachers, and examines how animals commonly sold in the
+pet trade can become introduced species when abandoned and why this is
+harmful. The second part showcases ACRES’ wildlife rescue work, from initial
+rescue to treatment, rehab, and eventual release of injured wildlife. Real
+rescue stories reveal the challenges of urban wildlife rescue and how participants
+can help protect Singapore’s wildlife. Join us for either part or the full
+session and discover how YOU can make a difference!</p>
+<p></p>
+<p><strong>12.15 pm - 1.30 pm: Capturing Nature's Unexpected Moments and Stories</strong>
+</p>
+<p></p>
+<p>Speaker: Alan Ow Yong, Nature Society of Singapore</p>
+<p></p>
+<p>This talk features over 60 photos capturing moments and unusual behaviour
+of birds and other wildlife in their natural habitats. They tell stories
+of the species and their relationships with their own kind, other species,
+and their habitats. The presentation includes aerial and ground courtship,
+territorial fights, predation, feeding and nesting, and humorous and unusual
+antics. The talk encourages nature photographers to go beyond the usual
+static and flight shots and instead look for and capture unexpected moments
+that reveal the stories. Beyond understanding the behaviour of one’s subjects,
+learn how giving wildlife space and respect can help you capture more meaningful
+images.</p>
+<p></p>
+<p><strong>1.45 pm - 3.15 pm: How Do Birds Know Where to Go?</strong>
+</p>
+<p></p>
+<p>Speaker: Raghav Narayanswamy, Vice-president, Bird Society of Singapore</p>
+<p></p>
+<p>Humans have noticed seasonal changes in bird populations for thousands
+of years, but migration was only discovered in the 1800s. Aristotle proposed
+that birds hibernate in winter by burrowing into the ground, or transform
+themselves into other species twice annually. These theories were widely
+accepted for centuries – have you ever seen robins and redstarts in the
+same room together? We now know that thousands of bird species are migratory,
+including about half of Singapore's birds. The navigational precision and
+endurance of tiny birds covering thousands of kilometers every year is
+inspiring and humbling. But how do birds know where and when to migrate?
+Join us to find out!</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>7 June 2026, at National Library Building,<strong> Imagination Room (Level 5)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>2.15 pm - 3.45 pm: Introduction to Nature Photography and Best Practices</strong>
+</p>
+<p></p>
+<p>Speaker: Tay Swee Yuan, President, Nature Photographic Society Singapore</p>
+<p></p>
+<p>NPSS President, Mr. Tay Swee Yuan will share some of the society's most
+memorable experiences from the hobby of nature photography in Singapore
+till date. He will also touch base on key best practices when out in the
+field and shed light on how some of the most memorable pictures were crafted
+while respecting nature.</p>
+<p></p>
+<p><strong>4.00 pm - 5.30pm: A Chorus in the Forest: Decoding the Language of Frog Calls</strong>
+</p>
+<p></p>
+<p>Speaker: Law Ingg Thong, Herpetological Society of Singapore</p>
+<p></p>
+<p>South-East Asia is a treasure trove of biodiversity and boasts astounding
+amphibian diversity. Join us as we delve into the intricate tapestry of
+amphibian life in South-East Asia, exploring the integral role that frog
+calls play in their ecosystems. Through our discussion, we will unravel
+the mysteries behind these unique vocalisations and shed light on their
+broader implications for biodiversity, culture and conservation.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>7 June 2026, at National Library Building,<strong> Possibility room (Level 5)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>2.15 pm - 3.45 pm:</strong>  <strong>More Like Us Than You Think:</strong>
+</p>
+<p><strong>The Parallels Between Human and Wild Animal Lives</strong>
+</p>
+<p></p>
+<p>Speaker: Our Wild Neighbours</p>
+<p></p>
+<p>From raising families to defending territory, Singapore’s wildlife faces
+many of the same challenges that humans do. Animals such as macaques, otters,
+civets, and snakes respond to their environment in ways shaped by social
+relationships and learned behaviours — much like us. In this talk, we explore
+the surprising parallels between human society and wildlife behaviour.
+Discover complex family dynamics, early-life experiences of young animals,
+strategies for avoiding conflict, and much more. By understanding the behavioural
+patterns behind these animals’ actions, we can replace fear with empathy
+and conflict with coexistence. Seeing wildlife as neighbours with their
+own social lives helps us make better choices that allow both people and
+animals to thrive in the same city.</p>
+<p></p>
+<p><strong>4.00 pm - 5.30 pm: Size Doesn’t Matter: Tiny Insects, Massive Diversity in Singapore</strong>
+</p>
+<p></p>
+<p>Speaker: Entomological Society of Singapore</p>
+<p></p>
+<p>In this talk, two youths will share on the marvellous and splendid world
+of an overlooked taxon: insects. Despite being the most speciose and crucial
+group for ecosystem balance, many Singaporeans are unaware about the diversity
+and the irreplaceable roles insects play; much less how their survival
+affects us. In this talk, discover common insects found in urban Singapore,
+including the hidden taxa of insects that reside in our forests. Learn
+about the threats they face and the well-recognised role of each insect
+order in the ecosystem. As lack of awareness is one of the biggest obstacles
+to their conservations, this talk teaches audiences how to appreciate insects,
+learn more about them through citizen science, social media and how to
+go out photographing them.</p>
+</div>
+</details>
+</div>
 <p></p>
 </div>
 </details>
@@ -69,7 +196,7 @@ Central Library (Immersive Room, B1).</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>12.15 pm - 2.00 pm: Clay-making Animal and Plant workshop</strong>
+<p><strong>12.15 pm - 2.00 pm: Clay-Making Animal and Plant Workshop</strong>
 </p>
 <p>Organised by: Westgrove Primary School</p>
 <p></p>
@@ -77,7 +204,7 @@ Central Library (Immersive Room, B1).</p>
 skills in creating local plants and animals.</p>
 <p></p>
 <p></p>
-<p><strong>2.15 pm – 4.00 pm: Marine sharing and craft session</strong>
+<p><strong>2.15 pm – 4.00 pm: Marine Sharing and Craft Session</strong>
 </p>
 <p>Organised by: Friends of Marine Park</p>
 <p></p>
