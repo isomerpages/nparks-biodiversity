@@ -20,11 +20,11 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <div data-type="detailsContent" class="isomer-details-content">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>6 June 2026, at National Library Building, <strong>Possibility &amp; Imagination Room (Level 5)</strong>
+<summary>7 June 2026, at National Library Building, <strong>Possibility &amp; Imagination Room (Level 5)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>4.15 pm - 5.45 pm:</strong>  <strong>Living Shores in a Changing City</strong>
+<p><strong>10.00 am - 11.30 am:</strong>  <strong>Living Shores in a Changing City</strong>
 </p>
 <p></p>
 <p>Speaker: Singapore Youth Voices of Biodiversity</p>
@@ -36,6 +36,29 @@ our relationship with the sea. This talk explores Singapore’s coastal biodiver
 and ecosystems—from mangroves to seagrass meadows—and the vital roles they
 play. What does the future of Singapore’s coastline look like, and what
 do we stand to lose or gain as we reshape our coasts for protection?</p>
+<p></p>
+<p><strong>2.15 pm - 3.45 pm: Introduction to Nature Photography and Best Practices (Imagination Room ONLY)</strong>
+</p>
+<p></p>
+<p>Speaker: Tay Swee Yuan, President, Nature Photographic Society Singapore</p>
+<p></p>
+<p>NPSS President, Mr. Tay Swee Yuan will share some of the society's most
+memorable experiences from the hobby of nature photography in Singapore
+till date. He will also touch base on key best practices when out in the
+field and shed light on how some of the most memorable pictures were crafted
+while respecting nature.</p>
+<p></p>
+<p><strong>4.00 pm - 5.30pm: A Chorus in the Forest: Decoding the Language of Frog Calls (Imagination Room ONLY)</strong>
+</p>
+<p></p>
+<p>Speaker: Law Ingg Thong, Herpetological Society of Singapore</p>
+<p></p>
+<p>South-East Asia is a treasure trove of biodiversity and boasts astounding
+amphibian diversity. Join us as we delve into the intricate tapestry of
+amphibian life in South-East Asia, exploring the integral role that frog
+calls play in their ecosystems. Through our discussion, we will unravel
+the mysteries behind these unique vocalisations and shed light on their
+broader implications for biodiversity, culture and conservation.</p>
 </div>
 </details>
 <details class="isomer-details">
