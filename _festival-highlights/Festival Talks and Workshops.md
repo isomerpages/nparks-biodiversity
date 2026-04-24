@@ -162,6 +162,10 @@ session and discover how YOU can make a difference!</p>
 <p></p>
 <p>Speaker: Alan Ow Yong, Nature Society of Singapore</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NSS_Alan_Ow_Yong__talk_.jpg">
+</div>
+<p></p>
 <p>This talk features over 60 photos capturing moments and unusual behaviour
 of birds and other wildlife in their natural habitats. They tell stories
 of the species and their relationships with their own kind, other species,
@@ -177,6 +181,10 @@ images.</p>
 </p>
 <p></p>
 <p>Speaker: Raghav Narayanswamy, Vice-president, Bird Society of Singapore</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Raghav_Narayanswamy__Birdsoc___talk_.jpg">
+</div>
 <p></p>
 <p>Humans have noticed seasonal changes in bird populations for thousands
 of years, but migration was only discovered in the 1800s. Aristotle proposed
@@ -209,6 +217,10 @@ Room (Level B1)</summary>
 <p></p>
 <p>Speaker: Movin Nyanasengeran, President, Bird Society of Singapore</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Birdsoc_Movin__talk_.jpg">
+</div>
+<p></p>
 <p>This talk explores bird migration and the reasons and causes of this natural
 phenomenon in a manner that is accessible to children. In this talk, we
 explore which species of birds you can see in Singapore have travelled
@@ -224,7 +236,11 @@ Room (Level B1)</summary>
 <p><strong>2.15 pm - 3.45 pm: Changi Intertidal Virtual Exploration</strong>
 </p>
 <p></p>
-<p>Speaker: Young Nautilus</p>
+<p>Speaker: Muhd Muhaimin, Operations Executive, Young Nautilus</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Young_Nautilus__Talk_.png">
+</div>
 <p></p>
 <p>Join Young Nautilus on an exciting journey into Singapore’s Marine Intertidal
 zone at Changi coast. Through interactive video skits, encounter fascinating
@@ -246,6 +262,10 @@ Room (Level B1)</summary>
 </p>
 <p></p>
 <p>Speaker: Kannan Raja, President, Herpetological Society of Singapore</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Kannan_Raja__Herpetological_Society_of_Singapore___talk_.jpg">
+</div>
 <p></p>
 <p>Snakes might look scary, but they are some of Singapore’s most fascinating
 wildlife neighbours. Join us for a fun, kid-friendly session exploring
