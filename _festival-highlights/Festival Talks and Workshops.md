@@ -108,6 +108,10 @@ animals to thrive in the same city.</p>
 <p></p>
 <p>Speaker: Entomological Society of Singapore</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ENSING__Talk_.jpg">
+</div>
+<p></p>
 <p>In this talk, two youths will share on the marvellous and splendid world
 of an overlooked taxon: insects. Despite being the most speciose and crucial
 group for ecosystem balance, many Singaporeans are unaware about the diversity
