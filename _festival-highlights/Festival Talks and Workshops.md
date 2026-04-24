@@ -51,7 +51,6 @@ do we stand to lose or gain as we reshape our coasts for protection?</p>
 <p></p>
 <p>Speaker: Tay Swee Yuan, President, Nature Photographic Society Singapore</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NPSS_Mr_Tay_Swee_Yuan__Talk_.jpg">
 </div>
@@ -66,6 +65,10 @@ while respecting nature.</p>
 </p>
 <p></p>
 <p>Speaker: Law Ingg Thong, Herpetological Society of Singapore</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/HSS___Law_Ingg_Thong__Talk_.jpg">
+</div>
 <p></p>
 <p>South-East Asia is a treasure trove of biodiversity and boasts astounding
 amphibian diversity. Join us as we delve into the intricate tapestry of
