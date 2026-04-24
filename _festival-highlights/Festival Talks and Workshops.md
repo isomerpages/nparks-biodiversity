@@ -51,6 +51,11 @@ do we stand to lose or gain as we reshape our coasts for protection?</p>
 <p></p>
 <p>Speaker: Tay Swee Yuan, President, Nature Photographic Society Singapore</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NPSS_Mr_Tay_Swee_Yuan__Talk_.jpg">
+</div>
+<p></p>
 <p>NPSS President, Mr. Tay Swee Yuan will share some of the society's most
 memorable experiences from the hobby of nature photography in Singapore
 till date. He will also touch base on key best practices when out in the
