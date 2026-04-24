@@ -88,7 +88,7 @@ broader implications for biodiversity, culture and conservation.</p>
 <p>Speaker: Jasvic Lye, Campaign Manager, Our Wild Neighbours</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jasvic_OWN__Talk_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Jasvic_OWN__Talk_.jpg">
 </div>
 <p></p>
 <p>From raising families to defending territory, Singapore’s wildlife faces
@@ -239,7 +239,7 @@ Room (Level B1)</summary>
 <p>Speaker: Muhd Muhaimin, Operations Executive, Young Nautilus</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Young_Nautilus__Talk_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Young_Nautilus__Talk_.png">
 </div>
 <p></p>
 <p>Join Young Nautilus on an exciting journey into Singapore’s Marine Intertidal
