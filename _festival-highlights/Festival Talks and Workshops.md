@@ -31,6 +31,10 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 <p></p>
 <p>Speaker: Singapore Youth Voices of Biodiversity</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SYVB__Talk_.jpg">
+</div>
+<p></p>
 <p>Singapore’s coastline has been reshaped for decades through land reclamation
 and urban development. Today, rising sea levels and climate change bring
 new challenges, and major coastal protection plans are set to redefine
