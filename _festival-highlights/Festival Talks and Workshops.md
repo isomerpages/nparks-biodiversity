@@ -129,7 +129,6 @@ go out photographing them.</p>
 <summary>7 June 2026 at National Library Building, The Pod (Level 16)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
 <p>More information will be updated in April 2026!</p>
 </div>
 </details>
@@ -142,6 +141,10 @@ Room (Level B1)</summary>
 </p>
 <p></p>
 <p>Speaker: Karina Lim, ACRES</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/acres__talk_by_karina_lim_.jpg">
+</div>
 <p></p>
 <p>In this two-part talk, ACRES explores illegal wildlife trade in Singapore
 and its impact on local biodiversity, and how rescue and rehabilitation
