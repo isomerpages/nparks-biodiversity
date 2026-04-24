@@ -24,6 +24,8 @@ community share fascinating insights about Singapore's rich natural&nbsp;heritag
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong><u>Possibility &amp; Imagination Room</u></strong>
+</p>
 <p><strong>10.00 am - 11.30 am:</strong>  <strong>Living Shores in a Changing City</strong>
 </p>
 <p></p>
@@ -37,7 +39,10 @@ and ecosystems—from mangroves to seagrass meadows—and the vital roles they
 play. What does the future of Singapore’s coastline look like, and what
 do we stand to lose or gain as we reshape our coasts for protection?</p>
 <p></p>
-<p><strong>2.15 pm - 3.45 pm: Introduction to Nature Photography and Best Practices (Imagination Room ONLY)</strong>
+<p></p>
+<p><strong><u>Imagination Room</u></strong>
+</p>
+<p><strong>2.15 pm - 3.45 pm: Introduction to Nature Photography and Best Practices</strong>
 </p>
 <p></p>
 <p>Speaker: Tay Swee Yuan, President, Nature Photographic Society Singapore</p>
@@ -48,7 +53,7 @@ till date. He will also touch base on key best practices when out in the
 field and shed light on how some of the most memorable pictures were crafted
 while respecting nature.</p>
 <p></p>
-<p><strong>4.00 pm - 5.30pm: A Chorus in the Forest: Decoding the Language of Frog Calls (Imagination Room ONLY)</strong>
+<p><strong>4.00 pm - 5.30pm: A Chorus in the Forest: Decoding the Language of Frog Calls</strong>
 </p>
 <p></p>
 <p>Speaker: Law Ingg Thong, Herpetological Society of Singapore</p>
@@ -59,6 +64,45 @@ amphibian life in South-East Asia, exploring the integral role that frog
 calls play in their ecosystems. Through our discussion, we will unravel
 the mysteries behind these unique vocalisations and shed light on their
 broader implications for biodiversity, culture and conservation.</p>
+<p></p>
+<p></p>
+<p><strong><u>Possibility Room</u></strong>
+</p>
+<p><strong>2.15 pm - 3.45 pm:</strong>  <strong>More Like Us Than You Think:</strong>
+</p>
+<p><strong>The Parallels Between Human and Wild Animal Lives</strong>
+</p>
+<p></p>
+<p>Speaker: Our Wild Neighbours</p>
+<p></p>
+<p>From raising families to defending territory, Singapore’s wildlife faces
+many of the same challenges that humans do. Animals such as macaques, otters,
+civets, and snakes respond to their environment in ways shaped by social
+relationships and learned behaviours — much like us. In this talk, we explore
+the surprising parallels between human society and wildlife behaviour.
+Discover complex family dynamics, early-life experiences of young animals,
+strategies for avoiding conflict, and much more. By understanding the behavioural
+patterns behind these animals’ actions, we can replace fear with empathy
+and conflict with coexistence. Seeing wildlife as neighbours with their
+own social lives helps us make better choices that allow both people and
+animals to thrive in the same city.</p>
+<p></p>
+<p><strong>4.00 pm - 5.30 pm: Size Doesn’t Matter: Tiny Insects, Massive Diversity in Singapore</strong>
+</p>
+<p></p>
+<p>Speaker: Entomological Society of Singapore</p>
+<p></p>
+<p>In this talk, two youths will share on the marvellous and splendid world
+of an overlooked taxon: insects. Despite being the most speciose and crucial
+group for ecosystem balance, many Singaporeans are unaware about the diversity
+and the irreplaceable roles insects play; much less how their survival
+affects us. In this talk, discover common insects found in urban Singapore,
+including the hidden taxa of insects that reside in our forests. Learn
+about the threats they face and the well-recognised role of each insect
+order in the ecosystem. As lack of awareness is one of the biggest obstacles
+to their conservations, this talk teaches audiences how to appreciate insects,
+learn more about them through citizen science, social media and how to
+go out photographing them.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -122,77 +166,6 @@ endurance of tiny birds covering thousands of kilometers every year is
 inspiring and humbling. But how do birds know where and when to migrate?
 Join us to find out!</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>7 June 2026, at National Library Building,<strong> Imagination Room (Level 5)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>2.15 pm - 3.45 pm: Introduction to Nature Photography and Best Practices</strong>
-</p>
-<p></p>
-<p>Speaker: Tay Swee Yuan, President, Nature Photographic Society Singapore</p>
-<p></p>
-<p>NPSS President, Mr. Tay Swee Yuan will share some of the society's most
-memorable experiences from the hobby of nature photography in Singapore
-till date. He will also touch base on key best practices when out in the
-field and shed light on how some of the most memorable pictures were crafted
-while respecting nature.</p>
-<p></p>
-<p><strong>4.00 pm - 5.30pm: A Chorus in the Forest: Decoding the Language of Frog Calls</strong>
-</p>
-<p></p>
-<p>Speaker: Law Ingg Thong, Herpetological Society of Singapore</p>
-<p></p>
-<p>South-East Asia is a treasure trove of biodiversity and boasts astounding
-amphibian diversity. Join us as we delve into the intricate tapestry of
-amphibian life in South-East Asia, exploring the integral role that frog
-calls play in their ecosystems. Through our discussion, we will unravel
-the mysteries behind these unique vocalisations and shed light on their
-broader implications for biodiversity, culture and conservation.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>7 June 2026, at National Library Building,<strong> Possibility room (Level 5)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>2.15 pm - 3.45 pm:</strong>  <strong>More Like Us Than You Think:</strong>
-</p>
-<p><strong>The Parallels Between Human and Wild Animal Lives</strong>
-</p>
-<p></p>
-<p>Speaker: Our Wild Neighbours</p>
-<p></p>
-<p>From raising families to defending territory, Singapore’s wildlife faces
-many of the same challenges that humans do. Animals such as macaques, otters,
-civets, and snakes respond to their environment in ways shaped by social
-relationships and learned behaviours — much like us. In this talk, we explore
-the surprising parallels between human society and wildlife behaviour.
-Discover complex family dynamics, early-life experiences of young animals,
-strategies for avoiding conflict, and much more. By understanding the behavioural
-patterns behind these animals’ actions, we can replace fear with empathy
-and conflict with coexistence. Seeing wildlife as neighbours with their
-own social lives helps us make better choices that allow both people and
-animals to thrive in the same city.</p>
-<p></p>
-<p><strong>4.00 pm - 5.30 pm: Size Doesn’t Matter: Tiny Insects, Massive Diversity in Singapore</strong>
-</p>
-<p></p>
-<p>Speaker: Entomological Society of Singapore</p>
-<p></p>
-<p>In this talk, two youths will share on the marvellous and splendid world
-of an overlooked taxon: insects. Despite being the most speciose and crucial
-group for ecosystem balance, many Singaporeans are unaware about the diversity
-and the irreplaceable roles insects play; much less how their survival
-affects us. In this talk, discover common insects found in urban Singapore,
-including the hidden taxa of insects that reside in our forests. Learn
-about the threats they face and the well-recognised role of each insect
-order in the ecosystem. As lack of awareness is one of the biggest obstacles
-to their conservations, this talk teaches audiences how to appreciate insects,
-learn more about them through citizen science, social media and how to
-go out photographing them.</p>
 </div>
 </details>
 </div>
