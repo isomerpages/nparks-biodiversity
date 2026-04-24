@@ -85,7 +85,11 @@ broader implications for biodiversity, culture and conservation.</p>
 <p><strong>The Parallels Between Human and Wild Animal Lives</strong>
 </p>
 <p></p>
-<p>Speaker: Our Wild Neighbours</p>
+<p>Speaker: Jasvic Lye, Campaign Manager, Our Wild Neighbours</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jasvic_OWN__Talk_.jpg">
+</div>
 <p></p>
 <p>From raising families to defending territory, Singapore’s wildlife faces
 many of the same challenges that humans do. Animals such as macaques, otters,
