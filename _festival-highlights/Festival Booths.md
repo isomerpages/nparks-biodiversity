@@ -404,7 +404,7 @@ our fishing industry, as well as a general lack of data on where our fish
 come from and how they are caught. <strong><a href="https://pasarfish.com/" rel="noopener nofollow" target="_blank">Pasarfish</a></strong> is
 raising awareness and fostering understanding of these issues, while encouraging
 public support for sustainable practices and policies, ultimately leading
-to collective action and effective efforts towards sustainability and conservation</p>
+to collective action and effective efforts towards sustainability and conservation.</p>
 </td>
 </tr>
 <tr>
@@ -530,14 +530,6 @@ medicines and the challenges that they face. The booth offers a hands-on,
 eye-opening experience for visitors.</p>
 <p></p>
 <p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
