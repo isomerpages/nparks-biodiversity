@@ -25,16 +25,37 @@ Room (Level B1)</summary>
 </p>
 <p></p>
 <p>Speaker: Movin Nyanasengeran, President, Bird Society of Singapore</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Speaker</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Talk Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Birdsoc_Movin__talk_.jpg">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>This talk explores bird migration and the reasons and causes of this natural
 phenomenon in a manner that is accessible to children. In this talk, we
 explore which species of birds you can see in Singapore have travelled
 the longest, which ones escape the most extreme winter conditions and what
 adaptations they have to help them travel so far.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
