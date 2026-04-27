@@ -12,12 +12,11 @@ and learn more about our City in Nature! Keep an eye on this page for updates
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage!
 Register for the Spotlight Talks below:</p>
-<p></p>
 <h4><strong>Spotlight Talks</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>7 June 2026, at National Library Building, Possibility &amp; Imagination
-Rooms (Level 5)</summary>
+<summary><strong>7 June 2026,</strong> at National Library Building, Possibility
+&amp; Imagination Rooms (Level 5)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <hr>
 <p><strong><u>Possibility &amp; Imagination Rooms</u></strong>
@@ -95,8 +94,8 @@ go out photographing them.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>7 June 2026 at National Library Building, Central Public Library Programme
-Room (Level B1)</summary>
+<summary><strong>7 June 2026</strong> at National Library Building, Central Public
+Library Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>10.15 am - 11.45 am: Saving Singapore’s Wildlife: Trade, Rescue, and Second Chances</strong>
@@ -149,8 +148,8 @@ Join us to find out!</p>
 <h4><strong>Children's Talk</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>6 June 2026 at National Library Building, Central Public Library Programme
-Room (Level B1)</summary>
+<summary><strong>6 June 2026 </strong>at National Library Building, Central Public
+Library Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <hr>
 <p><strong>4.15 pm - 5.45 pm:</strong>  <strong>Why Do Birds Fly Here From Far Away?</strong>
@@ -166,8 +165,8 @@ adaptations they have to help them travel so far.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>7 June 2026 at National Library Building, Central Public Library Immersive
-Room (Level B1)</summary>
+<summary><strong>7 June 2026</strong> at National Library Building, Central Public
+Library Immersive Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <hr>
 <p><strong>2.15 pm - 3.45 pm: Changi Intertidal Virtual Exploration</strong>
@@ -186,8 +185,8 @@ protecting our environment.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>7 June 2026 at National Library Building, Central Public Library Programme
-Room (Level B1)</summary>
+<summary><strong>7 June 2026</strong> at National Library Building, Central Public
+Library Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <hr>
 <p><strong>1.45 pm - 3.15 pm: Snakes in Singapore: The Long and Short of It</strong>
@@ -207,7 +206,6 @@ who want to know more about some of Singapore’s most misunderstood reptiles!</
 <h1><strong>Workshops</strong></h1>
 <p>Learn more about how to care for our City in Nature and its flora and
 fauna through these opportunities and workshops.</p>
-<p></p>
 <h4><strong>Children's Workshops</strong></h4>
 <p><em>All children's workshops will take place at the Workshop Zone on the Stage at the Plaza, except for ‘If You Were a Monkey’ (7 June) which will take place at the Central Library (Immersive Room, B1).</em>
 </p>
@@ -308,7 +306,8 @@ young children.</p>
 <p></p>
 <h4><strong>Thematic Workshops</strong></h4>
 <details class="isomer-details">
-<summary>7 June 2026</summary>
+<summary><strong>7 June 2026</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>More information will be updated soon!</p>
