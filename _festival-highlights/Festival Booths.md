@@ -41,6 +41,9 @@ in their own capacity!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Question_13___3000x3000LogoTransparent_Back.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,6 +91,9 @@ find out about upcoming public walks!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Commonwealth_Secondary_School_Logo.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -384,6 +390,9 @@ how coexistence with wild animals is possible in our City in Nature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Question_13___Pasarfish_Logo_Blue_Text.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
