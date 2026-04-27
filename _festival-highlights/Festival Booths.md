@@ -32,11 +32,11 @@ your family, complete with freebies, games, and more!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://acres.org.sg/" rel="noopener noreferrer nofollow" target="_blank">ACRES</a></strong> is
 a registered Charity that aims to create a world where all animals are
-treated as fellow sentient beings. Their focus areas include wildlife rescue
-and rehabilitation, investigating wildlife crime, promoting human-wildlife
-coexistence and community outreach. Their work is encapsulated by humane
-education, raising awareness and equipping people to advance animal welfare
-in their own capacity!</p>
+treated as fellow sentient beings. ACRES' focus areas include wildlife
+rescue and rehabilitation, investigating wildlife crime, promoting human-wildlife
+coexistence and community outreach. The work that they do is encapsulated
+by humane education, raising awareness and equipping people to advance
+animal welfare in their own capacity!</p>
 </td>
 </tr>
 <tr>
@@ -47,13 +47,13 @@ in their own capacity!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discover Singapore’s hidden biodiversity through an illustrated card collection
-by <strong><a href="https://byeobarelands.com/" rel="noopener nofollow" target="_blank">ByeO Barelands</a></strong>,
-featuring real local wildlife and their ecological interactions.</p>
-<p>Designed for families, the journey begins indoors through play, continues
-outdoors as you spot these species in real life, and grows into meaningful
-action through community initiatives and volunteering.</p>
-<p>Start at the table. Step into the wild. Make a difference.</p>
+<p>Join <strong><a href="https://byeobarelands.com/" rel="noopener nofollow" target="_blank">ByeO Barelands</a></strong> to
+discover Singapore’s hidden biodiversity through an illustrated card collection,
+featuring real local wildlife and their ecological interactions. Designed
+for families, the journey begins indoors through play, continues outdoors
+as you spot these species in real life, and grows into meaningful action
+through community initiatives and volunteering. Start at the table. Step
+into the wild. Make a difference.</p>
 </td>
 </tr>
 <tr>
@@ -97,8 +97,12 @@ find out about upcoming public walks!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commonwealth Secondary School will be showcasing their Eco Stewardship
-Programme, with a focus on nature conservation.</p>
+<p><strong><a href="https://www.commonwealthsec.moe.edu.sg/" rel="noopener nofollow" target="_blank">Commonwealth Secondary School </a></strong>will
+be showcasing their Eco Stewardship Programme, which focuses on nature
+conservation. Students are actively involved in projects that promote eco-friendly
+habits, deepen their understanding of environmental issues, and empower
+them to take meaningful action within the school and wider community.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -122,14 +126,14 @@ on NTU campus will also be put on display!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Step into the hidden world of Singapore’s ‘ghosts of the forest’ and discover
-the Sambar deer up close at EcoWild Asia's booth. Stand beside a 2m-tall
-deer to see how you measure up, watch a short immersive film, and explore
-interactive activities for all ages. Build an ideal deer habitat, take
-on a fun quiz, and uncover surprising facts about their role in our ecosystem.
-View real antlers, a taxidermy display, and night-vision binoculars, and
-learn simple ways we can coexist more thoughtfully with wildlife around
-us.</p>
+<p>Join EcoWild Asia to step into the hidden world of Singapore’s “ghosts
+of the forest” and discover the sambar deer up close. See how you measure
+up beside a 2m-tall deer replica, watch a short immersive film, and explore
+interactive activities for all ages including build an ideal deer habitat,
+taking on a fun quiz, and uncovering surprising facts about their role
+in our ecosystem. Get up close to observe real antlers, a taxidermy display,
+and night-vision binoculars, while learning simple, practical ways that
+we can coexist more thoughtfully with wildlife in our shared environment.</p>
 </td>
 </tr>
 <tr>
@@ -139,8 +143,8 @@ us.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore (ENSING)</a></strong> hopes
-to showcase some of Singapore's insect variety and their ways of life.
+<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore (ENSING)</a></strong> will
+be showcasing some of Singapore's insect variety and their ways of life.
 Different insects play different but equally important roles in the environment,
 but more often than not they are misunderstood and overlooked. Learn how
 to identify the variety of insects found in Singapore, not just the charismatic
@@ -399,12 +403,13 @@ how coexistence with wild animals is possible in our City in Nature.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>There is currently a lack of understanding on the negative impacts of
-our fishing industry, as well as a general lack of data on where our fish
-come from and how they are caught. <strong><a href="https://pasarfish.com/" rel="noopener nofollow" target="_blank">Pasarfish</a></strong> is
-raising awareness and fostering understanding of these issues, while encouraging
-public support for sustainable practices and policies, ultimately leading
-to collective action and effective efforts towards sustainability and conservation.</p>
+<p><strong><a href="https://pasarfish.com/" rel="noopener nofollow" target="_blank">PasarFish</a></strong> raises
+awareness of the environmental and sustainability challenges within the
+fishing industry. The booth seeks to deepen public knowledge of where our
+fish come from and how they are caught, and aims to improve understanding
+of these issues. By encouraging public support for sustainable practices
+and policies, this contributes to collective action and more effective
+efforts towards sustainability and conservation.</p>
 </td>
 </tr>
 <tr>
@@ -445,9 +450,10 @@ and is considered one of the top 25 most endangered primates in the world.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Republic Polytechnic's booth will showcase their efforts in horseshoe
-crab conservation over the past decade. There will also be displays of
-other biodiversity projects that the diploma has worked on in recent years.</p>
+<p><strong><a href="https://www.rp.edu.sg/" rel="noopener nofollow" target="_blank">Republic Polytechnic</a> </strong>will
+showcase their efforts in horseshoe crab conservation over the past decade.
+There will also be displays of other biodiversity projects that they have
+worked on in recent years.</p>
 </td>
 </tr>
 <tr>
