@@ -13,15 +13,86 @@ and learn more about our City in Nature! Keep an eye on this page for updates
 community share fascinating insights about Singapore's rich natural&nbsp;heritage!</p>
 <p>Register for the Spotlight Talks here!</p>
 <p></p>
+<p><strong>Children's Workshop</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>For Adults</strong>
-</summary>
+<summary>6 June 2026 at National Library Building, Central Public Library Programme
+Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>4.15 pm - 5.45 pm:</strong>  <strong>Why Do Birds Fly Here From Far Away?</strong>
+</p>
+<p></p>
+<p>Speaker: Movin Nyanasengeran, President, Bird Society of Singapore</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Birdsoc_Movin__talk_.jpg">
+</div>
+<p></p>
+<p>This talk explores bird migration and the reasons and causes of this natural
+phenomenon in a manner that is accessible to children. In this talk, we
+explore which species of birds you can see in Singapore have travelled
+the longest, which ones escape the most extreme winter conditions and what
+adaptations they have to help them travel so far.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>7 June 2026 at National Library Building, Central Public Library Immersive
+Room (Level B1)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>2.15 pm - 3.45 pm: Changi Intertidal Virtual Exploration</strong>
+</p>
+<p></p>
+<p>Speaker: Muhd Muhaimin, Operations Executive, Young Nautilus</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Young_Nautilus__Talk_.png">
+</div>
+<p></p>
+<p>Join Young Nautilus on an exciting journey into Singapore’s Marine Intertidal
+zone at Changi coast. Through interactive video skits, encounter fascinating
+organisms while learning how human actions impact these fragile ecosystems.
+The session highlights both the wonders of marine biodiversity and the
+urgent need for conservation. See, hear, and imagine the textures and sounds
+of the coastal environment, and gain a deeper appreciation of local biodiversity.
+By the end of this talk, participants will understand the challenges posed
+by climate change and human activity, and be inspired to take action in
+protecting our environment.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>7 June 2026 at National Library Building, Central Public Library Programme
+Room (Level B1)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>1.45 pm - 3.15 pm: Snakes in Singapore: The Long and Short of It</strong>
+</p>
+<p></p>
+<p>Speaker: Kannan Raja, President, Herpetological Society of Singapore</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Kannan_Raja__Herpetological_Society_of_Singapore___talk_.jpg">
+</div>
+<p></p>
+<p>Snakes might look scary, but they are some of Singapore’s most fascinating
+wildlife neighbours. Join us for a fun, kid-friendly session exploring
+the slithery, scaly world of snakes. Learn how they move without legs,
+what they eat, and why they are actually helpful animals to have around.
+Through cool photos, fun facts, and a few surprising snake secrets, discover
+why snakes are not so scary after all. Perfect for curious young naturalists
+who want to know more about some of Singapore’s most misunderstood reptiles!</p>
+</div>
+</details>
+</div>
+<p></p>
+<p><strong>Thematic Workshops</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>7 June 2026, at National Library Building, <strong>Possibility &amp; Imagination Room (Level 5)</strong>
-</summary>
+<summary>7 June 2026, at National Library Building, Possibility &amp; Imagination
+Room (Level 5)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong><u>Possibility &amp; Imagination Room</u></strong>
@@ -126,13 +197,6 @@ go out photographing them.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>7 June 2026 at National Library Building, The Pod (Level 16)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>More information will be updated in April 2026!</p>
-</div>
-</details>
-<details class="isomer-details">
 <summary>7 June 2026 at National Library Building, Central Public Library Programme
 Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -196,87 +260,6 @@ including about half of Singapore's birds. The navigational precision and
 endurance of tiny birds covering thousands of kilometers every year is
 inspiring and humbling. But how do birds know where and when to migrate?
 Join us to find out!</p>
-<p></p>
-</div>
-</details>
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>For Children</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>6 June 2026 at National Library Building, Central Public Library Programme
-Room (Level B1)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>4.15 pm - 5.45 pm:</strong>  <strong>Why Do Birds Fly Here From Far Away?</strong>
-</p>
-<p></p>
-<p>Speaker: Movin Nyanasengeran, President, Bird Society of Singapore</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Birdsoc_Movin__talk_.jpg">
-</div>
-<p></p>
-<p>This talk explores bird migration and the reasons and causes of this natural
-phenomenon in a manner that is accessible to children. In this talk, we
-explore which species of birds you can see in Singapore have travelled
-the longest, which ones escape the most extreme winter conditions and what
-adaptations they have to help them travel so far.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>7 June 2026 at National Library Building, Central Public Library Immersive
-Room (Level B1)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>2.15 pm - 3.45 pm: Changi Intertidal Virtual Exploration</strong>
-</p>
-<p></p>
-<p>Speaker: Muhd Muhaimin, Operations Executive, Young Nautilus</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Young_Nautilus__Talk_.png">
-</div>
-<p></p>
-<p>Join Young Nautilus on an exciting journey into Singapore’s Marine Intertidal
-zone at Changi coast. Through interactive video skits, encounter fascinating
-organisms while learning how human actions impact these fragile ecosystems.
-The session highlights both the wonders of marine biodiversity and the
-urgent need for conservation. See, hear, and imagine the textures and sounds
-of the coastal environment, and gain a deeper appreciation of local biodiversity.
-By the end of this talk, participants will understand the challenges posed
-by climate change and human activity, and be inspired to take action in
-protecting our environment.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>7 June 2026 at National Library Building, Central Public Library Programme
-Room (Level B1)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>1.45 pm - 3.15 pm: Snakes in Singapore: The Long and Short of It</strong>
-</p>
-<p></p>
-<p>Speaker: Kannan Raja, President, Herpetological Society of Singapore</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Kannan_Raja__Herpetological_Society_of_Singapore___talk_.jpg">
-</div>
-<p></p>
-<p>Snakes might look scary, but they are some of Singapore’s most fascinating
-wildlife neighbours. Join us for a fun, kid-friendly session exploring
-the slithery, scaly world of snakes. Learn how they move without legs,
-what they eat, and why they are actually helpful animals to have around.
-Through cool photos, fun facts, and a few surprising snake secrets, discover
-why snakes are not so scary after all. Perfect for curious young naturalists
-who want to know more about some of Singapore’s most misunderstood reptiles!</p>
-</div>
-</details>
-</div>
 <p></p>
 </div>
 </details>
