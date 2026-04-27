@@ -18,7 +18,7 @@ Register for the Spotlight Talks below:</p>
 <summary><strong>7 June 2026,</strong> at National Library Building, Possibility
 &amp; Imagination Rooms (Level 5)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<hr>
+<p></p>
 <p><strong><u>Possibility &amp; Imagination Rooms</u></strong>
 </p>
 <p><strong>10.00 am - 11.30 am:</strong>  <strong>Living Shores in a Changing City</strong>
@@ -151,7 +151,7 @@ Join us to find out!</p>
 <summary><strong>6 June 2026 </strong>at National Library Building, Central Public
 Library Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<hr>
+<p></p>
 <p><strong>4.15 pm - 5.45 pm:</strong>  <strong>Why Do Birds Fly Here From Far Away?</strong>
 </p>
 <p>By: Movin Nyanasengeran, President, Bird Society of Singapore</p>
@@ -161,14 +161,13 @@ phenomenon in a manner that is accessible to children. In this talk, we
 explore which species of birds you can see in Singapore have travelled
 the longest, which ones escape the most extreme winter conditions and what
 adaptations they have to help them travel so far.</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>7 June 2026</strong> at National Library Building, Central Public
 Library Immersive Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<hr>
+<p></p>
 <p><strong>2.15 pm - 3.45 pm: Changi Intertidal Virtual Exploration</strong>
 </p>
 <p>By: Muhd Muhaimin, Operations Executive, Young Nautilus</p>
@@ -188,7 +187,7 @@ protecting our environment.</p>
 <summary><strong>7 June 2026</strong> at National Library Building, Central Public
 Library Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<hr>
+<p></p>
 <p><strong>1.45 pm - 3.15 pm: Snakes in Singapore: The Long and Short of It</strong>
 </p>
 <p>By: Kannan Raja, President, Herpetological Society of Singapore</p>
