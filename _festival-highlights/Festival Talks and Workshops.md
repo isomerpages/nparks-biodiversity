@@ -22,7 +22,7 @@ Rooms (Level 5)</summary>
 <hr>
 <p><strong><u>Possibility &amp; Imagination Rooms</u></strong>
 </p>
-<p><strong>10.00 am - 11.30 am:</strong>  <strong>Living Shores in a Changing City </strong>
+<p><strong>10.00 am - 11.30 am:</strong>  <strong>Living Shores in a Changing City</strong>
 </p>
 <p>By: Singapore Youth Voices of Biodiversity</p>
 <p></p>
@@ -46,7 +46,7 @@ till date. He will also touch base on key best practices when out in the
 field and shed light on how some of the most memorable pictures were crafted
 while respecting nature.</p>
 <hr>
-<p><strong>4.00 pm - 5.30pm: A Chorus in the Forest: Decoding the Language of Frog Calls </strong>
+<p><strong>4.00 pm - 5.30pm: A Chorus in the Forest: Decoding the Language of Frog Calls</strong>
 </p>
 <p>By: Law Ingg Thong, Herpetological Society of Singapore</p>
 <p></p>
