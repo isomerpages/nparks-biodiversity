@@ -245,8 +245,8 @@ sustainability.</p>
 paper, fostering creativity while appreciating biodiversity and patterns
 in nature.</p>
 <p></p>
-<p><u>Paper Fish Craft: </u>Make paper fishes to explore marine life and
-raise awareness about the importance of protecting aquatic environments.</p>
+<p><u>Paper Fish Craft:</u> Make paper fishes to explore marine life and raise
+awareness about the importance of protecting aquatic environments.</p>
 </div>
 </details>
 <details class="isomer-details">
