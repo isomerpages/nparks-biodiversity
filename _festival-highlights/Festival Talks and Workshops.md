@@ -11,7 +11,7 @@ and learn more about our City in Nature! Keep an eye on this page for updates
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage!
-Register for the Spotlight Talks below:</p>
+Registration for our Spotlight Talks will open soon.</p>
 <h4><strong>Spotlight Talks</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
