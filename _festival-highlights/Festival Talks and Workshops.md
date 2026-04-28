@@ -320,7 +320,7 @@ the right plants to eat, the right place to pupate, even the right place
 to sleep!</p>
 <p></p>
 <p>Participants will get to uncover lesser-known activities of butterflies
-through exclusive footages, including the emergence of butterflies from
+through exclusive footage, including the emergence of butterflies from
 their pupae and the peculiar act of puddling on wet ground. With this knowledge,
 embark on a hands-on activity of matching butterflies to their preferred
 host plants based on their shared properties – did you know the Common
