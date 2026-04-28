@@ -304,15 +304,15 @@ young children.</p>
 </div>
 <p></p>
 <h4><strong>Thematic Workshops</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>7 June 2026</strong>
-</summary>
+<summary><strong>6 June 2026 </strong>at National Library Building, Imagination
+Room (Level 5)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>More information will be updated soon!</p>
 </div>
 </details>
-<p></p>
+</div>
 <h2><strong>Past Webinars</strong></h2>
 <p>Learn more about our City in Nature and our local biodiversity with videos
 of previously conducted webinars!</p>
