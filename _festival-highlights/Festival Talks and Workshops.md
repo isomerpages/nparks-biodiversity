@@ -221,7 +221,7 @@ fauna through these opportunities and workshops.</p>
 <p>Nature Club students will be sharing with the public their clay making
 skills in creating local plants and animals.</p>
 <hr>
-<p><strong>2.15 pm – 4.00 pm: Marine Sharing and Craft Session</strong>
+<p><strong>2.15 pm – 4.00 pm: Marine Animal Sharing and Craft Session</strong>
 </p>
 <p>Organised by: Friends of Marine Park</p>
 <p></p>
