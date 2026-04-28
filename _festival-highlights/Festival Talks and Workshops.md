@@ -310,7 +310,7 @@ young children.</p>
 Room (Level 5)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>2.15 pm - 4.00 pm: Unlocking The Secret Lives Of Singapore's Butterflies</strong>
+<p><strong>2.15 pm - 4.00 pm: Unlocking the Secret Lives of Singapore's Butterflies</strong>
 </p>
 <p>By: Youth Corps Singapore (YCS) Sustainability Cluster</p>
 <p></p>
