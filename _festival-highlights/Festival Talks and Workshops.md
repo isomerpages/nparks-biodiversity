@@ -23,7 +23,7 @@ Registration for our Spotlight Talks will open soon.</p>
 </p>
 <p><strong>10.00 am - 11.30 am:</strong>  <strong>Living Shores in a Changing City</strong>
 </p>
-<p>By: Singapore Youth Voices of Biodiversity</p>
+<p>By: Singapore Youth Voices for Biodiversity</p>
 <p></p>
 <p>Singapore’s coastline has been reshaped for decades through land reclamation
 and urban development. Today, rising sea levels and climate change bring
