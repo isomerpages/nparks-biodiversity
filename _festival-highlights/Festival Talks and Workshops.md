@@ -12,7 +12,7 @@ and learn more about our City in Nature! Keep an eye on this page for updates
 <p>Come join us as our guest speakers from various stakeholders of the nature
 community share fascinating insights about Singapore's rich natural&nbsp;heritage!
 Registration for our Spotlight Talks will open soon.</p>
-<h4><strong>Spotlight Talks</strong></h4>
+<h4><strong>Spotlight Talks: For Adults</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>7 June 2026 </strong>at National Library Building, Possibility
@@ -145,7 +145,7 @@ Join us to find out!</p>
 </div>
 </details>
 </div>
-<h4><strong>Children's Talk</strong></h4>
+<h4><strong>Spotlight Talks: For Children</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>6 June 2026 </strong>at National Library Building, Central Public
