@@ -318,14 +318,14 @@ Room (Level 5)</summary>
 what they do for us, they have a secret life all of their own — picking
 the right plants to eat, the right place to pupate, even the right place
 to sleep!</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Participants will get to uncover lesser-known activities of butterflies
 through exclusive footages, including the emergence of butterflies from
 their pupae and the peculiar act of puddling on wet ground. With this knowledge,
 embark on a hands-on activity of matching butterflies to their preferred
 host plants based on their shared properties – did you know the Common
 Rose butterfly gets its poison from the toxic plants it eats as a caterpillar?</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The workshop concludes with a guide to planting native species in support
 of national rewilding efforts across major green spaces. Whether a seasoned
 enthusiast or a budding beginner, any citizen who loves nature can contribute
