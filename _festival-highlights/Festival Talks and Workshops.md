@@ -41,8 +41,8 @@ do we stand to lose or gain as we reshape our coasts for protection?</p>
 <p></p>
 <p>NPSS President, Mr. Tay Swee Yuan will share some of the society's most
 memorable experiences from the hobby of nature photography in Singapore
-till date. He will also touch base on key best practices when out in the
-field and shed light on how some of the most memorable pictures were crafted
+till date. He will also touch on key best practices when out in the field
+and shed light on how some of the most memorable pictures were crafted
 while respecting nature.</p>
 <hr>
 <p><strong>4.00 pm - 5.30pm: A Chorus in the Forest: Decoding the Language of Frog Calls</strong>
