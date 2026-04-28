@@ -126,14 +126,15 @@ on NTU campus will also be put on display!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Join EcoWild Asia to step into the hidden world of Singapore’s “ghosts
-of the forest” and discover the sambar deer up close. See how you measure
-up beside a 2m-tall deer replica, watch a short immersive film, and explore
-interactive activities for all ages including build an ideal deer habitat,
-taking on a fun quiz, and uncovering surprising facts about their role
-in our ecosystem. Get up close to observe real antlers, a taxidermy display,
-and night-vision binoculars, while learning simple, practical ways that
-we can coexist more thoughtfully with wildlife in our shared environment.</p>
+<p>Join <strong><u>EcoWild Asia</u></strong> to step into the hidden world
+of Singapore’s “ghosts of the forest” and discover the sambar deer up close.
+See how you measure up beside a 2m-tall deer replica, watch a short immersive
+film, and explore interactive activities for all ages including build an
+ideal deer habitat, taking on a fun quiz, and uncovering surprising facts
+about their role in our ecosystem. Get up close to observe real antlers,
+a taxidermy display, and night-vision binoculars, while learning simple,
+practical ways that we can coexist more thoughtfully with wildlife in our
+shared environment.</p>
 </td>
 </tr>
 <tr>
@@ -328,7 +329,7 @@ to find out how you can contribute!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NParks - Conservation Division</strong> will showcase biodiversity
+<p><strong><u>NParks - Conservation Division</u></strong> will showcase biodiversity
 specimens from three branches- Bukit Timah Nature Reserve, Pulau Ubin,
 and Sungei Buloh Wetland Reserve. The booth will showcase various preserved
 specimens that highlight the rich biodiversity found in these unique habitats,
