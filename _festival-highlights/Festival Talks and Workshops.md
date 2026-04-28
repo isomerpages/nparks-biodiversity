@@ -310,6 +310,41 @@ young children.</p>
 Room (Level 5)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>2.15 pm - 4.00 pm: Unlocking The Secret Lives Of Singapore's Butterflies</strong>
+</p>
+<p>By: Youth Corps Singapore (YCS) Sustainability Cluster</p>
+<p></p>
+<p>Butterflies pollinate our flowers and bring life to our gardens. But beyond
+what they do for us, they have a secret life all of their own — picking
+the right plants to eat, the right place to pupate, even the right place
+to sleep!</p>
+<p>&nbsp;</p>
+<p>Participants will get to uncover lesser-known activities of butterflies
+through exclusive footages, including the emergence of butterflies from
+their pupae and the peculiar act of puddling on wet ground. With this knowledge,
+embark on a hands-on activity of matching butterflies to their preferred
+host plants based on their shared properties – did you know the Common
+Rose butterfly gets its poison from the toxic plants it eats as a caterpillar?</p>
+<p>&nbsp;</p>
+<p>The workshop concludes with a guide to planting native species in support
+of national rewilding efforts across major green spaces. Whether a seasoned
+enthusiast or a budding beginner, any citizen who loves nature can contribute
+to Singapore's efforts in embodying a City in Nature!</p>
+<hr>
+<p><strong>4.15 pm - 6.00 pm: ByeO Barelands: Singapore's Biodiversity Card Game</strong>
+</p>
+<p>By ByeO Barelands</p>
+<p></p>
+<p>Discover Singapore's rich biodiversity through ByeO Barelands, a locally
+developed biodiversity strategy card game that makes ecological relationships
+and concepts accessible to all. Through guided gameplay and storytelling,
+participants can learn about species living in Singapore, explore human-wildlife
+interactions, and understand the vital roles different animals and plants
+play in maintaining ecosystem balance.</p>
+<p></p>
+<p>Alongside the gameplay, students from Beatty Secondary School will also
+share their research and insights about wildlife conservation and environmental
+stewardship through interactive displays.</p>
 </div>
 </details>
 </div>
