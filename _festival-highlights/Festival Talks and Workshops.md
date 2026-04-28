@@ -144,6 +144,13 @@ inspiring and humbling. But how do birds know where and when to migrate?
 Join us to find out!</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>7 June 2026 </strong>at National Library Building, Possibility
+&amp; Imagination Rooms (Level 5)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <h4><strong>Children's Talk</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
