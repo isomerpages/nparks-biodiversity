@@ -94,7 +94,7 @@ go out photographing them.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7 June 2026</strong> at National Library Building, Central Public
+<summary><strong>7 June 2026 </strong>at National Library Building, Central Public
 Library Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
