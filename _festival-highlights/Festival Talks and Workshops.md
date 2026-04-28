@@ -214,7 +214,7 @@ fauna through these opportunities and workshops.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>12.15 pm - 2.00 pm: Clay-Making Animal and Plant Workshop</strong>
+<p><strong>12.15 pm - 2.00 pm: Clay-Making Animal and Plants Workshop</strong>
 </p>
 <p>Organised by: Westgrove Primary School</p>
 <p></p>
