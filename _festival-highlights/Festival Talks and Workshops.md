@@ -102,7 +102,7 @@ Library Programme Room (Level B1)</summary>
 </p>
 <p>By: Karina Lim, ACRES</p>
 <p></p>
-<p>In this 2 part talk, ACRES explores illegal wildlife trade in Singapore
+<p>In this 2-part talk, ACRES explores illegal wildlife trade in Singapore
 and its impact on local biodiversity, and how rescue and rehabilitation
 efforts protect our animals. The first part highlights how native wildlife
 are targeted by poachers, and examines how animals commonly sold in the
