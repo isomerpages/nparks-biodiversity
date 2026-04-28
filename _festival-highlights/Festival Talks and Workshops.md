@@ -168,7 +168,7 @@ adaptations they have to help them travel so far.</p>
 Library Immersive Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>2.15 pm - 3.45 pm: Changi Intertidal Virtual Exploration</strong>
+<p><strong>10.15 am - 11.45 am: Changi Intertidal Virtual Exploration</strong>
 </p>
 <p>By: Muhd Muhaimin, Operations Executive, Young Nautilus</p>
 <p></p>
@@ -188,7 +188,7 @@ protecting our environment.</p>
 Library Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>1.45 pm - 3.15 pm: Snakes in Singapore: The Long and Short of It</strong>
+<p><strong>3.30 pm - 5.00 pm: Snakes in Singapore: The Long and Short of It</strong>
 </p>
 <p>By: Kannan Raja, President, Herpetological Society of Singapore</p>
 <p></p>
