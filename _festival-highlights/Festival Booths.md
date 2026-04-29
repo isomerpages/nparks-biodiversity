@@ -32,11 +32,28 @@ your family, complete with freebies, games, and more!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://acres.org.sg/" rel="noopener noreferrer nofollow" target="_blank">ACRES</a></strong> is
 a registered Charity that aims to create a world where all animals are
-treated as fellow sentient beings. Their focus areas include wildlife rescue
-and rehabilitation, investigating wildlife crime, promoting human-wildlife
-coexistence and community outreach. Their work is encapsulated by humane
-education, raising awareness and equipping people to advance animal welfare
-in their own capacity!</p>
+treated as fellow sentient beings. ACRES' focus areas include wildlife
+rescue and rehabilitation, investigating wildlife crime, promoting human-wildlife
+coexistence and community outreach. The work that they do is encapsulated
+by humane education, raising awareness and equipping people to advance
+animal welfare in their own capacity!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Question_13___3000x3000LogoTransparent_Back.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join <strong><a href="https://byeobarelands.com/" rel="noopener nofollow" target="_blank">ByeO Barelands</a></strong> to
+discover Singapore’s hidden biodiversity through an illustrated card collection,
+featuring real local wildlife and their ecological interactions. Designed
+for families, the journey begins indoors through play, continues outdoors
+as you spot these species in real life, and grows into meaningful action
+through community initiatives and volunteering. Start at the table. Step
+into the wild. Make a difference.</p>
 </td>
 </tr>
 <tr>
@@ -75,6 +92,22 @@ find out about upcoming public walks!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Commonwealth_Secondary_School_Logo.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.commonwealthsec.moe.edu.sg/" rel="noopener nofollow" target="_blank">Commonwealth Secondary School </a></strong>will
+be showcasing their Eco Stewardship Programme, which focuses on nature
+conservation. Students are actively involved in projects that promote eco-friendly
+habits, deepen their understanding of environmental issues, and empower
+them to take meaningful action within the school and wider community.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/earthlink%20ntu%20logo.png">
 </div>
 </td>
@@ -88,12 +121,31 @@ on NTU campus will also be put on display!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ecowildasia_save_sambar_deer.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join <strong><u>EcoWild Asia</u></strong> to step into the hidden world
+of Singapore’s “ghosts of the forest” and discover the sambar deer up close.
+See how you measure up beside a 2m-tall deer replica, watch a short immersive
+film, and explore interactive activities for all ages including build an
+ideal deer habitat, taking on a fun quiz, and uncovering surprising facts
+about their role in our ecosystem. Get up close to observe real antlers,
+a taxidermy display, and night-vision binoculars, while learning simple,
+practical ways that we can coexist more thoughtfully with wildlife in our
+shared environment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entomological_Network_ofSingapore.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore (ENSING)</a></strong> hopes
-to showcase some of Singapore's insect variety and their ways of life.
+<p><strong><a href="https://entomologysingapore.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">Entomological Network of Singapore (ENSING)</a></strong> will
+be showcasing some of Singapore's insect variety and their ways of life.
 Different insects play different but equally important roles in the environment,
 but more often than not they are misunderstood and overlooked. Learn how
 to identify the variety of insects found in Singapore, not just the charismatic
@@ -277,7 +329,7 @@ to find out how you can contribute!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NParks - Conservation Division</strong> will showcase biodiversity
+<p><strong><u>NParks - Conservation Division</u></strong> will showcase biodiversity
 specimens from three branches- Bukit Timah Nature Reserve, Pulau Ubin,
 and Sungei Buloh Wetland Reserve. The booth will showcase various preserved
 specimens that highlight the rich biodiversity found in these unique habitats,
@@ -347,6 +399,23 @@ how coexistence with wild animals is possible in our City in Nature.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Question_13___Pasarfish_Logo_Blue_Text.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://pasarfish.com/" rel="noopener nofollow" target="_blank">PasarFish</a></strong> raises
+awareness of the environmental and sustainability challenges within the
+fishing industry. The booth seeks to deepen public knowledge of where our
+fish come from and how they are caught, and aims to improve understanding
+of these issues. By encouraging public support for sustainable practices
+and policies, this contributes to collective action and more effective
+efforts towards sustainability and conservation.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Project Avigate Logo" src="/images/Logos/ProjectAvigate.png">
 </div>
 </td>
@@ -372,6 +441,20 @@ established in 2016 to carry out research, education outreach and conservation
 activities for the Raffles' Banded Langur (<em>Presbytis femoralis</em>).
 It is a Critically Endangered monkey found only in Singapore and Malaysia
 and is considered one of the top 25 most endangered primates in the world.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RP_Logo_CMYK_High_Res_Light_BG.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.rp.edu.sg/" rel="noopener nofollow" target="_blank">Republic Polytechnic</a> </strong>will
+showcase their efforts in horseshoe crab conservation over the past decade.
+There will also be displays of other biodiversity projects that they have
+worked on in recent years.</p>
 </td>
 </tr>
 <tr>
