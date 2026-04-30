@@ -77,7 +77,7 @@ animals to thrive in the same city.</p>
 <hr>
 <p><strong>4.00 pm - 5.30 pm: Size Doesn’t Matter: Tiny Insects, Massive Diversity in Singapore</strong>
 </p>
-<p>By: Entomological Society of Singapore</p>
+<p>By: Entomological Network of Singapore</p>
 <p></p>
 <p>In this talk, two youths will share on the marvellous and splendid world
 of an overlooked taxon: insects. Despite being the most speciose and crucial
