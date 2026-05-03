@@ -276,11 +276,11 @@ these wonderful wild neighbours and share about your animal on Instagram
 </p>
 <p>Organised by: Deepa Ramanathan</p>
 <p></p>
-<p>Join us for an energising physical activity followed by a reading of the
-book "If You Were a Monkey." After the storytelling session, participants
-can engage in an "Ask-Me-Anything" segment to explore questions about the
-story and its themes. If time permits, the session will conclude with a
-hands-on art activity and participants can take home a small memento.</p>
+<p>Join local children's author Deepa Ramanathan for a holistic "head, heart
+and hands" experience that explores our connection to the natural world.
+This workshop blends interactive storytelling with joyful movement, engaging
+games and creative expression, inviting children and adults to imagine
+life through the eyes of our primate neighbors.</p>
 <p></p>
 <p><em>Note: This workshop will take place at the </em><strong><em>Central Library (Immersive Room, B1)</em></strong><em>, instead of the Workshop Zone on the Stage at the Plaza.</em>
 </p>
