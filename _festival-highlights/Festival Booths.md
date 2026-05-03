@@ -264,7 +264,11 @@ langur.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.instagram.com/savesambardeer" rel="noopener nofollow" target="_blank">EcoWildAsia - Save Sambar Deer</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nature Photographic Society Singapore logo" src="/images/WhatsApp_Image_2026_04_29_at_4_42_37_PM.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NPSS logo" src="/images/Logos/NPSS_Logo.jpg">
 </div>
