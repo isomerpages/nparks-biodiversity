@@ -264,7 +264,6 @@ langur.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Nature Photographic Society Singapore logo" src="/images/WhatsApp_Image_2026_04_29_at_4_42_37_PM.jpg">
 </div>
@@ -535,7 +534,6 @@ Mystery Boxes. Reach in to feel seahorses, examine shark eggs, and see
 a taxidermized sea turtle up close. Learn why seahorses are sold as dried
 medicines and the challenges that they face. The booth offers a hands-on,
 eye-opening experience for visitors.</p>
-<p></p>
 <p></p>
 <p></p>
 </td>
