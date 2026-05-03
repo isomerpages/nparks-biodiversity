@@ -126,15 +126,15 @@ on NTU campus will also be put on display!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Join <strong><u>EcoWild Asia</u></strong> to step into the hidden world
-of Singapore’s “ghosts of the forest” and discover the sambar deer up close.
-See how you measure up beside a 2m-tall deer replica, watch a short immersive
-film, and explore interactive activities for all ages including build an
-ideal deer habitat, taking on a fun quiz, and uncovering surprising facts
-about their role in our ecosystem. Get up close to observe real antlers,
-a taxidermy display, and night-vision binoculars, while learning simple,
-practical ways that we can coexist more thoughtfully with wildlife in our
-shared environment.</p>
+<p>Join <strong><a href="https://www.instagram.com/savesambardeer" rel="noopener nofollow" target="_blank">EcoWild Asia</a></strong> to
+step into the hidden world of Singapore’s “ghosts of the forest” and discover
+the sambar deer up close. See how you measure up beside a 2m-tall deer
+replica, watch a short immersive film, and explore interactive activities
+for all ages including build an ideal deer habitat, taking on a fun quiz,
+and uncovering surprising facts about their role in our ecosystem. Get
+up close to observe real antlers, a taxidermy display, and night-vision
+binoculars, while learning simple, practical ways that we can coexist more
+thoughtfully with wildlife in our shared environment.</p>
 </td>
 </tr>
 <tr>
@@ -264,13 +264,9 @@ langur.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/savesambardeer" rel="noopener nofollow" target="_blank">EcoWildAsia - Save Sambar Deer</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Nature Photographic Society Singapore logo" src="/images/WhatsApp_Image_2026_04_29_at_4_42_37_PM.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NPSS logo" src="/images/Logos/NPSS_Logo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
