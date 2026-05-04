@@ -23,7 +23,7 @@ Registration for our Spotlight Talks will open soon.</p>
 </p>
 <p><strong>10.00 am - 11.30 am:</strong>  <strong>Living Shores in a Changing City</strong>
 </p>
-<p>By: Singapore Youth Voices for Biodiversity</p>
+<p>By: Isaac Ong, Singapore Youth Voices for Biodiversity</p>
 <p></p>
 <p>Singapore’s coastline has been reshaped for decades through land reclamation
 and urban development. Today, rising sea levels and climate change bring
@@ -77,7 +77,7 @@ animals to thrive in the same city.</p>
 <hr>
 <p><strong>4.00 pm - 5.30 pm: Size Doesn’t Matter: Tiny Insects, Massive Diversity in Singapore</strong>
 </p>
-<p>By: Entomological Network of Singapore</p>
+<p>By: Lumin Ong and Ruirong Choo, Entomological Network of Singapore</p>
 <p></p>
 <p>In this talk, two youths will share on the marvellous and splendid world
 of an overlooked taxon: insects. Despite being the most speciose and crucial
@@ -94,8 +94,8 @@ go out photographing them.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7 June 2026 </strong>at National Library Building, Central Public
-Library Programme Room (Level B1)</summary>
+<summary><strong>7 June 2026 </strong>at National Library Building, Central Library
+Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>10.15 am - 11.45 am: Saving Singapore’s Wildlife: Trade, Rescue, and Second Chances</strong>
@@ -148,8 +148,8 @@ Join us to find out!</p>
 <h4><strong>Spotlight Talks: For Children</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>6 June 2026 </strong>at National Library Building, Central Public
-Library Programme Room (Level B1)</summary>
+<summary><strong>6 June 2026 </strong>at National Library Building, Central Library
+Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>4.15 pm - 5.45 pm:</strong>  <strong>Why Do Birds Fly Here From Far Away?</strong>
@@ -164,8 +164,8 @@ adaptations they have to help them travel so far.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7 June 2026</strong> at National Library Building, Central Public
-Library Immersive Room (Level B1)</summary>
+<summary><strong>7 June 2026</strong> at National Library Building, Central Library
+Immersive Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>10.15 am - 11.45 am: Changi Intertidal Virtual Exploration</strong>
@@ -184,8 +184,8 @@ protecting our environment.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7 June 2026</strong> at National Library Building, Central Public
-Library Programme Room (Level B1)</summary>
+<summary><strong>7 June 2026</strong> at National Library Building, Central Library
+Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>3.30 pm - 5.00 pm: Snakes in Singapore: The Long and Short of It</strong>
@@ -229,24 +229,15 @@ skills in creating local plants and animals.</p>
 about Singapore's marine animals! This will be followed by a craft workshop,
 where you can create your own marine-inspired masterpiece.</p>
 <hr>
-<p><strong>3.00 pm - 4.00 pm: Terrarium Workshop with Glass Bottle Painting</strong>
+<p><strong>4.15 pm - 6.00 pm: Terrarium Workshop with Glass Bottle Painting</strong>
 </p>
 <p>Organised by: Opera Estate Primary School</p>
 <p></p>
 <p>Join Opera Estate Primary School in an exciting workshop as part of their
-Applied Learning Programme (Sustainability Programme)! Take part in the
-following activities:</p>
+Applied Learning Programme (Sustainability Programme)! Create a mini ecosystem
+using plants, soil, and containers, and understand plant growth, water
+cycles, and environmental sustainability.</p>
 <p></p>
-<p><u>Terrarium Making:</u> Create a mini ecosystem using plants, soil, and
-containers, and understand plant growth, water cycles, and environmental
-sustainability.</p>
-<p></p>
-<p><u>Paper Peacock Craft</u>: Design and create colourful peacocks using
-paper, fostering creativity while appreciating biodiversity and patterns
-in nature.</p>
-<p></p>
-<p><u>Paper Fish Craft:</u> Make paper fishes to explore marine life and raise
-awareness about the importance of protecting aquatic environments.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -276,11 +267,11 @@ these wonderful wild neighbours and share about your animal on Instagram
 </p>
 <p>Organised by: Deepa Ramanathan</p>
 <p></p>
-<p>Join us for an energising physical activity followed by a reading of the
-book "If You Were a Monkey." After the storytelling session, participants
-can engage in an "Ask-Me-Anything" segment to explore questions about the
-story and its themes. If time permits, the session will conclude with a
-hands-on art activity and participants can take home a small memento.</p>
+<p>Join local children's author Deepa Ramanathan for a holistic "head, heart
+and hands" experience that explores our connection to the natural world.
+This workshop blends interactive storytelling with joyful movement, engaging
+games and creative expression, inviting children and adults to imagine
+life through the eyes of our primate neighbors.</p>
 <p></p>
 <p><em>Note: This workshop will take place at the </em><strong><em>Central Library (Immersive Room, B1)</em></strong><em>, instead of the Workshop Zone on the Stage at the Plaza.</em>
 </p>
