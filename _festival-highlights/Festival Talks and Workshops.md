@@ -23,7 +23,7 @@ Registration for our Spotlight Talks will open soon.</p>
 </p>
 <p><strong>10.00 am - 11.30 am:</strong>  <strong>Living Shores in a Changing City</strong>
 </p>
-<p>By: Singapore Youth Voices for Biodiversity</p>
+<p>By: Isaac Ong, Singapore Youth Voices for Biodiversity</p>
 <p></p>
 <p>Singapore’s coastline has been reshaped for decades through land reclamation
 and urban development. Today, rising sea levels and climate change bring
@@ -77,7 +77,7 @@ animals to thrive in the same city.</p>
 <hr>
 <p><strong>4.00 pm - 5.30 pm: Size Doesn’t Matter: Tiny Insects, Massive Diversity in Singapore</strong>
 </p>
-<p>By: Entomological Network of Singapore</p>
+<p>By: Lumin Ong and Ruirong Choo, Entomological Network of Singapore</p>
 <p></p>
 <p>In this talk, two youths will share on the marvellous and splendid world
 of an overlooked taxon: insects. Despite being the most speciose and crucial
