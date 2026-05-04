@@ -229,24 +229,15 @@ skills in creating local plants and animals.</p>
 about Singapore's marine animals! This will be followed by a craft workshop,
 where you can create your own marine-inspired masterpiece.</p>
 <hr>
-<p><strong>3.00 pm - 4.00 pm: Terrarium Workshop with Glass Bottle Painting</strong>
+<p><strong>4.15 pm - 6.00 pm: Terrarium Workshop with Glass Bottle Painting</strong>
 </p>
 <p>Organised by: Opera Estate Primary School</p>
 <p></p>
 <p>Join Opera Estate Primary School in an exciting workshop as part of their
-Applied Learning Programme (Sustainability Programme)! Take part in the
-following activities:</p>
+Applied Learning Programme (Sustainability Programme)! Create a mini ecosystem
+using plants, soil, and containers, and understand plant growth, water
+cycles, and environmental sustainability.</p>
 <p></p>
-<p><u>Terrarium Making:</u> Create a mini ecosystem using plants, soil, and
-containers, and understand plant growth, water cycles, and environmental
-sustainability.</p>
-<p></p>
-<p><u>Paper Peacock Craft</u>: Design and create colourful peacocks using
-paper, fostering creativity while appreciating biodiversity and patterns
-in nature.</p>
-<p></p>
-<p><u>Paper Fish Craft:</u> Make paper fishes to explore marine life and raise
-awareness about the importance of protecting aquatic environments.</p>
 </div>
 </details>
 <details class="isomer-details">
