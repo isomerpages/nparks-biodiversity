@@ -338,6 +338,25 @@ heritage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/Nature_Kakis_Logo_Full_Colour__PNG_version___2_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://naturekakis.nparks.gov.sg" rel="noopener nofollow" target="_blank">NParks - Nature Kakis Network</a></strong> is
+a network of chapters that brings together individuals who share a passion
+for nature and conservation and form touchpoints centred at the heart of
+local communities. This platform aims to encourage greater appreciation
+and community stewardship of nature. Join us as we organise and lead City
+in Nature-related projects and programmes, for the community and by the
+community and with support from partners, grassroots organisations and
+agencies including NParks and People’s Association (PA). Visit the NK booth
+to meet the established chapters and discover opportunities in your area!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/NParks%20Logo%20new%20tagline_colour.png">
 </div>
