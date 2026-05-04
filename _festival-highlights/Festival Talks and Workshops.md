@@ -94,8 +94,8 @@ go out photographing them.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7 June 2026 </strong>at National Library Building, Central Public
-Library Programme Room (Level B1)</summary>
+<summary><strong>7 June 2026 </strong>at National Library Building, Central Library
+Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>10.15 am - 11.45 am: Saving Singapore’s Wildlife: Trade, Rescue, and Second Chances</strong>
@@ -148,8 +148,8 @@ Join us to find out!</p>
 <h4><strong>Spotlight Talks: For Children</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>6 June 2026 </strong>at National Library Building, Central Public
-Library Programme Room (Level B1)</summary>
+<summary><strong>6 June 2026 </strong>at National Library Building, Central Library
+Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>4.15 pm - 5.45 pm:</strong>  <strong>Why Do Birds Fly Here From Far Away?</strong>
@@ -164,8 +164,8 @@ adaptations they have to help them travel so far.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7 June 2026</strong> at National Library Building, Central Public
-Library Immersive Room (Level B1)</summary>
+<summary><strong>7 June 2026</strong> at National Library Building, Central Library
+Immersive Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>10.15 am - 11.45 am: Changi Intertidal Virtual Exploration</strong>
@@ -184,8 +184,8 @@ protecting our environment.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7 June 2026</strong> at National Library Building, Central Public
-Library Programme Room (Level B1)</summary>
+<summary><strong>7 June 2026</strong> at National Library Building, Central Library
+Programme Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>3.30 pm - 5.00 pm: Snakes in Singapore: The Long and Short of It</strong>
