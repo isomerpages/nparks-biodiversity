@@ -362,7 +362,7 @@ to meet the established chapters and discover opportunities in your area!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nparks.gov.sg/avs/animals/wildlife-in-singapore/about-wildlife-in-singapore" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> will
+<p><strong><a href="https://avs.nparks.gov.sg/wildlife/" rel="noopener noreferrer nofollow" target="_blank">NParks - Wildlife Management</a></strong> will
 showcase information on Singapore's urban wildlife and how to live with
 nature. Learn about Singapore's various urban wildlife species, and play
 interactive games to understand more about these animals and how to manage
