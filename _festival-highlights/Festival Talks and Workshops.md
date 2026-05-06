@@ -10,8 +10,9 @@ and learn more about our City in Nature! Keep an eye on this page for updates
 — you won’t want to miss out!</p>
 <h1><strong>NParks Spotlight Series</strong></h1>
 <p>Come join us as our guest speakers from various stakeholders of the nature
-community share fascinating insights about Singapore's rich natural&nbsp;heritage!
-Registration for our Spotlight Talks will open soon.</p>
+community share fascinating insights about Singapore's rich natural&nbsp;heritage!</p>
+<p>Registration for our Spotlight Talks is currently open until 26 May 2026!
+Register <a href="" rel="noopener nofollow" target="_blank">here</a> now!</p>
 <h4><strong>Spotlight Talks: For Adults</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
