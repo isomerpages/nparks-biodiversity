@@ -341,7 +341,7 @@ stewardship through interactive displays.</p>
 </details>
 <details class="isomer-details">
 <summary><strong>7 June 2026 </strong>at National Library Building, The Pod (Level
-11)</summary>
+16)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>4.00pm - 5.30pm: Human Library: Biodiversity Conservation Edition!</p>
