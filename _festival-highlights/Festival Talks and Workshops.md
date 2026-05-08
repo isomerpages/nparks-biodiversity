@@ -340,7 +340,7 @@ stewardship through interactive displays.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7 June 2026 </strong>at National Library Building,The Pod (Level
+<summary><strong>7 June 2026 </strong>at National Library Building, The Pod (Level
 11)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
