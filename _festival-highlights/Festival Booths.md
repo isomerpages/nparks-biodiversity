@@ -294,7 +294,6 @@ conservation in Singapore!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Nus dbs logo" src="/images/1000172613.jpg">
 </div>
@@ -303,14 +302,6 @@ conservation in Singapore!</p>
 <p><strong><a href="https://www.dbs.nus.edu.sg" rel="noopener nofollow" target="_blank">National University of Singapore Department of Biological Sciences</a></strong> will
 put up display of highlight plants and fungi. Learn more about their usefulness
 to humans and the role they play in the natural world.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
