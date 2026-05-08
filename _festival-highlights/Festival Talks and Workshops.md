@@ -339,6 +339,29 @@ share their research and insights about wildlife conservation and environmental
 stewardship through interactive displays.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>7 June 2026 </strong>at National Library Building,The Pod (Level
+11)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>4.00pm - 5.30pm: Human Library: Biodiversity Conservation Edition!</p>
+<p></p>
+<p>Organised By: NParks as part of the National Youth Council's Job Tasters
+for Youths programme</p>
+<p></p>
+<p>Have you ever wondered what it's like to work in the biodiversity conservation
+sector? Come meet the people behind the work! The Human Library: Biodiversity
+Conservation Edition is a career exploration session where youths get to
+hear directly from professionals and practitioners working across the nature
+and conservation sector in Singapore. Instead of books, we have people
+— each with a unique story, role, and passion for the natural world. This
+session brings together representatives from NParks and partner organisations
+across the biodiversity conservation space.</p>
+<p></p>
+<p>Sign up <a href="https://discover.nyc.gov.sg/en/omw/Join-Programmes/2026/06/Human-Library-Biodiversity-Conservation-Edition" rel="noopener nofollow" target="_blank">here</a>!
+(<em>Registration closes on 31 May 2026</em>)</p>
+</div>
+</details>
 </div>
 <h2><strong>Past Webinars</strong></h2>
 <p>Learn more about our City in Nature and our local biodiversity with videos
