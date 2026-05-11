@@ -111,7 +111,9 @@ to you a free nature walk guided by your neighbours. Come learn about the
 plants and animals (some endangered!) that share our neighbourhoods and
 green spaces, and share stories about the history of the area. Bring your
 family and friends down to meet neighbours — and if you're lucky, you may
-even get to meet a mousedeer or two! This volunteer-run activity is a <em>Friends of Chestnut Nature Park</em> initiative
+even get to meet a mousedeer or two!</p>
+<p></p>
+<p>This volunteer-run activity is a <em>Friends of Chestnut Nature Park</em> initiative
 supported by <em>NParks</em>.</p>
 </td>
 <td rowspan="1" colspan="1">
