@@ -84,10 +84,10 @@ Singaporean Charity and Institution of Public Character that aims to create
 a world where all animals are treated as fellow sentient beings. One of
 their key focus areas is Wildlife Rescue and Rehabilitation, where they
 rescue thousands of animals each year. In this talk, learn more about how
-Singapore's only Wildlife Rescue charity functions and hear about our most
-exciting rescue stories. Empower yourselves to play a part in helping animals
-by learning what to do when you see various animals who are injured or
-in distress.</p>
+Singapore's only Wildlife Rescue charity functions and hear about their
+most exciting rescue stories. Empower yourselves to play a part in helping
+animals by learning what to do when you see various animals who are injured
+or in distress.</p>
 <p></p>
 <p>Speaker: Karina Lim, Wildlife Rescue &amp; Rehabilitation Manager at ACRES</p>
 </td>
@@ -157,10 +157,10 @@ register.</p>
 <p>The Animal Concerns, Research and Education Society (ACRES) is a registered
 Singaporean Charity and Institution of Public Character that aims to create
 a world where all animals are treated as fellow sentient beings. One of
-our key focus areas is Wildlife Rescue and Rehabilitation, where we rescue
-thousands of animals each year.</p>
+their key focus areas is Wildlife Rescue and Rehabilitation, where they
+rescue thousands of animals each year.</p>
 <p>In this talk, learn more about how Singapore's only Wildlife Rescue charity
-functions and hear about our most exciting rescue stories. Empower yourselves
+functions and hear about their most exciting rescue stories. Empower yourselves
 to play a part in helping animals by learning what to do when you see various
 animals who are injured or in distress.</p>
 <p></p>
@@ -169,28 +169,6 @@ animals who are injured or in distress.</p>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://nlb.libcal.com/event/5904083?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -224,7 +202,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 June 2026 (2.00 pm-4.00 pm), Bedok Library</p>
+<p>14 June 2026 (2.00 pm - 4.00 pm), Bedok Library</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Living Fossils of the Sea: The Story of Horseshoe Crabs</strong>
