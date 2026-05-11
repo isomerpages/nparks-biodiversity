@@ -13,7 +13,7 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:solid 1px #777" height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;src=ODAzM2M1YWQ3MWU2MjMzMzcxOTYxMmRmZjRmNjdlNmFlNTRiZGFiMmQyMDViYmU2MDAwNDRiY2UwODk4NTM3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%230B8043"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:solid 1px #777" height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;src=ODAzM2M1YWQ3MWU2MjMzMzcxOTYxMmRmZjRmNjdlNmFlNTRiZGFiMmQyMDViYmU2MDAwNDRiY2UwODk4NTM3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%230B8043"></iframe>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -295,26 +295,30 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 May 2025 (11:30am-1pm)</p>
+<p>3 May 2026 (2pm-3pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>The Biodiversity Kopitiam</strong>
+<p><strong>Choose compassion: How our actions can help or hinder wildlife conservation and animal welfare</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Biodiversity Kopitiam" src="/images/FoB 2025/2.jpg">
-</div>
-<p>The Biodiversity Collective (TBC) plays on ""To Be Continued"". Biodiversity
-must continue and it's not just something for experts to understand!</p>
-<p>Kopitiam Edition - Lim Kopi (Drink Coffee), and learn about various topics
-of biodiversity. A round-table kopitiam style where attendees rotate around
-20min expert sharings.</p>
-<p>8th May, 11.30am-1pm @ 76 Neil Rd, Ahimsa Sanctuary</p>
-<p>Speakers:</p>
-<p>Saravanan Sinniah, Conservation International (CI).</p>
-<p>Cheng Puay and Samuel, from Ridge View Residential College (NUS).</p>
+<p></p>
+<p>Many animals suffer from the exotic pet trade, fashion industry, and traditional
+medicine. Some species are being pushed towards extinction as a result.</p>
+<p></p>
+<p>ACRES is known for wildlife rescue and rehabilitation, but the NGO also
+works to investigate crimes against animals. In this session, Mr Beng from
+ACRES will expose the harsh realities of how the illegal and legal trade
+in animals and animal parts threatens animals such as pangolins, songbirds,
+slow lorises, monitor lizards, pythons, turtles and other animals.</p>
+<p></p>
+<p>Come and learn more about these issues at <strong>Toa Payoh Library (2pm-3pm)</strong>,
+what we can do to help animal protection, and how our choices can either
+fuel the problem or be part of the solution.</p>
+<p></p>
+<p>Speaker:</p>
+<p>Beng Yong Tang, Humane Education Executive at ACRES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.eventbrite.co.uk/e/1301764886819?aff=oddtdtcreator" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://nlb.libcal.com/event/5904082?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register.</p>
 </td>
 </tr>
