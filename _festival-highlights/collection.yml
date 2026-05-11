@@ -2,8 +2,8 @@ collections:
   festival-highlights:
     output: true
     order:
-      - Community Programmes and Activities.md
       - Festival Booths.md
       - Festival Talks and Workshops.md
       - Festival Game Stations.md
+      - Community Programmes and Activities.md
       - Stay Home Activities.md
