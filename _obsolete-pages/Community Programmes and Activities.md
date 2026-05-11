@@ -395,25 +395,30 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 May 2025 (7pm-11pm)</p>
+<p>14 June 2026 (2.00 pm-4.00 pm), Bedok Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Leopard Cat </em>QUEST<em> @</em>Ubin</strong>
+<p><strong>Living Fossils of the Sea: The Story of Horseshoe Crabs</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/leopard_cat_quest.jpg">
-</div>
-<p>We are excited to announce <em>Leopard Cat </em>QUEST<em> @</em>Ubin in
-search of our elusive native wildcat. Nationally critically endangered,
-the Leopard Cat is known to inhabit Pulau Ubin, Pulau Tekong, the Central
-Catchment Nature Reserve and the Western Catchment. We will walk Pulau
-Ubin’s rustic kampong lanes and forested areas in the silent, cool night,
-to look for the glint of the Leopard Cats’ eyes, and hopefully also encounter
-the Greater Mousedeer, Common Palm Civet, sleeping birds and butterflies,
-foraging fruit bats, snakes, mangrove wildlife and more!</p>
+<p></p>
+<p>Horseshoe crabs, ancient arthropods that have roamed the Earth for over
+450 million years, are not true crabs but more related to spiders and scorpions.
+This talk explores the remarkable biology, history, and ecological significance
+of these creatures. We will delve into the fascinating features of horseshoe
+crabs, including their unique anatomy, behaviour, and the important role
+they play in the marine ecosystem. Additionally, the talk will address
+the conservation challenges horseshoe crabs face, including the impact
+of overharvesting and habitat loss on their populations, and the measures
+being taken to protect them. By the end of the session, participants will
+gain a deep appreciation for these “living fossils”, their critical role
+in modern medicine, and the ongoing efforts to ensure their survival in
+the face of increasing environmental pressures.</p>
+<p></p>
+<p>Speaker: Mr Ng Yi Long, lecturer at Republic Polytechnic from the Diploma
+in Environmental and Marine Science.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.swagcat.org/store/Leopard-Cat-QUEST-@Ubin-p450716014" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://nlb.libcal.com/event/5905135?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register.</p>
 </td>
 </tr>
