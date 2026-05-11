@@ -361,9 +361,7 @@ showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;
 The talk will conclude with some general pointers on ethical behavour in
 the field closing off with a short Q&amp;A session.</p>
 <p></p>
-<p>Speaker: Peng Fai is a member of Nature Photography Society, Singapore.
-He is a nature photographer known for capturing birds, butterflies, and
-scenery, often contributing to local wildlife documentation.</p>
+<p>Speaker: Peng Fai, member of Nature Photography Society, Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://nlb.libcal.com/event/5904590?image" rel="noopener nofollow" target="_blank">here</a> to
@@ -387,6 +385,8 @@ thousands of animals each year.</p>
 functions and hear about our most exciting rescue stories. Empower yourselves
 to play a part in helping animals by learning what to do when you see various
 animals who are injured or in distress.</p>
+<p></p>
+<p>Speaker: Kalai Vanan, Chief Executive Officer of ACRES</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://form.gov.sg/67f4ad7242f7628adc8aaabf" rel="noopener nofollow" target="_blank"><u>here</u></a> to
@@ -931,3 +931,5 @@ more details!</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p>S</p>
