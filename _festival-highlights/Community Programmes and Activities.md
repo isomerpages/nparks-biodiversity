@@ -7,14 +7,8 @@ variant: tiptap
 <h1><strong>Community Programmes and Activities</strong></h1>
 <p>Head on out to participate in various programmes and activities by NParks
 and our partners to learn more about Singapore's natural heritage, ranging
-from guided walks in our parks and gardens, participating in citizen science
-programme and much more. Do keep a regular lookout for more updates.</p>
-<p><em>Click on each activity to see more details. To view the calendar better on your mobile, you can rotate your phone to landscape.</em>
-</p>
+from talks to guided walks. Do keep a regular lookout for more updates.</p>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:solid 1px #777" height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;src=ODAzM2M1YWQ3MWU2MjMzMzcxOTYxMmRmZjRmNjdlNmFlNTRiZGFiMmQyMDViYmU2MDAwNDRiY2UwODk4NTM3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%230B8043"></iframe>
-</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>May</strong>
