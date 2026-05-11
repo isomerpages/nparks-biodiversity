@@ -339,6 +339,8 @@ only Wildlife Rescue charity functions and hear about our most exciting
 rescue stories. Empower yourselves to play a part in helping animals by
 learning what to do when you see various animals who are injured or in
 distress.</p>
+<p></p>
+<p>Speaker: Karina Lim, Wildlife Rescue &amp; Rehabilitation Manager at ACRES</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://nlb.libcal.com/event/5904085?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
