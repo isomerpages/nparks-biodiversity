@@ -41,7 +41,7 @@ programme and much more. Do keep a regular lookout for more updates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 May 2026 (2.00 pm-3.00 pm), Toa Payoh Library</p>
+<p>3 May 2026 (2.00 pm - 3.00 pm), Toa Payoh Library</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Choose compassion: How our actions can help or hinder wildlife conservation and animal welfare</strong>
@@ -98,7 +98,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May (8.30 am - 10.30 am), Chestnut Nature Park</p>
+<p>30 May 2026 (8.30 am - 10.30 am), Chestnut Nature Park</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Walk with your neighbour at Chestnut Nature Park</strong>
