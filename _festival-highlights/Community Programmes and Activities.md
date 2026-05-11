@@ -139,7 +139,7 @@ showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;</
 <p>The talk will conclude with some general pointers on ethical behavour
 in the field closing off with a short Q&amp;A session.</p>
 <p></p>
-<p>Speaker: Mr Loke Peng Fai, member of Nature Photography Society, Singapore.</p>
+<p>Speaker: Mr. Loke Peng Fai, member of Nature Photography Society, Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://nlb.libcal.com/event/5904590?image" rel="noopener nofollow" target="_blank">here</a> to
@@ -253,7 +253,7 @@ showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;</
 <p>The talk will conclude with some general pointers on ethical behavour
 in the field closing off with a short Q&amp;A session.</p>
 <p></p>
-<p>Speaker: TM Seah, member of Nature Photography Society, Singapore.</p>
+<p>Speaker: Mr. TM Seah, member of Nature Photography Society, Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://nlb.libcal.com/event/5904593?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
