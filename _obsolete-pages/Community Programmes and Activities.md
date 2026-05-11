@@ -324,7 +324,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 May 2026 (11:30 am-12.30 pm), Choa Chu Kang Library</p>
+<p>10 May 2026 (11:30 am - 12.30 pm), Choa Chu Kang Library</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>From Rescue to Release: Navigating Wildlife Emergencies in Singapore</strong>
@@ -349,23 +349,17 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 May 2025 (2pm-3pm)</p>
+<p>30 May (2.00 pm - 3.30pm), Choa Chu Kang Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>From Rescue to Release: Navigating Wildlife Emergencies in Singapore</strong>
+<p><strong>Avian Photography with Mr. Loke Peng Fai</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rescue to Release graphic" src="/images/FoB 2025/8_Rescue_to_Release.png">
-</div>
-<p>The Animal Concerns, Research and Education Society (ACRES) is a registered
-Singaporean Charity and Institution of Public Character that aims to create
-a world where all animals are treated as fellow sentient beings. One of
-our key focus areas is Wildlife Rescue and Rehabilitation, where we rescue
-thousands of animals each year.</p>
-<p>In this talk, learn more about how Singapore's only Wildlife Rescue charity
-functions and hear about our most exciting rescue stories. Empower yourselves
-to play a part in helping animals by learning what to do when you see various
-animals who are injured or in distress.</p>
+<p></p>
+<p>Peng Fai will introduce Avian Photography and walking the audience through
+some of the specialised equipment used.&nbsp; Participants can expect a
+showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;
+The talk will conclude with some general pointers on ethical behavour in
+the field closing off with a short Q&amp;A session.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
