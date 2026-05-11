@@ -424,32 +424,22 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 May 2025 (7pm-8:30pm)</p>
+<p>27 June 2026 (7pm-8:30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mangrove and Coastal Horseshoe Crabs: Guardians of the Coastal Ecosystems</strong>
+<p><strong>Macro Photography with Mr. TM Seah</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/5_Mangrove_and_Coastal_Horseshoe_Crabs_Guardians_of_the_Coastal_Ecosystems.png">
-</div>
-<p>Horseshoe crabs are ancient arthropods that have roamed the Earth for
-over 450 million years. Interestingly, they are also not true crabs but
-are more related to spiders and scorpions. This talk explores the remarkable
-biology, history, and ecological significance of these creatures. We will
-delve into the fascinating features of horseshoe crabs, including their
-unique anatomy, behaviour, and the important role they play in the marine
-ecosystem.</p>
-<p>Additionally, the talk will address the conservation challenges horseshoe
-crabs face, including the impact of overharvesting and habitat loss on
-their populations, and the measures being taken to protect them.</p>
-<p>By the end of the session, participants will gain a deep appreciation
-for these “living fossils”, their critical role in modern medicine, and
-the ongoing efforts to ensure their survival in the face of increasing
-environmental pressures.</p>
-<p>This programme is held in conjunction with Republic Polytechnic.</p>
+<p></p>
+<p>Seah will introduce Macro Photography and walking the audience through
+some of the specialised equipment used.&nbsp; Participants can expect a
+showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;&nbsp;The
+talk will conclude with some general pointers on ethical behavour in the
+field closing off with a short Q&amp;A session.</p>
+<p></p>
+<p>Speaker: TM Seah, member of Nature Photography Society, Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://form.gov.sg/67f3467c9ee26e0ce9a7868c" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://nlb.libcal.com/event/5904593?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register.</p>
 </td>
 </tr>
