@@ -300,7 +300,9 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Choose compassion: How our actions can help or hinder wildlife conservation and animal welfare</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Choose compassion: How our actions can help or hinder wildlife conservation and animal welfare" src="https://dtvrvhzaa8b2y.cloudfront.net/misc/4848/events/11498/2026_04_16_17_04_56.png">
+</div>
 <p>Many animals suffer from the exotic pet trade, fashion industry, and traditional
 medicine. Some species are being pushed towards extinction as a result.</p>
 <p></p>
