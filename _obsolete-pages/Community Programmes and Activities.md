@@ -356,6 +356,11 @@ register.</p>
 <p>30 May (8.30 am - 10.30 am), Chestnut Nature Park</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Walk with your neighbour at Chestnut Nature Park</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Walk With Your Neighbours @ Chestnut Nature Park!" src="https://www.eventbrite.sg/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179685414%252F299590330432%252F1%252Foriginal.20250114-033423%3Fw%3D600%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26rect%3D0%252C644%252C7952%252C3976%26s%3D514e22b86c22b3fddd300a863f7da736&amp;w=1880&amp;q=75">
+</div>
 <p>By residents, for residents! <em>Friends of Chestnut Nature Park</em> present
 to you a free nature walk guided by your neighbours. Come learn about the
 plants and animals (some endangered!) that share our neighbourhoods and
@@ -376,7 +381,9 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Avian Photography with Mr. Loke Peng Fai</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Avian Photography with Mr. Loke Peng Fai" src="https://dtvrvhzaa8b2y.cloudfront.net/misc/4848/events/11498/2026_04_30_16_39_59.png">
+</div>
 <p>Peng Fai will introduce Avian Photography and walking the audience through
 some of the specialised equipment used.&nbsp; Participants can expect a
 showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;
@@ -397,7 +404,9 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>From Rescue to Release: Navigating Wildlife Emergencies in Singapore</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="From Rescue to Release: Navigating Wildlife Emergencies in Singapore" src="https://dtvrvhzaa8b2y.cloudfront.net/misc/4848/events/11498/2026_04_16_17_25_19.png">
+</div>
 <p>The Animal Concerns, Research and Education Society (ACRES) is a registered
 Singaporean Charity and Institution of Public Character that aims to create
 a world where all animals are treated as fellow sentient beings. One of
@@ -473,7 +482,9 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Living Fossils of the Sea: The Story of Horseshoe Crabs</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Living Fossils of the Sea: The Story of Horseshoe Crabs" src="https://dtvrvhzaa8b2y.cloudfront.net/misc/4848/events/11498/2026_04_30_15_47_29.png">
+</div>
 <p>Horseshoe crabs, ancient arthropods that have roamed the Earth for over
 450 million years, are not true crabs but more related to spiders and scorpions.
 This talk explores the remarkable biology, history, and ecological significance
@@ -502,7 +513,9 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Macro Photography with Mr. TM Seah</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Macro Photography with Mr. TM Seah" src="https://dtvrvhzaa8b2y.cloudfront.net/misc/4848/events/11498/2026_05_06_07_35_49.png">
+</div>
 <p>Seah will introduce Macro Photography and walking the audience through
 some of the specialised equipment used.&nbsp; Participants can expect a
 showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;&nbsp;The
