@@ -83,11 +83,12 @@ register.</p>
 Singaporean Charity and Institution of Public Character that aims to create
 a world where all animals are treated as fellow sentient beings. One of
 their key focus areas is Wildlife Rescue and Rehabilitation, where they
-rescue thousands of animals each year. In this talk, learn more about how
-Singapore's only Wildlife Rescue charity functions and hear about their
-most exciting rescue stories. Empower yourselves to play a part in helping
-animals by learning what to do when you see various animals who are injured
-or in distress.</p>
+rescue thousands of animals each year.</p>
+<p></p>
+<p>In this talk, learn more about how Singapore's only Wildlife Rescue charity
+functions and hear about their most exciting rescue stories. Empower yourselves
+to play a part in helping animals by learning what to do when you see various
+animals who are injured or in distress.</p>
 <p></p>
 <p>Speaker: Karina Lim, Wildlife Rescue &amp; Rehabilitation Manager at ACRES</p>
 </td>
@@ -133,9 +134,10 @@ register.</p>
 </div>
 <p>Peng Fai will introduce Avian Photography and walking the audience through
 some of the specialised equipment used.&nbsp; Participants can expect a
-showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;
-The talk will conclude with some general pointers on ethical behavour in
-the field closing off with a short Q&amp;A session.</p>
+showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;</p>
+<p></p>
+<p>The talk will conclude with some general pointers on ethical behavour
+in the field closing off with a short Q&amp;A session.</p>
 <p></p>
 <p>Speaker: Peng Fai, member of Nature Photography Society, Singapore.</p>
 </td>
@@ -159,6 +161,7 @@ Singaporean Charity and Institution of Public Character that aims to create
 a world where all animals are treated as fellow sentient beings. One of
 their key focus areas is Wildlife Rescue and Rehabilitation, where they
 rescue thousands of animals each year.</p>
+<p></p>
 <p>In this talk, learn more about how Singapore's only Wildlife Rescue charity
 functions and hear about their most exciting rescue stories. Empower yourselves
 to play a part in helping animals by learning what to do when you see various
@@ -215,13 +218,15 @@ register.</p>
 This talk explores the remarkable biology, history, and ecological significance
 of these creatures. We will delve into the fascinating features of horseshoe
 crabs, including their unique anatomy, behaviour, and the important role
-they play in the marine ecosystem. Additionally, the talk will address
-the conservation challenges horseshoe crabs face, including the impact
-of overharvesting and habitat loss on their populations, and the measures
-being taken to protect them. By the end of the session, participants will
-gain a deep appreciation for these “living fossils”, their critical role
-in modern medicine, and the ongoing efforts to ensure their survival in
-the face of increasing environmental pressures.</p>
+they play in the marine ecosystem.</p>
+<p></p>
+<p>Additionally, the talk will address the conservation challenges horseshoe
+crabs face, including the impact of overharvesting and habitat loss on
+their populations, and the measures being taken to protect them. By the
+end of the session, participants will gain a deep appreciation for these
+“living fossils”, their critical role in modern medicine, and the ongoing
+efforts to ensure their survival in the face of increasing environmental
+pressures.</p>
 <p></p>
 <p>Speaker: Mr Ng Yi Long, lecturer at Republic Polytechnic from the Diploma
 in Environmental and Marine Science.</p>
@@ -243,9 +248,10 @@ register.</p>
 </div>
 <p>Seah will introduce Macro Photography and walking the audience through
 some of the specialised equipment used.&nbsp; Participants can expect a
-showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;&nbsp;The
-talk will conclude with some general pointers on ethical behavour in the
-field closing off with a short Q&amp;A session.</p>
+showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;</p>
+<p></p>
+<p>The talk will conclude with some general pointers on ethical behavour
+in the field closing off with a short Q&amp;A session.</p>
 <p></p>
 <p>Speaker: TM Seah, member of Nature Photography Society, Singapore.</p>
 </td>
