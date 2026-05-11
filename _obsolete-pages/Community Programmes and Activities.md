@@ -360,6 +360,10 @@ some of the specialised equipment used.&nbsp; Participants can expect a
 showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;
 The talk will conclude with some general pointers on ethical behavour in
 the field closing off with a short Q&amp;A session.</p>
+<p></p>
+<p>Speaker: Peng Fai is a member of Nature Photography Society, Singapore.
+He is a nature photographer known for capturing birds, butterflies, and
+scenery, often contributing to local wildlife documentation.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration for this activity has not opened yet. The link to register
@@ -923,4 +927,6 @@ more details!</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p></p>
