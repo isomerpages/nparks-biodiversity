@@ -246,12 +246,12 @@ register.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Macro Photography with Mr. TM Seah" src="https://dtvrvhzaa8b2y.cloudfront.net/misc/4848/events/11498/2026_05_06_07_35_49.png">
 </div>
-<p>Seah will introduce Macro Photography and walking the audience through
-some of the specialised equipment used.&nbsp; Participants can expect a
-showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;</p>
+<p>Seah will introduce Macro Photography and walk the audience through some
+of the specialised equipment used.&nbsp; Participants can expect a showcase
+of spectacular moments and lesser known sightings in Singapore.&nbsp;</p>
 <p></p>
 <p>The talk will conclude with some general pointers on ethical behavour
-in the field closing off with a short Q&amp;A session.</p>
+in the field, closing off with a short Q&amp;A session.</p>
 <p></p>
 <p>Speaker: Mr. TM Seah, member of Nature Photography Society, Singapore.</p>
 </td>
