@@ -228,7 +228,7 @@ end of the session, participants will gain a deep appreciation for these
 efforts to ensure their survival in the face of increasing environmental
 pressures.</p>
 <p></p>
-<p>Speaker: Mr Ng Yi Long, lecturer at Republic Polytechnic from the Diploma
+<p>Speaker: Mr. Ng Yi Long, lecturer at Republic Polytechnic from the Diploma
 in Environmental and Marine Science.</p>
 </td>
 <td rowspan="1" colspan="1">
