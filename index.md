@@ -23,6 +23,9 @@ sections:
         - title: Festival Game Stations
           description: ""
           url: /game-stations/
+        - title: Community Programmes
+          description: Key Highlight description
+          url: /community-programmes-activities/community/
       subtitle: 6 June & 7 June 2026 | The Plaza, National Library Building
       variant: center
       size: md
