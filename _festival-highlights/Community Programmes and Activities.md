@@ -124,7 +124,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May (2.00 pm - 3.30 pm), Choa Chu Kang Library</p>
+<p>30 May 2026 (2.00 pm - 3.30 pm), Choa Chu Kang Library</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Avian Photography with Mr. Loke Peng Fai</strong>
