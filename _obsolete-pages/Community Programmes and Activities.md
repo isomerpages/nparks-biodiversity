@@ -366,26 +366,27 @@ He is a nature photographer known for capturing birds, butterflies, and
 scenery, often contributing to local wildlife documentation.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration for this activity has not opened yet. The link to register
-will be updated here once registration opens.</p>
+<p>Click <a href="https://nlb.libcal.com/event/5904590?image" rel="noopener nofollow" target="_blank">here</a> to
+register.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 May 2025 (11am-12pm)</p>
+<p>30 May 2026 (4.00 pm-5.00 pm), Punggol Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Getting to Know Our Wild Neighbours!</strong>
+<p><strong>From Rescue to Release: Navigating Wildlife Emergencies in Singapore</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/1_Getting_to_Know_Our_Wild_Neighbours.png">
-</div>
-<p>Have you ever chanced upon a troop of macaques in your estate or heard
-the iconic "uwu!" calls of the koel? Get yourself acquainted with Our Wild
-Neighbours and learn the dos and don'ts during a wildlife encounter. Get
-practical tips on how you can coexist with the animals that share our island
-home and what role each animal plays in keeping our city in nature green
-and healthy.</p>
+<p></p>
+<p>The Animal Concerns, Research and Education Society (ACRES) is a registered
+Singaporean Charity and Institution of Public Character that aims to create
+a world where all animals are treated as fellow sentient beings. One of
+our key focus areas is Wildlife Rescue and Rehabilitation, where we rescue
+thousands of animals each year.</p>
+<p>In this talk, learn more about how Singapore's only Wildlife Rescue charity
+functions and hear about our most exciting rescue stories. Empower yourselves
+to play a part in helping animals by learning what to do when you see various
+animals who are injured or in distress.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://form.gov.sg/67f4ad7242f7628adc8aaabf" rel="noopener nofollow" target="_blank"><u>here</u></a> to
