@@ -508,7 +508,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 June 2026 (7pm-8:30pm)</p>
+<p>27 June 2026 (11.00 am - 12.00 pm), Bukit Batok Library</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Macro Photography with Mr. TM Seah</strong>
