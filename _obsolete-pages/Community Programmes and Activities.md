@@ -349,6 +349,24 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>30 May (8.30 am - 10.00 am), Chestnut Nature Park</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By residents, for residents! <em>Friends of Chestnut Nature Park</em> present
+to you a free nature walk guided by your neighbours. Come learn about the
+plants and animals (some endangered!) that share our neighbourhoods and
+green spaces, and share stories about the history of the area. Bring your
+family and friends down to meet neighbours — and if you're lucky, you may
+even get to meet a mousedeer or two! This volunteer-run activity is a <em>Friends of Chestnut Nature Park</em> initiative
+supported by <em>NParks</em>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.eventbrite.sg/e/walk-with-your-neighbours-chestnut-nature-park-tickets-1985059250655?aff=odcleoeventsincollection" rel="noopener nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>30 May (2.00 pm - 3.30pm), Choa Chu Kang Library</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -395,52 +413,24 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 June 2026 (2.00 pm-4.00 pm), Bedok Library</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Living Fossils of the Sea: The Story of Horseshoe Crabs</strong>
-</p>
 <p></p>
-<p>Horseshoe crabs, ancient arthropods that have roamed the Earth for over
-450 million years, are not true crabs but more related to spiders and scorpions.
-This talk explores the remarkable biology, history, and ecological significance
-of these creatures. We will delve into the fascinating features of horseshoe
-crabs, including their unique anatomy, behaviour, and the important role
-they play in the marine ecosystem. Additionally, the talk will address
-the conservation challenges horseshoe crabs face, including the impact
-of overharvesting and habitat loss on their populations, and the measures
-being taken to protect them. By the end of the session, participants will
-gain a deep appreciation for these “living fossils”, their critical role
-in modern medicine, and the ongoing efforts to ensure their survival in
-the face of increasing environmental pressures.</p>
-<p></p>
-<p>Speaker: Mr Ng Yi Long, lecturer at Republic Polytechnic from the Diploma
-in Environmental and Marine Science.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://nlb.libcal.com/event/5905135?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-register.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 June 2026 (7pm-8:30pm)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Macro Photography with Mr. TM Seah</strong>
-</p>
 <p></p>
-<p>Seah will introduce Macro Photography and walking the audience through
-some of the specialised equipment used.&nbsp; Participants can expect a
-showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;&nbsp;The
-talk will conclude with some general pointers on ethical behavour in the
-field closing off with a short Q&amp;A session.</p>
-<p></p>
-<p>Speaker: TM Seah, member of Nature Photography Society, Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://nlb.libcal.com/event/5904593?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-register.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
