@@ -330,20 +330,18 @@ register.</p>
 <p><strong>From Rescue to Release: Navigating Wildlife Emergencies in Singapore</strong>
 </p>
 <p></p>
-<p>Have you ever wondered how some people get to keep snakes, iguanas, squirrels,
-birds, and other pets? Where did these animals come from? If you love a
-specific animal and are able to care for it well, should you buy one? What
-happens if each of us were to go around Singapore and take a wild animal
-we love back as a pet?</p>
-<p>Follow the stories of Ultra - the African ball python, Rio - the critically
-endangered Indian star tortoise, and Kiki - the Blue-crowned hanging parrot,
-to find out how animals who were poached, smuggled, and illegally traded
-as pets are rescued and cared for in Singapore by the Animal Concerns,
-Research and Education Society.</p>
-<p>Whether big or small, you too can help wild animals!</p>
+<p>The Animal Concerns, Research and Education Society (ACRES) is a registered
+Singaporean Charity and Institution of Public Character that aims to create
+a world where all animals are treated as fellow sentient beings. One of
+our key focus areas is Wildlife Rescue and Rehabilitation, where we rescue
+thousands of animals each year. In this talk, learn more about how Singapore's
+only Wildlife Rescue charity functions and hear about our most exciting
+rescue stories. Empower yourselves to play a part in helping animals by
+learning what to do when you see various animals who are injured or in
+distress.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=174583286869" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://nlb.libcal.com/event/5904085?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register.</p>
 </td>
 </tr>
