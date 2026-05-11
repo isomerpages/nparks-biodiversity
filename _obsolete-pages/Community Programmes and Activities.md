@@ -82,12 +82,12 @@ register.</p>
 <p>The Animal Concerns, Research and Education Society (ACRES) is a registered
 Singaporean Charity and Institution of Public Character that aims to create
 a world where all animals are treated as fellow sentient beings. One of
-our key focus areas is Wildlife Rescue and Rehabilitation, where we rescue
-thousands of animals each year. In this talk, learn more about how Singapore's
-only Wildlife Rescue charity functions and hear about our most exciting
-rescue stories. Empower yourselves to play a part in helping animals by
-learning what to do when you see various animals who are injured or in
-distress.</p>
+their key focus areas is Wildlife Rescue and Rehabilitation, where they
+rescue thousands of animals each year. In this talk, learn more about how
+Singapore's only Wildlife Rescue charity functions and hear about our most
+exciting rescue stories. Empower yourselves to play a part in helping animals
+by learning what to do when you see various animals who are injured or
+in distress.</p>
 <p></p>
 <p>Speaker: Karina Lim, Wildlife Rescue &amp; Rehabilitation Manager at ACRES</p>
 </td>
