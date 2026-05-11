@@ -324,14 +324,12 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 May 2025 (10:30am-11:30am)</p>
+<p>10 May 2026 (11:30 am-12.30 pm), Choa Chu Kang Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Where Are All the Animals? Singapore's Illegal Wildlife Trade for Families</strong>
+<p><strong>From Rescue to Release: Navigating Wildlife Emergencies in Singapore</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/3_Where_are_All_the_Animals.jpg">
-</div>
+<p></p>
 <p>Have you ever wondered how some people get to keep snakes, iguanas, squirrels,
 birds, and other pets? Where did these animals come from? If you love a
 specific animal and are able to care for it well, should you buy one? What
