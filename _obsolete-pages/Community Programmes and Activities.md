@@ -284,7 +284,7 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Date</p>
+<p>Date &amp; Location</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Event</p>
@@ -295,7 +295,7 @@ to leave their information for WWF-Singapore to contact for future rounds.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 May 2026 (2pm-3pm)</p>
+<p>3 May 2026 (2.00 pm-3.00 pm), Toa Payoh Library</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Choose compassion: How our actions can help or hinder wildlife conservation and animal welfare</strong>
@@ -310,9 +310,9 @@ ACRES will expose the harsh realities of how the illegal and legal trade
 in animals and animal parts threatens animals such as pangolins, songbirds,
 slow lorises, monitor lizards, pythons, turtles and other animals.</p>
 <p></p>
-<p>Come and learn more about these issues at <strong>Toa Payoh Library (2pm-3pm)</strong>,
-what we can do to help animal protection, and how our choices can either
-fuel the problem or be part of the solution.</p>
+<p>Come and learn more about these issues, what we can do to help animal
+protection, and how our choices can either fuel the problem or be part
+of the solution.</p>
 <p></p>
 <p>Speaker:</p>
 <p>Beng Yong Tang, Humane Education Executive at ACRES</p>
