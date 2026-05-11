@@ -331,7 +331,9 @@ register.</p>
 <td rowspan="1" colspan="1">
 <p><strong>From Rescue to Release: Navigating Wildlife Emergencies in Singapore</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="From Rescue to Release: Navigating Wildlife Emergencies in Singapore" src="https://dtvrvhzaa8b2y.cloudfront.net/misc/4848/events/11498/2026_04_16_17_28_02.png">
+</div>
 <p>The Animal Concerns, Research and Education Society (ACRES) is a registered
 Singaporean Charity and Institution of Public Character that aims to create
 a world where all animals are treated as fellow sentient beings. One of
