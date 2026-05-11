@@ -389,7 +389,7 @@ animals who are injured or in distress.</p>
 <p>Speaker: Kalai Vanan, Chief Executive Officer of ACRES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://form.gov.sg/67f4ad7242f7628adc8aaabf" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://nlb.libcal.com/event/5904083?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register.</p>
 </td>
 </tr>
