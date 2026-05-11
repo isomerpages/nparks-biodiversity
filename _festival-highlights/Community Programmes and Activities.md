@@ -132,7 +132,7 @@ register.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Avian Photography with Mr. Loke Peng Fai" src="https://dtvrvhzaa8b2y.cloudfront.net/misc/4848/events/11498/2026_04_30_16_39_59.png">
 </div>
-<p>Peng Fai will introduce Avian Photography and walking the audience through
+<p>Peng Fai will introduce Avian Photography and walk the audience through
 some of the specialised equipment used.&nbsp; Participants can expect a
 showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;</p>
 <p></p>
