@@ -370,7 +370,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May 2026 (4.00 pm-5.00 pm), Punggol Library</p>
+<p>30 May 2026 (4.00 pm - 5.00 pm), Punggol Library</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>From Rescue to Release: Navigating Wildlife Emergencies in Singapore</strong>
@@ -474,82 +474,51 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 June 2025 (7pm-8pm)</p>
+<p>14 June 2026 (2.00 pm-4.00 pm), Bedok Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Phytoplankton Ecology in Singapore and Beyond! | Down to Earth</strong>
+<p><strong>Living Fossils of the Sea: The Story of Horseshoe Crabs</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Phytoplankton_Ecology_in_Singapore_and_Beyond_.png" src="/images/FoB 2025/11_Phytoplankton_Ecology_in_Singapore_and_Beyond_.png">
-</div>
-<p>Phytoplankton play a vital role in aquatic ecosystems and sequester carbon
-dioxide in our atmosphere. More than 50% of our oxygen comes from phytoplankton
-in the world’s oceans and lakes.</p>
-<p>Understanding the role of phytoplankton in aquatic ecosystems will help
-in advancing the solutions to problems facing today’s water resources,
-such as harmful algal blooms, pollution, and climate change.</p>
-<p>Join us in this talk as Dr Maxine Mowe shares more on phytoplankton and
-how their growth and production can possibly be the solution for increasing
-carbon capture globally.</p>
-<p>This programme is part of a series on sustainability co-curated with the
-NUS Department of Biological Sciences.</p>
 <p></p>
-<p>About the Speaker:</p>
-<p>Dr. Maxine Mowe is a biology lecturer at the National University of Singapore
-in the Department of Biological Sciences and has more than 14 years of
-research experience in aquatic biology specifically in phytoplankton and
-zooplankton ecology and has been a lecturer since 2019. She has worked
-on the ecology of several cyanobacterial taxa (Microcystis, Raphidiopsis),
-phytoplankton and zooplankton interactions, microplastic impacts and eutrophication
-and algal bloom mitigation using aquatic plants in Singapore’s reservoirs
-and coastal environment. She teaches various biology and ecology courses
-(General Biology, Evolutionary Biology, Freshwater Biology, Plankton Ecology)
-for undergraduate students and several courses (Freshwater Conservation,
-Food Security and Sustainability and Internships) for the Masters’ programme
-in NUS on Biodiversity Conservation and Sustainability. She is also a voluntary
-committee member for Care for Creation Committee at Caritas since 1 January
-2023. Together with the rest of the committee, she has planned several
-environmental activities including beach clean-ups, intertidal walks, tree
-planting events and workshops for adults and children.</p>
+<p>Horseshoe crabs, ancient arthropods that have roamed the Earth for over
+450 million years, are not true crabs but more related to spiders and scorpions.
+This talk explores the remarkable biology, history, and ecological significance
+of these creatures. We will delve into the fascinating features of horseshoe
+crabs, including their unique anatomy, behaviour, and the important role
+they play in the marine ecosystem. Additionally, the talk will address
+the conservation challenges horseshoe crabs face, including the impact
+of overharvesting and habitat loss on their populations, and the measures
+being taken to protect them. By the end of the session, participants will
+gain a deep appreciation for these “living fossils”, their critical role
+in modern medicine, and the ongoing efforts to ensure their survival in
+the face of increasing environmental pressures.</p>
 <p></p>
-<p>Please note that presentation slides may be available during or after
-the programme, depending on the programme. Where applicable, only participants
-who attend the programme can have access to the slides via instructions
-given during the programme.</p>
-<p></p>
-<p>Down to Earth:</p>
-<p>Down to Earth Series unpacks pertinent sustainability topics and makes
-them accessible whatever your background. From demystifying the latest
-green buzzwords to illuminating the incredible biodiversity we live amongst,
-join us and grow your knowledge with experts as they give you the break
-down on all things green.</p>
+<p>Speaker: Mr Ng Yi Long, lecturer at Republic Polytechnic from the Diploma
+in Environmental and Marine Science.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.nlb.gov.sg/main/whats-on" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://nlb.libcal.com/event/5905135?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 June 2025 (11am-12pm)</p>
+<p>27 June 2026 (7pm-8:30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Top 10 Weirdest Critters of Singapore’s Rainforest</strong>
+<p><strong>Macro Photography with Mr. TM Seah</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB 2025/4_Top_10_Weirdest_Critters_of_Singapore_s_Rainforest.jpg">
-</div>
-<p>Discover Singapore's weirdest rainforest critters, from gliding snakes
-to worms with claws! These amazing wildlife and weird facts are featured
-in a children's book - Top 10 Weirdest Critters of Singapore's Rainforest.</p>
-<p>Published by Cicada Tree Eco-Place, the book is an environmental education
-resource of the ""Protect Our Last Wilderness"" campaign. Launched in 2019,
-the campaign highlights the pressing need to prevent the disappearance
-of the island’s last remaining wilderness areas, which are an important
-buffer against the effects of climate change.</p>
+<p></p>
+<p>Seah will introduce Macro Photography and walking the audience through
+some of the specialised equipment used.&nbsp; Participants can expect a
+showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;&nbsp;The
+talk will conclude with some general pointers on ethical behavour in the
+field closing off with a short Q&amp;A session.</p>
+<p></p>
+<p>Speaker: TM Seah, member of Nature Photography Society, Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.nlb.gov.sg/main/whats-on" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://nlb.libcal.com/event/5904593?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
 register.</p>
 </td>
 </tr>
