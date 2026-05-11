@@ -349,7 +349,7 @@ register.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May (8.30 am - 10.00 am), Chestnut Nature Park</p>
+<p>30 May (8.30 am - 10.30 am), Chestnut Nature Park</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>By residents, for residents! <em>Friends of Chestnut Nature Park</em> present
