@@ -294,8 +294,9 @@ conservation in Singapore!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nus dbs logo" src="/images/1000172613.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Nus dbs" src="/images/1000173231.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
