@@ -20,7 +20,7 @@ Register <a href="" rel="noopener nofollow" target="_blank">here</a> now!</p>
 &amp; Imagination Rooms (Level 5)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong><u>Possibility &amp; Imagination Rooms</u></strong>
+<p><strong><u>Imagination Room</u></strong>
 </p>
 <p><strong>10.00 am - 11.30 am:</strong>  <strong>Living Shores in a Changing City</strong>
 </p>
@@ -34,8 +34,6 @@ and ecosystems—from mangroves to seagrass meadows—and the vital roles they
 play. What does the future of Singapore’s coastline look like, and what
 do we stand to lose or gain as we reshape our coasts for protection?</p>
 <hr>
-<p><strong><u>Imagination Room</u></strong>
-</p>
 <p><strong>2.15 pm - 3.45 pm: Introduction to Nature Photography and Best Practices</strong>
 </p>
 <p>By: Tay Swee Yuan, President, Nature Photographic Society Singapore</p>
