@@ -344,10 +344,11 @@ stewardship through interactive displays.</p>
 16)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>4.00pm - 5.30pm: Human Library: Biodiversity Conservation Edition!</p>
+<p><strong>4.00pm - 5.30pm: Human Library: Biodiversity Conservation Edition!</strong>
+</p>
 <p></p>
-<p>Organised By: NParks as part of the National Youth Council's Job Tasters
-for Youths programme</p>
+<p>By: NParks as part of the National Youth Council's Job Tasters for Youths
+programme</p>
 <p></p>
 <p>Have you ever wondered what it's like to work in the biodiversity conservation
 sector? Come meet the people behind the work! The Human Library: Biodiversity
