@@ -228,7 +228,7 @@ skills in creating local plants and animals.</p>
 about Singapore's marine animals! This will be followed by a craft workshop,
 where you can create your own marine-inspired masterpiece.</p>
 <hr>
-<p><strong>4.15 pm - 6.00 pm: Terrarium Workshop </strong>
+<p><strong>4.15 pm - 6.00 pm: Terrarium Workshop</strong>
 </p>
 <p>Organised by: Christine Tan</p>
 <p>Join Ms Christine and student volunteers in an exciting workshop where
