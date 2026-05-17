@@ -120,10 +120,10 @@ on NTU campus will also be put on display!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ecowildasia_save_sambar_deer.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecowildasia.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Join <strong><a href="https://www.instagram.com/savesambardeer" rel="noopener nofollow" target="_blank">EcoWild Asia</a></strong> to
