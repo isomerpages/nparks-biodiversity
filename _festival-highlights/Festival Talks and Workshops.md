@@ -99,7 +99,7 @@ Programme Room (Level B1)</summary>
 <p></p>
 <p><strong>10.15 am - 11.45 am: Saving Singapore’s Wildlife: Trade, Rescue, and Second Chances</strong>
 </p>
-<p>By: Karina Lim, ACRES</p>
+<p>By: Karina Lim and Beng Yong Tang, ACRES</p>
 <p></p>
 <p>In this 2-part talk, ACRES explores illegal wildlife trade in Singapore
 and its impact on local biodiversity, and how rescue and rehabilitation
