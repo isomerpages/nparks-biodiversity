@@ -287,6 +287,8 @@ booth! Each round lasts 25 – 30 minutes, with up to three rounds in the
 1h 45min session. This family-friendly game encourages critical thinking,
 teamwork and environmental awareness, making it ideal for families and
 young children.</p>
+<p></p>
+<p>Sign up <a href="https://go.gov.sg/fob2026-workshop-wwf-singapore-conservation-seekers" rel="noopener nofollow" target="_blank">here</a>!</p>
 </div>
 </details>
 </div>
@@ -318,6 +320,9 @@ Rose butterfly gets its poison from the toxic plants it eats as a caterpillar?</
 of national rewilding efforts across major green spaces. Whether a seasoned
 enthusiast or a budding beginner, any citizen who loves nature can contribute
 to Singapore's efforts in embodying a City in Nature!</p>
+<p></p>
+<p>Sign up <a href="https://go.gov.sg/fob2026workshop-unlocking-the-secret-lives-of-singapores-butterflies" rel="noopener nofollow" target="_blank">here!</a>
+</p>
 <hr>
 <p><strong>4.15 pm - 6.00 pm: ByeO Barelands: Singapore's Biodiversity Card Game</strong>
 </p>
