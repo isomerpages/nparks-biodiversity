@@ -70,7 +70,7 @@ with like-minded organisations and drawing on the collective expertise
 of our community. Commited to advancing local and regional ornithological
 knowledge and promoting transparent record-sharing across the community,
 Bird Society of Singapore aim to build community capacity and empower our
-local birdwatches to contribute to researchand conservaaion.</p>
+local birdwatches to contribute to research and conservation.</p>
 <p></p>
 </td>
 </tr>
