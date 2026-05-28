@@ -161,7 +161,7 @@ can be spotted right in your own backyard!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong><a href="https://www.linkedin.com/company/fmp-community/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Friends of Marine Park (FMP)</a></strong> community
+<p>The <strong><a href="https://fotp.nparks.gov.sg/fomp" rel="noopener noreferrer nofollow" target="_blank">Friends of Marine Park (FMP)</a></strong> community
 is a dynamic network of stakeholders from civil society, business, academia
 and public service. Explore the incredible marine biodiversity of Singapore
 and learn about ongoing conservation efforts by the marine community with
@@ -283,7 +283,7 @@ environment around us.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society (Singapore)</a></strong> (NSS)
+<p><strong><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society Singapore</a></strong> (NSS)
 booth will be run by a diverse team of volunteers and staff, coming together
 to share stories of Singapore's unique ecosystems, native wildlife, and
 ongoing conservation efforts. The booth will showcase NSS initiatives and
