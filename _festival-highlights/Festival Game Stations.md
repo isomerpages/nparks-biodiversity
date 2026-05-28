@@ -32,9 +32,7 @@ order!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4>Tide N Seek</h4>
-<p><strong>Play a two-part game where</strong>
-</p>
-<p><strong>you uncover marine animals in sand, form food chains, and restore balance to the intertidal habitats.</strong>
+<p><strong>Play a two-part game where you uncover marine animals in sand, form food chains, and restore balance to the intertidal habitats.</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -46,11 +44,7 @@ order!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Locate The Locals</h4>
-<p><strong>Assemble puzzles of native animals, and try to locate</strong>
-</p>
-<p><strong>their natural habitat</strong>
-</p>
-<p><strong>on the Singapore map!</strong>
+<p><strong>Assemble puzzles of native animals, and try to locate their natural habitat on the Singapore map!</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
