@@ -61,6 +61,9 @@ order!</p>
 <p>Return to the Info Booth to claim your collectible pin (while stocks last)!</p>
 </li>
 </ol>
-<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FoB2026_A1_posters.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
