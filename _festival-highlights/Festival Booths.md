@@ -64,7 +64,7 @@ into the wild. Make a difference.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The&nbsp;<strong><a href="https://birdsociety.sg/" rel="noopener noreferrer nofollow" target="_blank">Bird Society of Singapore</a></strong> is
-a science-based collective promoting research and conser ation of our avifauna.
+a science-based collective promoting research and conservation of our avifauna.
 The society focus on widening interest in bird watching, deepending ties
 with like-minded organisations and drawing on the collective expertise
 of our community. Commited to advancing local and regional ornithological
