@@ -56,5 +56,11 @@ order!</p>
 </tbody>
 </table>
 <p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Return to the Info Booth to claim your collectible pin (while stocks last)!</p>
+</li>
+</ol>
+<h4></h4>
 <p></p>
 <p></p>
