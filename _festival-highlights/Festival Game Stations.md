@@ -63,7 +63,7 @@ order!</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/FoB_pin.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/FoB_pin.png">
 </div>
 <p></p>
 <p></p>
