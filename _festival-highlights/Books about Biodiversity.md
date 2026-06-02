@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h2>FoB Books</h2>
-<p>Read books on biodiversity via NLB.</p>
+<h2>Books</h2>
+<p>Discover the wonders of local biodiversity through engaging books and
+stories from NLB, and spark curiosity about nature with a fun and meaningful
+reading journey!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://nlb.overdrive.com/media/4184093" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Book" src="/images/91N_jpK6FEL__AC_UF1000_1000_QL80_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Secret Network of Nature</div><div class="isomer-card-description">By Peter Wohlleben</div><div class="isomer-card-link">Check availability on NLB</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://nlb.overdrive.com/media/11169253" class="isomer-card">
 <div class="isomer-card-image">
@@ -82,3 +84,4 @@ description: ""
 </a>
 </div>
 <p>Discover the full list of specially curated reads for FoB 2026 <a href="https://nlb.overdrive.com/collection/1802848" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p></p>
