@@ -297,7 +297,7 @@ register.</p>
 <p>20 June 2026 (1.30 pm - 3.00 pm), Central Public Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Beetles and Spiders of Woodlands Botanical Gardens</strong>
+<p><strong>Beetles and Spiders of Woodlands Botanical Garden</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beetles_and_Spiders_of_Woodlands_Botanical_Gardens.png">
