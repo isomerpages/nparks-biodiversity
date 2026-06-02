@@ -226,7 +226,7 @@ initiatives that seek to preserve our heritage and biodiversity.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://nlb.libcal.com/event/5904087?image" rel="noopener nofollow" target="_blank">here</a> to
-register</p>
+register.</p>
 </td>
 </tr>
 <tr>
