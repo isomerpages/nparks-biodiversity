@@ -59,7 +59,7 @@ of the solution.</p>
 <p>Speaker: Beng Yong Tang, Humane Education Executive at ACRES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This event is now closed</p>
+<p>This event is now closed.</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ animals who are injured or in distress.</p>
 <p>Speaker: Karina Lim, Wildlife Rescue &amp; Rehabilitation Manager at ACRES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This event is now closed</p>
+<p>This event is now closed.</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ even get to meet a mousedeer or two!</p>
 supported by <em>NParks</em>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This event is now closed</p>
+<p>This event is now closed.</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ in the field, closing off with a short Q&amp;A session.</p>
 <p>Speaker: Mr. Loke Peng Fai, member of Nature Photography Society, Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This event is now closed</p>
+<p>This event is now closed.</p>
 </td>
 </tr>
 <tr>
@@ -160,8 +160,7 @@ animals who are injured or in distress.</p>
 <p>Speaker: Kalai Vanan, Chief Executive Officer of ACRES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://nlb.libcal.com/event/5904083?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-register.</p>
+<p>This event is now closed.</p>
 </td>
 </tr>
 <tr>
