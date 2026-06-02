@@ -81,4 +81,4 @@ description: ""
 </div>
 </a>
 </div>
-<p></p>
+<p>Discover the full list of specially curated reads for FoB 2026 <a href="https://nlb.overdrive.com/collection/1802848" rel="noopener nofollow" target="_blank">here</a>!</p>
