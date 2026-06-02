@@ -9,7 +9,7 @@ variant: tiptap
 and our partners to learn more about Singapore's natural heritage, ranging
 from talks to guided walks. Do keep a regular lookout for more updates.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>May</strong>
 </summary>
@@ -59,8 +59,7 @@ of the solution.</p>
 <p>Speaker: Beng Yong Tang, Humane Education Executive at ACRES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://nlb.libcal.com/event/5904082?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-register.</p>
+<p>This event is now closed.</p>
 </td>
 </tr>
 <tr>
@@ -87,8 +86,7 @@ animals who are injured or in distress.</p>
 <p>Speaker: Karina Lim, Wildlife Rescue &amp; Rehabilitation Manager at ACRES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://nlb.libcal.com/event/5904085?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-register.</p>
+<p>This event is now closed.</p>
 </td>
 </tr>
 <tr>
@@ -112,8 +110,7 @@ even get to meet a mousedeer or two!</p>
 supported by <em>NParks</em>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://www.eventbrite.sg/e/walk-with-your-neighbours-chestnut-nature-park-tickets-1985059250655?aff=odcleoeventsincollection" rel="noopener nofollow" target="_blank">here</a> to
-register.</p>
+<p>This event is now closed.</p>
 </td>
 </tr>
 <tr>
@@ -136,8 +133,7 @@ in the field, closing off with a short Q&amp;A session.</p>
 <p>Speaker: Mr. Loke Peng Fai, member of Nature Photography Society, Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://nlb.libcal.com/event/5904590?image" rel="noopener nofollow" target="_blank">here</a> to
-register.</p>
+<p>This event is now closed.</p>
 </td>
 </tr>
 <tr>
@@ -164,8 +160,18 @@ animals who are injured or in distress.</p>
 <p>Speaker: Kalai Vanan, Chief Executive Officer of ACRES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://nlb.libcal.com/event/5904083?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-register.</p>
+<p>This event is now closed.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -178,7 +184,6 @@ register.</p>
 <summary><strong>June</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -196,6 +201,63 @@ register.</p>
 <th rowspan="1" colspan="1">
 <p>How to Register</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 June 2026, (2.00 pm - 4.00 pm), Punggol Library</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fishes in Our Markets: A Research Learning Experience</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fishes_in_Our_Markets.png">
+</div>
+<p>Pasarfish is a platform dedicated to seafood sustainability, which includes
+research on the different fish species sold in Singapore markets. This
+workshop will introduce Pasarfish’s research surveys at local wet markets,
+including their research methodology and a simulation of their research
+activities, to share the experiences and difficulties of their research
+process, such as traversing a crowded market and identifying fish species.</p>
+<p></p>
+<p>Through a hands-on activity, you will also get to learn about the taxonomy
+of fishes and the identifiable traits to tell fish species apart, despite
+their generic appearances. Plus, gain insight into the efforts behind conservation
+initiatives that seek to preserve our heritage and biodiversity.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://nlb.libcal.com/event/5904087?image" rel="noopener nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 June 2026 (10.30 am - 12.30 pm), Central Library</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Human Nature: Strengthening our Conservation Efforts, Protecting our Ecosystems</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human_Nature.jpg">
+</div>
+<p>The horseshoe crab has roamed our planet for hundreds of millions of years.
+A species that predates human history, may not survive the impact of the
+human species. How do we drive conservation efforts to prevent their extinction
+and other vulnerable habitats, and strengthen Singapore's wildlife ecosystem
+as a whole?</p>
+<p>Join us to explore Singapore's biodiversity, and how human nature can
+have both bad and good influence on the environment. Through the film screenings
+of City in Nature, Singapore and Moon Crab (2025), followed by a conversation
+with our expert speakers, discover how we can&nbsp;cultivate a symbiotic
+relationship with nature, and how you can advocate for our planet.</p>
+<p></p>
+<p>Speakers: Lester Tan, member of the IUCN Horseshoe Crab Species Specialist
+Group (SSG), and&nbsp;Bronwyn Tan, Landscape Architect at Shubin &amp;
+Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://nlb.libcal.com/event/5904086?image" rel="noopener nofollow" target="_blank">here</a> to
+register.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -227,6 +289,80 @@ in Environmental and Marine Science.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://nlb.libcal.com/event/5905135?image" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 June 2026 (1.30 pm - 3.00 pm), Central Public Library</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beetles and Spiders of Woodlands Botanical Garden</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beetles_and_Spiders_of_Woodlands_Botanical_Gardens.png">
+</div>
+<p>Come immerse in the magical world of beetles and spiders through the lens
+of the Woodlands Botanical Garden! Did you know that not all ladybugs are
+red and black? Did you know that the various threads in a spiderweb have
+different functions? Or about the spider that looks like our favourite
+seafood? Join us as we give you the answers to these questions and pay
+homage to the intriguing beetles and spiders of Woodlands Botanical Garden!</p>
+<p></p>
+<p>Speakers: James Khoo, managing director of The Curious Pangolin, a film
+and biodiversity consultancy, Finn Tan, a macro photographer with a particular
+interest in invertebrates, and Damien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://nlb.libcal.com/event/5905722?image" rel="noopener nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 June 2026 (2.00 pm - 3.30 pm), Jurong Library</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Landscape Photography</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Landscape_Photography_.png">
+</div>
+<p>Weehan will introduce Landscape Photography and walking the audience through
+some of the specialised equipment used.&nbsp; Participants can expect a
+showcase of spectacular moments and lesser known sightings in Singapore.&nbsp;&nbsp;The
+talk will conclude with some general pointers on ethical behavour in the
+field closing off with a short Q&amp;A session.</p>
+<p></p>
+<p>Speaker: Weehan, commercial photographer and filmmaker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://nlb.libcal.com/event/5904591?image" rel="noopener nofollow" target="_blank">here</a> to
+register.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 June 2026 (7.00 pm - 8.00 pm), Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fantastic Fruits and the Beasts that Eat Them</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fantastic_fruits__and_the_beasts__that_eat_them.png">
+</div>
+<p>For millions of years, plants have evolved attractive fruits to entice
+animals to consume them and get their seeds dispersed in the process. From
+dinosaurs to civet cats, this plant-animal relationship is among one of
+the most endearing and ancient of ecological interactions. This talk explores
+the important role that animals play in the life history of plants and
+the stories behind the everyday fruits that we consume!</p>
+<p></p>
+<p>Speaker: Jun Ying Lim, plant ecologist and biodiversity scientist who
+heads the Plant Ecology, Evolution and Biogeography (PEEB) lab in NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://nlb.libcal.com/event/5904088?image" rel="noopener nofollow" target="_blank">here</a> to
 register.</p>
 </td>
 </tr>
