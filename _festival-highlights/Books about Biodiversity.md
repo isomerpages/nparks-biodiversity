@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h2>Book Reccomendation by National Library Board</h2>
+<h2>NLB Book Reccomendations </h2>
 <p>Discover the wonders of local biodiversity through engaging books and
 stories from NLB, and spark curiosity about nature with a fun and meaningful
 reading journey!</p>
