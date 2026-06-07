@@ -55,37 +55,6 @@ are absent!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Unscramble Me! - </strong>Unscramble the letters to reveal the
-name of a native species!</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/unscrambleme-facil" rel="noopener noreferrer nofollow" target="_blank">Facilitation Notes</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/unscramblemetemplate" rel="noopener noreferrer nofollow" target="_blank">Activity Sheet</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/unscramble-me-answersheet" rel="noopener noreferrer nofollow" target="_blank">Answer Sheet</a>
-</p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unscramble%20me%20(easy).png">
-</div>
-<p>Unscramble Me (Easy Version)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/umscramble%20me%20advanced.png">
-</div>
-<p>Unscramble Me (Advanced Version)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Doodle </strong>-<strong> </strong>Get your creative juices flowing
 and turn the doodles into native animals!</p>
 </td>
