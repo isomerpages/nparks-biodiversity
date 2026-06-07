@@ -146,22 +146,6 @@ Join us to find out!</p>
 <h4><strong>Spotlight Talks: For Children</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>6 June 2026 </strong>at National Library Building, Central Library
-Programme Room (Level B1)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>4.15 pm - 5.45 pm:</strong>  <strong>Why Do Birds Fly Here From Far Away?</strong>
-</p>
-<p>By: Movin Nyanasengeran, President, Bird Society of Singapore</p>
-<p></p>
-<p>This talk explores bird migration and the reasons and causes of this natural
-phenomenon in a manner that is accessible to children. In this talk, we
-explore which species of birds you can see in Singapore have travelled
-the longest, which ones escape the most extreme winter conditions and what
-adaptations they have to help them travel so far.</p>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>7 June 2026</strong> at National Library Building, Central Library
 Immersive Room (Level B1)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -207,35 +191,6 @@ fauna through these opportunities and workshops.</p>
 <p><em>All children's workshops will take place at the Workshop Zone on the Stage at the Plaza, except for ‘If You Were a Monkey’ (7 June) which will take place at the Central Library (Immersive Room, B1).</em>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>6 June 2026</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>12.15 pm - 2.00 pm: Clay-Making Animal and Plants Workshop</strong>
-</p>
-<p>Organised by: Westgrove Primary School</p>
-<p></p>
-<p>Nature Club students will be sharing with the public their clay making
-skills in creating local plants and animals.</p>
-<hr>
-<p><strong>2.15 pm – 4.00 pm: Marine Animal Sharing and Craft Session</strong>
-</p>
-<p>Organised by: Friends of Marine Park</p>
-<p></p>
-<p>Join our marine biologists and scientists for an exciting talk and sharing
-about Singapore's marine animals! This will be followed by a craft workshop,
-where you can create your own marine-inspired masterpiece.</p>
-<hr>
-<p><strong>4.15 pm - 6.00 pm: Terrarium Workshop</strong>
-</p>
-<p>Organised by: Christine Tan</p>
-<p>Join Ms Christine and student volunteers in an exciting workshop where
-you get to create a mini ecosystem using plants, soil, and containers,
-and understand plant growth, water cycles, and environmental sustainability.</p>
-<p></p>
-</div>
-</details>
 <details class="isomer-details">
 <summary><strong>7 June 2026</strong>
 </summary>
@@ -294,51 +249,6 @@ young children.</p>
 <p></p>
 <h4><strong>Thematic Workshops</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>6 June 2026 </strong>at National Library Building, Imagination
-Room (Level 5)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>2.15 pm - 4.00 pm: Unlocking the Secret Lives of Singapore's Butterflies</strong>
-</p>
-<p>By: Youth Corps Singapore (YCS) Sustainability Cluster</p>
-<p></p>
-<p>Butterflies pollinate our flowers and bring life to our gardens. But beyond
-what they do for us, they have a secret life all of their own — picking
-the right plants to eat, the right place to pupate, even the right place
-to sleep!</p>
-<p></p>
-<p>Participants will get to uncover lesser-known activities of butterflies
-through exclusive footage, including the emergence of butterflies from
-their pupae and the peculiar act of puddling on wet ground. With this knowledge,
-embark on a hands-on activity of matching butterflies to their preferred
-host plants based on their shared properties – did you know the Common
-Rose butterfly gets its poison from the toxic plants it eats as a caterpillar?</p>
-<p></p>
-<p>The workshop concludes with a guide to planting native species in support
-of national rewilding efforts across major green spaces. Whether a seasoned
-enthusiast or a budding beginner, any citizen who loves nature can contribute
-to Singapore's efforts in embodying a City in Nature!</p>
-<p></p>
-<p>Sign up <a href="https://go.gov.sg/fob2026workshop-unlocking-the-secret-lives-of-singapores-butterflies" rel="noopener nofollow" target="_blank">here!</a>
-</p>
-<hr>
-<p><strong>4.15 pm - 6.00 pm: ByeO Barelands: Singapore's Biodiversity Card Game</strong>
-</p>
-<p>By ByeO Barelands</p>
-<p></p>
-<p>Discover Singapore's rich biodiversity through ByeO Barelands, a locally
-developed biodiversity strategy card game that makes ecological relationships
-and concepts accessible to all. Through guided gameplay and storytelling,
-participants can learn about species living in Singapore, explore human-wildlife
-interactions, and understand the vital roles different animals and plants
-play in maintaining ecosystem balance.</p>
-<p></p>
-<p>Alongside the gameplay, students from Beatty Secondary School will also
-share their research and insights about wildlife conservation and environmental
-stewardship through interactive displays.</p>
-</div>
-</details>
 <details class="isomer-details">
 <summary><strong>7 June 2026 </strong>at National Library Building, The Pod (Level
 16)</summary>
